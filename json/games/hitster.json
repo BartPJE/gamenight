@@ -1,0 +1,34 @@
+{
+  "id": "hitster",
+  "title": "Hitster",
+  "type": "Kartenspiel",
+  "icon": "🎶",
+  "playersMin": 2,
+  "playersMax": 10,
+  "age": 16,
+  "duration": 30,
+  "year": 2022,
+  "publisher": "Jumbo",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 8.5,
+  "favorite": true,
+  "tags": [
+    "Musikquiz",
+    "Partyspiel",
+    "Timeline",
+    "Sammlung"
+  ],
+  "description": "Hitster ist ein Musik-Partyspiel mit QR-Code-Songs, die chronologisch in die eigene Zeitleiste eingeordnet werden. Diese Detailseite bündelt alle vorhandenen Editionen der Sammlung.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/366013/hitster",
+    "note": "Eintrag auf BoardGameGeek vorhanden."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Spielkarten mit QR-Codes",
+    "Hitster-Marker",
+    "Spielanleitung"
+  ]
+}
