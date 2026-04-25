@@ -73,7 +73,13 @@ function renderGames() {
     .map(
       (game) => `
         <article class="game-card">
-          <div class="cover">${game.icon}</div>
+          <div class="cover">
+            ${
+              game.image
+                ? `<img src="${game.image}" alt="Cover von ${game.title}" loading="lazy" />`
+                : game.icon
+            }
+          </div>
           <div class="game-body">
             <div class="type-row">
               <span class="badge ${badgeClass(game.type)}">${game.type}</span>
