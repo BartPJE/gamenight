@@ -1,0 +1,104 @@
+<main class="page">
+  <header class="topbar">
+    <a class="brand" href="#">
+      <div class="logo">🎲</div>
+      <div>
+        <h1>Spielesammlung</h1>
+        <p>Archiv für Brettspiele, Karten, Konsolen & digitale Schätze</p>
+      </div>
+    </a>
+    <nav class="nav">
+      <a class="active" href="#archiv">Archiv</a>
+      <a href="#statistik">Statistik</a>
+      <a href="#favoriten">Favoriten</a>
+      <a href="#wunschliste">Wunschliste</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="hero-main">
+      <span class="eyebrow">🕹️ Neues Archiv · Sammlung sortieren wie ein Boss</span>
+      <h2>Alle Spiele. Eine Sammlung. Keine Schubladen-Drachen.</h2>
+      <p class="lead">Durchsuche deine Spiele nach Titel, Kategorie, Spieleranzahl, Alter, Dauer, Plattform, Verlag, Status oder Bewertung. Perfekt für den Moment, in dem jemand fragt: „Was spielen wir?“ und dein Regal geheimnisvoll knarzt.</p>
+      <div class="hero-actions">
+        <button class="btn" id="focusSearchButton">Spiel suchen</button>
+        <button class="btn secondary" id="resetFiltersButton">Filter zurücksetzen</button>
+      </div>
+    </div>
+
+    <aside class="hero-side" id="statistik">
+      <div class="stat"><strong id="statTotal">0</strong><span>Spiele im Archiv</span></div>
+      <div class="stat"><strong id="statTypes">0</strong><span>Kategorien</span></div>
+      <div class="stat"><strong id="statFavs">0</strong><span>Favoriten</span></div>
+    </aside>
+  </section>
+
+  <section class="toolbar" id="archiv">
+    <input id="searchInput" type="search" placeholder="Titel, Verlag, Plattform, Genre suchen ..." />
+    <select id="typeFilter">
+      <option value="">Alle Arten</option>
+      <option value="Brettspiel">Brettspiele</option>
+      <option value="Kartenspiel">Kartenspiele</option>
+      <option value="Computerspiel">Computerspiele</option>
+      <option value="Rollenspiel">Rollenspiele</option>
+    </select>
+    <select id="playersFilter">
+      <option value="">Spieleranzahl</option>
+      <option value="1">Solo möglich</option>
+      <option value="2">2 Spieler</option>
+      <option value="4">4 Spieler</option>
+      <option value="6">6+ Spieler</option>
+    </select>
+    <select id="ageFilter">
+      <option value="">Alter</option>
+      <option value="6">ab 6</option>
+      <option value="8">ab 8</option>
+      <option value="10">ab 10</option>
+      <option value="12">ab 12</option>
+      <option value="16">ab 16</option>
+    </select>
+    <select id="sortFilter">
+      <option value="title">Sortierung: Titel</option>
+      <option value="rating">Beste Bewertung</option>
+      <option value="newest">Neueste zuerst</option>
+      <option value="duration">Kürzeste Dauer</option>
+    </select>
+  </section>
+
+  <section class="layout">
+    <aside class="panel">
+      <div class="side-section">
+        <h3>Kategorien</h3>
+        <div class="chips" id="categoryChips"></div>
+      </div>
+      <div class="side-section">
+        <h3>Status</h3>
+        <div class="chips" id="statusChips">
+          <button class="chip active" data-status="">Alle</button>
+          <button class="chip" data-status="Besitze ich">Besitze ich</button>
+          <button class="chip" data-status="Ausgeliehen">Ausgeliehen</button>
+          <button class="chip" data-status="Wunschliste">Wunschliste</button>
+        </div>
+      </div>
+      <div class="side-section">
+        <h3>Sammlungs-Check</h3>
+        <div class="mini-list">
+          <div class="mini-item"><span>Letzter Zugang</span><b id="lastAdded">-</b></div>
+          <div class="mini-item"><span>Top-Bewertung</span><b id="topRated">-</b></div>
+          <div class="mini-item"><span>Solo geeignet</span><b id="soloCount">-</b></div>
+        </div>
+      </div>
+    </aside>
+
+    <section>
+      <div class="archive-head">
+        <div>
+          <h3>Archiv</h3>
+          <p id="resultInfo">Alle Spiele werden angezeigt.</p>
+        </div>
+      </div>
+      <div class="cards" id="gameCards"></div>
+      <div class="empty" id="emptyState">Keine Spiele gefunden. Der Filterkobold war zu streng.</div>
+    </section>
+  </section>
+</main>
