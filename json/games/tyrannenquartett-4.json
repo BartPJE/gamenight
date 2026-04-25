@@ -1,0 +1,28 @@
+{
+  "id": "tyrannenquartett-4",
+  "title": "Tyrannenquartett 4",
+  "type": "Kartenspiel",
+  "icon": "⚖️",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 14,
+  "duration": 25,
+  "year": 2023,
+  "publisher": "Quartett Verlag",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 7.1,
+  "favorite": false,
+  "tags": [
+    "Quartett",
+    "Satire",
+    "Neuauflage"
+  ],
+  "description": "Vierter Teil mit frischen Karten und bekannten Streitfragen.",
+  "image": "images/tyrannenquartett-4.svg",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gefunden."
+  }
+}

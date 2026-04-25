@@ -1,0 +1,28 @@
+{
+  "id": "uno-flip",
+  "title": "UNO Flip",
+  "type": "Kartenspiel",
+  "icon": "🔄",
+  "playersMin": 2,
+  "playersMax": 10,
+  "age": 7,
+  "duration": 25,
+  "year": 2019,
+  "publisher": "Mattel",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 7.7,
+  "favorite": false,
+  "tags": [
+    "UNO",
+    "Doppelseitig",
+    "Chaos"
+  ],
+  "description": "UNO mit doppelseitigem Deck: Ein Flip wechselt auf die deutlich härtere Rückseite.",
+  "image": "images/uno-flip.svg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/271460/uno-flip",
+    "note": "Auf BoardGameGeek gefunden."
+  }
+}

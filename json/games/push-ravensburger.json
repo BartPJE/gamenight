@@ -1,0 +1,28 @@
+{
+  "id": "push-ravensburger",
+  "title": "PUSH",
+  "type": "Kartenspiel",
+  "icon": "📈",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 20,
+  "year": 2019,
+  "publisher": "Ravensburger",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 6.8,
+  "favorite": false,
+  "tags": [
+    "Push your luck",
+    "Zahlen",
+    "Schnell"
+  ],
+  "description": "Push-your-luck-Kartenspiel: Punkte sichern oder weiterziehen und alles riskieren.",
+  "image": "images/push.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/265256/push",
+    "note": "Auf BoardGameGeek gefunden."
+  }
+}

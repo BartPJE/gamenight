@@ -96,6 +96,7 @@ function renderGames() {
               <span class="tag">${game.platform}</span>
               <span class="tag">${game.publisher}</span>
               <span class="tag">${game.status}</span>
+              ${game.bgg?.found ? '<span class="tag">BGG</span>' : '<span class="tag">BGG: Nicht gefunden</span>'}
               ${game.tags.map((tag) => `<span class="tag">${tag}</span>`).join("")}
             </div>
             <a class="details-link" href="#spiel/${game.id}">Details ansehen</a>
@@ -175,6 +176,11 @@ function renderGameDetail(game) {
         <div class="tags">
           <span class="tag">${game.platform}</span>
           ${game.favorite ? '<span class="tag">Favorit</span>' : ""}
+          ${
+            game.bgg?.found
+              ? `<span class="tag"><a href="${game.bgg.url}" target="_blank" rel="noopener noreferrer">BoardGameGeek</a></span>`
+              : '<span class="tag">BGG: Nicht gefunden</span>'
+          }
           ${game.tags.map((tag) => `<span class="tag">${tag}</span>`).join("")}
         </div>
       </div>
@@ -236,7 +242,7 @@ async function initialize() {
     }),
   );
 
-  games = gameLists.flat();
+  games = gameLists.flatMap((entry) => (Array.isArray(entry) ? entry : [entry]));
   $("app").innerHTML = layoutHtml;
 
   bindEvents();

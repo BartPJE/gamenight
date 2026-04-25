@@ -1,0 +1,28 @@
+{
+  "id": "tyrannenquartett-2",
+  "title": "Tyrannenquartett 2",
+  "type": "Kartenspiel",
+  "icon": "🗳️",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 14,
+  "duration": 25,
+  "year": 2021,
+  "publisher": "Quartett Verlag",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 7.3,
+  "favorite": false,
+  "tags": [
+    "Quartett",
+    "Satire",
+    "Erweiterung"
+  ],
+  "description": "Der zweite Teil mit neuen Karten und noch mehr Vergleichsstoff.",
+  "image": "images/tyrannenquartett-2.svg",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gefunden."
+  }
+}

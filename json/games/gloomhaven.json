@@ -1,0 +1,28 @@
+{
+  "id": "gloomhaven",
+  "title": "Gloomhaven",
+  "type": "Brettspiel",
+  "icon": "🛡️",
+  "playersMin": 1,
+  "playersMax": 4,
+  "age": 14,
+  "duration": 120,
+  "year": 2017,
+  "publisher": "Cephalofair Games",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 9.4,
+  "favorite": true,
+  "tags": [
+    "Kampagne",
+    "Dungeon",
+    "Koop"
+  ],
+  "description": "Kooperatives Kampagnenspiel mit taktischen Kartenkämpfen in einer persistierenden Fantasy-Welt.",
+  "image": "images/gloomhaven.svg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/174430/gloomhaven",
+    "note": "Auf BoardGameGeek gefunden."
+  }
+}

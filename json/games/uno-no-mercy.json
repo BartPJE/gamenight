@@ -1,0 +1,28 @@
+{
+  "id": "uno-no-mercy",
+  "title": "UNO No Mercy",
+  "type": "Kartenspiel",
+  "icon": "🔥",
+  "playersMin": 2,
+  "playersMax": 10,
+  "age": 7,
+  "duration": 30,
+  "year": 2023,
+  "publisher": "Mattel",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 7.8,
+  "favorite": false,
+  "tags": [
+    "UNO",
+    "Gemein",
+    "Party"
+  ],
+  "description": "Härtere UNO-Variante mit fiesen Karten und viel Schadenfreude.",
+  "image": "images/uno-no-mercy.svg",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gefunden."
+  }
+}
