@@ -160,14 +160,20 @@ function bindEvents() {
 }
 
 async function initialize() {
-  const [layoutResponse, dataResponse] = await Promise.all([
+  const [layoutResponse, catalogResponse] = await Promise.all([
     fetch("html/content.html"),
-    fetch("json/games.json"),
+    fetch("json/games.catalog.json"),
   ]);
 
-  const layoutHtml = await layoutResponse.text();
-  games = await dataResponse.json();
+  const [layoutHtml, gameFiles] = await Promise.all([layoutResponse.text(), catalogResponse.json()]);
+  const gameLists = await Promise.all(
+    gameFiles.map(async (file) => {
+      const response = await fetch(file);
+      return response.json();
+    }),
+  );
 
+  games = gameLists.flat();
   $("app").innerHTML = layoutHtml;
 
   bindEvents();
