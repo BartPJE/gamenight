@@ -1,0 +1,33 @@
+{
+  "id": "leiterspiel",
+  "title": "Leiterspiel",
+  "type": "Brettspiel",
+  "icon": "🪜",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 5,
+  "duration": 15,
+  "year": 1892,
+  "publisher": "BLATZ",
+  "platform": "Tisch",
+  "status": "In Spielesammlung",
+  "rating": 5.2,
+  "favorite": false,
+  "tags": [
+    "Klassiker",
+    "Spielesammlung"
+  ],
+  "description": "Würfelspiel mit Leitern als Abkürzungen und Feldern als Rückschritt.",
+  "image": "",
+  "collectionId": "spiele-klassiker-blatz",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gepflegt."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Spielmaterial laut Sammlung",
+    "Spielanleitung"
+  ]
+}

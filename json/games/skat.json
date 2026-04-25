@@ -1,0 +1,33 @@
+{
+  "id": "skat",
+  "title": "Skat",
+  "type": "Kartenspiel",
+  "icon": "🂫",
+  "playersMin": 3,
+  "playersMax": 3,
+  "age": 10,
+  "duration": 45,
+  "year": 1810,
+  "publisher": "BLATZ",
+  "platform": "Tisch",
+  "status": "In Spielesammlung",
+  "rating": 7.4,
+  "favorite": false,
+  "tags": [
+    "Klassiker",
+    "Spielesammlung"
+  ],
+  "description": "Stichspielklassiker für drei Personen mit Reizen und Trumpfspiel.",
+  "image": "",
+  "collectionId": "spiele-klassiker-blatz",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gepflegt."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Spielmaterial laut Sammlung",
+    "Spielanleitung"
+  ]
+}
