@@ -25,5 +25,11 @@
     "url": "https://boardgamegeek.com/boardgame/413246/bomb-busters",
     "note": "Auf BoardGameGeek gefunden."
   },
-  "location": "Wohnzimmer"
+  "location": "Wohnzimmer",
+  "contents": [
+    "Spielbrett",
+    "Spielsteine",
+    "Marker",
+    "Spielanleitung"
+  ]
 }

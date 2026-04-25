@@ -25,5 +25,9 @@
     "url": "",
     "note": "Nicht auf BoardGameGeek gefunden."
   },
-  "location": "Kämmerle"
+  "location": "Kämmerle",
+  "contents": [
+    "Kartenstapel",
+    "Spielanleitung"
+  ]
 }
