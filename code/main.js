@@ -98,6 +98,7 @@ function renderGames() {
               <span class="tag">${game.status}</span>
               ${game.tags.map((tag) => `<span class="tag">${tag}</span>`).join("")}
             </div>
+            <a class="details-link" href="#spiel/${game.id}">Details ansehen</a>
           </div>
         </article>
       `,
@@ -138,6 +139,63 @@ function resetFilters() {
   renderGames();
 }
 
+function renderGameDetail(game) {
+  if (!game) {
+    $("detailContent").innerHTML = `
+      <div class="detail-empty">
+        <h3>Spiel nicht gefunden</h3>
+        <p>Das gesuchte Spiel existiert nicht oder wurde aus dem Archiv entfernt.</p>
+      </div>
+    `;
+    return;
+  }
+
+  $("detailContent").innerHTML = `
+    <article class="detail-card">
+      <div class="detail-cover">
+        ${game.image ? `<img src="${game.image}" alt="Cover von ${game.title}" loading="lazy" />` : game.icon}
+      </div>
+      <div class="detail-body">
+        <div class="type-row">
+          <span class="badge ${badgeClass(game.type)}">${game.type}</span>
+          <span class="rating">★ ${game.rating.toFixed(1)}</span>
+        </div>
+        <h3>${game.title}</h3>
+        <p class="desc">${game.description}</p>
+
+        <div class="detail-facts">
+          <div class="fact"><small>Spieleranzahl</small><b>${game.playersMin}-${game.playersMax}</b></div>
+          <div class="fact"><small>Empfohlenes Alter</small><b>ab ${game.age}</b></div>
+          <div class="fact"><small>Spieldauer</small><b>${game.duration} Min.</b></div>
+          <div class="fact"><small>Erscheinungsjahr</small><b>${game.year}</b></div>
+          <div class="fact"><small>Verlag</small><b>${game.publisher}</b></div>
+          <div class="fact"><small>Status</small><b>${game.status}</b></div>
+        </div>
+
+        <div class="tags">
+          <span class="tag">${game.platform}</span>
+          ${game.favorite ? '<span class="tag">Favorit</span>' : ""}
+          ${game.tags.map((tag) => `<span class="tag">${tag}</span>`).join("")}
+        </div>
+      </div>
+    </article>
+  `;
+}
+
+function syncViewWithHash() {
+  const match = window.location.hash.match(/^#spiel\/(.+)$/);
+  const isDetail = Boolean(match);
+
+  $("archiveView").style.display = isDetail ? "none" : "grid";
+  $("detailView").style.display = isDetail ? "block" : "none";
+
+  if (isDetail) {
+    const gameId = decodeURIComponent(match[1]);
+    const game = games.find((entry) => entry.id === gameId);
+    renderGameDetail(game);
+  }
+}
+
 function bindEvents() {
   ["searchInput", "typeFilter", "playersFilter", "ageFilter", "sortFilter"].forEach((id) => {
     $(id).addEventListener("input", renderGames);
@@ -157,6 +215,11 @@ function bindEvents() {
 
   $("focusSearchButton").addEventListener("click", focusSearch);
   $("resetFiltersButton").addEventListener("click", resetFilters);
+  $("backToArchive").addEventListener("click", () => {
+    window.location.hash = "#archiv";
+  });
+
+  window.addEventListener("hashchange", syncViewWithHash);
 }
 
 async function initialize() {
@@ -180,6 +243,7 @@ async function initialize() {
   renderCategories();
   renderStats();
   renderGames();
+  syncViewWithHash();
 }
 
 initialize();
