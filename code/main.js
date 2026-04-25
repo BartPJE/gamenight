@@ -41,7 +41,10 @@ function filteredGames() {
   const sort = $("sortFilter").value;
 
   const list = games.filter((game) => {
-    const haystack = [game.title, game.type, game.publisher, game.platform, game.location, ...game.tags].join(" ").toLowerCase();
+    const collectionTitle = game.collectionId ? games.find((entry) => entry.id === game.collectionId)?.title ?? "" : "";
+    const haystack = [game.title, game.type, game.publisher, game.platform, game.location, collectionTitle, ...game.tags]
+      .join(" ")
+      .toLowerCase();
 
     const matchesSearch = !query || haystack.includes(query);
     const matchesType = !type || game.type === type;
@@ -66,8 +69,10 @@ function renderGames() {
 
   $("gameCards").innerHTML = list
     .map(
-      (game) => `
-        <a class="game-card" href="#spiel/${game.id}" aria-label="Details zu ${game.title}">
+      (game) => {
+        const linkedGameId = game.collectionId || game.id;
+        return `
+        <a class="game-card" href="#spiel/${linkedGameId}" aria-label="Details zu ${game.title}">
           <div class="cover">
             ${
               game.image
@@ -91,11 +96,17 @@ function renderGames() {
               <span class="tag">${game.location}</span>
               <span class="tag">${game.publisher}</span>
               ${game.bgg?.found ? '<span class="tag">BGG</span>' : '<span class="tag">BGG: Nicht gefunden</span>'}
+              ${
+                game.collectionId
+                  ? `<span class="tag">Sammlung: ${games.find((entry) => entry.id === game.collectionId)?.title ?? "Unbekannt"}</span>`
+                  : ""
+              }
               ${game.tags.map((tag) => `<span class="tag">${tag}</span>`).join("")}
             </div>
           </div>
         </a>
-      `,
+      `;
+      },
     )
     .join("");
 
