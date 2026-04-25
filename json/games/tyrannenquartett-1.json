@@ -1,0 +1,28 @@
+{
+  "id": "tyrannenquartett-1",
+  "title": "Tyrannenquartett 1",
+  "type": "Kartenspiel",
+  "icon": "👑",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 14,
+  "duration": 25,
+  "year": 2020,
+  "publisher": "Quartett Verlag",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 7.4,
+  "favorite": false,
+  "tags": [
+    "Quartett",
+    "Satire",
+    "Diskussion"
+  ],
+  "description": "Politisches Quartett mit schwarzem Humor und schnellen Runden.",
+  "image": "images/tyrannenquartett-1.svg",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gefunden."
+  }
+}

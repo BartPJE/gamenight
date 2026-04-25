@@ -1,0 +1,28 @@
+{
+  "id": "tyrannenquartett-3",
+  "title": "Tyrannenquartett 3",
+  "type": "Kartenspiel",
+  "icon": "📛",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 14,
+  "duration": 25,
+  "year": 2022,
+  "publisher": "Quartett Verlag",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 7.2,
+  "favorite": false,
+  "tags": [
+    "Quartett",
+    "Satire",
+    "Schnell"
+  ],
+  "description": "Dritter Teil der Reihe für kurze, bissige Kartenduelle.",
+  "image": "images/tyrannenquartett-3.svg",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gefunden."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "skyjo",
+  "title": "SkyJo",
+  "type": "Kartenspiel",
+  "icon": "🔢",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 8,
+  "duration": 30,
+  "year": 2015,
+  "publisher": "Magilano",
+  "platform": "Tisch",
+  "status": "Ausgeliehen",
+  "rating": 7.8,
+  "favorite": false,
+  "tags": [
+    "Zahlen",
+    "Familie",
+    "Locker"
+  ],
+  "description": "Karten ziehen und tauschen, um den Gesamtwert des eigenen 12-Karten-Rasters möglichst niedrig zu halten.",
+  "image": "images/skyjo.svg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/204135/skyjo",
+    "note": "Auf BoardGameGeek gefunden."
+  }
+}

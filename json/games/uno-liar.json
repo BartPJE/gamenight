@@ -1,0 +1,28 @@
+{
+  "id": "uno-liar",
+  "title": "UNO Liar",
+  "type": "Kartenspiel",
+  "icon": "🎭",
+  "playersMin": 2,
+  "playersMax": 10,
+  "age": 7,
+  "duration": 25,
+  "year": 2024,
+  "publisher": "Mattel",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 7.4,
+  "favorite": false,
+  "tags": [
+    "UNO",
+    "Bluff",
+    "Party"
+  ],
+  "description": "UNO-Ableger mit Bluff-Elementen und überraschenden Wendungen.",
+  "image": "images/uno-liar.svg",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gefunden."
+  }
+}

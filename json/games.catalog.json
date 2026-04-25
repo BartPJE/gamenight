@@ -1,6 +1,22 @@
 [
-  "json/games-board.json",
-  "json/games-card.json",
-  "json/games-video.json",
-  "json/games-role.json"
+  "json/games/gloomhaven.json",
+  "json/games/catan.json",
+  "json/games/spiele-klassiker-blatz.json",
+  "json/games/bombbusters.json",
+  "json/games/uno.json",
+  "json/games/skyjo.json",
+  "json/games/tyrannenquartett-1.json",
+  "json/games/tyrannenquartett-2.json",
+  "json/games/tyrannenquartett-3.json",
+  "json/games/tyrannenquartett-4.json",
+  "json/games/the-same-same-game.json",
+  "json/games/push-ravensburger.json",
+  "json/games/uno-no-mercy.json",
+  "json/games/uno-liar.json",
+  "json/games/uno-zero.json",
+  "json/games/uno-flip.json",
+  "json/games/uno-teams.json",
+  "json/games/bam-inkl-erweiterungen.json",
+  "json/games/zelda.json",
+  "json/games/dnd.json"
 ]

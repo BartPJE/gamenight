@@ -1,0 +1,28 @@
+{
+  "id": "uno",
+  "title": "UNO",
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "playersMin": 2,
+  "playersMax": 10,
+  "age": 7,
+  "duration": 20,
+  "year": 1971,
+  "publisher": "Mattel",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 7.2,
+  "favorite": false,
+  "tags": [
+    "Schnell",
+    "Familie",
+    "Ärger"
+  ],
+  "description": "Klassisches Ablegespiel: Farben und Zahlen passend ausspielen und als Erste:r alle Karten loswerden.",
+  "image": "images/uno.svg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/2223/uno",
+    "note": "Auf BoardGameGeek gefunden."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "uno-zero",
+  "title": "UNO Zero",
+  "type": "Kartenspiel",
+  "icon": "0️⃣",
+  "playersMin": 2,
+  "playersMax": 10,
+  "age": 7,
+  "duration": 20,
+  "year": 2023,
+  "publisher": "Mattel",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 7.1,
+  "favorite": false,
+  "tags": [
+    "UNO",
+    "Schnell",
+    "Familie"
+  ],
+  "description": "UNO-Variante mit Golf-Mechanik: Ziel ist ein möglichst niedriger Punktestand statt schnelles Ausspielen.",
+  "image": "images/uno-zero.svg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/447191/uno-zero",
+    "note": "Auf BoardGameGeek gefunden."
+  }
+}
