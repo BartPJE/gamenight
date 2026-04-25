@@ -1,0 +1,33 @@
+{
+  "id": "muehle",
+  "title": "Mühle",
+  "type": "Brettspiel",
+  "icon": "⭕",
+  "playersMin": 2,
+  "playersMax": 2,
+  "age": 6,
+  "duration": 20,
+  "year": 1400,
+  "publisher": "BLATZ",
+  "platform": "Tisch",
+  "status": "In Spielesammlung",
+  "rating": 6.8,
+  "favorite": false,
+  "tags": [
+    "Klassiker",
+    "Spielesammlung"
+  ],
+  "description": "Traditionelles Platzierungsspiel mit Mühlenbildung.",
+  "image": "",
+  "collectionId": "spiele-klassiker-blatz",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gepflegt."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Spielmaterial laut Sammlung",
+    "Spielanleitung"
+  ]
+}
