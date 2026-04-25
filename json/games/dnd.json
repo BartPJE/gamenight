@@ -25,5 +25,10 @@
     "url": "https://boardgamegeek.com/rpgitem/18134/dungeons-and-dragons",
     "note": "Auf BoardGameGeek gefunden."
   },
-  "location": "Schrank"
+  "location": "Schrank",
+  "contents": [
+    "Regelwerk",
+    "Charakterbögen",
+    "Würfel"
+  ]
 }

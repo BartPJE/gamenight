@@ -25,5 +25,9 @@
     "url": "https://boardgamegeek.com/boardgame/447191/uno-zero",
     "note": "Auf BoardGameGeek gefunden."
   },
-  "location": "Kämmerle"
+  "location": "Kämmerle",
+  "contents": [
+    "Kartenstapel",
+    "Spielanleitung"
+  ]
 }

@@ -25,5 +25,11 @@
     "url": "https://boardgamegeek.com/boardgame/13/catan",
     "note": "Auf BoardGameGeek gefunden."
   },
-  "location": "Kämmerle"
+  "location": "Kämmerle",
+  "contents": [
+    "Spielbrett",
+    "Spielsteine",
+    "Marker",
+    "Spielanleitung"
+  ]
 }

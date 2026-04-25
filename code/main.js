@@ -138,6 +138,11 @@ function renderGameDetail(game) {
     return;
   }
 
+  const gameContents =
+    Array.isArray(game.contents) && game.contents.length
+      ? game.contents
+      : ["Keine Spiel-Inhalte hinterlegt."];
+
   $("detailContent").innerHTML = `
     <article class="detail-card">
       <div class="detail-cover">
@@ -158,7 +163,13 @@ function renderGameDetail(game) {
           <div class="fact"><small>Erscheinungsjahr</small><b>${game.year}</b></div>
           <div class="fact"><small>Verlag</small><b>${game.publisher}</b></div>
           <div class="fact"><small>Lagerort</small><b>${game.location}</b></div>
-          <div class="fact"><small>Status</small><b>${game.status}</b></div>
+        </div>
+
+        <div class="detail-section">
+          <h4>Spiel-Inhalte</h4>
+          <ul class="content-list">
+            ${gameContents.map((content) => `<li>${content}</li>`).join("")}
+          </ul>
         </div>
 
         <div class="tags">

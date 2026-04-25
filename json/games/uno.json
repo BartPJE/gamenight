@@ -25,5 +25,9 @@
     "url": "https://boardgamegeek.com/boardgame/2223/uno",
     "note": "Auf BoardGameGeek gefunden."
   },
-  "location": "Schrank"
+  "location": "Schrank",
+  "contents": [
+    "Kartenstapel",
+    "Spielanleitung"
+  ]
 }

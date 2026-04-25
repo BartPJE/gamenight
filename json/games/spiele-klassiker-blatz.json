@@ -25,5 +25,11 @@
     "url": "",
     "note": "Nicht auf BoardGameGeek gefunden."
   },
-  "location": "Wohnzimmer"
+  "location": "Wohnzimmer",
+  "contents": [
+    "Spielbrett",
+    "Spielsteine",
+    "Marker",
+    "Spielanleitung"
+  ]
 }
