@@ -140,14 +140,14 @@
   {
     "id": "the-same-same-game",
     "title": "The Same Same Game",
-    "type": "Kartenspiel",
+    "type": "Brettspiel",
     "icon": "🧠",
     "playersMin": 3,
-    "playersMax": 8,
+    "playersMax": 6,
     "age": 10,
     "duration": 30,
-    "year": 2024,
-    "publisher": "The Same Same Studio",
+    "year": 2023,
+    "publisher": "Pegasus Spiele",
     "platform": "Tisch",
     "status": "Besitze ich",
     "rating": 7.6,
@@ -157,12 +157,12 @@
       "Kreativ",
       "Party"
     ],
-    "description": "Kreatives Partyspiel rund um überraschend ähnliche Antworten.",
-    "image": "images/the-same-same-game.svg"
+    "description": "Ist eine Mikrowelle für die Menschheit wichtiger als Windeln? Wenn die Beantwortung dieser Frage eventuell zum Stirnrunzeln geführt hat, beim erneuten drüber Nachdenken jedoch auch irgendwie eine Faszination hinterlassen hat, dann könnte The Same Game einen Blick wert sein. Aber mal im Ernst, Mikrowellen und Windeln? Fürwahr, klingt erstmal sehr weit voneinander entfernt, aber der Reihe nach. The same Game ist ein kommunikatives Kooperationsspiel für drei bis maximal sechs Personen.",
+    "image": "images/the-same-same-game.jpg"
   },
   {
     "id": "push-ravensburger",
-    "title": "PUSH (Ravensburger)",
+    "title": "PUSH",
     "type": "Kartenspiel",
     "icon": "📈",
     "playersMin": 2,
@@ -173,7 +173,7 @@
     "publisher": "Ravensburger",
     "platform": "Tisch",
     "status": "Besitze ich",
-    "rating": 7.5,
+    "rating": 6.8,
     "favorite": false,
     "tags": [
       "Push your luck",
@@ -181,7 +181,7 @@
       "Schnell"
     ],
     "description": "Punkte sichern oder weiterzocken – Risiko-Kartenspiel mit kurzen Zügen.",
-    "image": "images/push-ravensburger.svg"
+    "image": "images/push.jpg"
   },
   {
     "id": "uno-no-mercy",
