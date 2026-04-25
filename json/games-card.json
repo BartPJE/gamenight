@@ -1,49 +1,5 @@
 [
   {
-    "id": "gloomhaven",
-    "title": "Gloomhaven",
-    "type": "Brettspiel",
-    "icon": "🛡️",
-    "playersMin": 1,
-    "playersMax": 4,
-    "age": 14,
-    "duration": 120,
-    "year": 2017,
-    "publisher": "Cephalofair Games",
-    "platform": "Tisch",
-    "status": "Besitze ich",
-    "rating": 9.4,
-    "favorite": true,
-    "tags": [
-      "Kampagne",
-      "Dungeon",
-      "Koop"
-    ],
-    "description": "Episches Kampagnenspiel mit taktischen Kämpfen und Charakterentwicklung."
-  },
-  {
-    "id": "catan",
-    "title": "Catan",
-    "type": "Brettspiel",
-    "icon": "🌾",
-    "playersMin": 3,
-    "playersMax": 4,
-    "age": 10,
-    "duration": 75,
-    "year": 1995,
-    "publisher": "Kosmos",
-    "platform": "Tisch",
-    "status": "Besitze ich",
-    "rating": 8.1,
-    "favorite": false,
-    "tags": [
-      "Handel",
-      "Aufbau",
-      "Klassiker"
-    ],
-    "description": "Der Klassiker mit Rohstoffen, Straßenbau und sehr diplomatischem Fluchen."
-  },
-  {
     "id": "uno",
     "title": "UNO",
     "type": "Kartenspiel",
@@ -64,51 +20,7 @@
       "Ärger"
     ],
     "description": "Kartenchaos für kurze Runden und lange Diskussionen über Hausregeln.",
-    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=UNO"
-  },
-  {
-    "id": "zelda",
-    "title": "The Legend of Zelda: Breath of the Wild",
-    "type": "Computerspiel",
-    "icon": "🗡️",
-    "playersMin": 1,
-    "playersMax": 1,
-    "age": 12,
-    "duration": 80,
-    "year": 2017,
-    "publisher": "Nintendo",
-    "platform": "Switch",
-    "status": "Besitze ich",
-    "rating": 9.8,
-    "favorite": true,
-    "tags": [
-      "Open World",
-      "Abenteuer",
-      "Solo"
-    ],
-    "description": "Großes Abenteuer in Hyrule mit Freiheit, Schreinen und Pfannenphysik."
-  },
-  {
-    "id": "dnd",
-    "title": "Dungeons & Dragons",
-    "type": "Rollenspiel",
-    "icon": "🐉",
-    "playersMin": 2,
-    "playersMax": 6,
-    "age": 12,
-    "duration": 180,
-    "year": 1974,
-    "publisher": "Wizards of the Coast",
-    "platform": "Tisch",
-    "status": "Wunschliste",
-    "rating": 9.1,
-    "favorite": true,
-    "tags": [
-      "Fantasy",
-      "Story",
-      "Gruppe"
-    ],
-    "description": "Gemeinsames Erzählen, Würfeln und Heldentaten mit gefährlich vielen Snacks."
+    "image": "images/uno.svg"
   },
   {
     "id": "skyjo",
@@ -131,7 +43,7 @@
       "Locker"
     ],
     "description": "Schnelles Kartenspiel mit Risiko, Glück und dem Wunsch nach Minuswerten.",
-    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=Skyjo"
+    "image": "images/skyjo.svg"
   },
   {
     "id": "tyrannenquartett-1",
@@ -154,7 +66,7 @@
       "Diskussion"
     ],
     "description": "Politisches Quartett mit schwarzem Humor und schnellen Runden.",
-    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=Tyrannenquartett+1"
+    "image": "images/tyrannenquartett-1.svg"
   },
   {
     "id": "tyrannenquartett-2",
@@ -177,7 +89,7 @@
       "Erweiterung"
     ],
     "description": "Der zweite Teil mit neuen Karten und noch mehr Vergleichsstoff.",
-    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=Tyrannenquartett+2"
+    "image": "images/tyrannenquartett-2.svg"
   },
   {
     "id": "tyrannenquartett-3",
@@ -200,7 +112,7 @@
       "Schnell"
     ],
     "description": "Dritter Teil der Reihe für kurze, bissige Kartenduelle.",
-    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=Tyrannenquartett+3"
+    "image": "images/tyrannenquartett-3.svg"
   },
   {
     "id": "tyrannenquartett-4",
@@ -223,7 +135,7 @@
       "Neuauflage"
     ],
     "description": "Vierter Teil mit frischen Karten und bekannten Streitfragen.",
-    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=Tyrannenquartett+4"
+    "image": "images/tyrannenquartett-4.svg"
   },
   {
     "id": "the-same-same-game",
@@ -246,30 +158,7 @@
       "Party"
     ],
     "description": "Kreatives Partyspiel rund um überraschend ähnliche Antworten.",
-    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=The+Same+Same+Game"
-  },
-  {
-    "id": "spiele-klassiker-blatz",
-    "title": "Spiele Klassiker (von der Firma BLATZ)",
-    "type": "Brettspiel",
-    "icon": "🎯",
-    "playersMin": 2,
-    "playersMax": 6,
-    "age": 6,
-    "duration": 40,
-    "year": 2018,
-    "publisher": "BLATZ",
-    "platform": "Tisch",
-    "status": "Besitze ich",
-    "rating": 7.0,
-    "favorite": false,
-    "tags": [
-      "Familienspiel",
-      "Sammlung",
-      "Klassiker"
-    ],
-    "description": "Klassische Spielesammlung mit mehreren bekannten Brett- und Würfelspielen.",
-    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=Spiele+Klassiker+BLATZ"
+    "image": "images/the-same-same-game.svg"
   },
   {
     "id": "push-ravensburger",
@@ -292,7 +181,7 @@
       "Schnell"
     ],
     "description": "Punkte sichern oder weiterzocken – Risiko-Kartenspiel mit kurzen Zügen.",
-    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=PUSH+Ravensburger"
+    "image": "images/push-ravensburger.svg"
   },
   {
     "id": "uno-no-mercy",
@@ -315,7 +204,7 @@
       "Party"
     ],
     "description": "Härtere UNO-Variante mit fiesen Karten und viel Schadenfreude.",
-    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=UNO+No+Mercy"
+    "image": "images/uno-no-mercy.svg"
   },
   {
     "id": "uno-liar",
@@ -338,7 +227,7 @@
       "Party"
     ],
     "description": "UNO-Ableger mit Bluff-Elementen und überraschenden Wendungen.",
-    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=UNO+Liar"
+    "image": "images/uno-liar.svg"
   },
   {
     "id": "uno-zero",
@@ -361,7 +250,7 @@
       "Familie"
     ],
     "description": "Sonderedition mit Fokus auf Nuller-Runden und schnellen Partien.",
-    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=UNO+Zero"
+    "image": "images/uno-zero.svg"
   },
   {
     "id": "uno-flip",
@@ -384,7 +273,7 @@
       "Chaos"
     ],
     "description": "Beidseitige Karten für einen spontanen Wechsel in den fiesen Modus.",
-    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=UNO+Flip"
+    "image": "images/uno-flip.svg"
   },
   {
     "id": "uno-teams",
@@ -407,30 +296,7 @@
       "Familie"
     ],
     "description": "UNO in Teams: gemeinsam planen, retten und den Partner unterstützen.",
-    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=UNO+Teams"
-  },
-  {
-    "id": "bombbusters",
-    "title": "BombBusters",
-    "type": "Brettspiel",
-    "icon": "💣",
-    "playersMin": 2,
-    "playersMax": 5,
-    "age": 10,
-    "duration": 35,
-    "year": 2024,
-    "publisher": "Pegasus Spiele",
-    "platform": "Tisch",
-    "status": "Besitze ich",
-    "rating": 8.0,
-    "favorite": true,
-    "tags": [
-      "Koop",
-      "Deduktion",
-      "Spannung"
-    ],
-    "description": "Kooperatives Entschärfen unter Zeitdruck mit nervenaufreibenden Entscheidungen.",
-    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=BombBusters"
+    "image": "images/uno-teams.svg"
   },
   {
     "id": "bam-inkl-erweiterungen",
@@ -453,6 +319,6 @@
       "Laut"
     ],
     "description": "Kommunikatives Partyspiel inklusive Erweiterungen für noch mehr Kartenchaos.",
-    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=Bam+inkl.+Erweiterungen"
+    "image": "images/bam-inkl-erweiterungen.svg"
   }
 ]

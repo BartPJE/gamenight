@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Dungeons &amp; Dragons">
+  <defs><linearGradient id="grad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#1f2a14"/><stop offset="100%" stop-color="#111"/></linearGradient></defs>
+  <rect width="640" height="360" fill="url(#grad)"/>
+  <circle cx="560" cy="70" r="56" fill="#b8ff8a" opacity="0.25"/>
+  <text x="36" y="170" fill="#b8ff8a" font-size="40" font-family="Arial, Helvetica, sans-serif" font-weight="700">Dungeons &amp; Dragons</text>
+  <text x="36" y="212" fill="#ffffff" font-size="24" font-family="Arial, Helvetica, sans-serif">Rollenspiel</text>
+</svg>

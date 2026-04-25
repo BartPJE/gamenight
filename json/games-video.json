@@ -1,0 +1,25 @@
+[
+  {
+    "id": "zelda",
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "type": "Computerspiel",
+    "icon": "🗡️",
+    "playersMin": 1,
+    "playersMax": 1,
+    "age": 12,
+    "duration": 80,
+    "year": 2017,
+    "publisher": "Nintendo",
+    "platform": "Switch",
+    "status": "Besitze ich",
+    "rating": 9.8,
+    "favorite": true,
+    "tags": [
+      "Open World",
+      "Abenteuer",
+      "Solo"
+    ],
+    "description": "Großes Abenteuer in Hyrule mit Freiheit, Schreinen und Pfannenphysik.",
+    "image": "images/zelda.svg"
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "id": "gloomhaven",
+    "title": "Gloomhaven",
+    "type": "Brettspiel",
+    "icon": "🛡️",
+    "playersMin": 1,
+    "playersMax": 4,
+    "age": 14,
+    "duration": 120,
+    "year": 2017,
+    "publisher": "Cephalofair Games",
+    "platform": "Tisch",
+    "status": "Besitze ich",
+    "rating": 9.4,
+    "favorite": true,
+    "tags": [
+      "Kampagne",
+      "Dungeon",
+      "Koop"
+    ],
+    "description": "Episches Kampagnenspiel mit taktischen Kämpfen und Charakterentwicklung.",
+    "image": "images/gloomhaven.svg"
+  },
+  {
+    "id": "catan",
+    "title": "Catan",
+    "type": "Brettspiel",
+    "icon": "🌾",
+    "playersMin": 3,
+    "playersMax": 4,
+    "age": 10,
+    "duration": 75,
+    "year": 1995,
+    "publisher": "Kosmos",
+    "platform": "Tisch",
+    "status": "Besitze ich",
+    "rating": 8.1,
+    "favorite": false,
+    "tags": [
+      "Handel",
+      "Aufbau",
+      "Klassiker"
+    ],
+    "description": "Der Klassiker mit Rohstoffen, Straßenbau und sehr diplomatischem Fluchen.",
+    "image": "images/catan.svg"
+  },
+  {
+    "id": "spiele-klassiker-blatz",
+    "title": "Spiele Klassiker (von der Firma BLATZ)",
+    "type": "Brettspiel",
+    "icon": "🎯",
+    "playersMin": 2,
+    "playersMax": 6,
+    "age": 6,
+    "duration": 40,
+    "year": 2018,
+    "publisher": "BLATZ",
+    "platform": "Tisch",
+    "status": "Besitze ich",
+    "rating": 7.0,
+    "favorite": false,
+    "tags": [
+      "Familienspiel",
+      "Sammlung",
+      "Klassiker"
+    ],
+    "description": "Klassische Spielesammlung mit mehreren bekannten Brett- und Würfelspielen.",
+    "image": "images/spiele-klassiker-blatz.svg"
+  },
+  {
+    "id": "bombbusters",
+    "title": "BombBusters",
+    "type": "Brettspiel",
+    "icon": "💣",
+    "playersMin": 2,
+    "playersMax": 5,
+    "age": 10,
+    "duration": 35,
+    "year": 2024,
+    "publisher": "Pegasus Spiele",
+    "platform": "Tisch",
+    "status": "Besitze ich",
+    "rating": 8.0,
+    "favorite": true,
+    "tags": [
+      "Koop",
+      "Deduktion",
+      "Spannung"
+    ],
+    "description": "Kooperatives Entschärfen unter Zeitdruck mit nervenaufreibenden Entscheidungen.",
+    "image": "images/bombbusters.svg"
+  }
+]
