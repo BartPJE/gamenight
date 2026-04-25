@@ -155,8 +155,14 @@ function renderGameDetail(game) {
       : ["Keine Spiel-Inhalte hinterlegt."];
   const containedGames = games
     .filter((entry) => entry.collectionId === game.id)
-    .map((entry) => entry.title)
-    .toSorted((a, b) => a.localeCompare(b, "de"));
+    .map((entry) => ({
+      id: entry.id,
+      title: entry.title,
+      year: entry.year,
+      playersMin: entry.playersMin,
+      playersMax: entry.playersMax,
+    }))
+    .toSorted((a, b) => a.title.localeCompare(b.title, "de"));
 
   $("detailContent").innerHTML = `
     <article class="detail-card">
@@ -193,7 +199,12 @@ function renderGameDetail(game) {
         <div class="detail-section">
           <h4>Enthaltene Spiele (${containedGames.length})</h4>
           <ul class="content-list">
-            ${containedGames.map((title) => `<li>${title}</li>`).join("")}
+            ${containedGames
+              .map(
+                (entry) =>
+                  `<li><strong>${entry.title}</strong> · ${entry.year} · ${entry.playersMin}-${entry.playersMax} Spieler</li>`,
+              )
+              .join("")}
           </ul>
         </div>
         `

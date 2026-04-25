@@ -1,0 +1,33 @@
+{
+  "id": "hitster-schlager-party",
+  "title": "Hitster Schlager Party",
+  "type": "Kartenspiel",
+  "icon": "🪩",
+  "playersMin": 2,
+  "playersMax": 10,
+  "age": 16,
+  "duration": 30,
+  "year": 2024,
+  "publisher": "Jumbo",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 8.1,
+  "favorite": false,
+  "collectionId": "hitster",
+  "tags": [
+    "Musikquiz",
+    "Partyspiel",
+    "Schlager"
+  ],
+  "description": "Deutschsprachige Schlagerhits von Kult bis modern.",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gefunden."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "300 Musikkarten",
+    "Spielanleitung"
+  ]
+}

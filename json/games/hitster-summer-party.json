@@ -1,0 +1,33 @@
+{
+  "id": "hitster-summer-party",
+  "title": "Hitster Summer Party",
+  "type": "Kartenspiel",
+  "icon": "☀️",
+  "playersMin": 2,
+  "playersMax": 10,
+  "age": 16,
+  "duration": 30,
+  "year": 2024,
+  "publisher": "Jumbo",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 8.0,
+  "favorite": false,
+  "collectionId": "hitster",
+  "tags": [
+    "Musikquiz",
+    "Partyspiel",
+    "Sommerhits"
+  ],
+  "description": "Sommerliche Songs und Festival-Vibes für die nächste Gartenrunde.",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gefunden."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "300 Musikkarten",
+    "Spielanleitung"
+  ]
+}

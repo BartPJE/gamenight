@@ -1,0 +1,33 @@
+{
+  "id": "hitster-guilty-pleasure",
+  "title": "Hitster Guilty Pleasure",
+  "type": "Kartenspiel",
+  "icon": "💃",
+  "playersMin": 2,
+  "playersMax": 10,
+  "age": 16,
+  "duration": 30,
+  "year": 2023,
+  "publisher": "Jumbo",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 8.2,
+  "favorite": false,
+  "collectionId": "hitster",
+  "tags": [
+    "Musikquiz",
+    "Partyspiel",
+    "Pop"
+  ],
+  "description": "Songs zum Mitsingen und Schmunzeln, ideal für lockere Runden.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/413443/hitster-guilty-pleasure",
+    "note": "Eintrag auf BoardGameGeek vorhanden."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "300 Musikkarten",
+    "Spielanleitung"
+  ]
+}
