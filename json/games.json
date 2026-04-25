@@ -14,7 +14,11 @@
     "status": "Besitze ich",
     "rating": 9.4,
     "favorite": true,
-    "tags": ["Kampagne", "Dungeon", "Koop"],
+    "tags": [
+      "Kampagne",
+      "Dungeon",
+      "Koop"
+    ],
     "description": "Episches Kampagnenspiel mit taktischen Kämpfen und Charakterentwicklung."
   },
   {
@@ -32,7 +36,11 @@
     "status": "Besitze ich",
     "rating": 8.1,
     "favorite": false,
-    "tags": ["Handel", "Aufbau", "Klassiker"],
+    "tags": [
+      "Handel",
+      "Aufbau",
+      "Klassiker"
+    ],
     "description": "Der Klassiker mit Rohstoffen, Straßenbau und sehr diplomatischem Fluchen."
   },
   {
@@ -50,8 +58,13 @@
     "status": "Besitze ich",
     "rating": 7.2,
     "favorite": false,
-    "tags": ["Schnell", "Familie", "Ärger"],
-    "description": "Kartenchaos für kurze Runden und lange Diskussionen über Hausregeln."
+    "tags": [
+      "Schnell",
+      "Familie",
+      "Ärger"
+    ],
+    "description": "Kartenchaos für kurze Runden und lange Diskussionen über Hausregeln.",
+    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=UNO"
   },
   {
     "id": "zelda",
@@ -68,7 +81,11 @@
     "status": "Besitze ich",
     "rating": 9.8,
     "favorite": true,
-    "tags": ["Open World", "Abenteuer", "Solo"],
+    "tags": [
+      "Open World",
+      "Abenteuer",
+      "Solo"
+    ],
     "description": "Großes Abenteuer in Hyrule mit Freiheit, Schreinen und Pfannenphysik."
   },
   {
@@ -86,12 +103,16 @@
     "status": "Wunschliste",
     "rating": 9.1,
     "favorite": true,
-    "tags": ["Fantasy", "Story", "Gruppe"],
+    "tags": [
+      "Fantasy",
+      "Story",
+      "Gruppe"
+    ],
     "description": "Gemeinsames Erzählen, Würfeln und Heldentaten mit gefährlich vielen Snacks."
   },
   {
     "id": "skyjo",
-    "title": "Skyjo",
+    "title": "SkyJo",
     "type": "Kartenspiel",
     "icon": "🔢",
     "playersMin": 2,
@@ -104,7 +125,334 @@
     "status": "Ausgeliehen",
     "rating": 7.8,
     "favorite": false,
-    "tags": ["Zahlen", "Familie", "Locker"],
-    "description": "Schnelles Kartenspiel mit Risiko, Glück und dem Wunsch nach Minuswerten."
+    "tags": [
+      "Zahlen",
+      "Familie",
+      "Locker"
+    ],
+    "description": "Schnelles Kartenspiel mit Risiko, Glück und dem Wunsch nach Minuswerten.",
+    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=Skyjo"
+  },
+  {
+    "id": "tyrannenquartett-1",
+    "title": "Tyrannenquartett 1",
+    "type": "Kartenspiel",
+    "icon": "👑",
+    "playersMin": 2,
+    "playersMax": 8,
+    "age": 14,
+    "duration": 25,
+    "year": 2020,
+    "publisher": "Quartett Verlag",
+    "platform": "Tisch",
+    "status": "Besitze ich",
+    "rating": 7.4,
+    "favorite": false,
+    "tags": [
+      "Quartett",
+      "Satire",
+      "Diskussion"
+    ],
+    "description": "Politisches Quartett mit schwarzem Humor und schnellen Runden.",
+    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=Tyrannenquartett+1"
+  },
+  {
+    "id": "tyrannenquartett-2",
+    "title": "Tyrannenquartett 2",
+    "type": "Kartenspiel",
+    "icon": "🗳️",
+    "playersMin": 2,
+    "playersMax": 8,
+    "age": 14,
+    "duration": 25,
+    "year": 2021,
+    "publisher": "Quartett Verlag",
+    "platform": "Tisch",
+    "status": "Besitze ich",
+    "rating": 7.3,
+    "favorite": false,
+    "tags": [
+      "Quartett",
+      "Satire",
+      "Erweiterung"
+    ],
+    "description": "Der zweite Teil mit neuen Karten und noch mehr Vergleichsstoff.",
+    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=Tyrannenquartett+2"
+  },
+  {
+    "id": "tyrannenquartett-3",
+    "title": "Tyrannenquartett 3",
+    "type": "Kartenspiel",
+    "icon": "📛",
+    "playersMin": 2,
+    "playersMax": 8,
+    "age": 14,
+    "duration": 25,
+    "year": 2022,
+    "publisher": "Quartett Verlag",
+    "platform": "Tisch",
+    "status": "Besitze ich",
+    "rating": 7.2,
+    "favorite": false,
+    "tags": [
+      "Quartett",
+      "Satire",
+      "Schnell"
+    ],
+    "description": "Dritter Teil der Reihe für kurze, bissige Kartenduelle.",
+    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=Tyrannenquartett+3"
+  },
+  {
+    "id": "tyrannenquartett-4",
+    "title": "Tyrannenquartett 4",
+    "type": "Kartenspiel",
+    "icon": "⚖️",
+    "playersMin": 2,
+    "playersMax": 8,
+    "age": 14,
+    "duration": 25,
+    "year": 2023,
+    "publisher": "Quartett Verlag",
+    "platform": "Tisch",
+    "status": "Besitze ich",
+    "rating": 7.1,
+    "favorite": false,
+    "tags": [
+      "Quartett",
+      "Satire",
+      "Neuauflage"
+    ],
+    "description": "Vierter Teil mit frischen Karten und bekannten Streitfragen.",
+    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=Tyrannenquartett+4"
+  },
+  {
+    "id": "the-same-same-game",
+    "title": "The Same Same Game",
+    "type": "Kartenspiel",
+    "icon": "🧠",
+    "playersMin": 3,
+    "playersMax": 8,
+    "age": 10,
+    "duration": 30,
+    "year": 2024,
+    "publisher": "The Same Same Studio",
+    "platform": "Tisch",
+    "status": "Besitze ich",
+    "rating": 7.6,
+    "favorite": false,
+    "tags": [
+      "Wortspiel",
+      "Kreativ",
+      "Party"
+    ],
+    "description": "Kreatives Partyspiel rund um überraschend ähnliche Antworten.",
+    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=The+Same+Same+Game"
+  },
+  {
+    "id": "spiele-klassiker-blatz",
+    "title": "Spiele Klassiker (von der Firma BLATZ)",
+    "type": "Brettspiel",
+    "icon": "🎯",
+    "playersMin": 2,
+    "playersMax": 6,
+    "age": 6,
+    "duration": 40,
+    "year": 2018,
+    "publisher": "BLATZ",
+    "platform": "Tisch",
+    "status": "Besitze ich",
+    "rating": 7.0,
+    "favorite": false,
+    "tags": [
+      "Familienspiel",
+      "Sammlung",
+      "Klassiker"
+    ],
+    "description": "Klassische Spielesammlung mit mehreren bekannten Brett- und Würfelspielen.",
+    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=Spiele+Klassiker+BLATZ"
+  },
+  {
+    "id": "push-ravensburger",
+    "title": "PUSH (Ravensburger)",
+    "type": "Kartenspiel",
+    "icon": "📈",
+    "playersMin": 2,
+    "playersMax": 6,
+    "age": 8,
+    "duration": 20,
+    "year": 2019,
+    "publisher": "Ravensburger",
+    "platform": "Tisch",
+    "status": "Besitze ich",
+    "rating": 7.5,
+    "favorite": false,
+    "tags": [
+      "Push your luck",
+      "Zahlen",
+      "Schnell"
+    ],
+    "description": "Punkte sichern oder weiterzocken – Risiko-Kartenspiel mit kurzen Zügen.",
+    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=PUSH+Ravensburger"
+  },
+  {
+    "id": "uno-no-mercy",
+    "title": "UNO No Mercy",
+    "type": "Kartenspiel",
+    "icon": "🔥",
+    "playersMin": 2,
+    "playersMax": 10,
+    "age": 7,
+    "duration": 30,
+    "year": 2023,
+    "publisher": "Mattel",
+    "platform": "Tisch",
+    "status": "Besitze ich",
+    "rating": 7.8,
+    "favorite": false,
+    "tags": [
+      "UNO",
+      "Gemein",
+      "Party"
+    ],
+    "description": "Härtere UNO-Variante mit fiesen Karten und viel Schadenfreude.",
+    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=UNO+No+Mercy"
+  },
+  {
+    "id": "uno-liar",
+    "title": "UNO Liar",
+    "type": "Kartenspiel",
+    "icon": "🎭",
+    "playersMin": 2,
+    "playersMax": 10,
+    "age": 7,
+    "duration": 25,
+    "year": 2024,
+    "publisher": "Mattel",
+    "platform": "Tisch",
+    "status": "Besitze ich",
+    "rating": 7.4,
+    "favorite": false,
+    "tags": [
+      "UNO",
+      "Bluff",
+      "Party"
+    ],
+    "description": "UNO-Ableger mit Bluff-Elementen und überraschenden Wendungen.",
+    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=UNO+Liar"
+  },
+  {
+    "id": "uno-zero",
+    "title": "UNO Zero",
+    "type": "Kartenspiel",
+    "icon": "0️⃣",
+    "playersMin": 2,
+    "playersMax": 10,
+    "age": 7,
+    "duration": 20,
+    "year": 2023,
+    "publisher": "Mattel",
+    "platform": "Tisch",
+    "status": "Besitze ich",
+    "rating": 7.1,
+    "favorite": false,
+    "tags": [
+      "UNO",
+      "Schnell",
+      "Familie"
+    ],
+    "description": "Sonderedition mit Fokus auf Nuller-Runden und schnellen Partien.",
+    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=UNO+Zero"
+  },
+  {
+    "id": "uno-flip",
+    "title": "UNO Flip",
+    "type": "Kartenspiel",
+    "icon": "🔄",
+    "playersMin": 2,
+    "playersMax": 10,
+    "age": 7,
+    "duration": 25,
+    "year": 2019,
+    "publisher": "Mattel",
+    "platform": "Tisch",
+    "status": "Besitze ich",
+    "rating": 7.7,
+    "favorite": false,
+    "tags": [
+      "UNO",
+      "Doppelseitig",
+      "Chaos"
+    ],
+    "description": "Beidseitige Karten für einen spontanen Wechsel in den fiesen Modus.",
+    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=UNO+Flip"
+  },
+  {
+    "id": "uno-teams",
+    "title": "UNO Teams",
+    "type": "Kartenspiel",
+    "icon": "🤝",
+    "playersMin": 4,
+    "playersMax": 8,
+    "age": 7,
+    "duration": 30,
+    "year": 2022,
+    "publisher": "Mattel",
+    "platform": "Tisch",
+    "status": "Besitze ich",
+    "rating": 7.3,
+    "favorite": false,
+    "tags": [
+      "UNO",
+      "Teamplay",
+      "Familie"
+    ],
+    "description": "UNO in Teams: gemeinsam planen, retten und den Partner unterstützen.",
+    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=UNO+Teams"
+  },
+  {
+    "id": "bombbusters",
+    "title": "BombBusters",
+    "type": "Brettspiel",
+    "icon": "💣",
+    "playersMin": 2,
+    "playersMax": 5,
+    "age": 10,
+    "duration": 35,
+    "year": 2024,
+    "publisher": "Pegasus Spiele",
+    "platform": "Tisch",
+    "status": "Besitze ich",
+    "rating": 8.0,
+    "favorite": true,
+    "tags": [
+      "Koop",
+      "Deduktion",
+      "Spannung"
+    ],
+    "description": "Kooperatives Entschärfen unter Zeitdruck mit nervenaufreibenden Entscheidungen.",
+    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=BombBusters"
+  },
+  {
+    "id": "bam-inkl-erweiterungen",
+    "title": "Bam (inkl. Erweiterungen)",
+    "type": "Kartenspiel",
+    "icon": "💥",
+    "playersMin": 3,
+    "playersMax": 8,
+    "age": 12,
+    "duration": 45,
+    "year": 2021,
+    "publisher": "Bam Games",
+    "platform": "Tisch",
+    "status": "Besitze ich",
+    "rating": 7.9,
+    "favorite": false,
+    "tags": [
+      "Party",
+      "Erweiterungen",
+      "Laut"
+    ],
+    "description": "Kommunikatives Partyspiel inklusive Erweiterungen für noch mehr Kartenchaos.",
+    "image": "https://dummyimage.com/640x360/2a210d/ffd84d.png&text=Bam+inkl.+Erweiterungen"
   }
 ]
