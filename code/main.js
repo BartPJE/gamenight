@@ -1,6 +1,5 @@
 const state = {
   category: "",
-  status: "",
 };
 
 let games = [];
@@ -42,18 +41,14 @@ function filteredGames() {
   const sort = $("sortFilter").value;
 
   const list = games.filter((game) => {
-    const haystack = [game.title, game.type, game.publisher, game.platform, game.status, game.location, ...game.tags]
-      .join(" ")
-      .toLowerCase();
+    const haystack = [game.title, game.type, game.publisher, game.platform, game.location, ...game.tags].join(" ").toLowerCase();
 
     const matchesSearch = !query || haystack.includes(query);
     const matchesType = !type || game.type === type;
     const matchesPlayers =
       !players || (players === 6 ? game.playersMax >= 6 : game.playersMin <= players && game.playersMax >= players);
     const matchesAge = !age || game.age <= age;
-    const matchesStatus = !state.status || game.status === state.status;
-
-    return matchesSearch && matchesType && matchesPlayers && matchesAge && matchesStatus;
+    return matchesSearch && matchesType && matchesPlayers && matchesAge;
   });
 
   list.sort((a, b) => {
@@ -72,7 +67,7 @@ function renderGames() {
   $("gameCards").innerHTML = list
     .map(
       (game) => `
-        <article class="game-card">
+        <a class="game-card" href="#spiel/${game.id}" aria-label="Details zu ${game.title}">
           <div class="cover">
             ${
               game.image
@@ -95,13 +90,11 @@ function renderGames() {
               <span class="tag">${game.platform}</span>
               <span class="tag">${game.location}</span>
               <span class="tag">${game.publisher}</span>
-              <span class="tag">${game.status}</span>
               ${game.bgg?.found ? '<span class="tag">BGG</span>' : '<span class="tag">BGG: Nicht gefunden</span>'}
               ${game.tags.map((tag) => `<span class="tag">${tag}</span>`).join("")}
             </div>
-            <a class="details-link" href="#spiel/${game.id}">Details ansehen</a>
           </div>
-        </article>
+        </a>
       `,
     )
     .join("");
@@ -130,12 +123,6 @@ function resetFilters() {
   $("ageFilter").value = "";
   $("sortFilter").value = "title";
   state.category = "";
-  state.status = "";
-
-  document.querySelectorAll("[data-status]").forEach((button) => {
-    button.classList.toggle("active", button.dataset.status === "");
-  });
-
   renderCategories();
   renderGames();
 }
@@ -207,18 +194,6 @@ function syncViewWithHash() {
 function bindEvents() {
   ["searchInput", "typeFilter", "playersFilter", "ageFilter", "sortFilter"].forEach((id) => {
     $(id).addEventListener("input", renderGames);
-  });
-
-  document.querySelectorAll("[data-status]").forEach((button) => {
-    button.addEventListener("click", () => {
-      state.status = button.dataset.status;
-
-      document.querySelectorAll("[data-status]").forEach((chip) => {
-        chip.classList.toggle("active", chip === button);
-      });
-
-      renderGames();
-    });
   });
 
   $("focusSearchButton").addEventListener("click", focusSearch);
