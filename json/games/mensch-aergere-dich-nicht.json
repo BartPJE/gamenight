@@ -1,0 +1,35 @@
+{
+  "id": "mensch-aergere-dich-nicht",
+  "title": "Mensch ärgere Dich nicht",
+  "type": "Brettspiel",
+  "icon": "🎲",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 6,
+  "duration": 30,
+  "year": 1914,
+  "publisher": "Schmidt Spiele",
+  "platform": "Tisch",
+  "status": "In Spielesammlung",
+  "rating": 6.2,
+  "favorite": false,
+  "tags": [
+    "Klassiker",
+    "Familienspiel"
+  ],
+  "description": "Würfelspiel-Klassiker, bei dem alle Figuren ins Ziel gebracht werden müssen.",
+  "image": "",
+  "collectionId": "spiele-klassiker-blatz",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/1594/ludo",
+    "note": "Als Ludo auf BoardGameGeek geführt."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Spielbrett",
+    "16 Spielfiguren",
+    "1 Würfel",
+    "Spielanleitung"
+  ]
+}
