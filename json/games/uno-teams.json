@@ -7,11 +7,11 @@
   "playersMax": 8,
   "age": 7,
   "duration": 30,
-  "year": 2022,
+  "year": 2024,
   "publisher": "Mattel",
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 7.3,
+  "rating": 5.9,
   "favorite": false,
   "tags": [
     "UNO",
@@ -19,7 +19,7 @@
     "Familie"
   ],
   "description": "UNO im 2er-Team: Partner koordinieren Karten und gewinnen nur gemeinsam.",
-  "image": "images/uno-teams.svg",
+  "image": "images/uno-teams.jpg",
   "bgg": {
     "found": true,
     "url": "https://boardgamegeek.com/boardgame/428030/uno-teams",
