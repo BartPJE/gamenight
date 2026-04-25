@@ -71,8 +71,9 @@ function renderGames() {
     .map(
       (game) => {
         const linkedGameId = game.collectionId || game.id;
+        const selectedGameParam = game.collectionId ? `?auswahl=${encodeURIComponent(game.id)}` : "";
         return `
-        <a class="game-card" href="#spiel/${linkedGameId}" aria-label="Details zu ${game.title}">
+        <a class="game-card" href="#spiel/${linkedGameId}${selectedGameParam}" aria-label="Details zu ${game.title}">
           <div class="cover">
             ${
               game.image
@@ -138,33 +139,14 @@ function resetFilters() {
   renderGames();
 }
 
-function renderGameDetail(game) {
-  if (!game) {
-    $("detailContent").innerHTML = `
-      <div class="detail-empty">
-        <h3>Spiel nicht gefunden</h3>
-        <p>Das gesuchte Spiel existiert nicht oder wurde aus dem Archiv entfernt.</p>
-      </div>
-    `;
-    return;
-  }
-
+function renderDetailCard(game, options = {}) {
+  const { title = game.title, subtitle = "", collectionLink = "" } = options;
   const gameContents =
     Array.isArray(game.contents) && game.contents.length
       ? game.contents
       : ["Keine Spiel-Inhalte hinterlegt."];
-  const containedGames = games
-    .filter((entry) => entry.collectionId === game.id)
-    .map((entry) => ({
-      id: entry.id,
-      title: entry.title,
-      year: entry.year,
-      playersMin: entry.playersMin,
-      playersMax: entry.playersMax,
-    }))
-    .toSorted((a, b) => a.title.localeCompare(b.title, "de"));
 
-  $("detailContent").innerHTML = `
+  return `
     <article class="detail-card">
       <div class="detail-cover">
         ${game.image ? `<img src="${game.image}" alt="Cover von ${game.title}" loading="lazy" />` : game.icon}
@@ -174,7 +156,8 @@ function renderGameDetail(game) {
           <span class="badge ${badgeClass(game.type)}">${game.type}</span>
           <span class="rating">★ ${game.rating.toFixed(1)}</span>
         </div>
-        <h3>${game.title}</h3>
+        <h3>${title}</h3>
+        ${subtitle ? `<p class="detail-subtitle">${subtitle}</p>` : ""}
         <p class="desc">${game.description}</p>
 
         <div class="detail-facts">
@@ -193,24 +176,6 @@ function renderGameDetail(game) {
           </ul>
         </div>
 
-        ${
-          containedGames.length
-            ? `
-        <div class="detail-section">
-          <h4>Enthaltene Spiele (${containedGames.length})</h4>
-          <ul class="content-list">
-            ${containedGames
-              .map(
-                (entry) =>
-                  `<li><strong>${entry.title}</strong> · ${entry.year} · ${entry.playersMin}-${entry.playersMax} Spieler</li>`,
-              )
-              .join("")}
-          </ul>
-        </div>
-        `
-            : ""
-        }
-
         <div class="tags">
           <span class="tag">${game.platform}</span>
           <span class="tag">${game.location}</span>
@@ -220,6 +185,7 @@ function renderGameDetail(game) {
               ? `<span class="tag"><a href="${game.bgg.url}" target="_blank" rel="noopener noreferrer">BoardGameGeek</a></span>`
               : '<span class="tag">BGG: Nicht gefunden</span>'
           }
+          ${collectionLink}
           ${game.tags.map((tag) => `<span class="tag">${tag}</span>`).join("")}
         </div>
       </div>
@@ -227,8 +193,67 @@ function renderGameDetail(game) {
   `;
 }
 
+function renderGameDetail(game, selectedGame) {
+  if (!game) {
+    $("detailContent").innerHTML = `
+      <div class="detail-empty">
+        <h3>Spiel nicht gefunden</h3>
+        <p>Das gesuchte Spiel existiert nicht oder wurde aus dem Archiv entfernt.</p>
+      </div>
+    `;
+    return;
+  }
+
+  const containedGames = games
+    .filter((entry) => entry.collectionId === game.id)
+    .map((entry) => ({
+      id: entry.id,
+      title: entry.title,
+      year: entry.year,
+      playersMin: entry.playersMin,
+      playersMax: entry.playersMax,
+    }))
+    .toSorted((a, b) => a.title.localeCompare(b.title, "de"));
+
+  const detailSections = [];
+
+  detailSections.push(
+    renderDetailCard(game, {
+      title: game.title,
+    }),
+  );
+
+  if (containedGames.length) {
+    detailSections.push(`
+      <section class="detail-section">
+        <h4>Enthaltene Spiele (${containedGames.length})</h4>
+        <ul class="content-list content-list-links">
+          ${containedGames
+            .map(
+              (entry) =>
+                `<li><a href="#spiel/${game.id}?auswahl=${encodeURIComponent(entry.id)}"><strong>${entry.title}</strong> · ${entry.year} · ${entry.playersMin}-${entry.playersMax} Spieler</a></li>`,
+            )
+            .join("")}
+        </ul>
+      </section>
+    `);
+  }
+
+  if (selectedGame && selectedGame.id !== game.id) {
+    detailSections.push(
+      renderDetailCard(selectedGame, {
+        title: `Ausgewähltes Spiel: ${selectedGame.title}`,
+        subtitle: `Dieses Spiel gehört zur Sammlung ${game.title}.`,
+        collectionLink: `<span class="tag"><a href="#spiel/${game.id}">Zur Sammlung</a></span>`,
+      }),
+    );
+  }
+
+  $("detailContent").innerHTML = `<div class="detail-stack">${detailSections.join("")}</div>`;
+}
+
 function syncViewWithHash() {
-  const match = window.location.hash.match(/^#spiel\/(.+)$/);
+  const match = window.location.hash.match(/^#spiel\/([^?]+)(?:\?(.+))?$/);
   const isDetail = Boolean(match);
 
   $("archiveView").style.display = isDetail ? "none" : "grid";
@@ -236,8 +261,11 @@ function syncViewWithHash() {
 
   if (isDetail) {
     const gameId = decodeURIComponent(match[1]);
+    const params = new URLSearchParams(match[2] || "");
+    const selectedGameId = params.get("auswahl");
     const game = games.find((entry) => entry.id === gameId);
-    renderGameDetail(game);
+    const selectedGame = selectedGameId ? games.find((entry) => entry.id === selectedGameId) : null;
+    renderGameDetail(game, selectedGame);
   }
 }
 
