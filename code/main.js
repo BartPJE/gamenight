@@ -42,7 +42,7 @@ function filteredGames() {
   const sort = $("sortFilter").value;
 
   const list = games.filter((game) => {
-    const haystack = [game.title, game.type, game.publisher, game.platform, game.status, ...game.tags]
+    const haystack = [game.title, game.type, game.publisher, game.platform, game.status, game.location, ...game.tags]
       .join(" ")
       .toLowerCase();
 
@@ -86,7 +86,6 @@ function renderGames() {
               <span class="rating">★ ${game.rating.toFixed(1)}</span>
             </div>
             <h4>${game.title}</h4>
-            <p class="desc">${game.description}</p>
             <div class="facts">
               <div class="fact"><small>Spieler</small><b>${game.playersMin}-${game.playersMax}</b></div>
               <div class="fact"><small>Alter</small><b>ab ${game.age}</b></div>
@@ -94,6 +93,7 @@ function renderGames() {
             </div>
             <div class="tags">
               <span class="tag">${game.platform}</span>
+              <span class="tag">${game.location}</span>
               <span class="tag">${game.publisher}</span>
               <span class="tag">${game.status}</span>
               ${game.bgg?.found ? '<span class="tag">BGG</span>' : '<span class="tag">BGG: Nicht gefunden</span>'}
@@ -170,11 +170,13 @@ function renderGameDetail(game) {
           <div class="fact"><small>Spieldauer</small><b>${game.duration} Min.</b></div>
           <div class="fact"><small>Erscheinungsjahr</small><b>${game.year}</b></div>
           <div class="fact"><small>Verlag</small><b>${game.publisher}</b></div>
+          <div class="fact"><small>Lagerort</small><b>${game.location}</b></div>
           <div class="fact"><small>Status</small><b>${game.status}</b></div>
         </div>
 
         <div class="tags">
           <span class="tag">${game.platform}</span>
+          <span class="tag">${game.location}</span>
           ${game.favorite ? '<span class="tag">Favorit</span>' : ""}
           ${
             game.bgg?.found
