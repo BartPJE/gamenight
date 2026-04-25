@@ -1,0 +1,33 @@
+{
+  "id": "kniffel",
+  "title": "Kniffel",
+  "type": "Brettspiel",
+  "icon": "🎲",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 8,
+  "duration": 30,
+  "year": 1956,
+  "publisher": "BLATZ",
+  "platform": "Tisch",
+  "status": "In Spielesammlung",
+  "rating": 6.7,
+  "favorite": false,
+  "tags": [
+    "Klassiker",
+    "Spielesammlung"
+  ],
+  "description": "Würfelspiel, bei dem Zahlenkombinationen clever gesammelt werden.",
+  "image": "",
+  "collectionId": "spiele-klassiker-blatz",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gepflegt."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Spielmaterial laut Sammlung",
+    "Spielanleitung"
+  ]
+}

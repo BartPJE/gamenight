@@ -1,0 +1,33 @@
+{
+  "id": "backgammon",
+  "title": "Backgammon",
+  "type": "Brettspiel",
+  "icon": "🎲",
+  "playersMin": 2,
+  "playersMax": 2,
+  "age": 8,
+  "duration": 30,
+  "year": 1646,
+  "publisher": "BLATZ",
+  "platform": "Tisch",
+  "status": "In Spielesammlung",
+  "rating": 7.1,
+  "favorite": false,
+  "tags": [
+    "Klassiker",
+    "Spielesammlung"
+  ],
+  "description": "Taktisches Würfel- und Laufspiel für zwei Personen.",
+  "image": "",
+  "collectionId": "spiele-klassiker-blatz",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gepflegt."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Spielmaterial laut Sammlung",
+    "Spielanleitung"
+  ]
+}

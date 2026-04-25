@@ -1,0 +1,33 @@
+{
+  "id": "schach",
+  "title": "Schach",
+  "type": "Brettspiel",
+  "icon": "♟️",
+  "playersMin": 2,
+  "playersMax": 2,
+  "age": 6,
+  "duration": 45,
+  "year": 1475,
+  "publisher": "BLATZ",
+  "platform": "Tisch",
+  "status": "In Spielesammlung",
+  "rating": 8.0,
+  "favorite": false,
+  "tags": [
+    "Klassiker",
+    "Spielesammlung"
+  ],
+  "description": "Strategieklassiker mit Figuren in klaren Rollen und Zielen.",
+  "image": "",
+  "collectionId": "spiele-klassiker-blatz",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gepflegt."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Spielmaterial laut Sammlung",
+    "Spielanleitung"
+  ]
+}

@@ -153,6 +153,10 @@ function renderGameDetail(game) {
     Array.isArray(game.contents) && game.contents.length
       ? game.contents
       : ["Keine Spiel-Inhalte hinterlegt."];
+  const containedGames = games
+    .filter((entry) => entry.collectionId === game.id)
+    .map((entry) => entry.title)
+    .toSorted((a, b) => a.localeCompare(b, "de"));
 
   $("detailContent").innerHTML = `
     <article class="detail-card">
@@ -182,6 +186,19 @@ function renderGameDetail(game) {
             ${gameContents.map((content) => `<li>${content}</li>`).join("")}
           </ul>
         </div>
+
+        ${
+          containedGames.length
+            ? `
+        <div class="detail-section">
+          <h4>Enthaltene Spiele (${containedGames.length})</h4>
+          <ul class="content-list">
+            ${containedGames.map((title) => `<li>${title}</li>`).join("")}
+          </ul>
+        </div>
+        `
+            : ""
+        }
 
         <div class="tags">
           <span class="tag">${game.platform}</span>
