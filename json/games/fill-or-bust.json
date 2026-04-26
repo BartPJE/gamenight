@@ -1,0 +1,33 @@
+{
+  "id": "fill-or-bust",
+  "title": "Fill or Bust",
+  "type": "Würfelspiel",
+  "icon": "🎲",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 30,
+  "year": 1988,
+  "publisher": "Patch Products",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Würfeln",
+    "Push your luck",
+    "Familie"
+  ],
+  "description": "Würfelklassiker mit Risiko: Punkte sammeln oder alles verzocken.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/193/fill-or-bust",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schrank",
+  "contents": [
+    "Würfel",
+    "Punkteblock",
+    "Spielanleitung"
+  ]
+}

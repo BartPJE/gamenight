@@ -1,0 +1,32 @@
+{
+  "id": "nope",
+  "title": "Nope",
+  "type": "Kartenspiel",
+  "icon": "🙅",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 20,
+  "year": 2018,
+  "publisher": "DSS Games",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Party",
+    "Reaktion",
+    "Chaos"
+  ],
+  "description": "Schnelles Kartenchaos, bei dem du mit einem lauten 'Nope' Spielzüge abwehrst.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/274049/nope",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schrank",
+  "contents": [
+    "Kartenstapel",
+    "Spielanleitung"
+  ]
+}

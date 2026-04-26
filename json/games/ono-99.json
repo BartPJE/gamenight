@@ -1,0 +1,32 @@
+{
+  "id": "ono-99",
+  "title": "ONO 99",
+  "type": "Kartenspiel",
+  "icon": "💯",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 7,
+  "duration": 20,
+  "year": 1980,
+  "publisher": "International Games",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Zahlen",
+    "Klassiker",
+    "Take That"
+  ],
+  "description": "Karten bis zur 99 spielen, ohne sie zu überschreiten – sonst fliegst du raus.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/7803/ono-99",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schrank",
+  "contents": [
+    "Kartenstapel",
+    "Spielanleitung"
+  ]
+}

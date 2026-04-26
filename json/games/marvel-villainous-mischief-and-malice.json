@@ -1,0 +1,36 @@
+{
+  "id": "marvel-villainous-mischief-and-malice",
+  "title": "Marvel Villainous: Mischief and Malice",
+  "type": "Kartenspiel",
+  "icon": "🧊",
+  "playersMin": 2,
+  "playersMax": 3,
+  "age": 12,
+  "duration": 50,
+  "year": 2023,
+  "publisher": "Ravensburger",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "collectionId": "marvel-villainous-infinite-power",
+  "hiddenFromOverview": true,
+  "tags": [
+    "Marvel",
+    "Erweiterung",
+    "Villainous"
+  ],
+  "description": "Erweiterung mit Loki, Madame Masque und M.O.D.O.K. für Marvel Villainous.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/335528/marvel-villainous-mischief-and-malice",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "3 Schurken-Decks",
+    "Spielertafeln",
+    "Marker",
+    "Spielanleitung"
+  ]
+}

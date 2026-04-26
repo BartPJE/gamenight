@@ -101,5 +101,19 @@
   "json/games/all-on-1-card.json",
   "json/games/star-wars-timeline-twist.json",
   "json/games/halt-mal-kurz-das-kanguru-spiel.json",
-  "json/games/las-vegas.json"
+  "json/games/las-vegas.json",
+  "json/games/nope.json",
+  "json/games/uno-flex.json",
+  "json/games/uno-all-wild.json",
+  "json/games/uno-add-on-packs-swap-pack.json",
+  "json/games/uno-add-on-packs-stack-pack.json",
+  "json/games/uno-add-on-packs-reverse-pack.json",
+  "json/games/uno-add-on-packs-speed-pack.json",
+  "json/games/ono-99.json",
+  "json/games/fill-or-bust.json",
+  "json/games/disney-villainous-the-worst-takes-it-all.json",
+  "json/games/disney-villainous-wicked-to-the-core.json",
+  "json/games/disney-villainous-despicable-plots.json",
+  "json/games/marvel-villainous-infinite-power.json",
+  "json/games/marvel-villainous-mischief-and-malice.json"
 ]
