@@ -1,0 +1,33 @@
+{
+  "id": "keep-talking-and-nobody-explodes",
+  "title": "Keep Talking and Nobody Explodes",
+  "type": "Partyspiel",
+  "icon": "💣",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 12,
+  "duration": 15,
+  "year": 2015,
+  "publisher": "Steel Crate Games",
+  "platform": "Digital",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Kooperativ",
+    "Kommunikation",
+    "Digital"
+  ],
+  "description": "Kooperatives Entschärfungsspiel: eine Person sieht die Bombe, die anderen lesen das Handbuch.",
+  "image": "",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spiel (digital)",
+    "Bombenhandbuch"
+  ]
+}

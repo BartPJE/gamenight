@@ -1,0 +1,33 @@
+{
+  "id": "orgasme-sex-turned-into-a-card-game",
+  "title": "ORGASME – Sex Turned into a Card Game",
+  "type": "Kartenspiel",
+  "icon": "🔞",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 18,
+  "duration": 30,
+  "year": 2016,
+  "publisher": "Unbekannt",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Erwachsene",
+    "Party",
+    "Humor"
+  ],
+  "description": "Kartenspiel für Erwachsene mit explizitem Party-Fokus.",
+  "image": "",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/202742/orgasme-sex-turned-into-a-card-game",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Kartenstapel",
+    "Spielanleitung"
+  ]
+}

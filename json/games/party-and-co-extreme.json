@@ -1,0 +1,33 @@
+{
+  "id": "party-and-co-extreme",
+  "title": "Party & Co Extreme",
+  "type": "Partyspiel",
+  "icon": "🎉",
+  "playersMin": 4,
+  "playersMax": 20,
+  "age": 16,
+  "duration": 45,
+  "year": 2006,
+  "publisher": "Diset",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Party",
+    "Teamspiel",
+    "Action"
+  ],
+  "description": "Extremere Party-&-Co-Variante mit Teamaufgaben und viel Bewegung.",
+  "image": "",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/29020/party-and-co-extreme",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Karten",
+    "Spielmaterial"
+  ]
+}

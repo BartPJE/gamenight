@@ -1,0 +1,34 @@
+{
+  "id": "minderheiten-quartett-soziale-kernschmelze",
+  "title": "Minderheiten Quartett: Soziale Kernschmelze",
+  "type": "Kartenspiel",
+  "icon": "☢️",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 14,
+  "duration": 25,
+  "year": 2013,
+  "publisher": "Unbekannt",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "collectionId": "minderheiten-quartett",
+  "hiddenFromOverview": true,
+  "tags": [
+    "Quartett",
+    "Erweiterung",
+    "Satire"
+  ],
+  "description": "Erweiterung zum Minderheiten Quartett mit zusätzlichen Karten.",
+  "image": "",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/136423/minderheiten-quartett-soziale-kernschmelze",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Erweiterungskarten"
+  ]
+}

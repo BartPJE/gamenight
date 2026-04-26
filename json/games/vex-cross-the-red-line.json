@@ -1,0 +1,32 @@
+{
+  "id": "vex-cross-the-red-line",
+  "title": "Vex: Cross the Red Line",
+  "type": "Kartenspiel",
+  "icon": "🧨",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 14,
+  "duration": 30,
+  "year": 2012,
+  "publisher": "Unbekannt",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Erweiterung",
+    "Take-That",
+    "Karten"
+  ],
+  "description": "Erweiterung für Vex mit zusätzlichen Karten und Effekten.",
+  "image": "",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/108309/vex-cross-the-red-line",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Erweiterungskarten"
+  ]
+}
