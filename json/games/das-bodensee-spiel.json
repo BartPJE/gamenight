@@ -1,0 +1,34 @@
+{
+  "id": "das-bodensee-spiel",
+  "title": "Das Bodensee-Spiel",
+  "type": "Brettspiel",
+  "icon": "🌊",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 45,
+  "year": 2005,
+  "publisher": "Regional",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Familie",
+    "Regional",
+    "Brettspiel"
+  ],
+  "description": "Familienspiel rund um die Bodensee-Region.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/21591/das-bodensee-spiel",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielbrett",
+    "Spielsteine",
+    "Karten",
+    "Spielanleitung"
+  ]
+}

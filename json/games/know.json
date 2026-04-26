@@ -1,0 +1,33 @@
+{
+  "id": "know",
+  "title": "Know",
+  "type": "Quizspiel",
+  "icon": "❓",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 12,
+  "duration": 30,
+  "year": 2018,
+  "publisher": "Ravensburger",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Wissen",
+    "Familie",
+    "Quiz"
+  ],
+  "description": "Quizspiel mit Fragen zu unterschiedlichen Wissensgebieten.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/260815/know",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Fragekarten",
+    "Spielmaterial",
+    "Spielanleitung"
+  ]
+}

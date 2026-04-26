@@ -1,0 +1,33 @@
+{
+  "id": "rummikub",
+  "title": "Rummikub",
+  "type": "Legespiel",
+  "icon": "🔢",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 7,
+  "duration": 45,
+  "year": 1977,
+  "publisher": "Pressman",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Zahlen",
+    "Familie",
+    "Klassiker"
+  ],
+  "description": "Zahlenplättchen in Gruppen und Reihen anlegen, um als Erste:r alle Steine abzulegen.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/811/rummikub",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Zahlensteine",
+    "Ablagebretter",
+    "Spielanleitung"
+  ]
+}

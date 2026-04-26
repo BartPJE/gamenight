@@ -1,0 +1,34 @@
+{
+  "id": "glucksrad",
+  "title": "Glücksrad",
+  "type": "Quizspiel",
+  "icon": "🎡",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 45,
+  "year": 2008,
+  "publisher": "Noris",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Wortspiel",
+    "Show",
+    "Familie"
+  ],
+  "description": "Buchstaben raten und Punkte sammeln im Stil der TV-Show.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/29293/glucksrad",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Spielbrett",
+    "Drehrad",
+    "Karten",
+    "Spielanleitung"
+  ]
+}

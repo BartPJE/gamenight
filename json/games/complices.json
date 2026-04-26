@@ -1,0 +1,32 @@
+{
+  "id": "complices",
+  "title": "Complices",
+  "type": "Partyspiel",
+  "icon": "🕵️",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 10,
+  "duration": 20,
+  "year": 2023,
+  "publisher": "Repos Production",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Kommunikation",
+    "Kooperativ",
+    "Party"
+  ],
+  "description": "Kooperatives Kommunikationsspiel, in dem Hinweise präzise abgestimmt werden müssen.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/364266/complices",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Karten",
+    "Spielanleitung"
+  ]
+}
