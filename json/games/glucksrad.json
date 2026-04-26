@@ -1,7 +1,7 @@
 {
   "id": "glucksrad",
-  "title": "Glücksrad",
-  "type": "Quizspiel",
+  "title": "Glücksrad - Ein lustiges Wettspiel",
+  "type": "Brettspiel",
   "icon": "🎡",
   "playersMin": 2,
   "playersMax": 6,
