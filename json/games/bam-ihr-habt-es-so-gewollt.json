@@ -1,0 +1,33 @@
+{
+  "id": "bam-ihr-habt-es-so-gewollt",
+  "title": "BAM! Ihr habt es so gewollt!",
+  "type": "Kartenspiel",
+  "icon": "😜",
+  "playersMin": 3,
+  "playersMax": 6,
+  "age": 16,
+  "duration": 30,
+  "year": 2017,
+  "publisher": "Pegasus Spiele",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Wortspiel",
+    "Erweiterung",
+    "Erwachsene"
+  ],
+  "description": "BAM! Ihr habt es so gewollt! in der Sammlung.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/235838/bam-ihr-habt-es-so-gewollt",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Spielmaterial"
+  ],
+  "collectionId": "bam-das-unanstandig-gute-wortspiel",
+  "hiddenFromOverview": true
+}
