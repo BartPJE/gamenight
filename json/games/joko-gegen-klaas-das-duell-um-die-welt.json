@@ -1,0 +1,34 @@
+{
+  "id": "joko-gegen-klaas-das-duell-um-die-welt",
+  "title": "Joko gegen Klaas - Das Duell um die Welt",
+  "type": "Partyspiel",
+  "icon": "🌍",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 12,
+  "duration": 45,
+  "year": 2022,
+  "publisher": "KOSMOS",
+  "platform": "Tisch",
+  "status": "In Spielesammlung",
+  "rating": 6.9,
+  "favorite": false,
+  "tags": [
+    "Quiz",
+    "Show",
+    "Party"
+  ],
+  "description": "Aufgaben und Wissensfragen inspiriert von der TV-Show Das Duell um die Welt.",
+  "image": "",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Noch nicht geprüft."
+  },
+  "location": "Flur",
+  "contents": [
+    "Karten",
+    "Aktionskarten",
+    "Spielanleitung"
+  ]
+}

@@ -32,5 +32,22 @@
   "json/games/uno-liar.json",
   "json/games/uno-zero.json",
   "json/games/uno-flip.json",
-  "json/games/uno-teams.json"
+  "json/games/uno-teams.json",
+  "json/games/pili-pili.json",
+  "json/games/dumm-gelaufen.json",
+  "json/games/partyalarm.json",
+  "json/games/partyalarm-ab18.json",
+  "json/games/same-same.json",
+  "json/games/beat-that.json",
+  "json/games/happy-little-dinosaurs.json",
+  "json/games/lol-die-ultimative-nicht-lachen-challenge.json",
+  "json/games/lol-last-one-laughing.json",
+  "json/games/lol-last-one-laughing-mini.json",
+  "json/games/play-hit-90s-2000s.json",
+  "json/games/play-hit-2010-2025.json",
+  "json/games/arschkarte.json",
+  "json/games/joko-gegen-klaas-das-duell-um-die-welt.json",
+  "json/games/exploding-kittens-neulings-edition.json",
+  "json/games/das-duell-um-die-geld.json",
+  "json/games/tick-tick-bumm.json"
 ]

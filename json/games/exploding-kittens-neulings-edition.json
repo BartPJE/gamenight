@@ -1,0 +1,33 @@
+{
+  "id": "exploding-kittens-neulings-edition",
+  "title": "Exploding Kittens - Neulings Edition",
+  "type": "Kartenspiel",
+  "icon": "💥",
+  "playersMin": 2,
+  "playersMax": 5,
+  "age": 7,
+  "duration": 15,
+  "year": 2023,
+  "publisher": "Exploding Kittens",
+  "platform": "Tisch",
+  "status": "In Spielesammlung",
+  "rating": 6.8,
+  "favorite": false,
+  "tags": [
+    "Humor",
+    "Schnell",
+    "Familie"
+  ],
+  "description": "Einsteigerfreundliche Version von Exploding Kittens mit vereinfachten Regeln.",
+  "image": "",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/172225/exploding-kittens",
+    "note": "Basisspiel auf BoardGameGeek gefunden."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Karten",
+    "Spielanleitung"
+  ]
+}

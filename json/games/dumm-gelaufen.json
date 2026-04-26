@@ -1,0 +1,33 @@
+{
+  "id": "dumm-gelaufen",
+  "title": "Dumm gelaufen",
+  "type": "Kartenspiel",
+  "icon": "😅",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 25,
+  "year": 2018,
+  "publisher": "Schmidt Spiele",
+  "platform": "Tisch",
+  "status": "In Spielesammlung",
+  "rating": 6.3,
+  "favorite": false,
+  "tags": [
+    "Familie",
+    "Glück",
+    "Locker"
+  ],
+  "description": "Leicht zugängliches Kartenspiel mit Schadenfreude-Momenten.",
+  "image": "",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Noch nicht geprüft."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Karten",
+    "Spielanleitung"
+  ]
+}

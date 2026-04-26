@@ -1,0 +1,35 @@
+{
+  "id": "happy-little-dinosaurs",
+  "title": "Happy Little Dinosaurs",
+  "type": "Kartenspiel",
+  "icon": "🦕",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 8,
+  "duration": 30,
+  "year": 2020,
+  "publisher": "Exploding Kittens",
+  "platform": "Tisch",
+  "status": "In Spielesammlung",
+  "rating": 7.1,
+  "favorite": false,
+  "tags": [
+    "Humor",
+    "Taktik",
+    "Dinosaurier"
+  ],
+  "description": "Niedliche Dinosaurier versuchen, Katastrophen zu überstehen und zu punkten.",
+  "image": "",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/325635/happy-little-dinosaurs",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Karten",
+    "Dino-Figuren",
+    "Punkteleiste",
+    "Spielanleitung"
+  ]
+}
