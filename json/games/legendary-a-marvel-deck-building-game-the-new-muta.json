@@ -1,23 +1,24 @@
 {
   "id": "legendary-a-marvel-deck-building-game-the-new-muta",
-  "title": "Legendary a MARVEL Deck Building Game the New Muta",
+  "title": "Legendary: A Marvel Deck Building Game – The New Mutants",
   "type": "Kartenspiel",
   "icon": "🃏",
-  "playersMin": 2,
-  "playersMax": 4,
-  "age": 10,
+  "playersMin": 1,
+  "playersMax": 5,
+  "age": 14,
   "duration": 45,
   "year": 2020,
-  "publisher": "Unbekannt",
+  "publisher": "Upper Deck Entertainment",
   "platform": "Tisch",
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
   "tags": [
     "Erweiterung",
-    "Neu hinzugefügt"
+    "Deckbuilding",
+    "Marvel"
   ],
-  "description": "Neu hinzugefügter Eintrag aus der Spielesammlung.",
+  "description": "Erweiterung für Legendary: A Marvel Deck Building Game mit dem Schwerpunkt The New Mutants.",
   "bgg": {
     "found": true,
     "url": "https://boardgamegeek.com/boardgameexpansion/305035/legendary-a-marvel-deck-building-game-the-new-muta",

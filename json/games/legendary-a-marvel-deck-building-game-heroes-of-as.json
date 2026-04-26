@@ -1,23 +1,24 @@
 {
   "id": "legendary-a-marvel-deck-building-game-heroes-of-as",
-  "title": "Legendary a MARVEL Deck Building Game Heroes of As",
+  "title": "Legendary: A Marvel Deck Building Game – Heroes of Asgard",
   "type": "Kartenspiel",
   "icon": "🃏",
-  "playersMin": 2,
-  "playersMax": 4,
-  "age": 10,
+  "playersMin": 1,
+  "playersMax": 5,
+  "age": 14,
   "duration": 45,
   "year": 2020,
-  "publisher": "Unbekannt",
+  "publisher": "Upper Deck Entertainment",
   "platform": "Tisch",
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
   "tags": [
     "Erweiterung",
-    "Neu hinzugefügt"
+    "Deckbuilding",
+    "Marvel"
   ],
-  "description": "Neu hinzugefügter Eintrag aus der Spielesammlung.",
+  "description": "Erweiterung für Legendary: A Marvel Deck Building Game mit dem Schwerpunkt Heroes of Asgard.",
   "bgg": {
     "found": true,
     "url": "https://boardgamegeek.com/boardgameexpansion/295285/legendary-a-marvel-deck-building-game-heroes-of-as",

@@ -5,18 +5,20 @@
   "icon": "🎲",
   "playersMin": 2,
   "playersMax": 4,
-  "age": 10,
-  "duration": 45,
-  "year": 2020,
-  "publisher": "Unbekannt",
+  "age": 6,
+  "duration": 30,
+  "year": 1960,
+  "publisher": "Ravensburger",
   "platform": "Tisch",
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
   "tags": [
-    "Neu hinzugefügt"
+    "Klassiker",
+    "Familie",
+    "Taktik"
   ],
-  "description": "Neu hinzugefügter Eintrag aus der Spielesammlung.",
+  "description": "Laufspiel-Klassiker mit Sperrsteinen: blockiere Gegner und bahne dir den Weg ins Ziel.",
   "bgg": {
     "found": true,
     "url": "https://boardgamegeek.com/boardgame/2322/malefiz",

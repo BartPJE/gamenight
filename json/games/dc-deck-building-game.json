@@ -1,22 +1,24 @@
 {
   "id": "dc-deck-building-game",
-  "title": "DC Deck Building Game",
+  "title": "DC Deck-Building Game",
   "type": "Kartenspiel",
   "icon": "🃏",
   "playersMin": 2,
-  "playersMax": 4,
-  "age": 10,
+  "playersMax": 5,
+  "age": 15,
   "duration": 45,
-  "year": 2020,
-  "publisher": "Unbekannt",
+  "year": 2012,
+  "publisher": "Cryptozoic Entertainment",
   "platform": "Tisch",
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
   "tags": [
-    "Neu hinzugefügt"
+    "Deckbuilding",
+    "Superhelden",
+    "Kompetitiv"
   ],
-  "description": "Neu hinzugefügter Eintrag aus der Spielesammlung.",
+  "description": "Baut euer Deck mit DC-Helden und besiegt Superschurken für Siegpunkte.",
   "bgg": {
     "found": true,
     "url": "https://boardgamegeek.com/boardgame/125678/dc-deck-building-game",

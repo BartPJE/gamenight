@@ -4,19 +4,21 @@
   "type": "Kartenspiel",
   "icon": "🃏",
   "playersMin": 2,
-  "playersMax": 4,
-  "age": 10,
-  "duration": 45,
-  "year": 2020,
-  "publisher": "Unbekannt",
+  "playersMax": 5,
+  "age": 8,
+  "duration": 15,
+  "year": 2008,
+  "publisher": "Hasbro",
   "platform": "Tisch",
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
   "tags": [
-    "Neu hinzugefügt"
+    "Klassiker",
+    "Set Collection",
+    "Schnell"
   ],
-  "description": "Neu hinzugefügter Eintrag aus der Spielesammlung.",
+  "description": "Schnelle Kartenvariante von Monopoly: sammle 3 vollständige Sets vor den Mitspielern.",
   "bgg": {
     "found": true,
     "url": "https://boardgamegeek.com/boardgame/40398/monopoly-deal-card-game",

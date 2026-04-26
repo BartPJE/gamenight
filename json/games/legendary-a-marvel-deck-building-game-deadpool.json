@@ -1,23 +1,24 @@
 {
   "id": "legendary-a-marvel-deck-building-game-deadpool",
-  "title": "Legendary a MARVEL Deck Building Game Deadpool",
+  "title": "Legendary: A Marvel Deck Building Game – Deadpool",
   "type": "Kartenspiel",
   "icon": "🃏",
-  "playersMin": 2,
-  "playersMax": 4,
-  "age": 10,
+  "playersMin": 1,
+  "playersMax": 5,
+  "age": 14,
   "duration": 45,
-  "year": 2020,
-  "publisher": "Unbekannt",
+  "year": 2017,
+  "publisher": "Upper Deck Entertainment",
   "platform": "Tisch",
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
   "tags": [
     "Erweiterung",
-    "Neu hinzugefügt"
+    "Deckbuilding",
+    "Marvel"
   ],
-  "description": "Neu hinzugefügter Eintrag aus der Spielesammlung.",
+  "description": "Erweiterung für Legendary: A Marvel Deck Building Game mit dem Schwerpunkt Deadpool.",
   "bgg": {
     "found": true,
     "url": "https://boardgamegeek.com/boardgameexpansion/200983/legendary-a-marvel-deck-building-game-deadpool",

@@ -1,23 +1,24 @@
 {
   "id": "legendary-a-marvel-deck-building-game-messiah-comp",
-  "title": "Legendary a MARVEL Deck Building Game Messiah Comp",
+  "title": "Legendary: A Marvel Deck Building Game – Messiah Complex",
   "type": "Kartenspiel",
   "icon": "🃏",
-  "playersMin": 2,
-  "playersMax": 4,
-  "age": 10,
+  "playersMin": 1,
+  "playersMax": 5,
+  "age": 14,
   "duration": 45,
-  "year": 2020,
-  "publisher": "Unbekannt",
+  "year": 2022,
+  "publisher": "Upper Deck Entertainment",
   "platform": "Tisch",
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
   "tags": [
     "Erweiterung",
-    "Neu hinzugefügt"
+    "Deckbuilding",
+    "Marvel"
   ],
-  "description": "Neu hinzugefügter Eintrag aus der Spielesammlung.",
+  "description": "Erweiterung für Legendary: A Marvel Deck Building Game mit dem Schwerpunkt Messiah Complex.",
   "bgg": {
     "found": true,
     "url": "https://boardgamegeek.com/boardgameexpansion/344481/legendary-a-marvel-deck-building-game-messiah-comp",

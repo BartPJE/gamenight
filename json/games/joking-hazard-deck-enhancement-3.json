@@ -1,23 +1,24 @@
 {
   "id": "joking-hazard-deck-enhancement-3",
-  "title": "Joking Hazard Deck Enhancement 3",
+  "title": "Joking Hazard: Deck Enhancement 3",
   "type": "Kartenspiel",
   "icon": "🃏",
-  "playersMin": 2,
-  "playersMax": 4,
-  "age": 10,
-  "duration": 45,
-  "year": 2020,
-  "publisher": "Unbekannt",
+  "playersMin": 3,
+  "playersMax": 10,
+  "age": 17,
+  "duration": 30,
+  "year": 2019,
+  "publisher": "Explosm",
   "platform": "Tisch",
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
   "tags": [
     "Erweiterung",
-    "Neu hinzugefügt"
+    "Humor",
+    "Partyspiel"
   ],
-  "description": "Neu hinzugefügter Eintrag aus der Spielesammlung.",
+  "description": "Erweiterung für Joking Hazard mit zusätzlichen, bewusst schwarzhumorigen Karten.",
   "bgg": {
     "found": true,
     "url": "https://boardgamegeek.com/boardgameexpansion/266202/joking-hazard-deck-enhancement-3",

@@ -5,18 +5,20 @@
   "icon": "🃏",
   "playersMin": 2,
   "playersMax": 4,
-  "age": 10,
-  "duration": 45,
-  "year": 2020,
-  "publisher": "Unbekannt",
+  "age": 8,
+  "duration": 15,
+  "year": 2019,
+  "publisher": "Mattel",
   "platform": "Tisch",
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
   "tags": [
-    "Neu hinzugefügt"
+    "Zeichnen",
+    "Partyspiel",
+    "Schnell"
   ],
-  "description": "Neu hinzugefügter Eintrag aus der Spielesammlung.",
+  "description": "Kompakte Kartenvariante von Pictionary für schnelle Zeichenrunden unterwegs.",
   "bgg": {
     "found": true,
     "url": "https://boardgamegeek.com/boardgame/266119/pictionary-pocket",

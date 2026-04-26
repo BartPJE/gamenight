@@ -1,22 +1,24 @@
 {
   "id": "guess-who-card-game",
-  "title": "Guess Who Card Game",
+  "title": "Guess Who? Card Game",
   "type": "Kartenspiel",
   "icon": "🃏",
   "playersMin": 2,
   "playersMax": 4,
-  "age": 10,
-  "duration": 45,
+  "age": 5,
+  "duration": 15,
   "year": 2020,
-  "publisher": "Unbekannt",
+  "publisher": "Hasbro",
   "platform": "Tisch",
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
   "tags": [
-    "Neu hinzugefügt"
+    "Kinder",
+    "Deduktion",
+    "Schnell"
   ],
-  "description": "Neu hinzugefügter Eintrag aus der Spielesammlung.",
+  "description": "Frage-Antwort-Kartenspiel im Stil von Wer ist es?, um die gesuchte Person zu erraten.",
   "bgg": {
     "found": true,
     "url": "https://boardgamegeek.com/boardgame/302584/guess-who-card-game",

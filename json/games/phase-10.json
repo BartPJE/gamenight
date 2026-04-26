@@ -4,19 +4,21 @@
   "type": "Kartenspiel",
   "icon": "🃏",
   "playersMin": 2,
-  "playersMax": 4,
-  "age": 10,
-  "duration": 45,
-  "year": 2020,
-  "publisher": "Unbekannt",
+  "playersMax": 6,
+  "age": 7,
+  "duration": 60,
+  "year": 1982,
+  "publisher": "Mattel",
   "platform": "Tisch",
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
   "tags": [
-    "Neu hinzugefügt"
+    "Rummy",
+    "Klassiker",
+    "Set Collection"
   ],
-  "description": "Neu hinzugefügter Eintrag aus der Spielesammlung.",
+  "description": "Rummy-Kartenspiel mit zehn aufeinanderfolgenden Phasen, die in Reihenfolge erfüllt werden müssen.",
   "bgg": {
     "found": true,
     "url": "https://boardgamegeek.com/boardgame/1258/phase-10",

@@ -5,18 +5,20 @@
   "icon": "🎲",
   "playersMin": 2,
   "playersMax": 4,
-  "age": 10,
-  "duration": 45,
-  "year": 2020,
-  "publisher": "Unbekannt",
+  "age": 8,
+  "duration": 20,
+  "year": 2010,
+  "publisher": "Schmidt Spiele",
   "platform": "Tisch",
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
   "tags": [
-    "Neu hinzugefügt"
+    "Echtzeit",
+    "Würfel",
+    "Familienspiel"
   ],
-  "description": "Neu hinzugefügter Eintrag aus der Spielesammlung.",
+  "description": "Hektisches Echtzeit-Würfelspiel im Ligretto-Stil: schnell reagieren und passend ablegen.",
   "bgg": {
     "found": true,
     "url": "https://boardgamegeek.com/boardgame/55835/ligretto-dice",
