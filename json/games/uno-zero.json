@@ -10,7 +10,7 @@
   "year": 2023,
   "publisher": "Mattel",
   "platform": "Tisch",
-  "status": "Besitze ich",
+  "status": "Besitze ich nicht",
   "rating": 5.8,
   "favorite": false,
   "tags": [
@@ -29,5 +29,7 @@
   "contents": [
     "Kartenstapel",
     "Spielanleitung"
-  ]
+  ],
+  "collectionId": "uno-zero",
+  "hiddenFromOverview": false
 }

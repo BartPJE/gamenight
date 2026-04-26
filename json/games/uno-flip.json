@@ -29,5 +29,7 @@
   "contents": [
     "Kartenstapel",
     "Spielanleitung"
-  ]
+  ],
+  "collectionId": "uno-flip",
+  "hiddenFromOverview": false
 }

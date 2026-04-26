@@ -25,9 +25,11 @@
     "url": "",
     "note": "Nicht auf BoardGameGeek gefunden."
   },
-  "location": "Kämmerle",
+  "location": "Flur",
   "contents": [
     "Kartenstapel",
     "Spielanleitung"
-  ]
+  ],
+  "collectionId": "uno-liar",
+  "hiddenFromOverview": false
 }

@@ -13,7 +13,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "collectionId": "uno-no-mercy",
+  "collectionId": "uno",
   "hiddenFromOverview": true,
   "tags": [
     "UNO",
@@ -26,7 +26,7 @@
     "url": "https://boardgamegeek.com/boardgameexpansion/440973/uno-add-on-packs-reverse-pack",
     "note": "Auf BoardGameGeek gefunden."
   },
-  "location": "Schrank",
+  "location": "Flur",
   "contents": [
     "Erweiterungskarten"
   ]
