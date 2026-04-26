@@ -1,0 +1,32 @@
+{
+  "id": "canasta",
+  "title": "Canasta",
+  "type": "Kartenspiel",
+  "icon": "♥️",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 10,
+  "duration": 60,
+  "year": 1948,
+  "publisher": "Mehrere Verlage",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 6.3,
+  "favorite": false,
+  "tags": [
+    "Stichspiel",
+    "Klassiker",
+    "Rommé-Familie"
+  ],
+  "description": "Klassisches Kartenablege- und Sammelspiel der Rommé-Familie.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/17104/canasta",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schrank",
+  "contents": [
+    "2 Kartendecks",
+    "Punkteblock"
+  ]
+}

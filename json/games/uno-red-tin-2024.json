@@ -1,0 +1,33 @@
+{
+  "id": "uno-red-tin-2024",
+  "title": "UNO (Mattel Tin Box Red Edition, 2024)",
+  "type": "Kartenspiel",
+  "icon": "🟥",
+  "playersMin": 2,
+  "playersMax": 10,
+  "age": 7,
+  "duration": 20,
+  "year": 2024,
+  "publisher": "Mattel",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "collectionId": "uno",
+  "hiddenFromOverview": true,
+  "tags": [
+    "Erweiterung",
+    "Sonderedition",
+    "UNO"
+  ],
+  "description": "Mehrsprachige UNO-Metallbox (Red Edition 2024).",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameversion/762326/multilingual-mattel-tin-box-red-edition-2024",
+    "note": "Auf BoardGameGeek als Versionseintrag gefunden."
+  },
+  "location": "Schrank",
+  "contents": [
+    "UNO-Karten in Metallbox"
+  ]
+}

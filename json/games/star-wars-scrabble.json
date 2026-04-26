@@ -1,0 +1,35 @@
+{
+  "id": "star-wars-scrabble",
+  "title": "Star Wars Scrabble",
+  "type": "Brettspiel",
+  "icon": "⭐",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 10,
+  "duration": 50,
+  "year": 2022,
+  "publisher": "Mattel",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Wortspiel",
+    "Star Wars",
+    "Lizenzspiel"
+  ],
+  "description": "Scrabble im Star-Wars-Design mit galaktischen Begriffen und Sonderregeln.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/353598/star-wars-scrabble",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielbrett",
+    "Buchstabensteine",
+    "Steinhalter",
+    "Beutel",
+    "Regeln"
+  ]
+}

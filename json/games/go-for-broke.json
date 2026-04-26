@@ -1,0 +1,34 @@
+{
+  "id": "go-for-broke",
+  "title": "Go for Broke",
+  "type": "Brettspiel",
+  "icon": "💸",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 45,
+  "year": 1965,
+  "publisher": "Parker Brothers",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 5.0,
+  "favorite": false,
+  "tags": [
+    "Klassiker",
+    "Risiko",
+    "Familie"
+  ],
+  "description": "Klassisches Brettspiel rund um Schulden, Risiko und Glück.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/3343/go-for-broke",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schrank",
+  "contents": [
+    "Spielbrett",
+    "Karten",
+    "Geldscheine",
+    "Spielfiguren"
+  ]
+}

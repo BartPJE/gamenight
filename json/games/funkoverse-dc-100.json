@@ -1,0 +1,34 @@
+{
+  "id": "funkoverse-dc-100",
+  "title": "Funkoverse Strategy Game: DC Comics 100",
+  "type": "Brettspiel",
+  "icon": "🦸",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 10,
+  "duration": 40,
+  "year": 2020,
+  "publisher": "Funko Games",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 7.2,
+  "favorite": false,
+  "tags": [
+    "Taktik",
+    "DC",
+    "Szenario"
+  ],
+  "description": "Taktisches Skirmish-Spiel im DC-Universum mit Funkoverse-Figuren.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/292034/funkoverse-strategy-game-dc-comics-100",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielfeldteile",
+    "Figuren",
+    "Marker",
+    "Szenariokarten"
+  ]
+}

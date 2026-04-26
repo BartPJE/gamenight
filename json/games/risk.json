@@ -1,0 +1,34 @@
+{
+  "id": "risk",
+  "title": "Risk",
+  "type": "Brettspiel",
+  "icon": "🗺️",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 10,
+  "duration": 120,
+  "year": 1959,
+  "publisher": "Hasbro",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 6.2,
+  "favorite": false,
+  "tags": [
+    "Strategie",
+    "Eroberung",
+    "Klassiker"
+  ],
+  "description": "Welteroberungs-Klassiker mit Truppen, Kontinent-Boni und Würfelkämpfen.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/181/risk",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schrank",
+  "contents": [
+    "Spielbrett",
+    "Armeen",
+    "Würfel",
+    "Missionskarten"
+  ]
+}

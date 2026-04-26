@@ -1,0 +1,31 @@
+{
+  "id": "petztett",
+  "title": "Petztett",
+  "type": "Kartenspiel",
+  "icon": "🧩",
+  "playersMin": 3,
+  "playersMax": 8,
+  "age": 8,
+  "duration": 20,
+  "year": 2026,
+  "publisher": "Eigenes Quartett Spiel",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Quartett",
+    "Eigenbau",
+    "Familie"
+  ],
+  "description": "Eigenes Quartett-Kartenspiel aus der Sammlung.",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Eigenes Spiel ohne BoardGameGeek-Eintrag."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Quartettkarten"
+  ]
+}

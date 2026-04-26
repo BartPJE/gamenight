@@ -1,0 +1,36 @@
+{
+  "id": "funkoverse-bttf-100",
+  "title": "Funkoverse Strategy Game: Back to the Future 100",
+  "type": "Brettspiel",
+  "icon": "⏱️",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 10,
+  "duration": 40,
+  "year": 2020,
+  "publisher": "Funko Games",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 7.1,
+  "favorite": false,
+  "collectionId": "funkoverse-dc-100",
+  "hiddenFromOverview": true,
+  "tags": [
+    "Erweiterung",
+    "Back to the Future",
+    "Crossover"
+  ],
+  "description": "Funkoverse-Set mit Marty und Doc, kompatibel mit anderen 100er-Sets.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/302991/funkoverse-strategy-game-back-to-the-future-100",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "2 Figuren",
+    "Charakterkarten",
+    "Marker",
+    "Szenariokarten"
+  ]
+}
