@@ -7,11 +7,11 @@
   "playersMax": 5,
   "age": 7,
   "duration": 15,
-  "year": 2023,
+  "year": 2015,
   "publisher": "Exploding Kittens",
   "platform": "Tisch",
   "status": "In Spielesammlung",
-  "rating": 6.8,
+  "rating": 6.1,
   "favorite": false,
   "tags": [
     "Humor",
@@ -19,13 +19,13 @@
     "Familie"
   ],
   "description": "Einsteigerfreundliche Version von Exploding Kittens mit vereinfachten Regeln.",
-  "image": "",
+  "image": "images/exploding-kittens.webp",
   "bgg": {
     "found": true,
     "url": "https://boardgamegeek.com/boardgame/172225/exploding-kittens",
     "note": "Basisspiel auf BoardGameGeek gefunden."
   },
-  "location": "Wohnzimmer",
+  "location": "Flur",
   "contents": [
     "Karten",
     "Spielanleitung"

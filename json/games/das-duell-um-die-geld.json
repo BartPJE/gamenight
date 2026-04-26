@@ -3,12 +3,12 @@
   "title": "Das Duell um die Geld",
   "type": "Quizspiel",
   "icon": "💶",
-  "playersMin": 2,
-  "playersMax": 8,
+  "playersMin": 3,
+  "playersMax": 5,
   "age": 12,
-  "duration": 35,
-  "year": 2020,
-  "publisher": "Noris",
+  "duration": 60,
+  "year": 2016,
+  "publisher": "Clementoni",
   "platform": "Tisch",
   "status": "In Spielesammlung",
   "rating": 6.1,
@@ -19,11 +19,11 @@
     "Party"
   ],
   "description": "Fragen- und Bluffspiel rund ums Thema Geld und Entscheidungen.",
-  "image": "",
+  "image": "images/das-duell-um-die-geld.webp",
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Noch nicht geprüft."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/216895/das-duell-um-die-geld",
+    "note": "Auf BoardGameGeek gefunden."
   },
   "location": "Flur",
   "contents": [

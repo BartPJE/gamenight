@@ -7,11 +7,11 @@
   "playersMax": 4,
   "age": 8,
   "duration": 30,
-  "year": 2020,
-  "publisher": "Exploding Kittens",
+  "year": 2021,
+  "publisher": "Unstable Games",
   "platform": "Tisch",
   "status": "In Spielesammlung",
-  "rating": 7.1,
+  "rating": 6.2,
   "favorite": false,
   "tags": [
     "Humor",
@@ -19,7 +19,7 @@
     "Dinosaurier"
   ],
   "description": "Niedliche Dinosaurier versuchen, Katastrophen zu überstehen und zu punkten.",
-  "image": "",
+  "image": "images/happy-little-dinosaurs.webp",
   "bgg": {
     "found": true,
     "url": "https://boardgamegeek.com/boardgame/325635/happy-little-dinosaurs",
