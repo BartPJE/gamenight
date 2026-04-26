@@ -6,26 +6,26 @@
   "playersMin": 2,
   "playersMax": 2,
   "age": 6,
-  "duration": 25,
-  "year": 1800,
-  "publisher": "BLATZ",
+  "duration": 30,
+  "year": 1150,
+  "publisher": "Schmidt Spiele",
   "platform": "Tisch",
   "status": "In Spielesammlung",
-  "rating": 6.5,
+  "rating": 4.9,
   "favorite": false,
   "tags": [
     "Klassiker",
     "Spielesammlung"
   ],
   "description": "Klassisches Strategiespiel mit diagonalen Zügen und Schlagen.",
-  "image": "",
+  "image": "images/dame.jpg",
   "collectionId": "spiele-klassiker-blatz",
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gepflegt."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/2083/checkers",
+    "note": "Auf BoardGameGeek gefunden."
   },
-  "location": "Wohnzimmer",
+  "location": "Kinder-Box",
   "contents": [
     "Spielmaterial laut Sammlung",
     "Spielanleitung"

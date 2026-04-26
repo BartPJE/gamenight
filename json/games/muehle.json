@@ -8,24 +8,24 @@
   "age": 6,
   "duration": 20,
   "year": 1400,
-  "publisher": "BLATZ",
+  "publisher": "Schmidt Spiele",
   "platform": "Tisch",
   "status": "In Spielesammlung",
-  "rating": 6.8,
+  "rating": 5.4,
   "favorite": false,
   "tags": [
     "Klassiker",
     "Spielesammlung"
   ],
   "description": "Traditionelles Platzierungsspiel mit Mühlenbildung.",
-  "image": "",
+  "image": "images/muehle.png",
   "collectionId": "spiele-klassiker-blatz",
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gepflegt."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/3886/nine-mens-morris",
+    "note": "Auf BoardGameGeek gefunden."
   },
-  "location": "Wohnzimmer",
+  "location": "Kinder-Box",
   "contents": [
     "Spielmaterial laut Sammlung",
     "Spielanleitung"

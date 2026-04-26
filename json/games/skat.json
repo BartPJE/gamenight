@@ -6,26 +6,26 @@
   "playersMin": 3,
   "playersMax": 3,
   "age": 10,
-  "duration": 45,
+  "duration": 30,
   "year": 1810,
-  "publisher": "BLATZ",
+  "publisher": "ASS Altenburger",
   "platform": "Tisch",
   "status": "In Spielesammlung",
-  "rating": 7.4,
+  "rating": 7.3,
   "favorite": false,
   "tags": [
     "Klassiker",
     "Spielesammlung"
   ],
   "description": "Stichspielklassiker für drei Personen mit Reizen und Trumpfspiel.",
-  "image": "",
+  "image": "images/skat.jpeg",
   "collectionId": "spiele-klassiker-blatz",
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gepflegt."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/6819/skat",
+    "note": "Auf BoardGameGeek gefunden."
   },
-  "location": "Wohnzimmer",
+  "location": "Kinder-Box",
   "contents": [
     "Spielmaterial laut Sammlung",
     "Spielanleitung"

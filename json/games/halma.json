@@ -5,27 +5,27 @@
   "icon": "🔺",
   "playersMin": 2,
   "playersMax": 4,
-  "age": 6,
-  "duration": 35,
-  "year": 1883,
-  "publisher": "BLATZ",
+  "age": 8,
+  "duration": 30,
+  "year": 1884,
+  "publisher": "Schmidt Spiele",
   "platform": "Tisch",
   "status": "In Spielesammlung",
-  "rating": 6.0,
+  "rating": 5.5,
   "favorite": false,
   "tags": [
     "Klassiker",
     "Spielesammlung"
   ],
   "description": "Klassisches Strategiespiel mit Sprungzügen über das Spielfeld.",
-  "image": "",
+  "image": "images/halma.jpg",
   "collectionId": "spiele-klassiker-blatz",
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gepflegt."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/38950/halma",
+    "note": "Auf BoardGameGeek gefunden."
   },
-  "location": "Wohnzimmer",
+  "location": "Kinder-Box",
   "contents": [
     "Spielmaterial laut Sammlung",
     "Spielanleitung"

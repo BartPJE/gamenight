@@ -8,24 +8,24 @@
   "age": 8,
   "duration": 30,
   "year": 1646,
-  "publisher": "BLATZ",
+  "publisher": "Schmidt Spiele",
   "platform": "Tisch",
   "status": "In Spielesammlung",
-  "rating": 7.1,
+  "rating": 6.6,
   "favorite": false,
   "tags": [
     "Klassiker",
     "Spielesammlung"
   ],
   "description": "Taktisches Würfel- und Laufspiel für zwei Personen.",
-  "image": "",
+  "image": "images/backgammon.jpg",
   "collectionId": "spiele-klassiker-blatz",
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gepflegt."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/2397/backgammon",
+    "note": "Auf BoardGameGeek gefunden."
   },
-  "location": "Wohnzimmer",
+  "location": "Kinder-Box",
   "contents": [
     "Spielmaterial laut Sammlung",
     "Spielanleitung"

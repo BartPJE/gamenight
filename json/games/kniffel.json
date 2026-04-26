@@ -4,28 +4,28 @@
   "type": "Brettspiel",
   "icon": "🎲",
   "playersMin": 2,
-  "playersMax": 8,
-  "age": 8,
+  "playersMax": 10,
+  "age": 6,
   "duration": 30,
   "year": 1956,
-  "publisher": "BLATZ",
+  "publisher": "Schmidt Spiele",
   "platform": "Tisch",
   "status": "In Spielesammlung",
-  "rating": 6.7,
+  "rating": 5.6,
   "favorite": false,
   "tags": [
     "Klassiker",
     "Spielesammlung"
   ],
   "description": "Würfelspiel, bei dem Zahlenkombinationen clever gesammelt werden.",
-  "image": "",
+  "image": "images/kniffel.jpg",
   "collectionId": "spiele-klassiker-blatz",
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gepflegt."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/2243/yahtzee",
+    "note": "Auf BoardGameGeek gefunden."
   },
-  "location": "Wohnzimmer",
+  "location": "Kinder-Box",
   "contents": [
     "Spielmaterial laut Sammlung",
     "Spielanleitung"

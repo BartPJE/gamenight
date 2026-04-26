@@ -7,25 +7,25 @@
   "playersMax": 6,
   "age": 5,
   "duration": 20,
-  "year": 1600,
-  "publisher": "BLATZ",
+  "year": 1587,
+  "publisher": "Schmidt Spiele",
   "platform": "Tisch",
   "status": "In Spielesammlung",
-  "rating": 5.4,
+  "rating": 3.5,
   "favorite": false,
   "tags": [
     "Klassiker",
     "Spielesammlung"
   ],
   "description": "Klassisches Laufspiel mit Ereignisfeldern und Glücksfaktor.",
-  "image": "",
+  "image": "images/gaensespiel.jpg",
   "collectionId": "spiele-klassiker-blatz",
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gepflegt."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/2785/game-of-goose",
+    "note": "Auf BoardGameGeek gefunden."
   },
-  "location": "Wohnzimmer",
+  "location": "Kinder-Box",
   "contents": [
     "Spielmaterial laut Sammlung",
     "Spielanleitung"

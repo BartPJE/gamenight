@@ -4,28 +4,28 @@
   "type": "Kartenspiel",
   "icon": "🂡",
   "playersMin": 2,
-  "playersMax": 6,
-  "age": 12,
-  "duration": 20,
+  "playersMax": 10,
+  "age": 8,
+  "duration": 30,
   "year": 1700,
-  "publisher": "BLATZ",
+  "publisher": "Schmidt Spiele",
   "platform": "Tisch",
   "status": "In Spielesammlung",
-  "rating": 6.1,
+  "rating": 4.8,
   "favorite": false,
   "tags": [
     "Klassiker",
     "Spielesammlung"
   ],
   "description": "Kartenspielklassiker, bekannt als deutsches Blackjack.",
-  "image": "",
+  "image": "images/17und4.jpg",
   "collectionId": "spiele-klassiker-blatz",
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gepflegt."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/10816/blackjack",
+    "note": "Auf BoardGameGeek gefunden."
   },
-  "location": "Wohnzimmer",
+  "location": "Kinder-Box",
   "contents": [
     "Spielmaterial laut Sammlung",
     "Spielanleitung"

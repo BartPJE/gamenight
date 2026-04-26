@@ -8,7 +8,7 @@
   "age": 5,
   "duration": 15,
   "year": 1892,
-  "publisher": "BLATZ",
+  "publisher": "Schmidt Spiele",
   "platform": "Tisch",
   "status": "In Spielesammlung",
   "rating": 5.2,
@@ -18,14 +18,14 @@
     "Spielesammlung"
   ],
   "description": "Würfelspiel mit Leitern als Abkürzungen und Feldern als Rückschritt.",
-  "image": "",
+  "image": "images/leiterspiel.jpg",
   "collectionId": "spiele-klassiker-blatz",
   "bgg": {
     "found": false,
     "url": "",
     "note": "Nicht auf BoardGameGeek gepflegt."
   },
-  "location": "Wohnzimmer",
+  "location": "Kinder-Box",
   "contents": [
     "Spielmaterial laut Sammlung",
     "Spielanleitung"

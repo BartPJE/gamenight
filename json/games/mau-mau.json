@@ -8,7 +8,7 @@
   "age": 6,
   "duration": 20,
   "year": 1900,
-  "publisher": "BLATZ",
+  "publisher": "NORIS",
   "platform": "Tisch",
   "status": "In Spielesammlung",
   "rating": 5.8,
@@ -18,14 +18,14 @@
     "Spielesammlung"
   ],
   "description": "Kartenspielklassiker mit Farb- und Zahlenablage.",
-  "image": "",
+  "image": "images/mau-mau.webp",
   "collectionId": "spiele-klassiker-blatz",
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gepflegt."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/193049/mau-mau",
+    "note": "Auf BoardGameGeek gefunden."
   },
-  "location": "Wohnzimmer",
+  "location": "Kinder-Box",
   "contents": [
     "Spielmaterial laut Sammlung",
     "Spielanleitung"
