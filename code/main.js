@@ -38,6 +38,7 @@ function filteredGames() {
   const type = $("typeFilter").value || state.category;
   const players = Number($("playersFilter").value || 0);
   const age = Number($("ageFilter").value || 0);
+  const location = $("locationFilter").value;
   const sort = $("sortFilter").value;
 
   const list = games.filter((game) => {
@@ -55,7 +56,8 @@ function filteredGames() {
     const matchesPlayers =
       !players || (players === 6 ? game.playersMax >= 6 : game.playersMin <= players && game.playersMax >= players);
     const matchesAge = !age || game.age <= age;
-    return matchesSearch && matchesType && matchesPlayers && matchesAge;
+    const matchesLocation = !location || game.location === location;
+    return matchesSearch && matchesType && matchesPlayers && matchesAge && matchesLocation;
   });
 
   list.sort((a, b) => {
@@ -132,11 +134,25 @@ function focusSearch() {
   $("searchInput").focus();
 }
 
+function renderLocationFilter() {
+  const locations = [...new Set(games.map((game) => game.location))]
+    .filter(Boolean)
+    .sort((a, b) => a.localeCompare(b, "de"));
+
+  const currentValue = $("locationFilter").value;
+  $("locationFilter").innerHTML = [
+    '<option value="">Lagerort</option>',
+    ...locations.map((location) => `<option value="${location}">${location}</option>`),
+  ].join("");
+  $("locationFilter").value = currentValue;
+}
+
 function resetFilters() {
   $("searchInput").value = "";
   $("typeFilter").value = "";
   $("playersFilter").value = "";
   $("ageFilter").value = "";
+  $("locationFilter").value = "";
   $("sortFilter").value = "title";
   state.category = "";
   renderCategories();
@@ -294,7 +310,7 @@ function syncViewWithHash() {
 }
 
 function bindEvents() {
-  ["searchInput", "typeFilter", "playersFilter", "ageFilter", "sortFilter"].forEach((id) => {
+  ["searchInput", "typeFilter", "playersFilter", "ageFilter", "locationFilter", "sortFilter"].forEach((id) => {
     $(id).addEventListener("input", renderGames);
   });
 
@@ -324,6 +340,7 @@ async function initialize() {
   games = gameLists.flatMap((entry) => (Array.isArray(entry) ? entry : [entry]));
   $("app").innerHTML = layoutHtml;
 
+  renderLocationFilter();
   bindEvents();
   renderCategories();
   renderStats();
