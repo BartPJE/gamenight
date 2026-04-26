@@ -1,0 +1,35 @@
+{
+  "id": "munchkin-legenden",
+  "title": "Munchkin Legenden",
+  "type": "Kartenspiel",
+  "icon": "🏺",
+  "playersMin": 3,
+  "playersMax": 6,
+  "age": 10,
+  "duration": 90,
+  "year": 2013,
+  "publisher": "Pegasus Spiele",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "collectionId": "munchkin",
+  "hiddenFromOverview": true,
+  "tags": [
+    "Fantasy",
+    "Erweiterung",
+    "Mythologie"
+  ],
+  "description": "Standalone-Variante im Munchkin-Stil mit antikem Legenden-Setting.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/145659/munchkin-legends",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Kartendeck",
+    "Levelmarker",
+    "Spielanleitung"
+  ]
+}
