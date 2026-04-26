@@ -1,0 +1,33 @@
+{
+  "id": "nice-try-the-challenge-party-game",
+  "title": "Nice Try: The Challenge Party Game",
+  "type": "Partyspiel",
+  "icon": "🎉",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 14,
+  "duration": 30,
+  "year": 2019,
+  "publisher": "Identity Games",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Party",
+    "Challenges",
+    "Geschicklichkeit"
+  ],
+  "description": "Partyspiel mit verrückten Mini-Challenges und direkten Duellen.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/287110/nice-try-the-challenge-party-game",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Challenge-Karten",
+    "Spielmaterial",
+    "Anleitung"
+  ]
+}

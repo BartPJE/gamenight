@@ -1,0 +1,33 @@
+{
+  "id": "escape-room-the-game",
+  "title": "Escape Room: The Game",
+  "type": "Brettspiel",
+  "icon": "🔐",
+  "playersMin": 3,
+  "playersMax": 5,
+  "age": 16,
+  "duration": 60,
+  "year": 2016,
+  "publisher": "Noris Spiele",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Escape Room",
+    "Kooperativ",
+    "Rätsel"
+  ],
+  "description": "Kooperatives Rätselspiel mit Chrono-Decoder und mehreren Escape-Abenteuern.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/204836/escape-room-the-game",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Chrono-Decoder",
+    "Abenteuer-Umschläge",
+    "Hinweiskarten"
+  ]
+}

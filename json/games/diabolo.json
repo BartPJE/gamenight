@@ -1,0 +1,31 @@
+{
+  "id": "diabolo",
+  "title": "Diabolo",
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 10,
+  "duration": 30,
+  "year": 2007,
+  "publisher": "Piatnik",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Handmanagement",
+    "Stichspiel"
+  ],
+  "description": "Kartenspiel, bei dem Karten clever ausgespielt werden, um Vorgaben pro Runde zu erfüllen.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/21613/diabolo",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Karten",
+    "Spielanleitung"
+  ]
+}

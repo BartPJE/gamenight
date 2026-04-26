@@ -1,0 +1,32 @@
+{
+  "id": "the-game-plus-the-game-on-fire",
+  "title": "The Game + The Game on Fire",
+  "type": "Kartenspiel",
+  "icon": "🔥",
+  "playersMin": 1,
+  "playersMax": 5,
+  "age": 8,
+  "duration": 20,
+  "year": 2016,
+  "publisher": "NSV",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Kooperativ",
+    "Handmanagement",
+    "Zahlen"
+  ],
+  "description": "Kombination aus The Game und The Game on Fire mit zusätzlichen Feuer-Regeln.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/182453/the-game-plus-the-game-on-fire",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Karten",
+    "Regelheft"
+  ]
+}

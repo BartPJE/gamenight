@@ -1,0 +1,34 @@
+{
+  "id": "escape-room-the-game-space-station",
+  "title": "Escape Room: The Game – Space Station",
+  "type": "Brettspiel",
+  "icon": "🚀",
+  "playersMin": 3,
+  "playersMax": 5,
+  "age": 16,
+  "duration": 60,
+  "year": 2017,
+  "publisher": "Noris Spiele",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "collectionId": "escape-room-the-game",
+  "hiddenFromOverview": true,
+  "tags": [
+    "Escape Room",
+    "Erweiterung",
+    "Sci-Fi"
+  ],
+  "description": "Erweiterungsabenteuer für Escape Room: The Game im Weltraum-Setting.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/221701/escape-room-the-game-space-station",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Abenteuer-Umschlag",
+    "Rätselkarten"
+  ]
+}

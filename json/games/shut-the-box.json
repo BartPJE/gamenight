@@ -1,0 +1,32 @@
+{
+  "id": "shut-the-box",
+  "title": "Shut the Box",
+  "type": "Würfelspiel",
+  "icon": "🎲",
+  "playersMin": 1,
+  "playersMax": 4,
+  "age": 8,
+  "duration": 20,
+  "year": 1960,
+  "publisher": "Diverse",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Würfeln",
+    "Klassiker",
+    "Glück"
+  ],
+  "description": "Klassisches Würfelspiel, bei dem Zahlenfelder durch Würfelwürfe heruntergeklappt werden.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/9851/shut-the-box",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielbrett",
+    "Würfel"
+  ]
+}
