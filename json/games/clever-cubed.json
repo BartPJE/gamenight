@@ -1,0 +1,32 @@
+{
+  "id": "clever-cubed",
+  "title": "Clever hoch drei",
+  "type": "Würfelspiel",
+  "icon": "🎲",
+  "playersMin": 1,
+  "playersMax": 4,
+  "age": 8,
+  "duration": 30,
+  "year": 2020,
+  "publisher": "Schmidt Spiele",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Roll & Write",
+    "Zahlen",
+    "Kombi"
+  ],
+  "description": "Dritter Teil der Clever-Reihe mit anspruchsvolleren Entscheidungen.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/316546/clever-cubed",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielmaterial",
+    "Spielanleitung"
+  ]
+}

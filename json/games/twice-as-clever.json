@@ -1,0 +1,32 @@
+{
+  "id": "twice-as-clever",
+  "title": "Doppelt so clever",
+  "type": "Würfelspiel",
+  "icon": "🎲",
+  "playersMin": 1,
+  "playersMax": 4,
+  "age": 8,
+  "duration": 30,
+  "year": 2019,
+  "publisher": "Schmidt Spiele",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Roll & Write",
+    "Zahlen",
+    "Kombi"
+  ],
+  "description": "Nachfolger von Ganz schön clever mit neuen Wertungs- und Bonusmechaniken.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/269210/twice-as-clever",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielmaterial",
+    "Spielanleitung"
+  ]
+}

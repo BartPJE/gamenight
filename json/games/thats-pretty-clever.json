@@ -1,0 +1,32 @@
+{
+  "id": "thats-pretty-clever",
+  "title": "Ganz schön clever",
+  "type": "Würfelspiel",
+  "icon": "🎲",
+  "playersMin": 1,
+  "playersMax": 4,
+  "age": 8,
+  "duration": 30,
+  "year": 2018,
+  "publisher": "Schmidt Spiele",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Roll & Write",
+    "Zahlen",
+    "Kombi"
+  ],
+  "description": "Würfelergebnisse in farbige Bereiche eintragen und Kettenreaktionen auslösen.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/244522/thats-pretty-clever",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielmaterial",
+    "Spielanleitung"
+  ]
+}

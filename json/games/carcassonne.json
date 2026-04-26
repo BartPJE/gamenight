@@ -1,0 +1,32 @@
+{
+  "id": "carcassonne",
+  "title": "Carcassonne",
+  "type": "Brettspiel",
+  "icon": "🏰",
+  "playersMin": 2,
+  "playersMax": 5,
+  "age": 7,
+  "duration": 45,
+  "year": 2000,
+  "publisher": "Hans im Glück",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Plättchen",
+    "Klassiker",
+    "Taktik"
+  ],
+  "description": "Lege Landschaftsplättchen aus und setze Gefolgsleute ein, um Städte, Straßen und Klöster zu werten.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/822/carcassonne",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Spielmaterial",
+    "Spielanleitung"
+  ]
+}

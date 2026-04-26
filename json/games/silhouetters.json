@@ -1,0 +1,32 @@
+{
+  "id": "silhouetters",
+  "title": "Silhouetters",
+  "type": "Brettspiel",
+  "icon": "🧩",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 30,
+  "year": 2022,
+  "publisher": "Moses Verlag",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Party",
+    "Raten",
+    "Kreativ"
+  ],
+  "description": "Schattenriss-Partyspiel, bei dem Begriffe durch Silhouetten erraten werden.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/366299/silhouetters",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Spielmaterial",
+    "Spielanleitung"
+  ]
+}
