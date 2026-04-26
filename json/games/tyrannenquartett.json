@@ -1,5 +1,5 @@
 {
-  "id": "tyrannenquartett-1",
+  "id": "tyrannenquartett",
   "title": "Tyrannenquartett 1",
   "type": "Kartenspiel",
   "icon": "👑",
@@ -19,7 +19,7 @@
     "Diskussion"
   ],
   "description": "Politisches Quartett mit schwarzem Humor und schnellen Runden.",
-  "image": "images/tyrannenquartett-1.svg",
+  "image": "images/tyrannenquartett.svg",
   "bgg": {
     "found": false,
     "url": "",
