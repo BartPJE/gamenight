@@ -1,0 +1,32 @@
+{
+  "id": "hit-the-deck",
+  "title": "Hit the Deck",
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 20,
+  "year": 2002,
+  "publisher": "Unbekannt",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Kartenspiel",
+    "Reaktionsspiel",
+    "Schnell"
+  ],
+  "description": "Schnelles Kartenspiel mit Fokus auf Reaktion und Timing.",
+  "image": "",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/6711/hit-the-deck",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Kartenstapel"
+  ]
+}

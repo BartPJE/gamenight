@@ -1,0 +1,32 @@
+{
+  "id": "old-maid",
+  "title": "Old Maid",
+  "type": "Kartenspiel",
+  "icon": "👵",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 5,
+  "duration": 15,
+  "year": 1900,
+  "publisher": "Unbekannt",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Klassiker",
+    "Familie",
+    "Kinder"
+  ],
+  "description": "Klassisches Kartenspiel, bei dem niemand auf der Old-Maid-Karte sitzen bleiben will.",
+  "image": "",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/10799/old-maid",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Kartenstapel"
+  ]
+}
