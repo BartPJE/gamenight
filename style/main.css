@@ -116,9 +116,11 @@ input:focus,select:focus{border-color:rgba(255,216,77,.72);box-shadow:0 0 0 4px 
 .content-list{margin:0;padding-left:18px;color:var(--muted);display:grid;gap:5px}
 .content-list-links a{text-decoration:underline;text-underline-offset:2px}
 .content-list-links a:hover{color:var(--text)}
+.detail-cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.detail-game-card .cover{height:96px}
 .detail-empty{padding:18px;border:1px dashed rgba(255,255,255,.2);border-radius:14px}
 .detail-empty h3{margin:0 0 8px}
 .detail-empty p{margin:0;color:var(--muted)}
 
-@media (max-width:980px){.detail-card{grid-template-columns:1fr}.detail-facts{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:980px){.detail-card{grid-template-columns:1fr}.detail-facts{grid-template-columns:repeat(2,1fr)}.detail-cards{grid-template-columns:1fr}}
 @media (max-width:620px){.detail-facts{grid-template-columns:1fr}}

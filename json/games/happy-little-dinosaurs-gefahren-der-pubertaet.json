@@ -1,0 +1,35 @@
+{
+  "id": "happy-little-dinosaurs-gefahren-der-pubertaet",
+  "title": "Happy Little Dinosaurs: Gefahren der Pubertät",
+  "type": "Kartenspiel",
+  "icon": "🧪",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 8,
+  "duration": 30,
+  "year": 2023,
+  "publisher": "Unstable Games",
+  "platform": "Tisch",
+  "status": "In Spielesammlung",
+  "rating": 6.1,
+  "favorite": false,
+  "collectionId": "happy-little-dinosaurs",
+  "hiddenFromOverview": true,
+  "tags": [
+    "Humor",
+    "Erweiterung",
+    "Pubertät"
+  ],
+  "description": "Erweiterung mit peinlichen Pubertätsmomenten und zusätzlichen Effektkarten.",
+  "image": "images/happy-little-dinosaurs.webp",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Erweiterungskarten",
+    "Spielanleitung"
+  ]
+}

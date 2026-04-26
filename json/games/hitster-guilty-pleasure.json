@@ -13,7 +13,7 @@
   "status": "Besitze ich",
   "rating": 8.2,
   "favorite": false,
-  "collectionId": "hitster",
+  "collectionId": "hitster-original",
   "tags": [
     "Musikquiz",
     "Partyspiel",
@@ -29,5 +29,6 @@
   "contents": [
     "300 Musikkarten",
     "Spielanleitung"
-  ]
+  ],
+  "hiddenFromOverview": true
 }

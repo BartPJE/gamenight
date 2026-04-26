@@ -41,6 +41,10 @@ function filteredGames() {
   const sort = $("sortFilter").value;
 
   const list = games.filter((game) => {
+    if (game.hiddenFromOverview) {
+      return false;
+    }
+
     const collectionTitle = game.collectionId ? games.find((entry) => entry.id === game.collectionId)?.title ?? "" : "";
     const haystack = [game.title, game.type, game.publisher, game.platform, game.location, collectionTitle, ...game.tags]
       .join(" ")
@@ -209,6 +213,10 @@ function renderGameDetail(game, selectedGame) {
     .map((entry) => ({
       id: entry.id,
       title: entry.title,
+      type: entry.type,
+      rating: entry.rating,
+      image: entry.image,
+      icon: entry.icon,
       year: entry.year,
       playersMin: entry.playersMin,
       playersMax: entry.playersMax,
@@ -226,15 +234,31 @@ function renderGameDetail(game, selectedGame) {
   if (containedGames.length) {
     detailSections.push(`
       <section class="detail-section">
-        <h4>Enthaltene Spiele (${containedGames.length})</h4>
-        <ul class="content-list content-list-links">
+        <h4>Erweiterungen (${containedGames.length})</h4>
+        <div class="detail-cards">
           ${containedGames
             .map(
               (entry) =>
-                `<li><a href="#spiel/${game.id}?auswahl=${encodeURIComponent(entry.id)}"><strong>${entry.title}</strong> · ${entry.year} · ${entry.playersMin}-${entry.playersMax} Spieler</a></li>`,
+                `<a class="game-card detail-game-card" href="#spiel/${game.id}?auswahl=${encodeURIComponent(entry.id)}" aria-label="Details zu ${entry.title}">
+                  <div class="cover">
+                    ${entry.image ? `<img src="${entry.image}" alt="Cover von ${entry.title}" loading="lazy" />` : entry.icon}
+                  </div>
+                  <div class="game-body">
+                    <div class="type-row">
+                      <span class="badge ${badgeClass(entry.type)}">${entry.type}</span>
+                      <span class="rating">★ ${entry.rating.toFixed(1)}</span>
+                    </div>
+                    <h4>${entry.title}</h4>
+                    <div class="facts">
+                      <div class="fact"><small>Spieler</small><b>${entry.playersMin}-${entry.playersMax}</b></div>
+                      <div class="fact"><small>Jahr</small><b>${entry.year}</b></div>
+                      <div class="fact"><small>Typ</small><b>Erweiterung</b></div>
+                    </div>
+                  </div>
+                </a>`,
             )
             .join("")}
-        </ul>
+        </div>
       </section>
     `);
   }

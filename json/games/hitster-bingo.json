@@ -13,7 +13,7 @@
   "status": "Besitze ich",
   "rating": 7.9,
   "favorite": false,
-  "collectionId": "hitster",
+  "collectionId": "hitster-original",
   "tags": [
     "Musikquiz",
     "Partyspiel",
@@ -30,5 +30,6 @@
     "Bingo-Tafeln",
     "Musikkarten",
     "Spielanleitung"
-  ]
+  ],
+  "hiddenFromOverview": true
 }
