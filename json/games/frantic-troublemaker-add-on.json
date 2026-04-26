@@ -1,0 +1,33 @@
+{
+  "id": "frantic-troublemaker-add-on",
+  "title": "Frantic: Troublemaker Add-On",
+  "type": "Kartenspiel",
+  "icon": "😈",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 12,
+  "duration": 30,
+  "year": 2017,
+  "publisher": "Game Factory",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "collectionId": "frantic",
+  "hiddenFromOverview": true,
+  "tags": [
+    "Take-That",
+    "Erweiterung",
+    "Handmanagement"
+  ],
+  "description": "Erweiterung mit zusätzlichen fiesen Aktionskarten für Frantic.",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Erweiterungskarten"
+  ]
+}
