@@ -1,8 +1,8 @@
 {
-  "id": "schmidt-spiele-blue-multilingual-edition",
-  "title": "Scrabble Slam! (Schmidt Spiele Blue Multilingual Edition)",
-  "type": "Brettspiel",
-  "icon": "🎲",
+  "id": "ligretto",
+  "title": "Ligretto - Blaue Edition",
+  "type": "Kartenspiel",
+  "icon": "🔵",
   "playersMin": 2,
   "playersMax": 6,
   "age": 8,
@@ -18,7 +18,7 @@
     "Wortspiel",
     "Karten"
   ],
-  "description": "Mehrsprachige Blue Edition von Scrabble Slam! als Varianten-/Editions-Eintrag.",
+  "description": "Mehrsprachige Blue Edition von Ligretto als Varianten-/Editions-Eintrag.",
   "bgg": {
     "found": true,
     "url": "https://boardgamegeek.com/boardgameversion/647322/schmidt-spiele-blue-multilingual-edition",
@@ -28,6 +28,6 @@
   "contents": [
     "Spielmaterial"
   ],
-  "collectionId": "scrabble-slam-2-6p",
-  "hiddenFromOverview": true
+  "collectionId": "ligretto",
+  "hiddenFromOverview": false
 }
