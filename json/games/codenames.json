@@ -1,0 +1,34 @@
+{
+  "id": "codenames",
+  "title": "Codenames",
+  "type": "Kartenspiel",
+  "icon": "🕵️",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 14,
+  "duration": 15,
+  "year": 2015,
+  "publisher": "Czech Games Edition",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 7.6,
+  "favorite": false,
+  "tags": [
+    "Wortspiel",
+    "Team",
+    "Deduktion"
+  ],
+  "description": "Team-basiertes Wortspiel, bei dem Hinweise zu mehreren Agentennamen aufgedeckt werden müssen.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/178900/codenames",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Wortkarten",
+    "Agentenkarten",
+    "Schlüsselkarte",
+    "Spielanleitung"
+  ]
+}

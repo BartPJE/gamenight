@@ -1,0 +1,33 @@
+{
+  "id": "kuhhandel-master",
+  "title": "Kuhhandel Master",
+  "type": "Kartenspiel",
+  "icon": "🐄",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 10,
+  "duration": 45,
+  "year": 2010,
+  "publisher": "Ravensburger",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 6.7,
+  "favorite": false,
+  "tags": [
+    "Auktion",
+    "Verhandeln",
+    "Humor"
+  ],
+  "description": "Kuhhandel in erweiterter Variante mit Versteigerungen und Tauschgeschäften.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/56786/kuhhandel-master",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Tierkarten",
+    "Geldkarten",
+    "Spielanleitung"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "wizard-deluxe-2022",
+  "title": "Wizard Deluxe Edition (2022)",
+  "type": "Kartenspiel",
+  "icon": "✨",
+  "playersMin": 3,
+  "playersMax": 6,
+  "age": 10,
+  "duration": 45,
+  "year": 2022,
+  "publisher": "AMIGO",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "collectionId": "wizard",
+  "hiddenFromOverview": true,
+  "tags": [
+    "Erweiterung",
+    "Deluxe",
+    "Deutsch"
+  ],
+  "description": "Deluxe-Ausgabe von Wizard mit hochwertiger Ausstattung.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameversion/626339/german-deluxe-edition-2022",
+    "note": "Auf BoardGameGeek als Versionseintrag gefunden."
+  },
+  "location": "Schrank",
+  "contents": [
+    "Deluxe-Karten",
+    "Zusatzmaterial"
+  ]
+}

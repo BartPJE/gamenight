@@ -1,0 +1,33 @@
+{
+  "id": "wizard-dsa-edition",
+  "title": "Wizard (German DSA Edition)",
+  "type": "Kartenspiel",
+  "icon": "🪄",
+  "playersMin": 3,
+  "playersMax": 6,
+  "age": 10,
+  "duration": 45,
+  "year": 2024,
+  "publisher": "AMIGO",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "collectionId": "wizard",
+  "hiddenFromOverview": true,
+  "tags": [
+    "Erweiterung",
+    "Sonderedition",
+    "Deutsch"
+  ],
+  "description": "Sonderausgabe von Wizard im DSA-Design.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameversion/719344/german-dsa-edition",
+    "note": "Auf BoardGameGeek als Versionseintrag gefunden."
+  },
+  "location": "Schrank",
+  "contents": [
+    "Sonderkarten-Set"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wizard",
+  "title": "Wizard",
+  "type": "Kartenspiel",
+  "icon": "🧙",
+  "playersMin": 3,
+  "playersMax": 6,
+  "age": 10,
+  "duration": 45,
+  "year": 1984,
+  "publisher": "AMIGO",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 6.6,
+  "favorite": false,
+  "tags": [
+    "Stichspiel",
+    "Ansage",
+    "Klassiker"
+  ],
+  "description": "Stichspiel, bei dem Runde für Runde die Anzahl der eigenen Stiche vorhergesagt wird.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/1465/wizard",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schrank",
+  "contents": [
+    "Karten",
+    "Block",
+    "Spielanleitung"
+  ]
+}

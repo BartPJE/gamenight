@@ -1,0 +1,35 @@
+{
+  "id": "monopoly-back-to-the-future",
+  "title": "Monopoly: Back to the Future",
+  "type": "Brettspiel",
+  "icon": "🚗",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 120,
+  "year": 2015,
+  "publisher": "USAopoly",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 6.0,
+  "favorite": false,
+  "tags": [
+    "Monopoly",
+    "Film",
+    "Sonderedition"
+  ],
+  "description": "Monopoly im Back-to-the-Future-Theme mit passenden Orten und Figuren.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/187127/monopoly-back-to-the-future",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielbrett",
+    "Spielfiguren",
+    "Karten",
+    "Geld",
+    "Würfel"
+  ]
+}
