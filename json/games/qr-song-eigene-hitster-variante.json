@@ -1,0 +1,33 @@
+{
+  "id": "qr-song-eigene-hitster-variante",
+  "title": "QR Song (Eigene Hitster Variante)",
+  "type": "Kartenspiel",
+  "icon": "🎵",
+  "playersMin": 2,
+  "playersMax": 10,
+  "age": 12,
+  "duration": 30,
+  "year": 2026,
+  "publisher": "Eigenbau",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Musikquiz",
+    "Partyspiel",
+    "Eigenvariante"
+  ],
+  "description": "Eigene Hitster-Variante mit QR-Code-basierten Songs.",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Eigenvariante ohne BoardGameGeek-Eintrag."
+  },
+  "location": "Flur",
+  "contents": [
+    "QR-Karten",
+    "Smartphone",
+    "Spielanleitung"
+  ]
+}

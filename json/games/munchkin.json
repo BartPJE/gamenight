@@ -1,0 +1,32 @@
+{
+  "id": "munchkin",
+  "title": "Munchkin",
+  "type": "Kartenspiel",
+  "icon": "🗡️",
+  "playersMin": 3,
+  "playersMax": 6,
+  "age": 10,
+  "duration": 90,
+  "year": 2001,
+  "publisher": "Steve Jackson Games",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Fantasy",
+    "Humor",
+    "Take-That"
+  ],
+  "description": "Satirisches Dungeon-Kartenspiel mit Ausrüstung, Monstern und viel Chaos.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/1927/munchkin",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Grundspiel",
+    "Munchkin 2: Unnatural Axe"
+  ]
+}

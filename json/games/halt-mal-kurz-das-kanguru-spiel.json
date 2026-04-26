@@ -1,0 +1,32 @@
+{
+  "id": "halt-mal-kurz-das-kanguru-spiel",
+  "title": "Halt mal kurz, das Känguru-Spiel",
+  "type": "Kartenspiel",
+  "icon": "🦘",
+  "playersMin": 3,
+  "playersMax": 6,
+  "age": 10,
+  "duration": 30,
+  "year": 2016,
+  "publisher": "Kosmos",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Humor",
+    "Partyspiel",
+    "Känguru-Chroniken"
+  ],
+  "description": "Chaotisches Kartenspiel zur Buchreihe rund um das Känguru.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/191057/halt-mal-kurz-das-kanguru-spiel",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Karten",
+    "Spielanleitung"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "mario-kart-das-logikspiel",
+  "title": "Mario Kart - Das Logikspiel",
+  "type": "Logikspiel",
+  "icon": "🧠",
+  "playersMin": 1,
+  "playersMax": 4,
+  "age": 8,
+  "duration": 20,
+  "year": 2024,
+  "publisher": "Ravensburger",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Logik",
+    "Mario Kart",
+    "Familienspiel"
+  ],
+  "description": "Logikspiel im Mario-Kart-Universum mit Knobelaufgaben.",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Kein sicherer BoardGameGeek-Eintrag zugeordnet."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Aufgabenkarten",
+    "Spielfiguren",
+    "Spielmaterial",
+    "Spielanleitung"
+  ]
+}

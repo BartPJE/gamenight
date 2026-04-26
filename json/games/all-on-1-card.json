@@ -1,0 +1,32 @@
+{
+  "id": "all-on-1-card",
+  "title": "All on 1 Card",
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "playersMin": 1,
+  "playersMax": 4,
+  "age": 8,
+  "duration": 15,
+  "year": 2024,
+  "publisher": "Nürnberger-Spielkarten-Verlag",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Solo",
+    "Rätsel",
+    "Kompakt"
+  ],
+  "description": "Minimalistisches Karten-/Rätselspiel mit einer zentralen Karte als Spielfläche.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/330538/all-on-1-card",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Karten",
+    "Spielanleitung"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "star-wars-timeline-twist",
+  "title": "Star Wars: Timeline Twist",
+  "type": "Kartenspiel",
+  "icon": "🚀",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 8,
+  "duration": 15,
+  "year": 2025,
+  "publisher": "The Op Games",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Star Wars",
+    "Quiz",
+    "Timeline"
+  ],
+  "description": "Timeline-Spiel im Star-Wars-Universum mit Ereignissen in der richtigen Reihenfolge.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/409925/star-wars-timeline-twist",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Karten",
+    "Spielanleitung"
+  ]
+}

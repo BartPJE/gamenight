@@ -1,0 +1,31 @@
+{
+  "id": "kivi",
+  "title": "Kivi",
+  "type": "Kartenspiel",
+  "icon": "🪨",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 8,
+  "duration": 20,
+  "year": 2016,
+  "publisher": "Helvetiq",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Stichspiel",
+    "Taktik"
+  ],
+  "description": "Kompaktes Kartenspiel mit einfachen Regeln und taktischen Entscheidungen.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/206851/kivi",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Karten",
+    "Spielanleitung"
+  ]
+}
