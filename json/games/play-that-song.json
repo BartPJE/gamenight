@@ -1,0 +1,31 @@
+{
+  "id": "play-that-song",
+  "title": "Play That Song",
+  "type": "Kartenspiel",
+  "icon": "🎵",
+  "playersMin": 2,
+  "playersMax": 10,
+  "age": 12,
+  "duration": 30,
+  "year": 2025,
+  "publisher": "Unbekannt",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Musik",
+    "Partyspiel",
+    "Quiz"
+  ],
+  "description": "Musik-Partyspiel rund ums Erkennen, Einordnen und Erraten bekannter Songs.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/452852/play-that-song",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielmaterial"
+  ]
+}
