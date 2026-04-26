@@ -1,0 +1,35 @@
+{
+  "id": "phase-10-das-brettspiel",
+  "title": "Phase 10: Das Brettspiel",
+  "type": "Brettspiel",
+  "icon": "🔟",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 45,
+  "year": 2010,
+  "publisher": "Ravensburger",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 6.6,
+  "favorite": false,
+  "tags": [
+    "Familie",
+    "Zahlen",
+    "Klassiker"
+  ],
+  "description": "Phase-10 als Brettspiel-Variante mit zusätzlichen Regeln.",
+  "image": "",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/69602/phase-10-das-brettspiel",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielbrett",
+    "Kartenstapel",
+    "Spielfiguren",
+    "Spielanleitung"
+  ]
+}

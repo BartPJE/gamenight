@@ -1,0 +1,32 @@
+{
+  "id": "illwerke-vkw-quartett",
+  "title": "illwerke VKW Quartett",
+  "type": "Kartenspiel",
+  "icon": "⚡",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 15,
+  "year": 2024,
+  "publisher": "illwerke vkw",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 6.2,
+  "favorite": false,
+  "tags": [
+    "Quartett",
+    "Wissen",
+    "Familie"
+  ],
+  "description": "Quartett mit Motiven und Fakten rund um illwerke vkw.",
+  "image": "",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Kartenstapel"
+  ]
+}

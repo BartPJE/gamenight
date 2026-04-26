@@ -1,0 +1,32 @@
+{
+  "id": "from-idiot-to-president",
+  "title": "From Idiot to President",
+  "type": "Kartenspiel",
+  "icon": "🎭",
+  "playersMin": 3,
+  "playersMax": 10,
+  "age": 16,
+  "duration": 30,
+  "year": 2020,
+  "publisher": "Unbekannt",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 6.4,
+  "favorite": false,
+  "tags": [
+    "Humor",
+    "Party",
+    "Satire"
+  ],
+  "description": "Satirisches Partyspiel mit schwarzem Humor.",
+  "image": "",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/290511/from-idiot-to-president",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Kartenstapel"
+  ]
+}

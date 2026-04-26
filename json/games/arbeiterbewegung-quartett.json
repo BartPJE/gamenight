@@ -1,0 +1,32 @@
+{
+  "id": "arbeiterbewegung-quartett",
+  "title": "Arbeiterbewegung Quartett",
+  "type": "Kartenspiel",
+  "icon": "✊",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 12,
+  "duration": 20,
+  "year": 2024,
+  "publisher": "Unbekannt",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 6.8,
+  "favorite": false,
+  "tags": [
+    "Quartett",
+    "Geschichte",
+    "Wissen"
+  ],
+  "description": "Quartett zur Geschichte der Arbeiterbewegung.",
+  "image": "",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Kartenstapel"
+  ]
+}

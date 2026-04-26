@@ -1,0 +1,33 @@
+{
+  "id": "tyrannenquartett-historisch",
+  "title": "Tyrannenquartett Historisch",
+  "type": "Kartenspiel",
+  "icon": "👑",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 14,
+  "duration": 25,
+  "year": 2025,
+  "publisher": "Quartett Verlag",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 7.3,
+  "favorite": false,
+  "tags": [
+    "Quartett",
+    "Satire",
+    "Geschichte"
+  ],
+  "description": "Historische Ausgabe des Tyrannenquartetts.",
+  "image": "",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Kartenstapel",
+    "Spielanleitung"
+  ]
+}
