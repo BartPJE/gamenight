@@ -1,0 +1,33 @@
+{
+  "id": "das-verrueckte-labyrinth-super-mario",
+  "title": "Das verrückte Labyrinth - Super Mario",
+  "type": "Brettspiel",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 7,
+  "duration": 20,
+  "year": 2022,
+  "rating": 7.7,
+  "favorite": false,
+  "tags": [
+    "Familienspiel",
+    "Labyrinth",
+    "Super Mario",
+    "Ravensburger"
+  ],
+  "description": "Eigenständige Super-Mario-Ausgabe des verrückten Labyrinths mit beweglichen Gängen und Schatzsuche.",
+  "image": "images/das-verrueckte-labyrinth-super-mario.jpg",
+  "platform": "Analog",
+  "publisher": "Ravensburger",
+  "location": "Wohnzimmer",
+  "bgg": {
+    "found": false,
+    "url": ""
+  },
+  "contents": [
+    "1 Spielplan",
+    "34 Labyrinth-Karten",
+    "24 Zielkarten",
+    "4 Spielfiguren"
+  ]
+}
