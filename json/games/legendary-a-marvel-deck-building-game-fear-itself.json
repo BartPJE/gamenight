@@ -1,0 +1,32 @@
+{
+  "id": "legendary-a-marvel-deck-building-game-fear-itself",
+  "title": "Legendary a MARVEL Deck Building Game Fear Itself",
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 10,
+  "duration": 45,
+  "year": 2020,
+  "publisher": "Unbekannt",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Erweiterung",
+    "Neu hinzugefügt"
+  ],
+  "description": "Neu hinzugefügter Eintrag aus der Spielesammlung.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/168800/legendary-a-marvel-deck-building-game-fear-itself",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Erweiterungsmaterial"
+  ],
+  "hiddenFromOverview": true,
+  "collectionId": "legendary-a-marvel-deck-building-game"
+}
