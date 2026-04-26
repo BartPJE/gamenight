@@ -28,5 +28,7 @@
   "location": "Flur",
   "contents": [
     "Kartenstapel"
-  ]
+  ],
+  "collectionId": "shit-happens",
+  "hiddenFromOverview": true
 }

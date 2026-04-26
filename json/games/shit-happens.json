@@ -1,6 +1,6 @@
 {
   "id": "shit-happens",
-  "title": "Shit Happens",
+  "title": "Shit Happens - Verdammt Nochmal",
   "type": "Kartenspiel",
   "icon": "💩",
   "playersMin": 2,
@@ -29,5 +29,7 @@
   "contents": [
     "Kartenstapel",
     "Spielanleitung"
-  ]
+  ],
+  "collectionId": "shit-happens",
+  "hiddenFromOverview": false
 }
