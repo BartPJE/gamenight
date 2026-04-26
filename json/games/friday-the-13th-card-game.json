@@ -1,0 +1,31 @@
+{
+  "id": "friday-the-13th-card-game",
+  "title": "Friday the 13th: Card Game",
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 14,
+  "duration": 30,
+  "year": 2024,
+  "publisher": "ATM Gaming",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Horror",
+    "Take-That",
+    "Partyspiel"
+  ],
+  "description": "Friday the 13th: Card Game in der Sammlung.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/413917/friday-the-13th-card-game",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

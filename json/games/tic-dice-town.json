@@ -1,0 +1,31 @@
+{
+  "id": "tic-dice-town",
+  "title": "Tic Dice Town",
+  "type": "Brettspiel",
+  "icon": "🎲",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 20,
+  "year": 2023,
+  "publisher": "Siam Board Games",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Würfelspiel",
+    "Familie",
+    "Schnell"
+  ],
+  "description": "Tic Dice Town in der Sammlung.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/377645/tic-dice-town",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

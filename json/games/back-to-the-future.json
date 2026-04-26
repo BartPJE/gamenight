@@ -1,0 +1,31 @@
+{
+  "id": "back-to-the-future",
+  "title": "Back to the Future",
+  "type": "Brettspiel",
+  "icon": "⏱️",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 10,
+  "duration": 45,
+  "year": 2020,
+  "publisher": "Unbekannt",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Film",
+    "Familie",
+    "Abenteuer"
+  ],
+  "description": "Back to the Future in der Sammlung.",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielmaterial"
+  ]
+}
