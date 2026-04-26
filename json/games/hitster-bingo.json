@@ -31,5 +31,5 @@
     "Musikkarten",
     "Spielanleitung"
   ],
-  "hiddenFromOverview": true
+  "hiddenFromOverview": false
 }
