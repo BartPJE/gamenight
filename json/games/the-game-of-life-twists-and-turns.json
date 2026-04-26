@@ -1,6 +1,6 @@
 {
   "id": "the-game-of-life-twists-and-turns",
-  "title": "The Game of Life: Twists & Turns",
+  "title": "Das Spiel des Lebens: Generation Now",
   "type": "Brettspiel",
   "icon": "🚗",
   "playersMin": 2,
@@ -24,7 +24,7 @@
     "url": "https://boardgamegeek.com/boardgame/28609/the-game-of-life-twists-and-turns",
     "note": "Auf BoardGameGeek gefunden."
   },
-  "location": "Flur",
+  "location": "Schlafzimmer",
   "contents": [
     "Spielbrett",
     "Figuren",

@@ -1,6 +1,6 @@
 {
   "id": "rummikub",
-  "title": "Rummikub",
+  "title": "Rummy-Spiel",
   "type": "Legespiel",
   "icon": "🔢",
   "playersMin": 2,
@@ -8,7 +8,7 @@
   "age": 7,
   "duration": 45,
   "year": 1977,
-  "publisher": "Pressman",
+  "publisher": "Unser Lieblingsspiel",
   "platform": "Tisch",
   "status": "Besitze ich",
   "rating": 0,
@@ -24,7 +24,7 @@
     "url": "https://boardgamegeek.com/boardgame/811/rummikub",
     "note": "Auf BoardGameGeek gefunden."
   },
-  "location": "Schlafzimmer",
+  "location": "Flur",
   "contents": [
     "Zahlensteine",
     "Ablagebretter",

@@ -1,6 +1,6 @@
 {
   "id": "the-great-dalmuti",
-  "title": "The Great Dalmuti",
+  "title": "Der große Dalmuti",
   "type": "Kartenspiel",
   "icon": "👑",
   "playersMin": 4,
@@ -24,7 +24,7 @@
     "url": "https://boardgamegeek.com/boardgame/929/the-great-dalmuti",
     "note": "Auf BoardGameGeek gefunden."
   },
-  "location": "Schrank",
+  "location": "Flur",
   "contents": [
     "Kartendeck",
     "Regelheft"

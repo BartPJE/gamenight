@@ -1,6 +1,6 @@
 {
   "id": "monopoly-back-to-the-future",
-  "title": "Monopoly: Back to the Future",
+  "title": "Monopoly: Zurück in die Zukunft",
   "type": "Brettspiel",
   "icon": "🚗",
   "playersMin": 2,
@@ -8,7 +8,7 @@
   "age": 8,
   "duration": 120,
   "year": 2015,
-  "publisher": "USAopoly",
+  "publisher": "Hasbro",
   "platform": "Tisch",
   "status": "Besitze ich",
   "rating": 6.0,

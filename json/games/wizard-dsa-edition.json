@@ -1,6 +1,6 @@
 {
   "id": "wizard-dsa-edition",
-  "title": "Wizard (German DSA Edition)",
+  "title": "Wizard - Das Schwarze Auge (40 Jahre)",
   "type": "Kartenspiel",
   "icon": "🪄",
   "playersMin": 3,
@@ -26,7 +26,7 @@
     "url": "https://boardgamegeek.com/boardgameversion/719344/german-dsa-edition",
     "note": "Auf BoardGameGeek als Versionseintrag gefunden."
   },
-  "location": "Schrank",
+  "location": "Schlafzimmer",
   "contents": [
     "Sonderkarten-Set"
   ]
