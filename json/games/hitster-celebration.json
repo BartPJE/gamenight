@@ -1,0 +1,34 @@
+{
+  "id": "hitster-celebration",
+  "title": "Hitster Celebration",
+  "type": "Kartenspiel",
+  "icon": "🥳",
+  "playersMin": 2,
+  "playersMax": 10,
+  "age": 16,
+  "duration": 30,
+  "year": 2025,
+  "publisher": "Jumbo",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 8.0,
+  "favorite": false,
+  "collectionId": "hitster-original",
+  "tags": [
+    "Musikquiz",
+    "Partyspiel",
+    "Celebration"
+  ],
+  "description": "Party-Edition mit bekannten Feier-Hits für schnelle Raterunden.",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gefunden."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Musikkarten",
+    "Spielanleitung"
+  ],
+  "hiddenFromOverview": true
+}
