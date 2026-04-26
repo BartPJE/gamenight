@@ -1,6 +1,6 @@
 {
   "id": "uno-no-mercy",
-  "title": "UNO No Mercy",
+  "title": "UNO Show 'em No Mercy",
   "type": "Kartenspiel",
   "icon": "🔥",
   "playersMin": 2,
@@ -21,9 +21,9 @@
   "description": "Härtere UNO-Variante mit fiesen Karten und viel Schadenfreude.",
   "image": "images/uno-no-mercy.svg",
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gefunden."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/399088/uno-show-em-no-mercy",
+    "note": "Auf BoardGameGeek gefunden."
   },
   "location": "Schrank",
   "contents": [

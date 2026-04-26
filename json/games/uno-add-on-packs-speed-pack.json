@@ -1,0 +1,33 @@
+{
+  "id": "uno-add-on-packs-speed-pack",
+  "title": "UNO Add-On Packs: Speed Pack",
+  "type": "Kartenspiel",
+  "icon": "⚡",
+  "playersMin": 2,
+  "playersMax": 10,
+  "age": 7,
+  "duration": 10,
+  "year": 2025,
+  "publisher": "Mattel",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "collectionId": "uno-no-mercy",
+  "hiddenFromOverview": true,
+  "tags": [
+    "UNO",
+    "Erweiterung",
+    "Speed"
+  ],
+  "description": "Mini-Erweiterung für schnelleres, aggressiveres UNO Show 'em No Mercy.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/440972/uno-add-on-packs-speed-pack",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schrank",
+  "contents": [
+    "Erweiterungskarten"
+  ]
+}

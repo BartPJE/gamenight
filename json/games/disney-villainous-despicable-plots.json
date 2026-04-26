@@ -1,0 +1,36 @@
+{
+  "id": "disney-villainous-despicable-plots",
+  "title": "Disney Villainous: Despicable Plots",
+  "type": "Kartenspiel",
+  "icon": "🕯️",
+  "playersMin": 2,
+  "playersMax": 3,
+  "age": 10,
+  "duration": 50,
+  "year": 2021,
+  "publisher": "Ravensburger",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "collectionId": "disney-villainous-the-worst-takes-it-all",
+  "hiddenFromOverview": true,
+  "tags": [
+    "Disney",
+    "Erweiterung",
+    "Villainous"
+  ],
+  "description": "Erweiterung mit Lady Tremaine, Horned King und Gaston für Disney Villainous.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/331050/disney-villainous-despicable-plots",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "3 Schurken-Decks",
+    "Spielertafeln",
+    "Marker",
+    "Spielanleitung"
+  ]
+}
