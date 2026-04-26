@@ -314,8 +314,8 @@ function bindEvents() {
     $(id).addEventListener("input", renderGames);
   });
 
-  $("focusSearchButton").addEventListener("click", focusSearch);
-  $("resetFiltersButton").addEventListener("click", resetFilters);
+  $("focusSearchButton")?.addEventListener("click", focusSearch);
+  $("resetFiltersButton")?.addEventListener("click", resetFilters);
   $("backToArchive").addEventListener("click", () => {
     window.location.hash = "#archiv";
   });
