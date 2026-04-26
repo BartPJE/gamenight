@@ -1,0 +1,32 @@
+{
+  "id": "das-spiel-des-lebens-kartenspiel",
+  "title": "Das Spiel des Lebens Kartenspiel",
+  "type": "Kartenspiel",
+  "icon": "💼",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 8,
+  "duration": 20,
+  "year": 2007,
+  "publisher": "Hasbro",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Familie",
+    "Klassiker",
+    "Glück"
+  ],
+  "description": "Kompakte Kartenspiel-Variante des bekannten Lebenswegs.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/37773/das-spiel-des-lebens-kartenspiel",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielmaterial",
+    "Spielanleitung"
+  ]
+}

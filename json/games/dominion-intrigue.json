@@ -1,0 +1,32 @@
+{
+  "id": "dominion-intrigue",
+  "title": "Dominion: Intrige",
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 13,
+  "duration": 30,
+  "year": 2009,
+  "publisher": "Rio Grande Games",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Deckbau",
+    "Strategie",
+    "Karten"
+  ],
+  "description": "Eigenständige Dominion-Variante mit Fokus auf Aktionskarten und Interaktion.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/40834/dominion-intrigue",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Spielmaterial",
+    "Spielanleitung"
+  ]
+}
