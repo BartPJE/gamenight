@@ -1,0 +1,33 @@
+{
+  "id": "bohei-bodenlos",
+  "title": "Bohei: Bodenlos",
+  "type": "Kartenspiel",
+  "icon": "📦",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 10,
+  "duration": 20,
+  "year": 2025,
+  "publisher": "Game Factory",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Stichspiel",
+    "Erweiterung",
+    "Chaos"
+  ],
+  "description": "Bohei: Bodenlos in der Sammlung.",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gefunden."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Spielmaterial"
+  ],
+  "collectionId": "bohei",
+  "hiddenFromOverview": true
+}

@@ -1,0 +1,31 @@
+{
+  "id": "smart10",
+  "title": "Smart10",
+  "type": "Brettspiel",
+  "icon": "🧠",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 14,
+  "duration": 20,
+  "year": 2017,
+  "publisher": "Piatnik",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Quiz",
+    "Wissen",
+    "Familie"
+  ],
+  "description": "Smart10 in der Sammlung.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/241590/smart10",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

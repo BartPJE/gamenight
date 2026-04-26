@@ -1,0 +1,31 @@
+{
+  "id": "uno-super-mario",
+  "title": "UNO Super Mario",
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "playersMin": 2,
+  "playersMax": 10,
+  "age": 7,
+  "duration": 15,
+  "year": 2017,
+  "publisher": "Mattel Games",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "UNO",
+    "Familie",
+    "Schnell"
+  ],
+  "description": "UNO Super Mario in der Sammlung.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/209095/uno-super-mario",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Kinder-Box",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

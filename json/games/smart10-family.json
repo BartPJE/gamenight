@@ -1,0 +1,31 @@
+{
+  "id": "smart10-family",
+  "title": "Smart10 Family",
+  "type": "Brettspiel",
+  "icon": "👨‍👩‍👧‍👦",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 8,
+  "duration": 20,
+  "year": 2021,
+  "publisher": "Piatnik",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Quiz",
+    "Familie",
+    "Wissen"
+  ],
+  "description": "Smart10 Family in der Sammlung.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/340722/smart10-family",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

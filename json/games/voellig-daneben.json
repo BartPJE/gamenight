@@ -1,0 +1,31 @@
+{
+  "id": "voellig-daneben",
+  "title": "Völlig daneben",
+  "type": "Brettspiel",
+  "icon": "🤪",
+  "playersMin": 2,
+  "playersMax": 10,
+  "age": 10,
+  "duration": 30,
+  "year": 2024,
+  "publisher": "Unbekannt",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Schätzen",
+    "Partyspiel",
+    "Familie"
+  ],
+  "description": "Völlig daneben in der Sammlung.",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

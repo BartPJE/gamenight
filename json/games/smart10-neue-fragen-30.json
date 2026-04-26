@@ -1,0 +1,33 @@
+{
+  "id": "smart10-neue-fragen-30",
+  "title": "Smart10: Neue Fragen #3.0",
+  "type": "Brettspiel",
+  "icon": "🧩",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 14,
+  "duration": 20,
+  "year": 2022,
+  "publisher": "Piatnik",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Quiz",
+    "Erweiterung",
+    "Wissen"
+  ],
+  "description": "Smart10: Neue Fragen #3.0 in der Sammlung.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/357565/smart10-neue-fragen-30",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Spielmaterial"
+  ],
+  "collectionId": "smart10",
+  "hiddenFromOverview": true
+}
