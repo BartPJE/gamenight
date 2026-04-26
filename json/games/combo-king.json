@@ -1,7 +1,7 @@
 {
   "id": "combo-king",
-  "title": "Combo King",
-  "type": "Kartenspiel",
+  "title": "Zocken",
+  "type": "Würfelspiel",
   "icon": "👑",
   "playersMin": 2,
   "playersMax": 6,
@@ -14,11 +14,11 @@
   "rating": 0,
   "favorite": false,
   "tags": [
-    "Karten",
+    "Würfel",
     "Kombinationen",
     "Familienspiel"
   ],
-  "description": "Schnelles Kartenspiel, bei dem Kombinationen gebildet und taktisch ausgespielt werden.",
+  "description": "Schnelles Würfelspiel, bei dem Kombinationen gebildet und taktisch ausgespielt werden.",
   "bgg": {
     "found": true,
     "url": "https://boardgamegeek.com/boardgame/22721/combo-king",
@@ -26,7 +26,7 @@
   },
   "location": "Flur",
   "contents": [
-    "Karten",
+    "Würfel",
     "Spielanleitung"
   ]
 }
