@@ -1,0 +1,33 @@
+{
+  "id": "what-do-you-meme-stoner-expansion-pack",
+  "title": "What Do You Meme?: Stoner Expansion Pack",
+  "type": "Kartenspiel",
+  "icon": "🌿",
+  "playersMin": 3,
+  "playersMax": 20,
+  "age": 17,
+  "duration": 30,
+  "year": 2018,
+  "publisher": "What Do You Meme, LLC",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "collectionId": "what-do-you-meme",
+  "hiddenFromOverview": true,
+  "tags": [
+    "Erweiterung",
+    "Partyspiel",
+    "Humor"
+  ],
+  "description": "Erweiterung mit zusätzlichen Meme-Karten im Stoner-Thema für What Do You Meme?.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/242578/what-do-you-meme-stoner-expansion-pack",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Erweiterungskarten"
+  ]
+}

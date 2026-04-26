@@ -1,0 +1,31 @@
+{
+  "id": "24-wer-zuletzt-sticht-sticht-am-besten",
+  "title": "24: Wer zuletzt sticht, sticht am besten!",
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "playersMin": 3,
+  "playersMax": 5,
+  "age": 8,
+  "duration": 30,
+  "year": 2008,
+  "publisher": "Amigo",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Stichspiel",
+    "Zahlen",
+    "Familienspiel"
+  ],
+  "description": "Stichspiel, bei dem Timing und Kartenwert über den richtigen Moment zum Stechen entscheiden.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/35630/24-wer-zuletzt-sticht-sticht-am-besten",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "game-of-quotes-verruckte-zitate",
+  "title": "Game of Quotes: Verrückte Zitate",
+  "type": "Kartenspiel",
+  "icon": "🗯️",
+  "playersMin": 3,
+  "playersMax": 10,
+  "age": 16,
+  "duration": 30,
+  "year": 2017,
+  "publisher": "Unbekannt",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Partyspiel",
+    "Humor",
+    "Zitate"
+  ],
+  "description": "Party-Kartenspiel, bei dem absurde Zitate kreativ ergänzt und erraten werden.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/218824/game-of-quotes-verruckte-zitate",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

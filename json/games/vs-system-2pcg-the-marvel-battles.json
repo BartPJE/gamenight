@@ -1,0 +1,31 @@
+{
+  "id": "vs-system-2pcg-the-marvel-battles",
+  "title": "VS System 2PCG: The Marvel Battles",
+  "type": "Kartenspiel",
+  "icon": "🦸",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 14,
+  "duration": 45,
+  "year": 2015,
+  "publisher": "Upper Deck Entertainment",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Superhelden",
+    "Deckbau",
+    "Duell"
+  ],
+  "description": "Schnelles Superhelden-Kartenspiel mit Team-Building und taktischen Kämpfen.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/178892/vs-system-2pcg-the-marvel-battles",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

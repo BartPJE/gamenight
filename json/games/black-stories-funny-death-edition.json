@@ -1,0 +1,31 @@
+{
+  "id": "black-stories-funny-death-edition",
+  "title": "Black Stories: Funny Death Edition",
+  "type": "Kartenspiel",
+  "icon": "💀",
+  "playersMin": 2,
+  "playersMax": 15,
+  "age": 12,
+  "duration": 20,
+  "year": 2011,
+  "publisher": "moses. Verlag",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Rätsel",
+    "Story",
+    "Partyspiel"
+  ],
+  "description": "Makabres Rätselspiel mit skurrilen Todesfällen, die gemeinsam rekonstruiert werden.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/96345/black-stories-funny-death-edition",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

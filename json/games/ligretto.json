@@ -1,0 +1,31 @@
+{
+  "id": "ligretto",
+  "title": "Ligretto",
+  "type": "Kartenspiel",
+  "icon": "⚡",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 8,
+  "duration": 10,
+  "year": 1960,
+  "publisher": "Schmidt Spiele",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Echtzeit",
+    "Klassiker",
+    "Schnell"
+  ],
+  "description": "Rasantes Echtzeit-Kartenspiel, bei dem alle gleichzeitig Karten ablegen.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/943/ligretto",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

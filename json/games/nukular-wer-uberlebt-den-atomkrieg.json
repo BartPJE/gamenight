@@ -1,0 +1,31 @@
+{
+  "id": "nukular-wer-uberlebt-den-atomkrieg",
+  "title": "Nukular: Wer überlebt den Atomkrieg?",
+  "type": "Kartenspiel",
+  "icon": "☢️",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 16,
+  "duration": 30,
+  "year": 2023,
+  "publisher": "Kack & Sachgeschichten",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Partyspiel",
+    "Humor",
+    "Take-that"
+  ],
+  "description": "Schwarzhumoriges Kartenspiel rund um Überlebenstaktiken im Atomkrieg-Szenario.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/371691/nukular-wer-uberlebt-den-atomkrieg",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Spielmaterial"
+  ]
+}
