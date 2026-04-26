@@ -1,6 +1,6 @@
 {
   "id": "risk",
-  "title": "Risk",
+  "title": "Risiko De Luxe - Das große Strategiespiel",
   "type": "Brettspiel",
   "icon": "🗺️",
   "playersMin": 2,
@@ -24,7 +24,7 @@
     "url": "https://boardgamegeek.com/boardgame/181/risk",
     "note": "Auf BoardGameGeek gefunden."
   },
-  "location": "Schrank",
+  "location": "Flur",
   "contents": [
     "Spielbrett",
     "Armeen",
