@@ -85,5 +85,16 @@
   "json/games/monopoly-back-to-the-future.json",
   "json/games/star-wars-scrabble.json",
   "json/games/go-for-broke.json",
-  "json/games/risk.json"
+  "json/games/risk.json",
+  "json/games/qr-song-eigene-hitster-variante.json",
+  "json/games/peter-aergere-dich-nicht-eigene-ludo-variante.json",
+  "json/games/mario-kart-das-logikspiel.json",
+  "json/games/frantic.json",
+  "json/games/munchkin.json",
+  "json/games/kivi.json",
+  "json/games/encore.json",
+  "json/games/all-on-1-card.json",
+  "json/games/star-wars-timeline-twist.json",
+  "json/games/halt-mal-kurz-das-kanguru-spiel.json",
+  "json/games/las-vegas.json"
 ]
