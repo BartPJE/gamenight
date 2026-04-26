@@ -1,0 +1,32 @@
+{
+  "id": "combo-king",
+  "title": "Combo King",
+  "type": "Kartenspiel",
+  "icon": "👑",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 20,
+  "year": 2006,
+  "publisher": "Piatnik",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Karten",
+    "Kombinationen",
+    "Familienspiel"
+  ],
+  "description": "Schnelles Kartenspiel, bei dem Kombinationen gebildet und taktisch ausgespielt werden.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/22721/combo-king",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Karten",
+    "Spielanleitung"
+  ]
+}

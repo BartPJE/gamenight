@@ -1,0 +1,33 @@
+{
+  "id": "escape-room-the-game-virtual-reality",
+  "title": "Escape Room: The Game – Virtual Reality",
+  "type": "Brettspiel",
+  "icon": "🥽",
+  "playersMin": 3,
+  "playersMax": 5,
+  "age": 16,
+  "duration": 60,
+  "year": 2017,
+  "publisher": "Noris Spiele",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Escape Room",
+    "Kooperativ",
+    "VR"
+  ],
+  "description": "Standalone-Escape-Room-Variante mit Virtual-Reality-Brille für immersive Rätsel.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/229315/escape-room-the-game-virtual-reality",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "VR-Brille",
+    "Abenteuer-Umschläge",
+    "Hinweiskarten"
+  ]
+}

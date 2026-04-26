@@ -1,0 +1,33 @@
+{
+  "id": "marvel-mayhem",
+  "title": "Marvel Mayhem",
+  "type": "Kartenspiel",
+  "icon": "🦸",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 8,
+  "duration": 20,
+  "year": 2022,
+  "publisher": "Ravensburger",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Marvel",
+    "Familienspiel",
+    "Take-That"
+  ],
+  "description": "Schnelles Marvel-Kartenspiel mit Helden, Schurken und direkten Konfrontationen.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/354342/marvel-mayhem",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Karten",
+    "Marker",
+    "Spielanleitung"
+  ]
+}
