@@ -1,0 +1,35 @@
+{
+  "id": "happy-little-dinosaurs-desastroese-dates",
+  "title": "Happy Little Dinosaurs: Desaströse Dates",
+  "type": "Kartenspiel",
+  "icon": "💘",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 8,
+  "duration": 30,
+  "year": 2022,
+  "publisher": "Unstable Games",
+  "platform": "Tisch",
+  "status": "In Spielesammlung",
+  "rating": 6.1,
+  "favorite": false,
+  "collectionId": "happy-little-dinosaurs",
+  "hiddenFromOverview": true,
+  "tags": [
+    "Humor",
+    "Erweiterung",
+    "Dates"
+  ],
+  "description": "Erweiterung mit chaotischen Dating-Szenarien und neuen Katastrophen-Karten.",
+  "image": "images/happy-little-dinosaurs.webp",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Erweiterungskarten",
+    "Spielanleitung"
+  ]
+}
