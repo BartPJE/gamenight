@@ -1,0 +1,31 @@
+{
+  "id": "schnick-schnack-schwalbe",
+  "title": "Schnick Schnack Schwalbe",
+  "type": "Kartenspiel",
+  "icon": "🕊️",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 15,
+  "year": 2024,
+  "publisher": "Unbekannt",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Schnell",
+    "Reaktion",
+    "Familie"
+  ],
+  "description": "Schnick Schnack Schwalbe in der Sammlung.",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

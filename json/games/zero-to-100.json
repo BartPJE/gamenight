@@ -1,0 +1,31 @@
+{
+  "id": "zero-to-100",
+  "title": "Zero to 100",
+  "type": "Kartenspiel",
+  "icon": "💯",
+  "playersMin": 2,
+  "playersMax": 12,
+  "age": 12,
+  "duration": 20,
+  "year": 2023,
+  "publisher": "Piatnik",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Schätzen",
+    "Partyspiel",
+    "Wissen"
+  ],
+  "description": "Zero to 100 in der Sammlung.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/360056/zero-to-100",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "pictionary-air",
+  "title": "Pictionary Air",
+  "type": "Brettspiel",
+  "icon": "✏️",
+  "playersMin": 2,
+  "playersMax": 12,
+  "age": 8,
+  "duration": 30,
+  "year": 2019,
+  "publisher": "Mattel Games",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Zeichnen",
+    "Familie",
+    "Partyspiel"
+  ],
+  "description": "Pictionary Air in der Sammlung.",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gefunden."
+  },
+  "location": "Kinder-Box",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

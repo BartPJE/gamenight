@@ -1,0 +1,31 @@
+{
+  "id": "tension-the-crazy-naming-game",
+  "title": "Tension: The Crazy Naming Game",
+  "type": "Brettspiel",
+  "icon": "🧠",
+  "playersMin": 4,
+  "playersMax": 12,
+  "age": 12,
+  "duration": 60,
+  "year": 1992,
+  "publisher": "Ideal",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Quiz",
+    "Teamspiel",
+    "Partyspiel"
+  ],
+  "description": "Tension: The Crazy Naming Game in der Sammlung.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/12920/tension-the-crazy-naming-game",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

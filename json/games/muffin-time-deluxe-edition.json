@@ -1,0 +1,31 @@
+{
+  "id": "muffin-time-deluxe-edition",
+  "title": "Muffin Time: Deluxe Edition",
+  "type": "Kartenspiel",
+  "icon": "🧁",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 13,
+  "duration": 25,
+  "year": 2022,
+  "publisher": "Big Potato Games",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Take-That",
+    "Partyspiel",
+    "Humor"
+  ],
+  "description": "Muffin Time: Deluxe Edition in der Sammlung.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/345027/muffin-time-deluxe-edition",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

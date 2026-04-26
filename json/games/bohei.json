@@ -1,0 +1,31 @@
+{
+  "id": "bohei",
+  "title": "Bohei",
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 10,
+  "duration": 20,
+  "year": 2024,
+  "publisher": "Game Factory",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Stichspiel",
+    "Schnell",
+    "Familie"
+  ],
+  "description": "Bohei in der Sammlung.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/410134/bohei",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

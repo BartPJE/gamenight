@@ -1,0 +1,31 @@
+{
+  "id": "divvy-dice",
+  "title": "Divvy Dice",
+  "type": "Brettspiel",
+  "icon": "🎲",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 8,
+  "duration": 20,
+  "year": 2020,
+  "publisher": "Dranda Games",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Würfelspiel",
+    "Roll-and-Write",
+    "Familie"
+  ],
+  "description": "Divvy Dice in der Sammlung.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/297895/divvy-dice",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

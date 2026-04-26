@@ -1,0 +1,31 @@
+{
+  "id": "frantic-das-brettspiel",
+  "title": "FRANTIC: Das Brettspiel",
+  "type": "Brettspiel",
+  "icon": "🎲",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 12,
+  "duration": 45,
+  "year": 2025,
+  "publisher": "Rulefactory",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Take-That",
+    "Handmanagement",
+    "Chaos"
+  ],
+  "description": "FRANTIC: Das Brettspiel in der Sammlung.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/442222/frantic-brettspiel",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Spielmaterial"
+  ]
+}
