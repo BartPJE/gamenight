@@ -26,10 +26,11 @@
     "url": "",
     "note": "Noch nicht geprüft."
   },
-  "location": "Wohnzimmer",
+  "location": "Schlafzimmer",
   "contents": [
     "Karten",
     "Aufgabenkarten 18+",
     "Spielanleitung"
-  ]
+  ],
+  "hiddenFromOverview": true
 }

@@ -30,5 +30,6 @@
   "contents": [
     "Karten",
     "Spielanleitung"
-  ]
+  ],
+  "hiddenFromOverview": true
 }

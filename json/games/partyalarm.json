@@ -25,10 +25,12 @@
     "url": "",
     "note": "Noch nicht geprüft."
   },
-  "location": "Wohnzimmer",
+  "location": "Schlafzimmer",
   "contents": [
     "Karten",
     "Aufgabenkarten",
     "Spielanleitung"
-  ]
+  ],
+  "hiddenFromOverview": false,
+  "collectionId": "partyalarm"
 }
