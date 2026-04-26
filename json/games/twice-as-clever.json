@@ -28,5 +28,7 @@
   "contents": [
     "Spielmaterial",
     "Spielanleitung"
-  ]
+  ],
+  "collectionId": "thats-pretty-clever",
+  "hiddenFromOverview": false
 }
