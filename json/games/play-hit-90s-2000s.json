@@ -1,0 +1,33 @@
+{
+  "id": "play-hit-90s-2000s",
+  "title": "Play Hit 90s & 2000s",
+  "type": "Musikspiel",
+  "icon": "🎵",
+  "playersMin": 2,
+  "playersMax": 10,
+  "age": 12,
+  "duration": 30,
+  "year": 2021,
+  "publisher": "Jumbo",
+  "platform": "Tisch",
+  "status": "In Spielesammlung",
+  "rating": 6.5,
+  "favorite": false,
+  "tags": [
+    "Musik",
+    "Quiz",
+    "Party"
+  ],
+  "description": "Musik- und Wissensspiel mit Hits aus den 90ern und 2000ern.",
+  "image": "",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Noch nicht geprüft."
+  },
+  "location": "Flur",
+  "contents": [
+    "Karten",
+    "Spielanleitung"
+  ]
+}

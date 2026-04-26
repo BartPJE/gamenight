@@ -1,0 +1,34 @@
+{
+  "id": "beat-that",
+  "title": "Beat That",
+  "type": "Partyspiel",
+  "icon": "🎯",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 9,
+  "duration": 40,
+  "year": 2019,
+  "publisher": "Gutter Games",
+  "platform": "Tisch",
+  "status": "In Spielesammlung",
+  "rating": 7.0,
+  "favorite": false,
+  "tags": [
+    "Geschicklichkeit",
+    "Party",
+    "Challenges"
+  ],
+  "description": "Viele kurze Skill-Challenges für Teams und Einzelspieler.",
+  "image": "",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/274219/beat-that",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Challenge-Karten",
+    "Spielmaterial",
+    "Spielanleitung"
+  ]
+}

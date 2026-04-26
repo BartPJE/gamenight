@@ -1,0 +1,33 @@
+{
+  "id": "arschkarte",
+  "title": "Arschkarte",
+  "type": "Kartenspiel",
+  "icon": "🟥",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 12,
+  "duration": 20,
+  "year": 2016,
+  "publisher": "Denkriesen",
+  "platform": "Tisch",
+  "status": "In Spielesammlung",
+  "rating": 6.2,
+  "favorite": false,
+  "tags": [
+    "Humor",
+    "Schnell",
+    "Party"
+  ],
+  "description": "Schnelles Kartenspiel, bei dem die falsche Karte den entscheidenden Nachteil bringt.",
+  "image": "",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Noch nicht geprüft."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Karten",
+    "Spielanleitung"
+  ]
+}

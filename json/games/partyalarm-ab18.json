@@ -1,0 +1,35 @@
+{
+  "id": "partyalarm-ab18",
+  "collectionId": "partyalarm",
+  "title": "PartyAlarm (Ab18)",
+  "type": "Partyspiel",
+  "icon": "🔞",
+  "playersMin": 3,
+  "playersMax": 12,
+  "age": 18,
+  "duration": 35,
+  "year": 2021,
+  "publisher": "Noris",
+  "platform": "Tisch",
+  "status": "In Spielesammlung",
+  "rating": 6.2,
+  "favorite": false,
+  "tags": [
+    "Party",
+    "Erwachsene",
+    "Humor"
+  ],
+  "description": "Erwachsenenversion von PartyAlarm mit frecheren Aufgaben.",
+  "image": "",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Noch nicht geprüft."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Karten",
+    "Aufgabenkarten 18+",
+    "Spielanleitung"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "lol-die-ultimative-nicht-lachen-challenge",
+  "title": "LOL - Die ultimative Nicht Lachen Challange",
+  "type": "Partyspiel",
+  "icon": "😂",
+  "playersMin": 3,
+  "playersMax": 10,
+  "age": 12,
+  "duration": 30,
+  "year": 2023,
+  "publisher": "KOSMOS",
+  "platform": "Tisch",
+  "status": "In Spielesammlung",
+  "rating": 6.6,
+  "favorite": false,
+  "tags": [
+    "Humor",
+    "Party",
+    "Reaktionsspiel"
+  ],
+  "description": "Wer lachen muss, verliert – mit Aufgaben und Situationen zum Durchhalten.",
+  "image": "",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Noch nicht geprüft."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Karten",
+    "Regelheft"
+  ]
+}
