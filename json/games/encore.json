@@ -1,6 +1,6 @@
 {
   "id": "encore",
-  "title": "Encore!",
+  "title": "Noch Mal",
   "type": "Roll-and-Write",
   "icon": "✏️",
   "playersMin": 1,
@@ -14,7 +14,7 @@
   "rating": 0,
   "favorite": false,
   "tags": [
-    "Wuerfeln",
+    "ürfeln",
     "Familienspiel",
     "Roll-and-Write"
   ],
