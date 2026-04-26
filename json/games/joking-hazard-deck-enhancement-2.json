@@ -1,0 +1,33 @@
+{
+  "id": "joking-hazard-deck-enhancement-2",
+  "title": "Joking Hazard: Deck Enhancement 2",
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "playersMin": 3,
+  "playersMax": 10,
+  "age": 17,
+  "duration": 30,
+  "year": 2018,
+  "publisher": "Explosm",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Erweiterung",
+    "Humor",
+    "Partyspiel"
+  ],
+  "description": "Erweiterung für Joking Hazard mit zusätzlichen, bewusst schwarzhumorigen Karten.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/240250/joking-hazard-deck-enhancement-2",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Erweiterungsmaterial"
+  ],
+  "hiddenFromOverview": true,
+  "collectionId": "joking-hazard"
+}

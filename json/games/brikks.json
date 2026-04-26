@@ -1,0 +1,31 @@
+{
+  "id": "brikks",
+  "title": "Brikks",
+  "type": "Brettspiel",
+  "icon": "🎲",
+  "playersMin": 1,
+  "playersMax": 4,
+  "age": 8,
+  "duration": 20,
+  "year": 2018,
+  "publisher": "NSV",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Roll & Write",
+    "Tetris",
+    "Puzzle"
+  ],
+  "description": "Polyomino-Roll-&-Write im Tetris-Stil: Formen eintragen, Reihen füllen und Punkte kassieren.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/257726/brikks",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

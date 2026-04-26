@@ -1,0 +1,31 @@
+{
+  "id": "scrabble-slam-2-6p",
+  "title": "Scrabble Slam!",
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 15,
+  "year": 2009,
+  "publisher": "Hasbro",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Wortspiel",
+    "Echtzeit",
+    "Karten"
+  ],
+  "description": "Schnelles Wortspiel: durch Buchstabenwechsel möglichst rasch vom Start- zum Zielwort gelangen.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/166239/scrabble-slam-2-6p",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

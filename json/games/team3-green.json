@@ -1,0 +1,31 @@
+{
+  "id": "team3-green",
+  "title": "TEAM3 Green",
+  "type": "Brettspiel",
+  "icon": "🎲",
+  "playersMin": 3,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 30,
+  "year": 2020,
+  "publisher": "Abacusspiele",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Kommunikation",
+    "Kooperativ",
+    "Partyspiel"
+  ],
+  "description": "Kooperatives Bauspiel mit Rollenverteilung: reden, bauen und Missverständnisse vermeiden.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/275870/team3-green",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

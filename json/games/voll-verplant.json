@@ -1,0 +1,31 @@
+{
+  "id": "voll-verplant",
+  "title": "Voll verplant",
+  "type": "Brettspiel",
+  "icon": "🎲",
+  "playersMin": 1,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 30,
+  "year": 2021,
+  "publisher": "Schmidt Spiele",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Roll & Write",
+    "Puzzle",
+    "Planung"
+  ],
+  "description": "Plant Wege und Aufgaben auf eurem Blatt so effizient wie möglich im Würfel-Puzzle.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/346482/voll-verplant",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "malefiz",
+  "title": "Malefiz",
+  "type": "Brettspiel",
+  "icon": "🎲",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 6,
+  "duration": 30,
+  "year": 1960,
+  "publisher": "Ravensburger",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Klassiker",
+    "Familie",
+    "Taktik"
+  ],
+  "description": "Laufspiel-Klassiker mit Sperrsteinen: blockiere Gegner und bahne dir den Weg ins Ziel.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/2322/malefiz",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

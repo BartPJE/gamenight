@@ -1,0 +1,31 @@
+{
+  "id": "las-vegas-the-card-game",
+  "title": "Las Vegas: The Card Game",
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "playersMin": 2,
+  "playersMax": 5,
+  "age": 8,
+  "duration": 20,
+  "year": 2016,
+  "publisher": "Ravensburger",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Push Your Luck",
+    "Karten",
+    "Familie"
+  ],
+  "description": "Kartenspiel-Ableger von Las Vegas mit Risiko-Entscheidungen um Casinos und Geldkarten.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/209886/las-vegas-the-card-game",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

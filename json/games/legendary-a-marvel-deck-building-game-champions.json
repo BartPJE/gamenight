@@ -1,0 +1,33 @@
+{
+  "id": "legendary-a-marvel-deck-building-game-champions",
+  "title": "Legendary: A Marvel Deck Building Game – Champions",
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "playersMin": 1,
+  "playersMax": 5,
+  "age": 14,
+  "duration": 45,
+  "year": 2018,
+  "publisher": "Upper Deck Entertainment",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Erweiterung",
+    "Deckbuilding",
+    "Marvel"
+  ],
+  "description": "Erweiterung für Legendary: A Marvel Deck Building Game mit dem Schwerpunkt Champions.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/239469/legendary-a-marvel-deck-building-game-champions",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Erweiterungsmaterial"
+  ],
+  "hiddenFromOverview": true,
+  "collectionId": "legendary-a-marvel-deck-building-game"
+}

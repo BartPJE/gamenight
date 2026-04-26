@@ -1,0 +1,31 @@
+{
+  "id": "wurfel-wg",
+  "title": "Würfel-WG",
+  "type": "Brettspiel",
+  "icon": "🎲",
+  "playersMin": 2,
+  "playersMax": 5,
+  "age": 8,
+  "duration": 20,
+  "year": 2019,
+  "publisher": "Schmidt Spiele",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Würfelspiel",
+    "Familie",
+    "Schnell"
+  ],
+  "description": "Würfelspiel rund um das Zusammenstellen einer chaotischen Wohngemeinschaft.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/283795/wurfel-wg",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

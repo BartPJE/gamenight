@@ -1,0 +1,33 @@
+{
+  "id": "legendary-a-marvel-deck-building-game-fantastic-fo",
+  "title": "Legendary: A Marvel Deck Building Game – Fantastic Four",
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "playersMin": 1,
+  "playersMax": 5,
+  "age": 14,
+  "duration": 45,
+  "year": 2013,
+  "publisher": "Upper Deck Entertainment",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Erweiterung",
+    "Deckbuilding",
+    "Marvel"
+  ],
+  "description": "Erweiterung für Legendary: A Marvel Deck Building Game mit dem Schwerpunkt Fantastic Four.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/142020/legendary-a-marvel-deck-building-game-fantastic-fo",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Erweiterungsmaterial"
+  ],
+  "hiddenFromOverview": true,
+  "collectionId": "legendary-a-marvel-deck-building-game"
+}
