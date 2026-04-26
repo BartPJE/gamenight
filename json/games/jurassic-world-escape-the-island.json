@@ -1,0 +1,31 @@
+{
+  "id": "jurassic-world-escape-the-island",
+  "title": "Jurassic World: Escape the Island",
+  "type": "Brettspiel",
+  "icon": "🦖",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 8,
+  "duration": 45,
+  "year": 2022,
+  "publisher": "Funko Games",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Abenteuer",
+    "Familienspiel",
+    "Filmthema"
+  ],
+  "description": "Halb-kooperatives Abenteuerspiel mit Flucht von einer Dino-Insel.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/366302/jurassic-world-escape-the-island",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

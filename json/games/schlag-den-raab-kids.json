@@ -1,0 +1,31 @@
+{
+  "id": "schlag-den-raab-kids",
+  "title": "Schlag den Raab Kids",
+  "type": "Kinderspiel",
+  "icon": "🧒",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 30,
+  "year": 2021,
+  "publisher": "Ravensburger",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Kinder",
+    "TV-Show",
+    "Familienspiel"
+  ],
+  "description": "Kindgerechte Version des TV-Duellspiels mit vereinfachten Aufgaben.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/342197/schlag-den-raab-kids",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

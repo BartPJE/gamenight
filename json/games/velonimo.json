@@ -1,0 +1,31 @@
+{
+  "id": "velonimo",
+  "title": "Velonimo",
+  "type": "Kartenspiel",
+  "icon": "🚴",
+  "playersMin": 2,
+  "playersMax": 5,
+  "age": 7,
+  "duration": 30,
+  "year": 2020,
+  "publisher": "Strawberry Studio",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Stichspiel",
+    "Handmanagement",
+    "Familienspiel"
+  ],
+  "description": "Radsport-inspiriertes Kartenspiel mit cleverem Kartenmanagement über mehrere Etappen.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/323262/velonimo",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Kinder-Box",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "stranger-things-tarot-deck",
+  "title": "Stranger Things Tarot Deck",
+  "type": "Kartenspiel",
+  "icon": "🔮",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 15,
+  "year": 2005,
+  "publisher": "Kosmos",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Stichspiel",
+    "Glück",
+    "Schnell"
+  ],
+  "description": "Kartenspiel-Eintrag basierend auf dem angegebenen BGG-Link zu Friday the 13th.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/413917/friday-the-13th-card-game",
+    "note": "BGG-Link vorhanden, Titel vor Ort kann abweichen."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

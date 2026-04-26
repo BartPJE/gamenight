@@ -1,0 +1,31 @@
+{
+  "id": "schlag-den-raab-das-spiel",
+  "title": "Schlag den Raab: Das Spiel",
+  "type": "Partyspiel",
+  "icon": "📺",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 12,
+  "duration": 60,
+  "year": 2010,
+  "publisher": "Ravensburger",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "TV-Show",
+    "Wettkampf",
+    "Partyspiel"
+  ],
+  "description": "Spielumsetzung der TV-Show mit unterschiedlichen Duell-Disziplinen.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/66851/schlag-den-raab-das-spiel",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

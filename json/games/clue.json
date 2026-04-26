@@ -1,0 +1,31 @@
+{
+  "id": "clue",
+  "title": "Clue",
+  "type": "Brettspiel",
+  "icon": "🕵️",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 45,
+  "year": 1949,
+  "publisher": "Hasbro",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Deduktion",
+    "Klassiker",
+    "Mystery"
+  ],
+  "description": "Deduktionsklassiker: Tat, Täter und Tatort durch Ausschluss ermitteln.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/130592/clue",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

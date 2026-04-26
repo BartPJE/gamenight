@@ -1,0 +1,31 @@
+{
+  "id": "das-bier-quiz",
+  "title": "Das Bier Quiz",
+  "type": "Quizspiel",
+  "icon": "🍺",
+  "playersMin": 2,
+  "playersMax": 10,
+  "age": 16,
+  "duration": 30,
+  "year": 2026,
+  "publisher": "Unbekannt",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Quiz",
+    "Partyspiel",
+    "Wissen"
+  ],
+  "description": "Quizspiel rund um das Thema Bier; derzeit ohne bestätigten BGG-Eintrag.",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Kein BoardGameGeek-Link angegeben."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Spielmaterial"
+  ]
+}

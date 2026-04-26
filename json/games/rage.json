@@ -1,0 +1,31 @@
+{
+  "id": "rage",
+  "title": "Rage",
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "playersMin": 3,
+  "playersMax": 8,
+  "age": 10,
+  "duration": 40,
+  "year": 1983,
+  "publisher": "Amigo",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Stichspiel",
+    "Klassiker",
+    "Taktik"
+  ],
+  "description": "Stichspiel mit variablen Trumpffarben und Gebotsrunden.",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/568/rage",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Spielmaterial"
+  ]
+}
