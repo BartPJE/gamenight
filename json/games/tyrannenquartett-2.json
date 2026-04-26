@@ -29,5 +29,7 @@
   "contents": [
     "Kartenstapel",
     "Spielanleitung"
-  ]
+  ],
+  "collectionId": "tyrannenquartett",
+  "hiddenFromOverview": true
 }
