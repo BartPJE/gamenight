@@ -1,0 +1,31 @@
+{
+  "id": "offenherzig-classic",
+  "title": "Offenherzig Classic",
+  "type": "Kartenspiel",
+  "icon": "💬",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 16,
+  "duration": 30,
+  "year": 2026,
+  "publisher": "Unbekannt",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Partyspiel",
+    "Gespräch",
+    "Erwachsene"
+  ],
+  "description": "Gesprächs- und Partyspiel; derzeit ohne bestätigten BGG-Eintrag.",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Kein BoardGameGeek-Link angegeben."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Spielmaterial"
+  ]
+}
