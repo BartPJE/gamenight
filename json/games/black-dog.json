@@ -1,0 +1,33 @@
+{
+  "id": "black-dog",
+  "title": "Black DOG",
+  "type": "Kartenspiel",
+  "icon": "🐕",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 10,
+  "duration": 25,
+  "year": 2016,
+  "publisher": "Schmidt Spiele",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 6.5,
+  "favorite": false,
+  "tags": [
+    "Sammeln",
+    "Taktik",
+    "Familie"
+  ],
+  "description": "Karten sammeln und geschickt kombinieren, um zu punkten.",
+  "image": "",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/206925/black-dog",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Kartenstapel",
+    "Spielanleitung"
+  ]
+}

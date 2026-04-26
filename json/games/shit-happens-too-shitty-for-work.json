@@ -1,0 +1,32 @@
+{
+  "id": "shit-happens-too-shitty-for-work",
+  "title": "Shit Happens: Too Shitty for Work",
+  "type": "Kartenspiel",
+  "icon": "💩",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 18,
+  "duration": 20,
+  "year": 2018,
+  "publisher": "Goliath",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 6.5,
+  "favorite": false,
+  "tags": [
+    "Humor",
+    "Party",
+    "Erweiterung"
+  ],
+  "description": "Weitere Shit-Happens-Ausgabe mit besonders derben Situationen.",
+  "image": "",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/255335/shit-happens-too-shitty-for-work",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Kartenstapel"
+  ]
+}

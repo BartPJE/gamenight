@@ -1,0 +1,33 @@
+{
+  "id": "marvel-root-for-groot",
+  "title": "Marvel: Root for Groot",
+  "type": "Kartenspiel",
+  "icon": "🌱",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 10,
+  "duration": 20,
+  "year": 2025,
+  "publisher": "Exploding Kittens",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 7.0,
+  "favorite": false,
+  "tags": [
+    "Marvel",
+    "Familie",
+    "Schnell"
+  ],
+  "description": "Kooperatives/kompetitives Marvel-Kartenspiel rund um Groot.",
+  "image": "",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/448594/marvel-root-for-groot",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Kartenstapel",
+    "Spielanleitung"
+  ]
+}

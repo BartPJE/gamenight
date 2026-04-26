@@ -1,0 +1,33 @@
+{
+  "id": "elfer-raus",
+  "title": "Elfer raus!",
+  "type": "Kartenspiel",
+  "icon": "🔢",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 7,
+  "duration": 30,
+  "year": 1925,
+  "publisher": "Ravensburger",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 6.9,
+  "favorite": false,
+  "tags": [
+    "Klassiker",
+    "Zahlen",
+    "Familie"
+  ],
+  "description": "Klassisches Kartenspiel: Reihen bilden und als Erste:r alle Karten ablegen.",
+  "image": "",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/2086/elfer-raus",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Kartenstapel",
+    "Spielanleitung"
+  ]
+}

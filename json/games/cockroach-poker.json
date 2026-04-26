@@ -1,0 +1,33 @@
+{
+  "id": "cockroach-poker",
+  "title": "Cockroach Poker",
+  "type": "Kartenspiel",
+  "icon": "🪳",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 20,
+  "year": 2004,
+  "publisher": "Drei Magier Spiele",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 7.2,
+  "favorite": false,
+  "tags": [
+    "Bluff",
+    "Party",
+    "Schnell"
+  ],
+  "description": "Bluffspiel: Tiere weiterreichen, ohne die Wahrheit zu verraten.",
+  "image": "",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/11971/cockroach-poker",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Kartenstapel",
+    "Spielanleitung"
+  ]
+}

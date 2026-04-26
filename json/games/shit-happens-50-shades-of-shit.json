@@ -1,0 +1,32 @@
+{
+  "id": "shit-happens-50-shades-of-shit",
+  "title": "Shit Happens: 50 Shades of Shit",
+  "type": "Kartenspiel",
+  "icon": "💩",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 18,
+  "duration": 20,
+  "year": 2018,
+  "publisher": "Goliath",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 6.5,
+  "favorite": false,
+  "tags": [
+    "Humor",
+    "Party",
+    "Erweiterung"
+  ],
+  "description": "Eigenständige Ausgabe mit neuen, erwachsenen Karten.",
+  "image": "",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/255310/shit-happens-50-shades-of-shit",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Kartenstapel"
+  ]
+}

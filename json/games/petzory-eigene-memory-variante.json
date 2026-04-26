@@ -1,0 +1,32 @@
+{
+  "id": "petzory-eigene-memory-variante",
+  "title": "PetzOry (eigene Memory Variante)",
+  "type": "Kartenspiel",
+  "icon": "🧠",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 6,
+  "duration": 15,
+  "year": 2025,
+  "publisher": "Eigenbau",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 7.0,
+  "favorite": false,
+  "tags": [
+    "Memory",
+    "Eigenbau",
+    "Familie"
+  ],
+  "description": "Eigene Memory-Variante mit individuellen Kartenmotiven.",
+  "image": "",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Nicht auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Kartenstapel"
+  ]
+}

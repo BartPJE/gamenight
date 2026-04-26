@@ -1,0 +1,34 @@
+{
+  "id": "micromacro-crime-city-showdown",
+  "title": "MicroMacro: Crime City – Showdown",
+  "type": "Brettspiel",
+  "icon": "🕵️",
+  "playersMin": 1,
+  "playersMax": 4,
+  "age": 10,
+  "duration": 30,
+  "year": 2023,
+  "publisher": "Edition Spielwiese",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 7.6,
+  "favorite": false,
+  "tags": [
+    "Detektiv",
+    "Kooperativ",
+    "Wimmelbild"
+  ],
+  "description": "Kriminalfälle gemeinsam auf einer riesigen Stadtkarte lösen.",
+  "image": "",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/398162/micromacro-crime-city-showdown",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Schlafzimmer",
+  "contents": [
+    "Stadtplan",
+    "Fallkarten",
+    "Spielanleitung"
+  ]
+}

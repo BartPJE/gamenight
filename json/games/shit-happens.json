@@ -1,0 +1,33 @@
+{
+  "id": "shit-happens",
+  "title": "Shit Happens",
+  "type": "Kartenspiel",
+  "icon": "💩",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 18,
+  "duration": 20,
+  "year": 2016,
+  "publisher": "Goliath",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 6.7,
+  "favorite": false,
+  "tags": [
+    "Humor",
+    "Party",
+    "Schätzen"
+  ],
+  "description": "Skurrile Ereignisse der Peinlichkeit nach Härtegrad einsortieren.",
+  "image": "",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/196379/shit-happens",
+    "note": "Auf BoardGameGeek gefunden."
+  },
+  "location": "Flur",
+  "contents": [
+    "Kartenstapel",
+    "Spielanleitung"
+  ]
+}
