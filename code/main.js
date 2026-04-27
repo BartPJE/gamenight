@@ -289,7 +289,29 @@ function renderGameDetail(game, selectedGame) {
     );
   }
 
-  $("detailContent").innerHTML = `<div class="detail-stack">${detailSections.join("")}</div>`;
+  const activeGame = selectedGame && selectedGame.id !== game.id ? selectedGame : game;
+  const sortedGames = games.toSorted((a, b) => a.title.localeCompare(b.title, "de"));
+  const activeIndex = sortedGames.findIndex((entry) => entry.id === activeGame.id);
+
+  const previousGame = activeIndex > 0 ? sortedGames[activeIndex - 1] : null;
+  const nextGame = activeIndex >= 0 && activeIndex < sortedGames.length - 1 ? sortedGames[activeIndex + 1] : null;
+
+  const navigation = `
+    <nav class="detail-pagination" aria-label="Spielnavigation">
+      ${
+        previousGame
+          ? `<a class="btn secondary detail-nav-link" href="#spiel/${encodeURIComponent(previousGame.id)}">← Vorheriges Spiel: ${previousGame.title}</a>`
+          : `<span class="btn secondary detail-nav-link disabled" aria-disabled="true">← Vorheriges Spiel</span>`
+      }
+      ${
+        nextGame
+          ? `<a class="btn secondary detail-nav-link" href="#spiel/${encodeURIComponent(nextGame.id)}">Nächstes Spiel: ${nextGame.title} →</a>`
+          : `<span class="btn secondary detail-nav-link disabled" aria-disabled="true">Nächstes Spiel →</span>`
+      }
+    </nav>
+  `;
+
+  $("detailContent").innerHTML = `<div class="detail-stack">${detailSections.join("")}${navigation}</div>`;
 }
 
 function syncViewWithHash() {
