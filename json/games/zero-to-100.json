@@ -18,13 +18,14 @@
     "Partyspiel",
     "Wissen"
   ],
-  "description": "Zero to 100 in der Sammlung.",
+  "description": "The general knowledge game for the generally unknowledgeable.",
+  "image": "images/null-bis-100.webp",
   "bgg": {
     "found": true,
     "url": "https://boardgamegeek.com/boardgame/360056/zero-to-100",
     "note": "Auf BoardGameGeek gefunden."
   },
-  "location": "Wohnzimmer",
+  "location": "Flur",
   "contents": [
     "Spielmaterial"
   ]
