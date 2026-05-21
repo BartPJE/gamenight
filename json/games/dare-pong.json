@@ -1,0 +1,33 @@
+{
+  "id": "dare-pong",
+  "title": "Dare Pong",
+  "type": "Trinkspiel",
+  "icon": "🍻",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 18,
+  "duration": 30,
+  "year": 2019,
+  "publisher": "Unbekannt",
+  "platform": "Tisch",
+  "status": "In Spielesammlung",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Party",
+    "Trinkspiel",
+    "Challenges"
+  ],
+  "description": "Beer-Pong-Variante mit Aufgaben unter den Bechern.",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Kein eindeutiger BoardGameGeek-Eintrag hinterlegt."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Becher",
+    "Bälle",
+    "Dare-Karten/Challenges"
+  ]
+}
