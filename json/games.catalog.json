@@ -273,5 +273,7 @@
   "json/games/wizard-wurfelspiel.json",
   "json/games/wizard.json",
   "json/games/wurfel-wg.json",
-  "json/games/zero-to-100.json"
+  "json/games/zero-to-100.json",
+  "json/games/match-my-beat.json",
+  "json/games/blind-jack.json"
 ]
