@@ -281,5 +281,9 @@
   "json/games/wurfel-wg.json",
   "json/games/zero-to-100.json",
   "json/games/match-my-beat.json",
-  "json/games/blind-jack.json"
+  "json/games/blind-jack.json",
+  "json/games/scotland-yard-venice.json",
+  "json/games/play-the-music-party-game.json",
+  "json/games/droppen-oder-floppen.json",
+  "json/games/chameleon-stack-change-win.json"
 ]
