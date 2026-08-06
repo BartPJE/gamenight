@@ -1,0 +1,32 @@
+{
+  "id": "droppen-oder-floppen",
+  "title": "Droppen oder Floppen",
+  "type": "Partyspiel",
+  "icon": "💧",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 8,
+  "duration": 20,
+  "year": 2025,
+  "publisher": "Unbekannt",
+  "platform": "Tisch",
+  "status": "In Spielesammlung",
+  "rating": 0,
+  "favorite": false,
+  "tags": [
+    "Geschicklichkeit",
+    "Risiko",
+    "Party"
+  ],
+  "description": "Kurzweiliges Partyspiel, bei dem geschicktes Droppen über Erfolg oder Flop entscheidet.",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Kein eindeutiger BoardGameGeek-Eintrag hinterlegt."
+  },
+  "location": "Wohnzimmer",
+  "contents": [
+    "Spielmaterial",
+    "Spielanleitung"
+  ]
+}
