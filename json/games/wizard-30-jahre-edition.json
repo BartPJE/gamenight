@@ -1,0 +1,35 @@
+{
+  "id": "wizard-30-jahre-edition",
+  "title": "Wizard - 30 Jahre Edition",
+  "type": "Kartenspiel",
+  "icon": "🪄",
+  "playersMin": 3,
+  "playersMax": 6,
+  "age": 10,
+  "duration": 45,
+  "year": 2026,
+  "publisher": "AMIGO",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "collectionId": "wizard",
+  "hiddenFromOverview": true,
+  "tags": [
+    "Stichspiel",
+    "Jubiläumsedition",
+    "Deutsch"
+  ],
+  "description": "Jubiläumsausgabe des Stichspiel-Klassikers zum 30-jährigen Bestehen von Wizard in Deutschland.",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Kein eindeutiger BoardGameGeek-Versionseintrag hinterlegt."
+  },
+  "location": "Flur",
+  "contents": [
+    "Karten",
+    "Block",
+    "Spielanleitung"
+  ]
+}
