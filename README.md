@@ -11,3 +11,8 @@ Spielesammlung PJE
   - `url`: Link zum BGG-Eintrag (falls gefunden)
   - `note`: Hinweistext, wenn kein Eintrag gefunden wurde.
 - Lokale Coverbilder liegen unter `images/` und werden in den Spielobjekten über `image` (z. B. `images/uno.svg`) referenziert.
+
+### Spieltypen und Genres
+
+- `type` kennzeichnet die Rolle eines Eintrags in der Sammlung: `Hauptspiel` oder `Erweiterung`.
+- `genre` enthält die bisherige Spielkategorie, zum Beispiel `Brettspiel` oder `Kartenspiel`, und wird für die Archivfilter verwendet.

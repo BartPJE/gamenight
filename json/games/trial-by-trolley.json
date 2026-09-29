@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Trial by Trolley",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🃏",
   "playersMin": 3,
   "playersMax": 13,

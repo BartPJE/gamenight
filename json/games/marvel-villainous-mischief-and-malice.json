@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Marvel Villainous: Mischief and Malice",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Erweiterung",
   "icon": "🧊",
   "playersMin": 2,
   "playersMax": 3,

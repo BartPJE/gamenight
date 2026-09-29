@@ -10,7 +10,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "Wizard - Das Schwarze Auge (40 Jahre)",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Erweiterung",
   "icon": "🪄",
   "playersMin": 3,
   "playersMax": 6,

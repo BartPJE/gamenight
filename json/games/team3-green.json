@@ -11,7 +11,8 @@
 
   "id": "team3-green",
   "title": "TEAM3 Green",
-  "type": "Brettspiel",
+  "genre": "Brettspiel",
+  "type": "Hauptspiel",
   "icon": "🎲",
   "playersMin": 3,
   "playersMax": 6,

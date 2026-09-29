@@ -14,7 +14,9 @@
   "age": 7,
   "complexity": 1.16,
 
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+
+  "type": "Hauptspiel",
   "icon": "🃏",
   "publisher": "Mattel, Inc.",
 

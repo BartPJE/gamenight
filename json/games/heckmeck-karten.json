@@ -14,7 +14,9 @@
   "age": 8,
   "complexity": 1.67,
 
-  "type": "Familienspiel",
+  "genre": "Familienspiel",
+
+  "type": "Erweiterung",
   "icon": "🃏",
   "publisher": "Zoch Verlag",
 

@@ -9,7 +9,8 @@
   "location": "Flur / Kartenbox",
 
   "title": "PetzOry (eigene Memory Variante)",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Erweiterung",
   "icon": "🧠",
   "playersMin": 2,
   "playersMax": 6,

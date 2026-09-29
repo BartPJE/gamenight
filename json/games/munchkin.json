@@ -14,7 +14,9 @@
   "age": 10,
   "complexity": 1.82,
 
-  "type": "Partyspiel",
+  "genre": "Partyspiel",
+
+  "type": "Hauptspiel",
   "icon": "🔥",
   "publisher": "Pegasus Spiele",
 

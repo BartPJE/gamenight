@@ -1,7 +1,8 @@
 {
   "id": "pictionary-air",
   "title": "Pictionary Air",
-  "type": "Brettspiel",
+  "genre": "Brettspiel",
+  "type": "Hauptspiel",
   "icon": "✏️",
   "playersMin": 2,
   "playersMax": 12,

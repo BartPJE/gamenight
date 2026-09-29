@@ -14,7 +14,9 @@
   "age": 7,
   "complexity": 1.39,
 
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+
+  "type": "Erweiterung",
   "icon": "🃏",
   "publisher": "Mattel, Inc.",
 

@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Knapp daneben!",
-  "type": "Brettspiel",
+  "genre": "Brettspiel",
+  "type": "Hauptspiel",
   "icon": "🎲",
   "playersMin": 2,
   "playersMax": 6,

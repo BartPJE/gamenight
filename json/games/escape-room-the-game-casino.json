@@ -10,7 +10,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "Escape Room: The Game – Casino",
-  "type": "Brettspiel",
+  "genre": "Brettspiel",
+  "type": "Erweiterung",
   "icon": "🎰",
   "playersMin": 3,
   "playersMax": 5,

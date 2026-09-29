@@ -11,7 +11,8 @@
 
   "id": "das-spiel-des-lebens-kartenspiel",
   "title": "Das Spiel des Lebens Kartenspiel",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "💼",
   "playersMin": 2,
   "playersMax": 4,

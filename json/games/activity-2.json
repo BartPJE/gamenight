@@ -10,7 +10,8 @@
   "location": "Schlafzimmer",
 
   "title": "Activity 2",
-  "type": "Partyspiel",
+  "genre": "Partyspiel",
+  "type": "Hauptspiel",
   "icon": "🖍️",
   "playersMin": 3,
   "playersMax": 16,

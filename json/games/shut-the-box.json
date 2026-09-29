@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Shut the Box",
-  "type": "Würfelspiel",
+  "genre": "Würfelspiel",
+  "type": "Hauptspiel",
   "icon": "🎲",
   "playersMin": 1,
   "playersMax": 4,

@@ -21,7 +21,9 @@
 
   "image": "images/quiz-o-meter.jpg",
 
-  "type": "Quizspiel",
+  "genre": "Quizspiel",
+
+  "type": "Hauptspiel",
   "icon": "❓",
   "tags": ["Party Game", "Real-time", "Trivia"],
   "mechanisms": ["Real-Time"],

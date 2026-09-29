@@ -14,7 +14,9 @@
   "age": 10,
   "complexity": 1.0,
 
-  "type": "Wissensspiel",
+  "genre": "Wissensspiel",
+
+  "type": "Hauptspiel",
   "icon": "🧠",
   "tags": ["Number", "Party Game", "Trivia"],
   "mechanisms": ["Push Your Luck", "Team-Based Game"],

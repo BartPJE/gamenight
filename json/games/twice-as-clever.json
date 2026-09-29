@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Doppelt so clever",
-  "type": "Würfelspiel",
+  "genre": "Würfelspiel",
+  "type": "Erweiterung",
   "icon": "🎲",
   "playersMin": 1,
   "playersMax": 4,

@@ -1,7 +1,8 @@
 {
   "id": "heckmeck",
   "title": "HeckMeck am Bratwurmeck",
-  "type": "Würfelspiel",
+  "genre": "Würfelspiel",
+  "type": "Hauptspiel",
   "icon": "Würfel",
   "playersMin": 2,
   "playersMax": 7,

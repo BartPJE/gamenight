@@ -10,7 +10,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "What Do You Meme?",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "😂",
   "playersMin": 3,
   "playersMax": 20,

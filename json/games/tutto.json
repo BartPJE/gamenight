@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Taco Katze Ziege Käse Pizza - Demo",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "✨",
   "playersMin": 3,
   "playersMax": 6,

@@ -14,7 +14,9 @@
   "age": 8,
   "complexity": 1.17,
 
-  "type": "Würfelspiel",
+  "genre": "Würfelspiel",
+
+  "type": "Hauptspiel",
   "icon": "🎲",
   "tags": ["Dice"],
   "mechanisms": [

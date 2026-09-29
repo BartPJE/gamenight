@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Risiko De Luxe - Das große Strategiespiel",
-  "type": "Brettspiel",
+  "genre": "Brettspiel",
+  "type": "Hauptspiel",
   "icon": "🗺️",
   "playersMin": 2,
   "playersMax": 6,

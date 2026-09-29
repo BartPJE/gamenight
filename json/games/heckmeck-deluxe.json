@@ -14,7 +14,9 @@
   "age": 8,
   "complexity": 1.23,
 
-  "type": "Familienspiel",
+  "genre": "Familienspiel",
+
+  "type": "Erweiterung",
   "icon": "🎲",
   "tags": ["Dice", "Animals"],
   "mechanisms": [

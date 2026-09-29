@@ -9,7 +9,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "Star Wars: Timeline Twist",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🚀",
   "playersMin": 2,
   "playersMax": 8,

@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Noch Mal",
-  "type": "Roll-and-Write",
+  "genre": "Roll-and-Write",
+  "type": "Hauptspiel",
   "icon": "✏️",
   "playersMin": 1,
   "playersMax": 6,

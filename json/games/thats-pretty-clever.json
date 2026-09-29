@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Ganz schön clever",
-  "type": "Würfelspiel",
+  "genre": "Würfelspiel",
+  "type": "Hauptspiel",
   "icon": "🎲",
   "playersMin": 1,
   "playersMax": 4,

@@ -14,7 +14,9 @@
   "age": 8,
   "complexity": 2.0,
 
-  "type": "Brettspiel",
+  "genre": "Brettspiel",
+
+  "type": "Hauptspiel",
   "icon": "🛥️",
   "tags": ["Deduction", "Travel"],
   "mechanisms": [

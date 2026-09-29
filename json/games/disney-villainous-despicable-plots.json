@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Disney Villainous: Despicable Plots",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Erweiterung",
   "icon": "🕯️",
   "playersMin": 2,
   "playersMax": 3,

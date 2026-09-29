@@ -1,7 +1,8 @@
 {
   "id": "keep-talking-and-nobody-explodes",
   "title": "Keep Talking and Nobody Explodes",
-  "type": "Partyspiel",
+  "genre": "Partyspiel",
+  "type": "Hauptspiel",
   "icon": "💣",
   "playersMin": 2,
   "playersMax": 8,

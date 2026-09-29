@@ -14,7 +14,9 @@
   "age": 12,
   "complexity": 1.44,
 
-  "type": "Partyspiel",
+  "genre": "Partyspiel",
+
+  "type": "Hauptspiel",
   "icon": "🔥",
   "publisher": "Ravensburger",
 

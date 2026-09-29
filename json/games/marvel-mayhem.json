@@ -10,7 +10,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "Marvel Mayhem",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🦸",
   "playersMin": 2,
   "playersMax": 4,

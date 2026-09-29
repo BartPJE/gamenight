@@ -10,7 +10,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "Halt mal kurz, das Känguru-Spiel",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🦘",
   "playersMin": 3,
   "playersMax": 6,

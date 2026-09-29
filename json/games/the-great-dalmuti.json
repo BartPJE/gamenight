@@ -14,7 +14,9 @@
   "age": 8,
   "complexity": 1.28,
 
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+
+  "type": "Hauptspiel",
   "icon": "🃏",
   "tags": ["Card Game", "Medieval"],
   "mechanisms": [

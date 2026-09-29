@@ -1,7 +1,8 @@
 {
   "id": "20ab",
   "title": "20ab",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🃟",
   "playersMin": 2,
   "playersMax": 6,

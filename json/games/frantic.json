@@ -14,7 +14,9 @@
   "age": 12,
   "complexity": 1.53,
 
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+
+  "type": "Hauptspiel",
   "icon": "🃏",
   "publisher": "Game Factory",
 

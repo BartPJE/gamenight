@@ -14,7 +14,9 @@
   "age": 12,
   "complexity": 1.2,
 
-  "type": "Wissensspiel",
+  "genre": "Wissensspiel",
+
+  "type": "Hauptspiel",
   "icon": "🧠",
   "tags": ["Card Game", "Trivia", "Party Game"],
   "mechanisms": ["Team-Based Game", "Guessing"],

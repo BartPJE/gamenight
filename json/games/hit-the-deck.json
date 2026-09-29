@@ -10,7 +10,8 @@
   "location": "Flur / Kartenbox",
 
   "title": "Hit the Deck",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🃏",
   "playersMin": 2,
   "playersMax": 6,
