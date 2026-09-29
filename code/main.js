@@ -396,27 +396,26 @@ function renderGameDetail(game, selectedGame) {
 
   if (isCollection) {
     detailSections.push(`
-      <header class="collection-heading">
+      <header class="collection-main-game">
+        <div class="collection-main-game-cover">
+          ${game.image ? `<img src="${game.image}" alt="Cover von ${game.title}" loading="lazy" />` : game.icon}
+        </div>
         <h2>${game.title}</h2>
       </header>
     `);
-  }
-
-  detailSections.push(renderDetailCard(game));
-
-  if (isCollection) {
     detailSections.push(`
       <section class="detail-section collection-expansions">
-        <h4>Erweiterungen (${expansionGames.length})</h4>
+        <h4>Spiele (${expansionGames.length + 1})</h4>
         <div class="collection-game-list">
-          ${expansionGames
+          ${[game, ...expansionGames]
             .map(
               (entry) => `
                 <a class="collection-game" href="#spiel/${game.id}?auswahl=${encodeURIComponent(entry.id)}" aria-label="Details zu ${entry.title}">
                   <span class="collection-game-cover">
                     ${entry.image ? `<img src="${entry.image}" alt="Cover von ${entry.title}" loading="lazy" />` : entry.icon}
                   </span>
-                  <span>${entry.title}</span>
+                  <span class="collection-game-title">${entry.title}</span>
+                  <small>${gameKind(entry)}</small>
                 </a>`,
             )
             .join("")}
@@ -425,17 +424,21 @@ function renderGameDetail(game, selectedGame) {
     `);
   }
 
-  if (selectedGame && selectedGame.id !== game.id) {
-    detailSections.push(
-      renderDetailCard(selectedGame, {
-        subtitle: `Dieses Spiel gehört zur Sammlung ${game.title}.`,
-        collectionLink: `<span class="tag"><a href="#spiel/${game.id}">Zur Sammlung</a></span>`,
-      }),
-    );
-  }
-
   const activeGame =
     selectedGame && selectedGame.id !== game.id ? selectedGame : game;
+  detailSections.push(
+    renderDetailCard(activeGame, {
+      subtitle:
+        activeGame.id !== game.id
+          ? `Dieses Spiel gehört zur Sammlung ${game.title}.`
+          : "",
+      collectionLink:
+        activeGame.id !== game.id
+          ? `<span class="tag"><a href="#spiel/${game.id}">Zur Sammlung</a></span>`
+          : "",
+    }),
+  );
+
   const sortedGames = games.toSorted((a, b) =>
     a.title.localeCompare(b.title, "de"),
   );
