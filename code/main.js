@@ -1,8 +1,26 @@
 const state = {
   category: "",
+  qualityFields: new Set(),
+  onlyIncomplete: false,
 };
 
 let games = [];
+let unavailableImages = new Set();
+
+const qualityFields = [
+  ["image", "Coverbild", (game) => !game.image || unavailableImages.has(game.image)],
+  ["description", "Beschreibung", (game) => !game.description?.trim()],
+  ["rules", "Spielregeln", (game) => !game.rules],
+  ["contents", "Spiel-Inhalte", (game) => !Array.isArray(game.contents) || !game.contents.length],
+  ["publisher", "Verlag", (game) => !game.publisher?.trim()],
+  ["year", "Erscheinungsjahr", (game) => !Number.isFinite(game.year)],
+  ["rating", "Bewertung", (game) => !Number.isFinite(game.rating)],
+  ["players", "Spieleranzahl", (game) => !Number.isFinite(game.playersMin) || !Number.isFinite(game.playersMax)],
+  ["duration", "Spieldauer", (game) => !Number.isFinite(game.duration)],
+  ["age", "Altersempfehlung", (game) => !Number.isFinite(game.age)],
+  ["location", "Lagerort", (game) => !game.location?.trim()],
+  ["bgg", "BoardGameGeek", (game) => !game.bgg?.found],
+];
 
 const $ = (id) => document.getElementById(id);
 
@@ -154,6 +172,109 @@ function renderStats() {
   $("soloCount").textContent = games.filter(
     (game) => game.playersMin === 1,
   ).length;
+}
+
+function missingFields(game) {
+  return qualityFields
+    .filter(([, , isMissing]) => isMissing(game))
+    .map(([id, label]) => ({ id, label }));
+}
+
+function renderQualityFilters() {
+  const counts = Object.fromEntries(
+    qualityFields.map(([id, , isMissing]) => [
+      id,
+      games.filter((game) => isMissing(game)).length,
+    ]),
+  );
+
+  $("qualityFilters").innerHTML = qualityFields
+    .map(
+      ([id, label]) => `
+        <label class="quality-filter">
+          <span><input type="checkbox" data-quality-field="${id}" ${state.qualityFields.has(id) ? "checked" : ""} /> ${label}</span>
+          <b>${counts[id]}</b>
+        </label>`,
+    )
+    .join("");
+
+  document.querySelectorAll("[data-quality-field]").forEach((input) => {
+    input.addEventListener("change", () => {
+      const { qualityField } = input.dataset;
+      if (input.checked) state.qualityFields.add(qualityField);
+      else state.qualityFields.delete(qualityField);
+      renderQualityFilters();
+      renderQualityResults();
+    });
+  });
+}
+
+function filteredQualityGames() {
+  const query = $("qualitySearch").value.trim().toLowerCase();
+  return games
+    .map((game) => ({ game, missing: missingFields(game) }))
+    .filter(({ game, missing }) => {
+      const matchesQuery = !query || [game.title, game.type, game.publisher]
+        .filter(Boolean)
+        .join(" ")
+        .toLowerCase()
+        .includes(query);
+      const matchesIncomplete = !state.onlyIncomplete || missing.length > 0;
+      const matchesFields = !state.qualityFields.size || missing.some(({ id }) => state.qualityFields.has(id));
+      return matchesQuery && matchesIncomplete && matchesFields;
+    })
+    .toSorted((a, b) => a.game.title.localeCompare(b.game.title, "de"));
+}
+
+function renderQualityResults() {
+  const list = filteredQualityGames();
+  const incomplete = games.filter((game) => missingFields(game).length > 0);
+  const ratedGames = games.filter((game) => Number.isFinite(game.rating));
+  const averageRating = ratedGames.length
+    ? ratedGames.reduce((sum, game) => sum + game.rating, 0) / ratedGames.length
+    : null;
+
+  $("qualityTotal").textContent = games.length;
+  $("qualityComplete").textContent = games.length - incomplete.length;
+  $("qualityIncomplete").textContent = incomplete.length;
+  $("qualityRating").textContent = averageRating ? averageRating.toFixed(1) : "–";
+  $("onlyIncomplete").checked = state.onlyIncomplete;
+
+  const activeFilters = [...state.qualityFields]
+    .map((id) => qualityFields.find(([fieldId]) => fieldId === id)?.[1])
+    .filter(Boolean);
+  $("missingSummary").innerHTML = activeFilters.length
+    ? activeFilters.map((label) => `<span class="tag">Fehlt: ${label}</span>`).join("")
+    : '<span class="tag">Alle Angaben prüfen</span>';
+  $("qualityResultInfo").textContent = `${list.length} von ${games.length} Spielen werden angezeigt.`;
+  $("qualityRows").innerHTML = list
+    .map(({ game, missing }) => `
+      <tr>
+        <td><div class="quality-game"><span class="quality-cover">${game.image ? `<img src="${game.image}" alt="" loading="lazy" />` : game.icon || "🎲"}</span><span>${game.title}</span></div></td>
+        <td><span class="badge ${badgeClass(game.type)}">${game.type || "–"}</span></td>
+        <td>${missing.length ? `<div class="missing-tags">${missing.map(({ label }) => `<span class="missing-tag">${label}</span>`).join("")}</div>` : '<span class="complete">✓ Vollständig</span>'}</td>
+        <td><a class="quality-link" href="#spiel/${encodeURIComponent(game.collectionId || game.id)}${game.collectionId ? `?auswahl=${encodeURIComponent(game.id)}` : ""}">Öffnen</a></td>
+      </tr>`,
+    )
+    .join("");
+  $("qualityEmpty").style.display = list.length ? "none" : "block";
+}
+
+async function checkImageAvailability() {
+  const imagePaths = [...new Set(games.map((game) => game.image).filter(Boolean))];
+  const checks = await Promise.all(
+    imagePaths.map(async (path) => {
+      try {
+        const response = await fetch(path, { method: "HEAD" });
+        return response.ok ? null : path;
+      } catch {
+        return path;
+      }
+    }),
+  );
+  unavailableImages = new Set(checks.filter(Boolean));
+  renderQualityFilters();
+  renderQualityResults();
 }
 
 function focusSearch() {
@@ -354,9 +475,14 @@ function renderGameDetail(game, selectedGame) {
 function syncViewWithHash() {
   const match = window.location.hash.match(/^#spiel\/([^?]+)(?:\?(.+))?$/);
   const isDetail = Boolean(match);
+  const isStatistics = window.location.hash === "#statistik";
 
-  $("archiveView").style.display = isDetail ? "none" : "grid";
+  $("archiveView").style.display = isDetail || isStatistics ? "none" : "grid";
   $("detailView").style.display = isDetail ? "block" : "none";
+  $("statisticsView").style.display = isStatistics ? "grid" : "none";
+  document.querySelectorAll(".nav a").forEach((link) => {
+    link.classList.toggle("active", link.getAttribute("href") === (isStatistics ? "#statistik" : "#archiv"));
+  });
 
   if (isDetail) {
     const gameId = decodeURIComponent(match[1]);
@@ -368,6 +494,7 @@ function syncViewWithHash() {
       : null;
     renderGameDetail(game, selectedGame);
   }
+  if (isStatistics) renderQualityResults();
 }
 
 function bindEvents() {
@@ -384,6 +511,18 @@ function bindEvents() {
 
   $("focusSearchButton")?.addEventListener("click", focusSearch);
   $("resetFiltersButton")?.addEventListener("click", resetFilters);
+  $("qualitySearch").addEventListener("input", renderQualityResults);
+  $("onlyIncomplete").addEventListener("change", (event) => {
+    state.onlyIncomplete = event.target.checked;
+    renderQualityResults();
+  });
+  $("resetQualityFilters").addEventListener("click", () => {
+    state.qualityFields.clear();
+    state.onlyIncomplete = false;
+    $("qualitySearch").value = "";
+    renderQualityFilters();
+    renderQualityResults();
+  });
   $("backToArchive").addEventListener("click", () => {
     window.location.hash = "#archiv";
   });
@@ -417,8 +556,11 @@ async function initialize() {
   bindEvents();
   renderCategories();
   renderStats();
+  renderQualityFilters();
+  renderQualityResults();
   renderGames();
   syncViewWithHash();
+  checkImageAvailability();
 }
 
 initialize();
