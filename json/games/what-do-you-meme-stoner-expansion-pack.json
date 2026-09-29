@@ -10,7 +10,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "What Do You Meme?: Stoner Expansion Pack",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Erweiterung",
   "icon": "🌿",
   "playersMin": 3,
   "playersMax": 20,

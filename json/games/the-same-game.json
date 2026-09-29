@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "The Same Game",
-  "type": "Brettspiel",
+  "genre": "Brettspiel",
+  "type": "Hauptspiel",
   "icon": "🧠",
   "playersMin": 3,
   "playersMax": 6,

@@ -14,7 +14,9 @@
   "age": 18,
   "complexity": 1.0,
 
-  "type": "Partyspiel",
+  "genre": "Partyspiel",
+
+  "type": "Erweiterung",
   "icon": "🔥",
   "publisher": "Pegasus Spiele",
   "typ": "Add-On",

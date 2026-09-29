@@ -1,7 +1,8 @@
 {
   "id": "exacto",
   "title": "Exacto",
-  "type": "Geschicklichkeitsspiel",
+  "genre": "Geschicklichkeitsspiel",
+  "type": "Hauptspiel",
   "icon": "🎯",
   "playersMin": 2,
   "playersMax": 6,

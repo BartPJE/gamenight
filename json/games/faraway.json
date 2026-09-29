@@ -14,7 +14,9 @@
   "age": 10,
   "complexity": 1.94,
 
-  "type": "Strategiespiel",
+  "genre": "Strategiespiel",
+
+  "type": "Hauptspiel",
   "icon": "🧠",
   "tags": ["Card Game", "Fantasy", "Puzzle"],
   "mechanisms": [

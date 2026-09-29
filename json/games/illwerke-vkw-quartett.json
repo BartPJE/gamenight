@@ -9,7 +9,8 @@
   "location": "Flur",
 
   "title": "illwerke VKW Quartett",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "⚡",
   "playersMin": 2,
   "playersMax": 6,

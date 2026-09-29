@@ -14,7 +14,9 @@
   "age": 16,
   "complexity": 1.02,
 
-  "type": "Partyspiel",
+  "genre": "Partyspiel",
+
+  "type": "Hauptspiel",
   "icon": "🎵",
   "publisher": "Jumbo",
 

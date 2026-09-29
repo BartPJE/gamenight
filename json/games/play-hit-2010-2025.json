@@ -21,7 +21,9 @@
 
   "image": "images/play-hit-2010-2025.jpg",
 
-  "type": "Musikspiel",
+  "genre": "Musikspiel",
+
+  "type": "Erweiterung",
   "icon": "Musik 🎵",
   "tags": ["Music", "Trivia"],
   "mechanisms": ["Singing"],

@@ -12,7 +12,8 @@
 
   "id": "petztett",
   "title": "Petztett",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🧩",
   "playersMin": 3,
   "playersMax": 8,

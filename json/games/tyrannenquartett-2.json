@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Tyrannenquartett 2",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Erweiterung",
   "icon": "🗳️",
   "playersMin": 2,
   "playersMax": 8,

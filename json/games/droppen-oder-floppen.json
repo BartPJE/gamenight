@@ -14,7 +14,9 @@
   "age": 13,
   "complexity": 1.0,
 
-  "type": "Partyspiel",
+  "genre": "Partyspiel",
+
+  "type": "Hauptspiel",
   "icon": "💧",
   "publisher": "Hasbro",
 

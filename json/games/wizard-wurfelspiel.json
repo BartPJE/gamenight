@@ -14,7 +14,9 @@
   "age": 10,
   "complexity": 1.0,
 
-  "type": "Würfelspiel",
+  "genre": "Würfelspiel",
+
+  "type": "Erweiterung",
   "icon": "🎲",
   "tags": ["Fantasy"],
   "mechanisms": ["Betting and Bluffing", "Dice Rolling", "Paper-and-Pencil"],

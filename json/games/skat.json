@@ -1,7 +1,8 @@
 {
   "id": "skat",
   "title": "Skat",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Erweiterung",
   "icon": "🂫",
   "playersMin": 3,
   "playersMax": 3,

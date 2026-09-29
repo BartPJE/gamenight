@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Peter ärgere dich nicht",
-  "type": "Brettspiel",
+  "genre": "Brettspiel",
+  "type": "Erweiterung",
   "icon": "🎲",
   "playersMin": 2,
   "playersMax": 4,

@@ -10,7 +10,8 @@
   "location": "Flur / Kämmerle",
 
   "title": "Legendary: A Marvel Deck Building Game – World War Hulk",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Erweiterung",
   "icon": "🃏",
   "playersMin": 1,
   "playersMax": 5,

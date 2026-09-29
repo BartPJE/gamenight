@@ -1,7 +1,8 @@
 {
   "id": "glop",
   "title": "Glop",
-  "type": "Geschicklichkeitsspiel",
+  "genre": "Geschicklichkeitsspiel",
+  "type": "Hauptspiel",
   "icon": "⚗️",
   "playersMin": 2,
   "playersMax": 6,

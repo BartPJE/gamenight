@@ -14,7 +14,9 @@
   "age": 8,
   "complexity": 1.5,
 
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+
+  "type": "Erweiterung",
   "icon": "🃏",
   "tags": ["Card Game"],
   "mechanisms": ["Area Majority / Influence"],

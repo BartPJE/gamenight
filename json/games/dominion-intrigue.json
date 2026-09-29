@@ -10,7 +10,8 @@
   "location": "Schlafzimmer",
 
   "title": "Dominion: Intrige",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🃏",
   "playersMin": 2,
   "playersMax": 4,

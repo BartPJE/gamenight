@@ -10,7 +10,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "Nukular: Wer überlebt den Atomkrieg?",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "☢️",
   "playersMin": 2,
   "playersMax": 8,

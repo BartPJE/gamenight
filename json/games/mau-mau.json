@@ -1,7 +1,8 @@
 {
   "id": "mau-mau",
   "title": "Mau-Mau",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Erweiterung",
   "icon": "🃏",
   "playersMin": 2,
   "playersMax": 6,

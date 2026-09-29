@@ -14,7 +14,9 @@
   "age": 8,
   "complexity": 1.29,
 
-  "type": "Würfelspiel",
+  "genre": "Würfelspiel",
+
+  "type": "Hauptspiel",
   "icon": "🎲",
   "tags": ["Dice", "Number", "Puzzle"],
   "mechanisms": ["Dice Rolling", "Different Dice Movement", "Square Grid"],

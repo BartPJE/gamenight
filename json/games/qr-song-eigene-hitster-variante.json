@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "QR Song (Eigene Hitster Variante)",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🎵",
   "playersMin": 2,
   "playersMax": 10,

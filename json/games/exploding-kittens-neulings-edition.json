@@ -11,7 +11,8 @@
 
   "id": "exploding-kittens-neulings-edition",
   "title": "Exploding Kittens - Neulings Edition",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "💥",
   "playersMin": 2,
   "playersMax": 5,

@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Das verrückte Labyrinth - Super Mario",
-  "type": "Brettspiel",
+  "genre": "Brettspiel",
+  "type": "Hauptspiel",
   "playersMin": 2,
   "playersMax": 4,
   "age": 7,

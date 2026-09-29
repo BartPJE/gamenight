@@ -14,7 +14,9 @@
   "age": 10,
   "complexity": 2.01,
 
-  "type": "Strategiespiel",
+  "genre": "Strategiespiel",
+
+  "type": "Hauptspiel",
   "icon": "🧨",
   "tags": ["Deduction"],
   "mechanisms": [
