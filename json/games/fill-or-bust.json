@@ -1,6 +1,15 @@
 {
-  "id": "fill-or-bust",
-  "title": "Fill or Bust",
+  "id": "tutto",
+  "collectionId": "tutto",
+  "image": "images/tutto.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/193/fill-or-bust"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "title": "Tutto",
   "type": "Würfelspiel",
   "icon": "🎲",
   "playersMin": 2,
@@ -13,11 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Würfeln",
-    "Push your luck",
-    "Familie"
-  ],
+  "tags": ["Würfeln", "Push your luck", "Familie"],
   "description": "Würfelklassiker mit Risiko: Punkte sammeln oder alles verzocken.",
   "bgg": {
     "found": true,
@@ -25,9 +30,5 @@
     "note": "Auf BoardGameGeek gefunden."
   },
   "location": "Schrank",
-  "contents": [
-    "Würfel",
-    "Punkteblock",
-    "Spielanleitung"
-  ]
+  "contents": ["Würfel", "Punkteblock", "Spielanleitung"]
 }

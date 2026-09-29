@@ -1,5 +1,14 @@
 {
   "id": "hit-the-deck",
+  "collectionId": "hit-the-deck",
+  "image": "images/hit-the-deck.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/6711/hit-the-deck"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur / Kartenbox",
+
   "title": "Hit the Deck",
   "type": "Kartenspiel",
   "icon": "🃏",
@@ -13,11 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Kartenspiel",
-    "Reaktionsspiel",
-    "Schnell"
-  ],
+  "tags": ["Kartenspiel", "Reaktionsspiel", "Schnell"],
   "description": "Schnelles Kartenspiel mit Fokus auf Reaktion und Timing.",
   "image": "",
   "bgg": {
@@ -26,7 +31,5 @@
     "note": "Auf BoardGameGeek gefunden."
   },
   "location": "Schlafzimmer",
-  "contents": [
-    "Kartenstapel"
-  ]
+  "contents": ["Kartenstapel"]
 }

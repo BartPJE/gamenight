@@ -1,5 +1,15 @@
 {
   "id": "wizard-30-jahre-edition",
+  "collectionId": "wizard",
+  "image": "images/wizard-30-jahre-edition.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/6711/hit-the-deck"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "id": "wizard-30-jahre-edition",
   "title": "Wizard - 30 Jahre Edition",
   "type": "Kartenspiel",
   "icon": "🪄",
@@ -15,11 +25,7 @@
   "favorite": false,
   "collectionId": "wizard",
   "hiddenFromOverview": true,
-  "tags": [
-    "Stichspiel",
-    "Jubiläumsedition",
-    "Deutsch"
-  ],
+  "tags": ["Stichspiel", "Jubiläumsedition", "Deutsch"],
   "description": "Jubiläumsausgabe des Stichspiel-Klassikers zum 30-jährigen Bestehen von Wizard in Deutschland.",
   "bgg": {
     "found": false,
@@ -27,9 +33,5 @@
     "note": "Kein eindeutiger BoardGameGeek-Versionseintrag hinterlegt."
   },
   "location": "Flur",
-  "contents": [
-    "Karten",
-    "Block",
-    "Spielanleitung"
-  ]
+  "contents": ["Karten", "Block", "Spielanleitung"]
 }

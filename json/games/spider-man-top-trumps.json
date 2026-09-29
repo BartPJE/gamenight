@@ -1,0 +1,29 @@
+{
+  "id": "spider-man-top-trumps",
+  "collectionId": "spider-man-top-trumps",
+  "image": "images/spider-man-top-trumps.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/7262/top-trumps"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "title": "Spider-Man Top Trumps",
+  "type": "Kartenspiel",
+  "icon": "👑",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 14,
+  "duration": 25,
+  "year": 2020,
+  "publisher": "Quartett Verlag",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 7.4,
+  "favorite": false,
+  "tags": ["Quartett", "Spider-Man", "Schnell"],
+  "description": "Top Trumps Kartenspiel mit Spider-Man Charakteren.",
+  "contents": ["Kartenstapel", "Spielanleitung"],
+  "hiddenFromOverview": false
+}

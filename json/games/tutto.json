@@ -1,0 +1,29 @@
+{
+  "id": "taco-katze-ziege-kaese-pizza",
+  "collectionId": "taco-katze-ziege-kaese-pizza",
+  "image": "images/taco-katze-ziege-kaese-pizza.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/253664/taco-cat-goat-cheese-pizza"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "title": "Taco Katze Ziege Käse Pizza - Demo",
+  "type": "Kartenspiel",
+  "icon": "✨",
+  "playersMin": 3,
+  "playersMax": 6,
+  "age": 10,
+  "duration": 45,
+  "year": 2022,
+  "publisher": "AMIGO",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "hiddenFromOverview": false,
+  "tags": ["Kartenspiel", "Partyspiel", "Familienspiel"],
+  "description": "Schnelles Reaktionsspiel, bei dem Karten in der richtigen Reihenfolge abgelegt werden müssen.",
+  "contents": ["Spielkarten"]
+}

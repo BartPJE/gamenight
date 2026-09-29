@@ -1,5 +1,15 @@
 {
   "id": "wizard-deluxe-2022",
+  "collectionId": "wizard",
+  "image": "images/wizard-deluxe-2022.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/626339/german-deluxe-edition-2022"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "id": "wizard-deluxe-2022",
   "title": "Wizard Deluxe Edition (2022)",
   "type": "Kartenspiel",
   "icon": "✨",
@@ -15,11 +25,7 @@
   "favorite": false,
   "collectionId": "wizard",
   "hiddenFromOverview": true,
-  "tags": [
-    "Erweiterung",
-    "Deluxe",
-    "Deutsch"
-  ],
+  "tags": ["Erweiterung", "Deluxe", "Deutsch"],
   "description": "Deluxe-Ausgabe von Wizard mit hochwertiger Ausstattung.",
   "bgg": {
     "found": true,
@@ -27,8 +33,5 @@
     "note": "Auf BoardGameGeek als Versionseintrag gefunden."
   },
   "location": "Flur",
-  "contents": [
-    "Deluxe-Karten",
-    "Zusatzmaterial"
-  ]
+  "contents": ["Deluxe-Karten", "Zusatzmaterial"]
 }

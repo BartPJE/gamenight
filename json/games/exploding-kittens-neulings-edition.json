@@ -1,5 +1,15 @@
 {
   "id": "exploding-kittens-neulings-edition",
+  "collectionId": "exploding-kittens-neulings-edition",
+  "image": "images/exploding-kittens.webp",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/172225/exploding-kittens"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur / Kartenbox",
+
+  "id": "exploding-kittens-neulings-edition",
   "title": "Exploding Kittens - Neulings Edition",
   "type": "Kartenspiel",
   "icon": "💥",
@@ -13,11 +23,7 @@
   "status": "In Spielesammlung",
   "rating": 6.1,
   "favorite": false,
-  "tags": [
-    "Humor",
-    "Schnell",
-    "Familie"
-  ],
+  "tags": ["Humor", "Schnell", "Familie"],
   "description": "Einsteigerfreundliche Version von Exploding Kittens mit vereinfachten Regeln.",
   "image": "images/exploding-kittens.webp",
   "bgg": {
@@ -26,8 +32,5 @@
     "note": "Basisspiel auf BoardGameGeek gefunden."
   },
   "location": "Schlafzimmer",
-  "contents": [
-    "Karten",
-    "Spielanleitung"
-  ]
+  "contents": ["Karten", "Spielanleitung"]
 }

@@ -1,5 +1,16 @@
 {
   "id": "petztett",
+  "collectionId": "petztett",
+  "image": "images/petztett.png",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Eigenes Spiel ohne BoardGameGeek-Eintrag."
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur / Kartenbox",
+
+  "id": "petztett",
   "title": "Petztett",
   "type": "Kartenspiel",
   "icon": "🧩",
@@ -13,11 +24,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Quartett",
-    "Eigenbau",
-    "Familie"
-  ],
+  "tags": ["Quartett", "Eigenbau", "Familie"],
   "description": "Eigenes Quartett-Kartenspiel aus der Sammlung.",
   "bgg": {
     "found": false,
@@ -25,7 +32,5 @@
     "note": "Eigenes Spiel ohne BoardGameGeek-Eintrag."
   },
   "location": "Schlafzimmer",
-  "contents": [
-    "Quartettkarten"
-  ]
+  "contents": ["Quartettkarten"]
 }

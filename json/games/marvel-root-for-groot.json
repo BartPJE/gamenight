@@ -1,5 +1,15 @@
 {
   "id": "marvel-root-for-groot",
+  "collectionId": "marvel-root-for-groot",
+  "image": "images/marvel-root-for-groot.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/448594/marvel-root-for-groot"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer",
+
+  "id": "marvel-root-for-groot",
   "title": "Marvel: Root for Groot",
   "type": "Kartenspiel",
   "icon": "🌱",
@@ -13,11 +23,7 @@
   "status": "Besitze ich",
   "rating": 7.0,
   "favorite": false,
-  "tags": [
-    "Marvel",
-    "Familie",
-    "Schnell"
-  ],
+  "tags": ["Marvel", "Familie", "Schnell"],
   "description": "Kooperatives/kompetitives Marvel-Kartenspiel rund um Groot.",
   "image": "",
   "bgg": {
@@ -26,8 +32,5 @@
     "note": "Auf BoardGameGeek gefunden."
   },
   "location": "Schlafzimmer",
-  "contents": [
-    "Kartenstapel",
-    "Spielanleitung"
-  ]
+  "contents": ["Kartenstapel", "Spielanleitung"]
 }

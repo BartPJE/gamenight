@@ -1,15 +1,15 @@
 {
-  "id": "24-wer-zuletzt-sticht-sticht-am-besten",
-  "collectionId": "24-wer-zuletzt-sticht-sticht-am-besten",
-  "image": "images/24.png",
+  "id": "top-trumps-quiz-marvel",
+  "collectionId": "top-trumps-quiz-marvel",
+  "image": "images/top-trumps-quiz-marvel.png",
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/35630/24-wer-zuletzt-sticht-sticht-am-besten"
+    "url": "https://boardgamegeek.com/boardgame/344057/top-trumps-quiz-marvel"
   },
   "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
   "location": "Flur",
 
-  "title": "24: Wer zuletzt sticht, sticht am besten!",
+  "title": "Top Trumps Quiz: Marvel",
   "type": "Kartenspiel",
   "icon": "🃏",
   "playersMin": 3,

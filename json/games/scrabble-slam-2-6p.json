@@ -1,5 +1,14 @@
 {
-  "id": "scrabble-slam-2-6p",
+  "id": "scrabble-pocket",
+  "collectionId": "scrabble-pocket",
+  "image": "images/scrabble-pocket.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/166239/scrabble-slam-2-6p"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Scrabble Pocket",
   "type": "Kartenspiel",
   "icon": "🃏",
@@ -13,19 +22,13 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Wortspiel",
-    "Echtzeit",
-    "Karten"
-  ],
+  "tags": ["Wortspiel", "Echtzeit", "Karten"],
   "description": "Schnelles Wortspiel: durch Buchstabenwechsel möglichst rasch vom Start- zum Zielwort gelangen.",
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/166239/scrabble-slam-2-6p",
+
     "note": "Auf BoardGameGeek gefunden."
   },
   "location": "Flur",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }
