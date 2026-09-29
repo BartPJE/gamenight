@@ -1,8 +1,16 @@
 {
-  "id": "bam-extrahart",
-  "collectionId": "bam",
+  "id": "star-wars-force-battle",
+  "collectionId": "star-wars-force-battle",
+  "image": "images/star-wars-force-battle.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/96345/star-wars-force-battle"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "hiddenFromOverview": true,
-  "title": "BAM! Extrahart",
+  "title": "Star Wars: Force Battle",
   "description": "",
 
   "year": 2015,
@@ -14,9 +22,7 @@
   "age": 18,
   "complexity": 1.0,
 
-  "genre": "Partyspiel",
-
-  "type": "Erweiterung",
+  "type": "Partyspiel",
   "icon": "🔥",
   "publisher": "Pegasus Spiele",
   "typ": "Add-On",
@@ -28,15 +34,6 @@
   "status": "Besitze ich",
   "favorite": false,
 
-  "image": "images/bam-extrahart.jpg",
-  "rules": "rules/bam-extrahart.pdf",
-
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/181906/bam-extrahart"
-  },
-
-  "location": "Flur",
   "contents": [
     "169 graue Begriffkarten",
     "39 rote BAM-Karten",
