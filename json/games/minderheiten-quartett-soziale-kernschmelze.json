@@ -10,7 +10,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "Minderheiten Quartett: Soziale Kernschmelze",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Erweiterung",
   "icon": "☢️",
   "playersMin": 2,
   "playersMax": 6,

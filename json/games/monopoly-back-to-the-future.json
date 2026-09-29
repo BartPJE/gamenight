@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Monopoly: Zurück in die Zukunft",
-  "type": "Brettspiel",
+  "genre": "Brettspiel",
+  "type": "Erweiterung",
   "icon": "🚗",
   "playersMin": 2,
   "playersMax": 6,

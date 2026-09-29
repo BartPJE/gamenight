@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Joking Hazard: Deck Enhancement 2",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Erweiterung",
   "icon": "🃏",
   "playersMin": 3,
   "playersMax": 10,

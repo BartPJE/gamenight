@@ -9,7 +9,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "Tick Tick Bumm",
-  "type": "Partyspiel",
+  "genre": "Partyspiel",
+  "type": "Hauptspiel",
   "icon": "💣",
   "playersMin": 2,
   "playersMax": 12,

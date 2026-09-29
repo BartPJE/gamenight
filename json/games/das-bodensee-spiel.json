@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Das Bodensee-Spiel",
-  "type": "Brettspiel",
+  "genre": "Brettspiel",
+  "type": "Hauptspiel",
   "icon": "🌊",
   "playersMin": 2,
   "playersMax": 6,

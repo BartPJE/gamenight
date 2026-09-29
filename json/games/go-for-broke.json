@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Mankomania - Wie verjubelt man eine Million?",
-  "type": "Brettspiel",
+  "genre": "Brettspiel",
+  "type": "Hauptspiel",
   "icon": "💸",
   "playersMin": 2,
   "playersMax": 6,

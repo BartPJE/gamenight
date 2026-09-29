@@ -14,7 +14,9 @@
   "age": 5,
   "complexity": 1.0,
 
-  "type": "Strategiespiel",
+  "genre": "Strategiespiel",
+
+  "type": "Hauptspiel",
   "icon": "Strategie ",
   "tags": ["Children's Game", "Memory", "Racing"],
   "mechanisms": ["Memory", "Pattern Building", "Pattern Recognition"],

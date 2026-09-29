@@ -11,7 +11,8 @@
 
   "id": "the-game-extreme",
   "title": "The Game: Extreme",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🔥",
   "playersMin": 1,
   "playersMax": 5,

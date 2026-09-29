@@ -11,7 +11,8 @@
 
   "id": "phase-10-pocket",
   "title": "Phase 10 Pocket",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Erweiterung",
   "icon": "🃏",
   "playersMin": 2,
   "playersMax": 6,

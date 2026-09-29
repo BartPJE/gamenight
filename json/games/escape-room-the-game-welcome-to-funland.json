@@ -10,7 +10,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "Escape Room: The Game – Welcome to Funland",
-  "type": "Brettspiel",
+  "genre": "Brettspiel",
+  "type": "Erweiterung",
   "icon": "🎡",
   "playersMin": 3,
   "playersMax": 5,

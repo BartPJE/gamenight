@@ -11,7 +11,8 @@
 
   "id": "marvel-root-for-groot",
   "title": "Marvel: Root for Groot",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🌱",
   "playersMin": 2,
   "playersMax": 4,

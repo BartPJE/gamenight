@@ -9,7 +9,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "Kivi",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🪨",
   "playersMin": 2,
   "playersMax": 4,

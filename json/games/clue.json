@@ -11,7 +11,8 @@
 
   "id": "clue",
   "title": "Cluedo XL",
-  "type": "Brettspiel",
+  "genre": "Brettspiel",
+  "type": "Hauptspiel",
   "icon": "🕵️",
   "playersMin": 2,
   "playersMax": 6,

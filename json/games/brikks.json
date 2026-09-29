@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Brikks",
-  "type": "Brettspiel",
+  "genre": "Brettspiel",
+  "type": "Hauptspiel",
   "icon": "🎲",
   "playersMin": 1,
   "playersMax": 4,

@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Spider-Man Top Trumps",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "👑",
   "playersMin": 2,
   "playersMax": 8,

@@ -11,7 +11,8 @@
 
   "id": "wizard-deluxe-2022",
   "title": "Wizard Deluxe Edition (2022)",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Erweiterung",
   "icon": "✨",
   "playersMin": 3,
   "playersMax": 6,

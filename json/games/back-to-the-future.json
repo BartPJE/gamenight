@@ -14,7 +14,9 @@
   "age": 10,
   "complexity": 2.42,
 
-  "type": "Brettspiel",
+  "genre": "Brettspiel",
+
+  "type": "Hauptspiel",
   "icon": "Brettspiel ",
   "publisher": "Funko Games",
 

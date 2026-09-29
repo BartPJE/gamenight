@@ -11,7 +11,8 @@
 
   "id": "malefiz",
   "title": "Super Mario Malefiz",
-  "type": "Brettspiel",
+  "genre": "Brettspiel",
+  "type": "Hauptspiel",
   "icon": "🎲",
   "playersMin": 2,
   "playersMax": 4,

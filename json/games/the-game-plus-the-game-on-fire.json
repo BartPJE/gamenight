@@ -11,7 +11,8 @@
 
   "id": "the-game-plus-the-game-on-fire",
   "title": "The Game + The Game on Fire",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🔥",
   "playersMin": 1,
   "playersMax": 5,

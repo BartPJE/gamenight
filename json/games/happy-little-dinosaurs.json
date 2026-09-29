@@ -14,7 +14,9 @@
   "age": 8,
   "complexity": 1.37,
 
-  "type": "Familienspiel",
+  "genre": "Familienspiel",
+
+  "type": "Hauptspiel",
   "icon": "🦕",
   "publisher": "Unstable Games",
 

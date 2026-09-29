@@ -17,7 +17,9 @@
   "age": 8,
   "complexity": 1.38,
 
-  "type": "Partyspiel",
+  "genre": "Partyspiel",
+
+  "type": "Erweiterung",
   "icon": "🔥",
   "publisher": "Ravensburger",
 

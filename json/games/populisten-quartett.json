@@ -9,7 +9,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "Populisten Quartett",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "📢",
   "playersMin": 2,
   "playersMax": 6,

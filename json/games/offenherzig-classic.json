@@ -9,7 +9,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "Offenherzig Classic",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "💬",
   "playersMin": 2,
   "playersMax": 8,
