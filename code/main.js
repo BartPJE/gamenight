@@ -329,6 +329,12 @@ function renderDetailCard(game, options = {}) {
         ${subtitle ? `<p class="detail-subtitle">${subtitle}</p>` : ""}
         <p class="desc">${game.description}</p>
 
+        ${
+          game.rules
+            ? `<a class="btn rules-link" href="${game.rules}" target="_blank" rel="noopener noreferrer">Spielregeln öffnen</a>`
+            : ""
+        }
+
         <div class="detail-facts">
           <div class="fact"><small>Spieleranzahl</small><b>${game.playersMin}-${game.playersMax}</b></div>
           <div class="fact"><small>Empfohlenes Alter</small><b>ab ${game.age}</b></div>
