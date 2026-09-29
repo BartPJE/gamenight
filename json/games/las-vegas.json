@@ -1,34 +1,48 @@
 {
   "id": "las-vegas",
+  "collectionId": "las-vegas",
+  "hiddenFromOverview": false,
   "title": "Las Vegas",
-  "type": "Würfelspiel",
-  "icon": "🎰",
+  "description": "Win the payout from various casinos by placing the most dice on them.",
+
+  "year": 2012,
+  "rating": 7.2,
+
   "playersMin": 2,
   "playersMax": 5,
-  "age": 8,
   "duration": 30,
-  "year": 2012,
+  "age": 8,
+  "complexity": 1.17,
+
+  "type": "Würfelspiel",
+  "icon": "🎲",
+  "tags": ["Dice"],
+  "mechanisms": [
+    "Area Majority / Influence",
+    "Dice Rolling",
+    "Push Your Luck",
+    "Re-rolling and Locking"
+  ],
+
   "publisher": "Ravensburger",
   "platform": "Tisch",
+
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "tags": [
-    "Würfeln",
-    "Familienspiel",
-    "Glück"
-  ],
-  "description": "Casino-Würfelspiel, bei dem man Mehrheiten an den Casinos sichern will.",
+
+  "image": "images/las-vegas.jpg",
+  "rules": "rules/las-vegas.pdf",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/117959/las-vegas",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/117959/las-vegas"
   },
+
   "location": "Flur",
   "contents": [
-    "Würfel",
-    "Casino-Karten",
-    "Geldkarten",
-    "Spielanleitung"
+    "40 Würfel",
+    "6 Casino-Karten",
+    "54 Geldkarten",
+    "1 Startspieler-Karte"
   ]
 }

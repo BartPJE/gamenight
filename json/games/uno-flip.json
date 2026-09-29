@@ -1,35 +1,37 @@
 {
   "id": "uno-flip",
+  "collectionId": "uno",
+  "hiddenFromOverview": false,
   "title": "UNO Flip",
-  "type": "Kartenspiel",
-  "icon": "🔄",
+  "description": "The classic card game flips out!",
+
+  "year": 2019,
+  "rating": 6.3,
+
   "playersMin": 2,
   "playersMax": 10,
+  "duration": 30,
   "age": 7,
-  "duration": 25,
-  "year": 2019,
-  "publisher": "Mattel",
+  "complexity": 1.23,
+
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "publisher": "Mattel, Inc.",
+
+  "tags": ["Card Game", "Number"],
+  "mechanisms": ["Hand Management", "Take That"],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 6.3,
   "favorite": false,
-  "tags": [
-    "UNO",
-    "Doppelseitig",
-    "Chaos"
-  ],
-  "description": "UNO mit doppelseitigem Deck: Ein Flip wechselt auf die deutlich härtere Rückseite.",
-  "image": "images/uno-flip.svg",
+
+  "image": "images/uno-flip.jpg",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/271460/uno-flip",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/271460/uno-flip"
   },
-  "location": "Wohnzimmer",
-  "contents": [
-    "Kartenstapel",
-    "Spielanleitung"
-  ],
-  "collectionId": "uno-flip",
-  "hiddenFromOverview": false
+
+  "location": "Flur / Kartenbox",
+  "contents": ["112 Karten", "1 Spielanleitung"]
 }

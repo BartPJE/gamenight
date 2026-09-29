@@ -1,5 +1,14 @@
 {
   "id": "escape-room-the-game-space-station",
+  "collectionId": "escape-room-the-game",
+  "image": "images/escape-room-the-game-space-station.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/221701/escape-room-the-game-space-station"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Escape Room: The Game – Space Station",
   "type": "Brettspiel",
   "icon": "🚀",
@@ -13,22 +22,8 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "collectionId": "escape-room-the-game",
   "hiddenFromOverview": true,
-  "tags": [
-    "Escape Room",
-    "Erweiterung",
-    "Sci-Fi"
-  ],
+  "tags": ["Escape Room", "Erweiterung", "Sci-Fi"],
   "description": "Erweiterungsabenteuer für Escape Room: The Game im Weltraum-Setting.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgameexpansion/221701/escape-room-the-game-space-station",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Abenteuer-Umschlag",
-    "Rätselkarten"
-  ]
+  "contents": ["Abenteuer-Umschlag", "Rätselkarten"]
 }

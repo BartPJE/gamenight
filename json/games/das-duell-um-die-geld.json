@@ -1,5 +1,14 @@
 {
   "id": "das-duell-um-die-geld",
+  "collectionId": "das-duell-um-die-geld",
+  "image": "images/das-duell-um-die-geld.webp",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/216895/das-duell-um-die-geld"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Das Duell um die Geld",
   "type": "Quizspiel",
   "icon": "💶",
@@ -13,22 +22,7 @@
   "status": "In Spielesammlung",
   "rating": 6.1,
   "favorite": false,
-  "tags": [
-    "Quiz",
-    "Wissen",
-    "Party"
-  ],
+  "tags": ["Quiz", "Wissen", "Party"],
   "description": "Fragen- und Bluffspiel rund ums Thema Geld und Entscheidungen.",
-  "image": "images/das-duell-um-die-geld.webp",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/216895/das-duell-um-die-geld",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Fragenkarten",
-    "Spielgeld",
-    "Spielanleitung"
-  ]
+  "contents": ["Fragenkarten", "Spielgeld", "Spielanleitung"]
 }

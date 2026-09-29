@@ -1,5 +1,14 @@
 {
   "id": "play-that-song",
+  "collectionId": "play-that-song",
+  "image": "images/play-that-song.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/452852/play-that-song"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Play That Song",
   "type": "Kartenspiel",
   "icon": "🎵",
@@ -13,19 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Musik",
-    "Partyspiel",
-    "Quiz"
-  ],
+  "tags": ["Musik", "Partyspiel", "Quiz"],
   "description": "Musik-Partyspiel rund ums Erkennen, Einordnen und Erraten bekannter Songs.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/452852/play-that-song",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

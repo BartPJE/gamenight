@@ -1,5 +1,14 @@
 {
   "id": "wizard-dsa-edition",
+  "collectionId": "wizard",
+  "image": "images/wizard-das.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameversion/719344/german-dsa-edition"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Wizard - Das Schwarze Auge (40 Jahre)",
   "type": "Kartenspiel",
   "icon": "🪄",
@@ -13,21 +22,9 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "collectionId": "wizard",
   "hiddenFromOverview": true,
-  "tags": [
-    "Erweiterung",
-    "Sonderedition",
-    "Deutsch"
-  ],
+  "tags": ["Erweiterung", "Sonderedition", "Deutsch"],
   "description": "Sonderausgabe von Wizard im DSA-Design.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgameversion/719344/german-dsa-edition",
-    "note": "Auf BoardGameGeek als Versionseintrag gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Sonderkarten-Set"
-  ]
+
+  "contents": ["Sonderkarten-Set"]
 }

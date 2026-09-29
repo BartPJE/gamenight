@@ -1,5 +1,14 @@
 {
   "id": "escape-room-the-game-welcome-to-funland",
+  "collectionId": "escape-room-the-game",
+  "image": "images/escape-room-the-game-welcome-to-funland.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/216961/escape-room-the-game-welcome-to-funland"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Escape Room: The Game – Welcome to Funland",
   "type": "Brettspiel",
   "icon": "🎡",
@@ -13,22 +22,8 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "collectionId": "escape-room-the-game",
   "hiddenFromOverview": true,
-  "tags": [
-    "Escape Room",
-    "Erweiterung",
-    "Mystery"
-  ],
+  "tags": ["Escape Room", "Erweiterung", "Mystery"],
   "description": "Erweiterungsabenteuer für Escape Room: The Game in einem verlassenen Freizeitpark.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgameexpansion/216961/escape-room-the-game-welcome-to-funland",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Abenteuer-Umschlag",
-    "Rätselkarten"
-  ]
+  "contents": ["Abenteuer-Umschlag", "Rätselkarten"]
 }

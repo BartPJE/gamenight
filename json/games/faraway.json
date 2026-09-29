@@ -1,0 +1,53 @@
+{
+  "id": "faraway",
+  "collectionId": "faraway",
+  "hiddenFromOverview": false,
+  "title": "Faraway",
+  "description": "Explore a mysterious land and fulfill quests on your way back.",
+
+  "year": 2023,
+  "rating": 7.5,
+
+  "playersMin": 2,
+  "playersMax": 6,
+  "duration": 25,
+  "age": 10,
+  "complexity": 1.94,
+
+  "type": "Strategiespiel",
+  "icon": "🧠",
+  "tags": ["Card Game", "Fantasy", "Puzzle"],
+  "mechanisms": [
+    "Constrained Bidding",
+    "End Game Bonuses",
+    "Hand Management",
+    "Open Drafting",
+    "Selection Order Bid",
+    "Set Collection",
+    "Simultaneous Action Selection",
+    "Tags"
+  ],
+
+  "publisher": "KOSMOS",
+  "platform": "Tisch",
+
+  "status": "Besitze ich",
+  "favorite": false,
+
+  "image": "images/faraway.png",
+  "rules": "rules/faraway.pdf",
+
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/385761/faraway"
+  },
+
+  "location": "Wohnzimmer",
+  "contents": [
+    "68 Regionenkarten",
+    "45 Heiligtum-Karten",
+    "1 Wertungsblock",
+    "1 Spielanleitung",
+    "1 Alula-Reiseführer"
+  ]
+}

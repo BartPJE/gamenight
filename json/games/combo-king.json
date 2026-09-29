@@ -1,32 +1,42 @@
 {
-  "id": "combo-king",
+  "id": "zocken",
+  "collectionId": "zocken",
+  "hiddenFromOverview": false,
   "title": "Zocken",
-  "type": "Würfelspiel",
-  "icon": "👑",
-  "playersMin": 2,
-  "playersMax": 6,
-  "age": 8,
-  "duration": 20,
+  "description": "",
+
   "year": 2006,
-  "publisher": "Piatnik",
+  "rating": 5.9,
+
+  "playersMin": 2,
+  "playersMax": 4,
+  "duration": 20,
+  "age": 8,
+  "complexity": 1.15,
+
+  "type": "Würfelspiel",
+  "icon": "🎲",
+  "tags": ["Dice"],
+  "mechanisms": ["Dice Rolling", "Push Your Luck"],
+
+  "publisher": "Schmidt Spiele",
   "platform": "Tisch",
+
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "tags": [
-    "Würfel",
-    "Kombinationen",
-    "Familienspiel"
-  ],
-  "description": "Schnelles Würfelspiel, bei dem Kombinationen gebildet und taktisch ausgespielt werden.",
+
+  "image": "images/zocken.jpg",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/22721/combo-king",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/22721/combo-king"
   },
+
   "location": "Flur",
   "contents": [
-    "Würfel",
-    "Spielanleitung"
+    "54 Aufgabenkarten",
+    "1 Chip Übersichtskarte",
+    "36 Chips",
+    "8 Würfel"
   ]
 }

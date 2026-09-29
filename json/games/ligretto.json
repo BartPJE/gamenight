@@ -1,6 +1,15 @@
 {
   "id": "ligretto",
-  "title": "Ligretto",
+  "collectionId": "ligretto",
+  "image": "images/ligretto.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/943/ligretto"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "title": "Ligretto - Rot",
   "type": "Kartenspiel",
   "icon": "⚡",
   "playersMin": 2,
@@ -13,19 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Echtzeit",
-    "Klassiker",
-    "Schnell"
-  ],
+  "tags": ["Echtzeit", "Klassiker", "Schnell"],
   "description": "Rasantes Echtzeit-Kartenspiel, bei dem alle gleichzeitig Karten ablegen.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/943/ligretto",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

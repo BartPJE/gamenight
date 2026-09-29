@@ -1,32 +1,37 @@
 {
   "id": "zero-to-100",
+  "collectionId": "zero-to-100",
+  "hiddenFromOverview": false,
   "title": "Null bis 100",
-  "type": "Kartenspiel",
-  "icon": "💯",
+  "description": "The general knowledge game for the generally unknowledgeable",
+
+  "year": 2022,
+  "rating": 6.4,
+
   "playersMin": 2,
   "playersMax": 12,
+  "duration": 15,
   "age": 12,
-  "duration": 20,
-  "year": 2023,
-  "publisher": "Piatnik",
+  "complexity": 1.2,
+
+  "type": "Wissensspiel",
+  "icon": "🧠",
+  "tags": ["Card Game", "Trivia", "Party Game"],
+  "mechanisms": ["Team-Based Game", "Guessing"],
+
+  "publisher": "Scorpion Masqué",
   "platform": "Tisch",
+
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "tags": [
-    "Schätzen",
-    "Partyspiel",
-    "Wissen"
-  ],
-  "description": "The general knowledge game for the generally unknowledgeable.",
-  "image": "images/null-bis-100.webp",
+
+  "image": "images/null-bis-100.png",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/360056/zero-to-100",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/360056/zero-to-100"
   },
-  "location": "Flur",
-  "contents": [
-    "Spielmaterial"
-  ]
+
+  "location": "Wohnzimmer",
+  "contents": ["158 Karten"]
 }

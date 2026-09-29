@@ -1,31 +1,37 @@
 {
   "id": "bohei",
+  "collectionId": "bohei",
+  "hiddenFromOverview": false,
   "title": "Bohei",
+  "description": "Card game with fun challenges and chaos rules.",
+
+  "year": 2023,
+  "rating": 5.2,
+
+  "playersMin": 3,
+  "playersMax": 8,
+  "duration": 20,
+  "age": 12,
+  "complexity": 1.0,
+
   "type": "Kartenspiel",
   "icon": "🃏",
-  "playersMin": 2,
-  "playersMax": 6,
-  "age": 10,
-  "duration": 20,
-  "year": 2024,
-  "publisher": "Game Factory",
+  "tags": ["Card Game", "Party Game"],
+  "mechanisms": ["Hand Management", "Race", "Take That"],
+
+  "publisher": "Klüngelbande GmbH",
   "platform": "Tisch",
+
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "tags": [
-    "Stichspiel",
-    "Schnell",
-    "Familie"
-  ],
-  "description": "Bohei in der Sammlung.",
+
+  "image": "images/bohei.jpg",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/410134/bohei",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/410134/bohei"
   },
-  "location": "Wohnzimmer",
-  "contents": [
-    "Spielmaterial"
-  ]
+
+  "location": "Flur",
+  "contents": ["110 Karten", "1 Regelablage"]
 }

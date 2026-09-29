@@ -1,5 +1,14 @@
 {
-  "id": "vs-system-2pcg-the-marvel-battles",
+  "id": "vs-system-marvel",
+  "collectionId": "vs-system-marvel",
+  "image": "images/vs-system-marvel.webp",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/178892/vs-system-2pcg-the-marvel-battles"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "VS System 2PCG: The Marvel Battles",
   "type": "Kartenspiel",
   "icon": "🦸",
@@ -13,19 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Superhelden",
-    "Deckbau",
-    "Duell"
-  ],
+  "tags": ["Superhelden", "Deckbau", "Duell"],
   "description": "Schnelles Superhelden-Kartenspiel mit Team-Building und taktischen Kämpfen.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/178892/vs-system-2pcg-the-marvel-battles",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

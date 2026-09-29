@@ -1,5 +1,14 @@
 {
   "id": "play-the-music-party-game",
+  "collectionId": "play-the-music-party-game",
+  "image": "images/play.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/428447/marimic-the-musical-time-machine"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Play - The Music Party Game",
   "type": "Partyspiel",
   "icon": "🎶",
@@ -13,21 +22,7 @@
   "status": "In Spielesammlung",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Musik",
-    "Quiz",
-    "Party"
-  ],
+  "tags": ["Musik", "Quiz", "Party"],
   "description": "Musik-Partyspiel mit abwechslungsreichen Aufgaben rund um Songs, Interpreten und gemeinsames Musikwissen.",
-  "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Kein eindeutiger BoardGameGeek-Eintrag hinterlegt."
-  },
-  "location": "Wohnzimmer",
-  "contents": [
-    "Karten",
-    "Spielmaterial",
-    "Spielanleitung"
-  ]
+  "contents": ["Karten", "Spielmaterial", "Spielanleitung"]
 }

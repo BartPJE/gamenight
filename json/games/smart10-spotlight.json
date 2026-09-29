@@ -1,0 +1,41 @@
+{
+  "id": "smart10-spotlight",
+  "collectionId": "smart10",
+  "hiddenFromOverview": true,
+  "title": "Smart10: Spotlight",
+  "description": "1 question, 10 possible answers and players take turns to find the right ones.",
+
+  "year": 2025,
+  "rating": 7.3,
+
+  "playersMin": 2,
+  "playersMax": 8,
+  "duration": 20,
+  "age": 12,
+  "complexity": 1.0,
+
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/460090/smart10-spotlight"
+  },
+
+  "image": "images/smart10-spotlight.jpg",
+
+  "type": "Familienspiel",
+  "icon": "🧠",
+  "tags": ["Electronic", "Party Game", "Trivia"],
+  "mechanisms": ["Push Your Luck"],
+
+  "publisher": "Piatnik",
+  "platform": "Tisch",
+
+  "status": "Besitze ich",
+  "favorite": true,
+
+  "location": "Wohnzimmer",
+  "contents": [
+    "1 Smartbox",
+    "100 doppelseitige Fragekarten",
+    "1 Spielanleitung"
+  ]
+}

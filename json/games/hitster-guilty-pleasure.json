@@ -1,34 +1,38 @@
 {
   "id": "hitster-guilty-pleasure",
-  "title": "Hitster Guilty Pleasure",
-  "type": "Kartenspiel",
-  "icon": "💃",
+  "collectionId": "hitster-original",
+  "hiddenFromOverview": true,
+  "title": "Hitster: Guilty Pleasures",
+  "description": "Listen to a lot of guilty pleasures and guess when the songs were a hit.",
+
+  "year": 2023,
+  "rating": 7.4,
+
   "playersMin": 2,
   "playersMax": 10,
-  "age": 16,
   "duration": 30,
-  "year": 2023,
+  "age": 16,
+  "complexity": 1.05,
+
+  "type": "Partyspiel",
+  "icon": "🎵",
   "publisher": "Jumbo",
+
+  "tags": ["Card Game", "Music", "Party Game", "Print & Play", "Trivia"],
+  "mechanisms": ["Ordering"],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 8.2,
   "favorite": false,
-  "collectionId": "hitster-original",
-  "tags": [
-    "Musikquiz",
-    "Partyspiel",
-    "Pop"
-  ],
-  "description": "Songs zum Mitsingen und Schmunzeln, ideal für lockere Runden.",
+
+  "image": "images/hitster-guilty-pleasures.jpg",
+  "rules": "rules/hitster.pdf",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/413443/hitster-guilty-pleasure",
-    "note": "Eintrag auf BoardGameGeek vorhanden."
+    "url": "https://boardgamegeek.com/boardgame/397736/hitster-guilty-pleasures"
   },
+
   "location": "Wohnzimmer",
-  "contents": [
-    "300 Musikkarten",
-    "Spielanleitung"
-  ],
-  "hiddenFromOverview": true
+  "contents": ["308 Musikkarten", "37 Hitster-Token"]
 }

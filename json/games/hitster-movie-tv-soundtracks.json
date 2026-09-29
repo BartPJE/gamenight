@@ -1,34 +1,45 @@
 {
   "id": "hitster-movie-tv-soundtracks",
-  "title": "Hitster Movie & TV Soundtracks",
-  "type": "Kartenspiel",
-  "icon": "🎬",
+  "collectionId": "hitster-original",
+  "hiddenFromOverview": true,
+  "title": "Hitster: Movies & TV Soundtracks",
+  "description": "Movies & Soundtracks expansion with 150 new cards for Hitster. ",
+
+  "year": 2024,
+  "rating": 7.4,
+
   "playersMin": 2,
   "playersMax": 10,
-  "age": 16,
   "duration": 30,
-  "year": 2025,
+  "age": 16,
+  "complexity": 1.0,
+
+  "type": "Partyspiel",
+  "icon": "🎵",
   "publisher": "Jumbo",
+
+  "tags": [
+    "Expansion for Base-game",
+    "Card Game",
+    "Music",
+    "Party Game",
+    "Print & Play",
+    "Trivia"
+  ],
+  "mechanisms": ["Ordering"],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 8.4,
-  "favorite": true,
-  "collectionId": "hitster-original",
-  "tags": [
-    "Musikquiz",
-    "Partyspiel",
-    "Soundtracks"
-  ],
-  "description": "Filmscores, Serien-Intros und ikonische Soundtracks in chronologischer Playlist-Reihenfolge.",
+  "favorite": false,
+
+  "image": "images/hitster-soundtrack.png",
+  "rules": "rules/hitster.pdf",
+
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gefunden."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/433541/hitster-movies-and-tv-soundtracks"
   },
+
   "location": "Wohnzimmer",
-  "contents": [
-    "Musikkarten",
-    "Spielanleitung"
-  ],
-  "hiddenFromOverview": true
+  "contents": ["154 Musikkarten"]
 }

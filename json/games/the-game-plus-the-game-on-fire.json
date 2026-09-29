@@ -1,5 +1,15 @@
 {
   "id": "the-game-plus-the-game-on-fire",
+  "collectionId": "the-game-plus-the-game-on-fire",
+  "image": "images/the-game-plus-the-game-on-fire.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/182453/the-game-plus-the-game-on-fire"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "id": "the-game-plus-the-game-on-fire",
   "title": "The Game + The Game on Fire",
   "type": "Kartenspiel",
   "icon": "🔥",
@@ -13,11 +23,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Kooperativ",
-    "Handmanagement",
-    "Zahlen"
-  ],
+  "tags": ["Kooperativ", "Handmanagement", "Zahlen"],
   "description": "Kombination aus The Game und The Game on Fire mit zusätzlichen Feuer-Regeln.",
   "bgg": {
     "found": true,
@@ -25,8 +31,5 @@
     "note": "Auf BoardGameGeek gefunden."
   },
   "location": "Flur",
-  "contents": [
-    "Karten",
-    "Regelheft"
-  ]
+  "contents": ["Karten", "Regelheft"]
 }

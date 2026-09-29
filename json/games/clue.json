@@ -1,5 +1,15 @@
 {
   "id": "clue",
+  "collectionId": "clue",
+  "image": "images/clue.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/130592/clue"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "id": "clue",
   "title": "Cluedo XL",
   "type": "Brettspiel",
   "icon": "🕵️",
@@ -13,11 +23,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Deduktion",
-    "Klassiker",
-    "Mystery"
-  ],
+  "tags": ["Deduktion", "Klassiker", "Mystery"],
   "description": "Deduktionsklassiker: Tat, Täter und Tatort durch Ausschluss ermitteln.",
   "bgg": {
     "found": true,
@@ -25,7 +31,5 @@
     "note": "Auf BoardGameGeek gefunden."
   },
   "location": "Flur",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

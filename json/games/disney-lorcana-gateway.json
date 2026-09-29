@@ -1,5 +1,14 @@
 {
-  "id": "disney-lorcana-gateway",
+  "id": "disney-lorcana",
+  "collectionId": "disney-lorcana",
+  "image": "images/disney-lorcana.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/423689/disney-lorcana-gateway"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Disney Lorcana: Gateway",
   "type": "Kartenspiel",
   "icon": "✨",
@@ -13,22 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Disney",
-    "Lorcana",
-    "Einsteiger"
-  ],
+  "tags": ["Disney", "Lorcana", "Einsteiger"],
   "description": "Einsteigerbox für Disney Lorcana mit geführtem Einstieg in die Spielregeln.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/423689/disney-lorcana-gateway",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Decks",
-    "Spielplan",
-    "Marker",
-    "Anleitung"
-  ]
+  "contents": ["Decks", "Spielplan", "Marker", "Anleitung"]
 }

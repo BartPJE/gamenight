@@ -1,31 +1,37 @@
 {
   "id": "outsmarted",
+  "collectionId": "outsmarted",
+  "hiddenFromOverview": false,
   "title": "Outsmarted!",
-  "type": "Brettspiel",
-  "icon": "📱",
+  "description": "The Live TV Quiz Show Board Game",
+
+  "year": 2020,
+  "rating": 6.2,
+
   "playersMin": 2,
   "playersMax": 24,
+  "duration": 30,
   "age": 8,
-  "duration": 45,
-  "year": 2020,
-  "publisher": "Outsmarted",
+  "complexity": 1.0,
+
+  "type": "Wissensspiel",
+  "icon": "Wissensspiel",
+  "publisher": "Funko Games",
+
+  "tags": ["Electronic", "Trivia"],
+  "mechanisms": ["Roll / Spin and Move"],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "tags": [
-    "Quiz",
-    "App",
-    "Partyspiel"
-  ],
-  "description": "Outsmarted! in der Sammlung.",
+
+  "image": "images/outsmarted.jpg",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/323367/outsmarted",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/323367/outsmarted"
   },
+
   "location": "Flur",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["1 Spielbrett", "6 Spielfiguren", "Tabletständer", "Würfel"]
 }

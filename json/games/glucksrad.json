@@ -1,5 +1,14 @@
 {
-  "id": "glucksrad",
+  "id": "ein-lustiges-wettspiel",
+  "collectionId": "ein-lustiges-brettspiel",
+  "image": "images/ein-lustiges-wettspiel.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/29293/glucksrad"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Glücksrad - Ein lustiges Wettspiel",
   "type": "Brettspiel",
   "icon": "🎡",
@@ -13,22 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Wortspiel",
-    "Show",
-    "Familie"
-  ],
+  "tags": ["Wortspiel", "Show", "Familie"],
   "description": "Buchstaben raten und Punkte sammeln im Stil der TV-Show.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/29293/glucksrad",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Spielbrett",
-    "Drehrad",
-    "Karten",
-    "Spielanleitung"
-  ]
+  "contents": ["Spielbrett", "Drehrad", "Karten", "Spielanleitung"]
 }

@@ -1,5 +1,14 @@
 {
   "id": "das-verrueckte-labyrinth-super-mario",
+  "collectionId": "das-verrueckte-labyrinth-super-mario",
+  "image": "images/das-verrueckte-labyrinth-super-mario.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/1219/labyrinth"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Das verrückte Labyrinth - Super Mario",
   "type": "Brettspiel",
   "playersMin": 2,
@@ -9,21 +18,10 @@
   "year": 2022,
   "rating": 7.7,
   "favorite": false,
-  "tags": [
-    "Familienspiel",
-    "Labyrinth",
-    "Super Mario",
-    "Ravensburger"
-  ],
+  "tags": ["Familienspiel", "Labyrinth", "Super Mario", "Ravensburger"],
   "description": "Eigenständige Super-Mario-Ausgabe des verrückten Labyrinths mit beweglichen Gängen und Schatzsuche.",
-  "image": "images/das-verrueckte-labyrinth-super-mario.jpg",
   "platform": "Analog",
   "publisher": "Ravensburger",
-  "location": "Flur",
-  "bgg": {
-    "found": false,
-    "url": ""
-  },
   "contents": [
     "1 Spielplan",
     "34 Labyrinth-Karten",

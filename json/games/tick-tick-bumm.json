@@ -1,5 +1,13 @@
 {
-  "id": "tick-tick-bumm",
+  "id": "tick-tack-bumm",
+  "image": "images/tick-tack-bumm.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/63052/pass-the-bomb-party-edition"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Tick Tick Bumm",
   "type": "Partyspiel",
   "icon": "💣",
@@ -13,22 +21,7 @@
   "status": "In Spielesammlung",
   "rating": 7.0,
   "favorite": false,
-  "tags": [
-    "Wortspiel",
-    "Schnell",
-    "Party"
-  ],
+  "tags": ["Wortspiel", "Schnell", "Party"],
   "description": "Unter Zeitdruck Begriffe finden, bevor die Bombe hochgeht.",
-  "image": "",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/12333/tick-tick-boom",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Karten",
-    "Timer/Bombe",
-    "Spielanleitung"
-  ]
+  "contents": ["Karten", "Timer/Bombe", "Spielanleitung"]
 }

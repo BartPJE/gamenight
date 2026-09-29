@@ -1,5 +1,14 @@
 {
   "id": "complices",
+  "collectionId": "complices",
+  "image": "images/2gether.webp",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/364266/complices"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer",
+
   "title": "2Gether",
   "type": "Partyspiel",
   "icon": "🕵️",
@@ -13,21 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Kommunikation",
-    "Kooperativ",
-    "Party"
-  ],
+  "tags": ["Kommunikation", "Kooperativ", "Party"],
   "description": "Kooperatives Kommunikationsspiel, in dem Hinweise präzise abgestimmt werden müssen.",
-  "image": "images/2gether.webp",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/364266/complices",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Karten",
-    "Spielanleitung"
-  ]
+  "contents": ["Karten", "Spielanleitung"]
 }

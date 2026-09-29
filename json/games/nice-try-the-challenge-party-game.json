@@ -1,5 +1,15 @@
 {
   "id": "nice-try-the-challenge-party-game",
+  "collectionId": "nice-try-the-challenge-party-game",
+  "image": "images/nice-try-the-challenge-party-game.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/287110/nice-try-the-challenge-party-game"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "id": "nice-try-the-challenge-party-game",
   "title": "Nice Try: The Challenge Party Game",
   "type": "Partyspiel",
   "icon": "🎉",
@@ -13,11 +23,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Party",
-    "Challenges",
-    "Geschicklichkeit"
-  ],
+  "tags": ["Party", "Challenges", "Geschicklichkeit"],
   "description": "Partyspiel mit verrückten Mini-Challenges und direkten Duellen.",
   "bgg": {
     "found": true,
@@ -25,9 +31,5 @@
     "note": "Auf BoardGameGeek gefunden."
   },
   "location": "Flur",
-  "contents": [
-    "Challenge-Karten",
-    "Spielmaterial",
-    "Anleitung"
-  ]
+  "contents": ["Challenge-Karten", "Spielmaterial", "Anleitung"]
 }

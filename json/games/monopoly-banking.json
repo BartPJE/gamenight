@@ -1,5 +1,14 @@
 {
   "id": "monopoly-banking",
+  "collectionId": "monopoly-banking",
+  "image": "images/monopoly-banking.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/29505/monopoly-banking"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer",
+
   "title": "Monopoly Banking",
   "type": "Brettspiel",
   "icon": "💳",
@@ -13,18 +22,8 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Wirtschaft",
-    "Klassiker",
-    "Familie"
-  ],
+  "tags": ["Wirtschaft", "Klassiker", "Familie"],
   "description": "Monopoly-Variante mit elektronischem Banking statt Papiergeld.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/29505/monopoly-banking",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
   "contents": [
     "Spielbrett",
     "Spielfiguren",

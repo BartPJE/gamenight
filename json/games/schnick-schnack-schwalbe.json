@@ -1,5 +1,14 @@
 {
   "id": "schnick-schnack-schwalbe",
+  "collectionId": "schnick-schnack-schwalbe",
+  "image": "images/schnick-schnack-schwalbe.jpg",
+  "bgg": {
+    "found": false,
+    "url": ""
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Schnick Schnack Schwalbe",
   "type": "Kartenspiel",
   "icon": "🕊️",
@@ -13,19 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Schnell",
-    "Reaktion",
-    "Familie"
-  ],
+  "tags": ["Schnell", "Reaktion", "Familie"],
   "description": "Schnick Schnack Schwalbe in der Sammlung.",
-  "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

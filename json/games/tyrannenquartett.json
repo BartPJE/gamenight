@@ -1,6 +1,15 @@
 {
   "id": "tyrannenquartett",
-  "title": "Tyrannenquartett 1",
+  "collectionId": "tyrannenquartett",
+  "image": "images/tyrannenquartett.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/7262/top-trumps"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "title": "Tyrannenquartett",
   "type": "Kartenspiel",
   "icon": "👑",
   "playersMin": 2,
@@ -13,23 +22,8 @@
   "status": "Besitze ich",
   "rating": 7.4,
   "favorite": false,
-  "tags": [
-    "Quartett",
-    "Satire",
-    "Diskussion"
-  ],
+  "tags": ["Quartett", "Satire", "Diskussion"],
   "description": "Politisches Quartett mit schwarzem Humor und schnellen Runden.",
-  "image": "images/tyrannenquartett.svg",
-  "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Kartenstapel",
-    "Spielanleitung"
-  ],
-  "collectionId": "tyrannenquartett",
+  "contents": ["Kartenstapel", "Spielanleitung"],
   "hiddenFromOverview": false
 }

@@ -1,5 +1,14 @@
 {
-  "id": "tv-total-pokerkoffer",
+  "id": "poker",
+  "collectionId": "poker",
+  "image": "images/poker.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/1115/poker"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "TV Total Pokerkoffer",
   "type": "Kartenspiel",
   "icon": "♠️",
@@ -13,22 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Poker",
-    "Set",
-    "TV Total"
-  ],
+  "tags": ["Poker", "Set", "TV Total"],
   "description": "Pokerkoffer-Set für verschiedene Poker-Varianten (Texas Hold’em etc.).",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/1115/poker",
-    "note": "Verweist auf den allgemeinen BoardGameGeek-Eintrag zu Poker."
-  },
-  "location": "Flur",
-  "contents": [
-    "Pokerchips",
-    "Spielkarten",
-    "Dealer-Button",
-    "Koffer"
-  ]
+  "contents": ["Pokerchips", "Spielkarten", "Dealer-Button", "Koffer"]
 }

@@ -1,5 +1,15 @@
 {
   "id": "elfer-raus",
+  "collectionId": "elfer-raus",
+  "image": "images/elfer-raus.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/2086/elfer-raus"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "id": "elfer-raus",
   "title": "Elfer raus!",
   "type": "Kartenspiel",
   "icon": "🔢",
@@ -13,11 +23,7 @@
   "status": "Besitze ich",
   "rating": 6.9,
   "favorite": false,
-  "tags": [
-    "Klassiker",
-    "Zahlen",
-    "Familie"
-  ],
+  "tags": ["Klassiker", "Zahlen", "Familie"],
   "description": "Klassisches Kartenspiel: Reihen bilden und als Erste:r alle Karten ablegen.",
   "image": "",
   "bgg": {
@@ -26,8 +32,5 @@
     "note": "Auf BoardGameGeek gefunden."
   },
   "location": "Flur",
-  "contents": [
-    "Kartenstapel",
-    "Spielanleitung"
-  ]
+  "contents": ["Kartenstapel", "Spielanleitung"]
 }

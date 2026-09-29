@@ -1,6 +1,15 @@
 {
-  "id": "ranklotzen-4-spieler-edition",
-  "title": "RanKlotzen! (4-Spieler-Edition)",
+  "id": "ranklotzen",
+  "collectionId": "ranklotzen",
+  "image": "images/ranklotzen.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/383039/ranklotzen-4-spieler-edition"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "title": "RanKlotzen!",
   "type": "Kartenspiel",
   "icon": "🧱",
   "playersMin": 2,
@@ -13,20 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Geschick",
-    "Familie",
-    "Schnell"
-  ],
+  "tags": ["Geschick", "Familie", "Schnell"],
   "description": "Stapeln und kombinieren in der 4-Spieler-Edition von RanKlotzen!.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/383039/ranklotzen-4-spieler-edition",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Spielmaterial",
-    "Spielanleitung"
-  ]
+  "contents": ["Spielmaterial", "Spielanleitung"]
 }

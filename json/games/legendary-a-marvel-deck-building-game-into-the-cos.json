@@ -1,5 +1,14 @@
 {
-  "id": "legendary-a-marvel-deck-building-game-into-the-cos",
+  "id": "legendary-a-marvel-deck-building-game-into-the-cosmos",
+  "collectionId": "legendary-a-marvel-deck-building-game",
+  "image": "images/legendary-a-marvel-deck-building-game-into-the-cosmos.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/314104/legendary-a-marvel-deck-building-game-into-the-cos"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur / Kämmerle",
+
   "title": "Legendary: A Marvel Deck Building Game – Into the Cosmos",
   "type": "Kartenspiel",
   "icon": "🃏",
@@ -13,21 +22,8 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Erweiterung",
-    "Deckbuilding",
-    "Marvel"
-  ],
+  "tags": ["Erweiterung", "Deckbuilding", "Marvel"],
   "description": "Erweiterung für Legendary: A Marvel Deck Building Game mit dem Schwerpunkt Into the Cosmos.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgameexpansion/314104/legendary-a-marvel-deck-building-game-into-the-cos",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Erweiterungsmaterial"
-  ],
-  "hiddenFromOverview": true,
-  "collectionId": "legendary-a-marvel-deck-building-game"
+  "contents": ["Erweiterungsmaterial"],
+  "hiddenFromOverview": true
 }

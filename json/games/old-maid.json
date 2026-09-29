@@ -1,5 +1,14 @@
 {
-  "id": "old-maid",
+  "id": "schwarzer-peter",
+  "collectionId": "schwarzer-peter",
+  "image": "images/schwarzer-peter.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/10799/old-maid"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Schwarzer Peter",
   "type": "Kartenspiel",
   "icon": "👵",
@@ -13,20 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Klassiker",
-    "Familie",
-    "Kinder"
-  ],
+  "tags": ["Klassiker", "Familie", "Kinder"],
   "description": "Klassisches Kartenspiel, bei dem niemand auf der Old-Maid-Karte sitzen bleiben will.",
-  "image": "",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/10799/old-maid",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Kartenstapel"
-  ]
+  "contents": ["Kartenstapel"]
 }

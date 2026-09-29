@@ -1,0 +1,42 @@
+{
+  "id": "flip-7",
+  "collectionId": "flip-7",
+  "hiddenFromOverview": false,
+  "title": "Flip 7",
+  "description": "Score the cards in front of you, or take another card, risking everything you hold?",
+
+  "year": 2024,
+  "rating": 7.2,
+
+  "playersMin": 3,
+  "playersMax": 18,
+  "duration": 20,
+  "age": 8,
+  "complexity": 1.04,
+
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "publisher": "KOSMOS",
+
+  "tags": ["Card Game", "Novel-based", "Number", "Party Game"],
+  "mechanisms": [
+    "Interrupts",
+    "Push Your Luck",
+    "Score-and-Reset Game",
+    "Take That"
+  ],
+
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "favorite": false,
+
+  "image": "images/flip-7.jpg",
+
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/420087/flip-7"
+  },
+
+  "location": "Flur / Kartenbox",
+  "contents": ["94 Karten", "1 Regelheft"]
+}

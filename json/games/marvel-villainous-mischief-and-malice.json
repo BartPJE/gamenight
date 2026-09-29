@@ -1,5 +1,14 @@
 {
   "id": "marvel-villainous-mischief-and-malice",
+  "collectionId": "marvel-villainous-infinite-power",
+  "image": "images/marvel-villainous-mischief-and-malice.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/335528/marvel-villainous-mischief-and-malice"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Marvel Villainous: Mischief and Malice",
   "type": "Kartenspiel",
   "icon": "🧊",
@@ -13,24 +22,8 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "collectionId": "marvel-villainous-infinite-power",
   "hiddenFromOverview": true,
-  "tags": [
-    "Marvel",
-    "Erweiterung",
-    "Villainous"
-  ],
+  "tags": ["Marvel", "Erweiterung", "Villainous"],
   "description": "Erweiterung mit Loki, Madame Masque und M.O.D.O.K. für Marvel Villainous.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/335528/marvel-villainous-mischief-and-malice",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "3 Schurken-Decks",
-    "Spielertafeln",
-    "Marker",
-    "Spielanleitung"
-  ]
+  "contents": ["3 Schurken-Decks", "Spielertafeln", "Marker", "Spielanleitung"]
 }

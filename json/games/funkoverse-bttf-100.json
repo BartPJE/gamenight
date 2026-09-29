@@ -1,5 +1,14 @@
 {
-  "id": "funkoverse-bttf-100",
+  "id": "funkoverse-bttf",
+  "collectionId": "funkoverse-dc",
+  "image": "images/funkoverse-bttf.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/302991/funkoverse-strategy-game-back-to-the-future-100"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Funkoverse Strategy Game: Back to the Future 100",
   "type": "Brettspiel",
   "icon": "⏱️",
@@ -13,24 +22,8 @@
   "status": "Besitze ich",
   "rating": 7.1,
   "favorite": false,
-  "collectionId": "funkoverse-dc-100",
   "hiddenFromOverview": true,
-  "tags": [
-    "Erweiterung",
-    "Back to the Future",
-    "Crossover"
-  ],
+  "tags": ["Erweiterung", "Back to the Future", "Crossover"],
   "description": "Funkoverse-Set mit Marty und Doc, kompatibel mit anderen 100er-Sets.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/302991/funkoverse-strategy-game-back-to-the-future-100",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "2 Figuren",
-    "Charakterkarten",
-    "Marker",
-    "Szenariokarten"
-  ]
+  "contents": ["2 Figuren", "Charakterkarten", "Marker", "Szenariokarten"]
 }

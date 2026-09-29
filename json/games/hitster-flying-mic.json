@@ -1,0 +1,37 @@
+{
+  "id": "hitster-flying-mic",
+  "collectionId": "hitster-original",
+  "hiddenFromOverview": false,
+  "title": "Hitster: Flying Mic",
+  "description": "Listen to songs, catch the mic and win a challenge to score points for your team",
+
+  "year": 2026,
+  "rating": 7.5,
+
+  "playersMin": 2,
+  "playersMax": 10,
+  "duration": 30,
+  "age": 16,
+  "complexity": 1.0,
+
+  "type": "Partyspiel",
+  "icon": "🎵",
+  "publisher": "Jumbo",
+
+  "tags": ["Action / Dexterity", "Card Game", "Music", "Party Game", "Trivia"],
+  "mechanisms": ["Ordering"],
+
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "favorite": false,
+
+  "image": "images/hitster-flying-mic.jpg",
+
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/477352/hitster-flying-mic"
+  },
+
+  "location": "Wohnzimmer",
+  "contents": ["225 Musikkarten", "Mikrofon", "2 Song-Revealer"]
+}

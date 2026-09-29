@@ -1,35 +1,43 @@
 {
   "id": "hitster-bingo",
-  "title": "Hitster Bingo",
-  "type": "Kartenspiel",
-  "icon": "🎯",
+  "collectionId": "hitster-original",
+  "hiddenFromOverview": false,
+  "title": "Hitster: Music Bingo",
+  "description": "Guess song titles, artists or publication year simultaneously to fill your bingo card",
+
+  "year": 2024,
+  "rating": 7.4,
+
   "playersMin": 2,
   "playersMax": 10,
+  "duration": 30,
   "age": 16,
-  "duration": 25,
-  "year": 2024,
+  "complexity": 1.04,
+
+  "type": "Partyspiel",
+  "icon": "🎵",
   "publisher": "Jumbo",
+
+  "tags": ["Card Game", "Music", "Party Game", "Print & Play", "Trivia"],
+  "mechanisms": ["Bingo"],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 7.9,
   "favorite": false,
-  "collectionId": "hitster-original",
-  "tags": [
-    "Musikquiz",
-    "Partyspiel",
-    "Bingo"
-  ],
-  "description": "Hitster-Variante mit Bingo-Mechanik für schnelle, kurze Partien.",
+
+  "image": "images/hitster-bingo.jpg",
+
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gefunden."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/424280/hitster-music-bingo"
   },
+
   "location": "Wohnzimmer",
   "contents": [
-    "Bingo-Tafeln",
-    "Musikkarten",
-    "Spielanleitung"
-  ],
-  "hiddenFromOverview": false
+    "1 Spielbrett",
+    "1 Discokugel",
+    "6 Bingo-Tafeln",
+    "6 Stifte",
+    "225 Musikkarten"
+  ]
 }

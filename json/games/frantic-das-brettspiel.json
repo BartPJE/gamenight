@@ -1,31 +1,48 @@
 {
-  "id": "frantic-das-brettspiel",
-  "title": "FRANTIC: Das Brettspiel",
-  "type": "Brettspiel",
-  "icon": "🎲",
+  "id": "frantic-brettspiel",
+  "collectionId": "frantic",
+  "hiddenFromOverview": false,
+  "title": "Frantic Brettspiel",
+  "description": "Stay away from the target as long and as far as you can!",
+
+  "year": 2025,
+  "rating": 6.5,
+
   "playersMin": 2,
   "playersMax": 6,
+  "duration": 40,
   "age": 12,
-  "duration": 45,
-  "year": 2025,
-  "publisher": "Rulefactory",
+  "complexity": 2.0,
+
+  "type": "Brettspiel",
+  "icon": "🎴",
+  "tags": ["Party Game"],
+  "mechanisms": [],
+
+  "publisher": "Game Factory",
   "platform": "Tisch",
+
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "tags": [
-    "Take-That",
-    "Handmanagement",
-    "Chaos"
-  ],
-  "description": "FRANTIC: Das Brettspiel in der Sammlung.",
+
+  "image": "images/frantic-brettspiel.jpg",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/442222/frantic-brettspiel",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/442222/frantic-brettspiel"
   },
+
   "location": "Wohnzimmer",
   "contents": [
-    "Spielmaterial"
+    "94 Spielkarten",
+    "6 Teleportfelder",
+    "6 Spielfiguren",
+    "6 6er Würfel",
+    "1 20er Würfel",
+    "6 Übersichtskarten 'Spielzug'",
+    "1 Übersichtskarte 'Ereignisse'",
+    "1 Kreidetafel",
+    "1 Kreidestift",
+    "1 Spielplan"
   ]
 }

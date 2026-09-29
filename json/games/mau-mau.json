@@ -13,21 +13,15 @@
   "status": "In Spielesammlung",
   "rating": 5.8,
   "favorite": false,
-  "tags": [
-    "Klassiker",
-    "Spielesammlung"
-  ],
+  "tags": ["Klassiker", "Spielesammlung"],
   "description": "Kartenspielklassiker mit Farb- und Zahlenablage.",
   "image": "images/mau-mau.webp",
-  "collectionId": "spiele-klassiker-blatz",
+  "collectionId": "spiele-klassiker",
   "bgg": {
     "found": true,
     "url": "https://boardgamegeek.com/boardgame/193049/mau-mau",
     "note": "Auf BoardGameGeek gefunden."
   },
   "location": "Kinder-Box",
-  "contents": [
-    "Spielmaterial laut Sammlung",
-    "Spielanleitung"
-  ]
+  "contents": ["Spielmaterial laut Sammlung", "Spielanleitung"]
 }

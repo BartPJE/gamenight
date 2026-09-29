@@ -1,6 +1,15 @@
 {
-  "id": "peter-aergere-dich-nicht-eigene-ludo-variante",
-  "title": "Peter ärgere dich nicht (Eigene Ludo Variante)",
+  "id": "peter-aergere-dich-nicht",
+  "collectionId": "petz-games",
+  "image": "images/peter-aergere-dich-nicht.jpg",
+  "bgg": {
+    "found": false,
+    "url": ""
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "title": "Peter ärgere dich nicht",
   "type": "Brettspiel",
   "icon": "🎲",
   "playersMin": 2,
@@ -13,22 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Klassiker",
-    "Eigenvariante",
-    "Familienspiel"
-  ],
+  "tags": ["Klassiker", "Eigenvariante", "Familienspiel"],
   "description": "Eigene Ludo-Variante im Stil von Mensch ärgere Dich nicht.",
-  "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Eigenvariante ohne BoardGameGeek-Eintrag."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Spielbrett",
-    "16 Spielfiguren",
-    "1 Würfel",
-    "Spielregeln"
-  ]
+  "contents": ["Spielbrett", "16 Spielfiguren", "1 Würfel", "Spielregeln"]
 }

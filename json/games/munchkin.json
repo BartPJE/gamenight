@@ -1,33 +1,43 @@
 {
   "id": "munchkin",
+  "collectionId": "munchkin",
+  "hiddenFromOverview": false,
   "title": "Munchkin",
-  "type": "Kartenspiel",
-  "icon": "🗡️",
+  "description": "Attack and loot in this humorous, card-based dungeon crawler. ",
+
+  "year": 2001,
+  "rating": 5.9,
+
   "playersMin": 3,
   "playersMax": 6,
+  "duration": 60,
   "age": 10,
-  "duration": 90,
-  "year": 2001,
-  "publisher": "Steve Jackson Games",
+  "complexity": 1.82,
+
+  "type": "Partyspiel",
+  "icon": "🔥",
+  "publisher": "Pegasus Spiele",
+
+  "tags": ["Card Game", "Fantasy", "Fighting", "Humor"],
+  "mechanisms": [
+    "Hand Management",
+    "Race",
+    "Take That",
+    "Variable Player Powers"
+  ],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "tags": [
-    "Fantasy",
-    "Humor",
-    "Take-That"
-  ],
-  "description": "Satirisches Dungeon-Kartenspiel mit Ausrüstung, Monstern und viel Chaos.",
+
+  "image": "images/munchkin.jpg",
+  "rules": "rules/munchkin.pdf",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/1927/munchkin",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/1927/munchkin"
   },
+
   "location": "Flur",
-  "contents": [
-    "Grundspiel",
-    "Munchkin 2",
-    "Munchkin Legenden"
-  ]
+  "contents": ["168 Karten", "1 Spielanleitung"]
 }

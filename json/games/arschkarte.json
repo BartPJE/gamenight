@@ -1,5 +1,14 @@
 {
   "id": "arschkarte",
+  "collectionId": "arschkarte",
+  "image": "images/arschkarte.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/198035/dumstrut"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer",
+
   "title": "Arschkarte",
   "type": "Quizspiel",
   "icon": "🟥",
@@ -13,21 +22,7 @@
   "status": "In Spielesammlung",
   "rating": 5.7,
   "favorite": false,
-  "tags": [
-    "Humor",
-    "Schnell",
-    "Party"
-  ],
+  "tags": ["Humor", "Schnell", "Party"],
   "description": "Schnelles Quizspiel, bei dem die falsche Antwort den entscheidenden Nachteil bringt.",
-  "image": "images/arschkarte.png",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/198035/dumstrut",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Karten",
-    "Spielanleitung"
-  ]
+  "contents": ["Karten", "Spielanleitung"]
 }

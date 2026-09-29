@@ -1,32 +1,37 @@
 {
   "id": "droppen-oder-floppen",
+  "collectionId": "droppen-oder-floppen",
+  "hiddenFromOverview": false,
   "title": "Droppen oder Floppen",
+  "description": "You have all the answers, just drop them in the right order.",
+
+  "year": 2024,
+  "rating": 6.1,
+
+  "playersMin": 2,
+  "playersMax": 99,
+  "duration": 15,
+  "age": 13,
+  "complexity": 1.0,
+
   "type": "Partyspiel",
   "icon": "💧",
-  "playersMin": 2,
-  "playersMax": 8,
-  "age": 8,
-  "duration": 20,
-  "year": 2025,
-  "publisher": "Unbekannt",
+  "publisher": "Hasbro",
+
+  "tags": ["Electronic", "Party Game", "Trivia"],
+  "mechanisms": [],
+
   "platform": "Tisch",
-  "status": "In Spielesammlung",
-  "rating": 0,
+  "status": "Besitze ich",
   "favorite": false,
-  "tags": [
-    "Geschicklichkeit",
-    "Risiko",
-    "Party"
-  ],
-  "description": "Kurzweiliges Partyspiel, bei dem geschicktes Droppen über Erfolg oder Flop entscheidet.",
+
+  "image": "images/droppen-oder-floppen.jpg",
+
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Kein eindeutiger BoardGameGeek-Eintrag hinterlegt."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/423945/drop-trivia"
   },
-  "location": "Wohnzimmer",
-  "contents": [
-    "Spielmaterial",
-    "Spielanleitung"
-  ]
+
+  "location": "Flur",
+  "contents": ["Turm", "6 Drops", "60 Karten", "1 Spielanleitung"]
 }

@@ -1,5 +1,14 @@
 {
   "id": "disney-villainous-wicked-to-the-core",
+  "collectionId": "disney-villainous-the-worst-takes-it-all",
+  "image": "images/disney-villainous-wicked-to-the-core.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/271518/disney-villainous-wicked-to-the-core"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Disney Villainous: Wicked to the Core",
   "type": "Kartenspiel",
   "icon": "🧪",
@@ -13,24 +22,8 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "collectionId": "disney-villainous-the-worst-takes-it-all",
   "hiddenFromOverview": true,
-  "tags": [
-    "Disney",
-    "Erweiterung",
-    "Villainous"
-  ],
+  "tags": ["Disney", "Erweiterung", "Villainous"],
   "description": "Erweiterung mit Dr. Facilier, Evil Queen und Hades für Disney Villainous.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgameexpansion/271518/disney-villainous-wicked-to-the-core",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "3 Schurken-Decks",
-    "Spielertafeln",
-    "Marker",
-    "Spielanleitung"
-  ]
+  "contents": ["3 Schurken-Decks", "Spielertafeln", "Marker", "Spielanleitung"]
 }

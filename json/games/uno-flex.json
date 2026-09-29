@@ -1,34 +1,37 @@
 {
   "id": "uno-flex",
-  "title": "UNO Flex",
-  "type": "Kartenspiel",
-  "icon": "🟣",
+  "collectionId": "uno",
+  "hiddenFromOverview": false,
+  "title": "UNO Flex!",
+  "description": "Use your power, Flex your card. Make your move.",
+
+  "year": 2023,
+  "rating": 6.0,
+
   "playersMin": 2,
   "playersMax": 8,
+  "duration": 15,
   "age": 7,
-  "duration": 20,
-  "year": 2022,
-  "publisher": "Mattel",
+  "complexity": 1.57,
+
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "publisher": "Mattel, Inc.",
+
+  "tags": ["Card Game"],
+  "mechanisms": ["Hand Management", "Matching", "Take That"],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "collectionId": "uno-flex",
-  "hiddenFromOverview": true,
-  "tags": [
-    "UNO",
-    "Flex",
-    "Sonderkarten"
-  ],
-  "description": "UNO-Variante mit Flex-Seite und Karten, die Farbenregeln kurzfristig aufbrechen.",
+
+  "image": "images/uno-flex.jpg",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/380300/uno-flex",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/380300/uno-flex"
   },
-  "location": "Flur",
-  "contents": [
-    "Kartenstapel",
-    "Spielanleitung"
-  ]
+
+  "location": "Flur / Kartenbox",
+  "contents": ["112 Karten", "1 Spielanleitung"]
 }

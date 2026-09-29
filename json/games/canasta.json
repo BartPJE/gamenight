@@ -1,5 +1,15 @@
 {
   "id": "canasta",
+  "collectionId": "canasta",
+  "image": "images/canasta.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/17104/canasta"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "id": "canasta",
   "title": "Canasta",
   "type": "Kartenspiel",
   "icon": "♥️",
@@ -13,11 +23,7 @@
   "status": "Besitze ich",
   "rating": 6.3,
   "favorite": false,
-  "tags": [
-    "Stichspiel",
-    "Klassiker",
-    "Rommé-Familie"
-  ],
+  "tags": ["Stichspiel", "Klassiker", "Rommé-Familie"],
   "description": "Klassisches Kartenablege- und Sammelspiel der Rommé-Familie.",
   "bgg": {
     "found": true,
@@ -25,8 +31,5 @@
     "note": "Auf BoardGameGeek gefunden."
   },
   "location": "Flur",
-  "contents": [
-    "2 Kartendecks",
-    "Punkteblock"
-  ]
+  "contents": ["2 Kartendecks", "Punkteblock"]
 }

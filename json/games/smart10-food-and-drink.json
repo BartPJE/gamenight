@@ -1,33 +1,38 @@
 {
   "id": "smart10-food-and-drink",
+  "collectionId": "smart10",
+  "hiddenFromOverview": true,
   "title": "Smart10: Food and Drink",
-  "type": "Brettspiel",
-  "icon": "🍽️",
+  "description": "50 new double-sided cards with 100 new questions.",
+
+  "year": 2021,
+  "rating": 7.7,
+
   "playersMin": 2,
   "playersMax": 8,
+  "duration": 15,
   "age": 14,
-  "duration": 20,
-  "year": 2021,
-  "publisher": "Piatnik",
-  "platform": "Tisch",
-  "status": "Besitze ich",
-  "rating": 0,
-  "favorite": false,
-  "tags": [
-    "Quiz",
-    "Erweiterung",
-    "Essen"
-  ],
-  "description": "Smart10: Food and Drink in der Sammlung.",
+  "complexity": 1.0,
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgameexpansion/340973/smart10-food-and-drink",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgameexpansion/340973/smart10-food-and-drink"
   },
+
+  "image": "images/smart10-food.jpg",
+  "rules": "rules/smart10.pdf",
+
+  "type": "Familienspiel",
+  "icon": "🧠",
+  "tags": ["Expansion for Base-game", "Trivia", "Party Game"],
+  "mechanisms": ["Push Your Luck"],
+
+  "publisher": "Piatnik",
+  "platform": "Tisch",
+
+  "status": "Besitze ich",
+  "favorite": true,
+
   "location": "Wohnzimmer",
-  "contents": [
-    "Spielmaterial"
-  ],
-  "collectionId": "smart10",
-  "hiddenFromOverview": true
+  "contents": ["50 doppelseitige Fragekarten"]
 }

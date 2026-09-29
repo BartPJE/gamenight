@@ -1,5 +1,14 @@
 {
   "id": "from-idiot-to-president",
+  "collectionId": "from-idiot-to-president",
+  "image": "images/from-idiot-to-president.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/290511/from-idiot-to-president"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "From Idiot to President",
   "type": "Kartenspiel",
   "icon": "🎭",
@@ -13,20 +22,7 @@
   "status": "Besitze ich",
   "rating": 6.4,
   "favorite": false,
-  "tags": [
-    "Humor",
-    "Party",
-    "Satire"
-  ],
+  "tags": ["Humor", "Party", "Satire"],
   "description": "Satirisches Partyspiel mit schwarzem Humor.",
-  "image": "",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/290511/from-idiot-to-president",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Kartenstapel"
-  ]
+  "contents": ["Kartenstapel"]
 }

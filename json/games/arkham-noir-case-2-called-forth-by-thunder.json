@@ -1,5 +1,14 @@
 {
   "id": "arkham-noir-case-2-called-forth-by-thunder",
+  "collectionId": "arkham-noir",
+  "image": "images/arkham-noir-2.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/257839/arkham-noir-case-2-called-forth-by-thunder"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Arkham Noir: Case #2 – Called Forth by Thunder",
   "type": "Kartenspiel",
   "icon": "🕵️",
@@ -13,19 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Solo",
-    "Lovecraft",
-    "Noir"
-  ],
+  "tags": ["Solo", "Lovecraft", "Noir"],
   "description": "Solitäres Ermittlungs-Kartenspiel im Lovecraft-Setting mit kniffligem Fallmanagement.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/257839/arkham-noir-case-2-called-forth-by-thunder",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

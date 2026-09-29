@@ -1,5 +1,14 @@
 {
   "id": "what-do-you-meme-stoner-expansion-pack",
+  "collectionId": "what-do-you-meme",
+  "image": "images/what-do-you-meme-stoner.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/242578/what-do-you-meme-stoner-expansion-pack"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "What Do You Meme?: Stoner Expansion Pack",
   "type": "Kartenspiel",
   "icon": "🌿",
@@ -13,21 +22,8 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "collectionId": "what-do-you-meme",
   "hiddenFromOverview": true,
-  "tags": [
-    "Erweiterung",
-    "Partyspiel",
-    "Humor"
-  ],
+  "tags": ["Erweiterung", "Partyspiel", "Humor"],
   "description": "Erweiterung mit zusätzlichen Meme-Karten im Stoner-Thema für What Do You Meme?.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgameexpansion/242578/what-do-you-meme-stoner-expansion-pack",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Erweiterungskarten"
-  ]
+  "contents": ["Erweiterungskarten"]
 }

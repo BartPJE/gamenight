@@ -1,5 +1,14 @@
 {
   "id": "phase-10-das-brettspiel",
+  "collectionId": "phase-10",
+  "image": "images/phase-10-das-brettspiel.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/69602/phase-10-das-brettspiel"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Phase 10: Das Brettspiel",
   "type": "Brettspiel",
   "icon": "🔟",
@@ -13,23 +22,7 @@
   "status": "Besitze ich",
   "rating": 6.6,
   "favorite": false,
-  "tags": [
-    "Familie",
-    "Zahlen",
-    "Klassiker"
-  ],
+  "tags": ["Familie", "Zahlen", "Klassiker"],
   "description": "Phase-10 als Brettspiel-Variante mit zusätzlichen Regeln.",
-  "image": "",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/69602/phase-10-das-brettspiel",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Spielbrett",
-    "Kartenstapel",
-    "Spielfiguren",
-    "Spielanleitung"
-  ]
+  "contents": ["Spielbrett", "Kartenstapel", "Spielfiguren", "Spielanleitung"]
 }

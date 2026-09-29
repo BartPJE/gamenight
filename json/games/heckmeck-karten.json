@@ -1,0 +1,38 @@
+{
+  "id": "heckmeck-karten",
+  "collectionId": "heckmeck",
+  "hiddenFromOverview": false,
+  "title": "Heckmeck am Karteneck",
+  "description": "Play sets of cards to get worm portions.",
+
+  "year": 2021,
+  "rating": 6.8,
+
+  "playersMin": 2,
+  "playersMax": 6,
+  "duration": 20,
+  "age": 8,
+  "complexity": 1.67,
+
+  "type": "Familienspiel",
+  "icon": "🃏",
+  "publisher": "Zoch Verlag",
+
+  "tags": ["Animals", "Card Game", "Children's Game", "Math", "Number"],
+  "mechanisms": ["Melding and Splaying", "Push Your Luck", "Set Collection"],
+
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "favorite": false,
+
+  "image": "images/heckmeck-karten.jpg",
+  "rules": "rules/heckmeck-karten.pdf",
+
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/348870/heckmeck-am-karteneck"
+  },
+
+  "location": "Wohnzimmer",
+  "contents": ["110 Karten", "30 Bratwurmportionen"]
+}

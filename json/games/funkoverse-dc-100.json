@@ -1,5 +1,14 @@
 {
-  "id": "funkoverse-dc-100",
+  "id": "funkoverse-dc",
+  "collectionId": "funkoverse-dc",
+  "image": "images/funkoverse-dc.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/292034/funkoverse-strategy-game-dc-comics-100"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Funkoverse Strategy Game: DC Comics 100",
   "type": "Brettspiel",
   "icon": "🦸",
@@ -13,22 +22,7 @@
   "status": "Besitze ich",
   "rating": 7.2,
   "favorite": false,
-  "tags": [
-    "Taktik",
-    "DC",
-    "Szenario"
-  ],
+  "tags": ["Taktik", "DC", "Szenario"],
   "description": "Taktisches Skirmish-Spiel im DC-Universum mit Funkoverse-Figuren.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/292034/funkoverse-strategy-game-dc-comics-100",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Spielfeldteile",
-    "Figuren",
-    "Marker",
-    "Szenariokarten"
-  ]
+  "contents": ["Spielfeldteile", "Figuren", "Marker", "Szenariokarten"]
 }

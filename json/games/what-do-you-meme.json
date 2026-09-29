@@ -1,5 +1,14 @@
 {
   "id": "what-do-you-meme",
+  "collectionId": "what-do-you-meme",
+  "image": "images/what-do-you-meme.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/226610/what-do-you-meme"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "What Do You Meme?",
   "type": "Kartenspiel",
   "icon": "😂",
@@ -13,19 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Partyspiel",
-    "Humor",
-    "Memes"
-  ],
+  "tags": ["Partyspiel", "Humor", "Memes"],
   "description": "Partyspiel, bei dem Bildkarten mit möglichst witzigen Textkarten kombiniert werden.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/226610/what-do-you-meme",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

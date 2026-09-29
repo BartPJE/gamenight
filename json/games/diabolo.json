@@ -1,5 +1,14 @@
 {
   "id": "diabolo",
+  "collectionId": "diabolo",
+  "image": "images/diabolo.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/21613/diabolo"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Diabolo",
   "type": "Kartenspiel",
   "icon": "🃏",
@@ -13,19 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Handmanagement",
-    "Stichspiel"
-  ],
+  "tags": ["Handmanagement", "Stichspiel"],
   "description": "Kartenspiel, bei dem Karten clever ausgespielt werden, um Vorgaben pro Runde zu erfüllen.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/21613/diabolo",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Karten",
-    "Spielanleitung"
-  ]
+  "contents": ["Karten", "Spielanleitung"]
 }

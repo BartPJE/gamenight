@@ -1,5 +1,14 @@
 {
   "id": "stranger-things-tarot-deck",
+  "collectionId": "stranger-things-tarot-deck",
+  "image": "images/stranger-things-tarot-deck.webp",
+  "bgg": {
+    "found": false,
+    "url": ""
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Stranger Things Tarot Deck",
   "type": "Kartenspiel",
   "icon": "🔮",
@@ -13,19 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Stichspiel",
-    "Glück",
-    "Schnell"
-  ],
+  "tags": ["Stichspiel", "Glück", "Schnell"],
   "description": "Kartenspiel-Eintrag basierend auf dem angegebenen BGG-Link zu Friday the 13th.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/413917/friday-the-13th-card-game",
-    "note": "BGG-Link vorhanden, Titel vor Ort kann abweichen."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

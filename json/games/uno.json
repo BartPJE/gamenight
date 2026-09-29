@@ -1,33 +1,44 @@
 {
   "id": "uno",
+  "collectionId": "uno",
+  "hiddenFromOverview": false,
   "title": "UNO",
-  "type": "Kartenspiel",
-  "icon": "🃏",
+  "description": "Get rid of your cards first, but don't forget to say \"UNO\"!",
+
+  "year": 1971,
+  "rating": 5.5,
+
   "playersMin": 2,
   "playersMax": 10,
-  "age": 7,
-  "duration": 20,
-  "year": 1971,
-  "publisher": "Mattel",
-  "platform": "Tisch",
-  "status": "Besitze ich",
-  "rating": 5.4,
-  "favorite": false,
+  "duration": 30,
+  "age": 6,
+  "complexity": 1.1,
+
+  "type": "Kartenspiel",
+  "icon": "🃏",
   "tags": [
-    "Schnell",
-    "Familie",
-    "Ärger"
+    "Card Game",
+    "Children's Game",
+    "Comic Book / Strip",
+    "Movies / TV / Radio theme",
+    "Number"
   ],
-  "description": "Klassisches Ablegespiel: Farben und Zahlen passend ausspielen und als Erste:r alle Karten loswerden.",
-  "image": "images/uno.svg",
+  "mechanisms": ["Hand Management", "Lose a Turn", "Matching", "Take That"],
+
+  "publisher": "Mattel, Inc.",
+  "platform": "Tisch",
+
+  "status": "Besitze ich",
+  "favorite": false,
+
+  "image": "images/uno.jpg",
+  "rules": "rules/uno.pdf",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/2223/uno",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/2223/uno"
   },
-  "location": "Schrank",
-  "contents": [
-    "Kartenstapel",
-    "Spielanleitung"
-  ]
+
+  "location": "Flur / Kartenbox",
+  "contents": ["108 Karten", "1 Spielanleitung", "1 Wertungsblock"]
 }

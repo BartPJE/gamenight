@@ -1,5 +1,14 @@
 {
   "id": "star-wars-scrabble",
+  "collectionId": "star-wars-scrabble",
+  "image": "images/star-wars-scrabble.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/353598/star-wars-scrabble"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Star Wars Scrabble",
   "type": "Brettspiel",
   "icon": "⭐",
@@ -13,18 +22,8 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Wortspiel",
-    "Star Wars",
-    "Lizenzspiel"
-  ],
+  "tags": ["Wortspiel", "Star Wars", "Lizenzspiel"],
   "description": "Scrabble im Star-Wars-Design mit galaktischen Begriffen und Sonderregeln.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/353598/star-wars-scrabble",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
   "contents": [
     "Spielbrett",
     "Buchstabensteine",

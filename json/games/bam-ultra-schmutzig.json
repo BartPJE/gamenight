@@ -1,33 +1,43 @@
 {
   "id": "bam-ultra-schmutzig",
+  "collectionId": "bam",
+  "hiddenFromOverview": true,
   "title": "BAM! Ultra schmutzig",
-  "type": "Kartenspiel",
-  "icon": "🫣",
-  "playersMin": 3,
-  "playersMax": 8,
-  "age": 18,
-  "duration": 30,
+  "description": "",
+
   "year": 2019,
-  "publisher": "Kylskapspoesi",
+  "rating": 5.8,
+
+  "playersMin": 4,
+  "playersMax": 10,
+  "duration": 20,
+  "age": 18,
+  "complexity": 1.0,
+
+  "type": "Partyspiel",
+  "icon": "🔥",
+  "publisher": "Pegasus Spiele",
+
+  "tags": ["Card Game", "Party Game"],
+  "mechanisms": ["Voting"],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "tags": [
-    "Wortspiel",
-    "Erweiterung",
-    "Erwachsene"
-  ],
-  "description": "BAM! Ultra schmutzig in der Sammlung.",
+
+  "image": "images/bam-ultra-schmutzig.jpg",
+  "rules": "rules/bam-ultra-schmutzig.pdf",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/270505/bam-ultra-schmutzig",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/270505/bam-ultra-schmutzig"
   },
-  "location": "Wohnzimmer",
+
+  "location": "Flur",
   "contents": [
-    "Spielmaterial"
-  ],
-  "collectionId": "bam-das-unanstandig-gute-wortspiel",
-  "hiddenFromOverview": true
+    "541 graue Begriffkarten",
+    "140 rote BAM-Karten",
+    "39 Blankokarten",
+    "1 Spielanleitung"
+  ]
 }

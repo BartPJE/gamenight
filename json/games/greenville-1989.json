@@ -1,5 +1,13 @@
 {
   "id": "greenville-1989",
+  "image": "images/greenville-1989.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/265249/greenville-1989"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Greenville 1989",
   "type": "Kartenspiel",
   "icon": "👽",
@@ -13,21 +21,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Storytelling",
-    "Kooperativ",
-    "Assoziation"
-  ],
+  "tags": ["Storytelling", "Kooperativ", "Assoziation"],
   "description": "Kooperatives Storytelling-Spiel, bei dem Karten interpretiert und Hinweise zugeordnet werden.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/265249/greenville-1989",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Karten",
-    "Marker",
-    "Spielanleitung"
-  ]
+  "contents": ["Karten", "Marker", "Spielanleitung"]
 }

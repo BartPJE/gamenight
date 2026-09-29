@@ -1,35 +1,37 @@
 {
   "id": "uno-teams",
+  "collectionId": "uno",
+  "hiddenFromOverview": false,
   "title": "UNO Teams",
-  "type": "Kartenspiel",
-  "icon": "🤝",
+  "description": "The classic game now played in teams of two.",
+
+  "year": 2024,
+  "rating": 5.8,
+
   "playersMin": 4,
   "playersMax": 8,
-  "age": 7,
   "duration": 30,
-  "year": 2024,
-  "publisher": "Mattel",
+  "age": 7,
+  "complexity": 1.0,
+
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "publisher": "Mattel, Inc.",
+
+  "tags": ["Card Game"],
+  "mechanisms": ["Hand Management", "Take That", "Team-Based Game"],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 5.9,
   "favorite": false,
-  "tags": [
-    "UNO",
-    "Teamplay",
-    "Familie"
-  ],
-  "description": "UNO im 2er-Team: Partner koordinieren Karten und gewinnen nur gemeinsam.",
+
   "image": "images/uno-teams.jpg",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/428030/uno-teams",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/428030/uno-teams"
   },
-  "location": "Flur",
-  "contents": [
-    "Kartenstapel",
-    "Spielanleitung"
-  ],
-  "collectionId": "uno-teams",
-  "hiddenFromOverview": false
+
+  "location": "Flur / Kartenbox",
+  "contents": ["112 Karten", "1 Spielanleitung"]
 }

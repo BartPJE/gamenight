@@ -1,5 +1,15 @@
 {
   "id": "codenames",
+  "collectionId": "codenames",
+  "image": "images/codenames.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/178900/codenames"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "id": "codenames",
   "title": "Codenames",
   "type": "Kartenspiel",
   "icon": "🕵️",
@@ -13,11 +23,7 @@
   "status": "Besitze ich",
   "rating": 7.6,
   "favorite": false,
-  "tags": [
-    "Wortspiel",
-    "Team",
-    "Deduktion"
-  ],
+  "tags": ["Wortspiel", "Team", "Deduktion"],
   "description": "Team-basiertes Wortspiel, bei dem Hinweise zu mehreren Agentennamen aufgedeckt werden müssen.",
   "bgg": {
     "found": true,

@@ -1,27 +1,45 @@
 {
   "id": "hitster-urban",
-  "title": "Hitster Urban & Hip-Hop",
-  "type": "Kartenspiel",
-  "icon": "🤘",
+  "collectionId": "hitster-original",
+  "hiddenFromOverview": true,
+  "title": "Hitster: Urban & Hip-Hop",
+  "description": "Urban & Hip-Hop expansion with 150 new cards for Hitster.",
+
+  "year": 2026,
+  "rating": 7.4,
+
   "playersMin": 2,
   "playersMax": 10,
-  "age": 16,
   "duration": 30,
-  "year": 2025,
+  "age": 16,
+  "complexity": 1.0,
+
+  "type": "Partyspiel",
+  "icon": "🎵",
   "publisher": "Jumbo",
+
+  "tags": [
+    "Expansion for Base-game",
+    "Card Game",
+    "Music",
+    "Party Game",
+    "Print & Play",
+    "Trivia"
+  ],
+  "mechanisms": ["Ordering"],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 8.3,
-  "favorite": true,
-  "collectionId": "hitster-original",
-  "tags": ["Musikquiz", "Partyspiel", "Hip-Hop", "Urban"],
-  "description": "Klassische und moderne Hip-Hop- und Urban-Tracks für Playlist-Duelle.",
+  "favorite": false,
+
+  "image": "images/hitster-urban.jpg",
+  "rules": "rules/hitster.pdf",
+
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gefunden."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/464471/hitster-urban-and-hip-hop"
   },
+
   "location": "Wohnzimmer",
-  "contents": ["Musikkarten", "Spielanleitung"],
-  "hiddenFromOverview": true
+  "contents": ["154 Musikkarten"]
 }

@@ -1,35 +1,37 @@
 {
   "id": "shit-happens",
+  "collectionId": "shit-happens",
+  "hiddenFromOverview": false,
   "title": "Shit Happens - Verdammt Nochmal",
-  "type": "Kartenspiel",
-  "icon": "💩",
+  "description": "Put 10 cards with shitty situations in the correctly ranked order to win!",
+
+  "year": 2016,
+  "rating": 5.3,
+
   "playersMin": 2,
   "playersMax": 8,
-  "age": 18,
   "duration": 20,
-  "year": 2016,
-  "publisher": "Goliath",
+  "age": 18,
+  "complexity": 1.05,
+
+  "type": "Partyspiel",
+  "icon": "🃏",
+  "tags": ["Card Game", "Adult Game", "Party Game"],
+  "mechanisms": ["Memory", "Pattern Building", "Set Collection"],
+
+  "publisher": "Goliath Games",
   "platform": "Tisch",
+
   "status": "Besitze ich",
-  "rating": 6.7,
   "favorite": false,
-  "tags": [
-    "Humor",
-    "Party",
-    "Schätzen"
-  ],
-  "description": "Skurrile Ereignisse der Peinlichkeit nach Härtegrad einsortieren.",
-  "image": "",
+
+  "image": "images/shit-happens.jpg",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/196379/shit-happens",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/196379/shit-happens"
   },
+
   "location": "Flur",
-  "contents": [
-    "Kartenstapel",
-    "Spielanleitung"
-  ],
-  "collectionId": "shit-happens",
-  "hiddenFromOverview": false
+  "contents": ["200 Karten"]
 }

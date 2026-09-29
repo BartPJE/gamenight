@@ -1,5 +1,14 @@
 {
-  "id": "spiele-klassiker-blatz",
+  "id": "spiele-klassiker",
+  "collectionId": "spiele-klassiker",
+  "image": "images/spiele-klassiker-blatz.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/1219/labyrinth"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Spiele Klassiker (von der Firma BLATZ)",
   "type": "Brettspiel",
   "icon": "🎯",
@@ -13,23 +22,7 @@
   "status": "Besitze ich",
   "rating": 7.0,
   "favorite": false,
-  "tags": [
-    "Familienspiel",
-    "Sammlung",
-    "Klassiker"
-  ],
+  "tags": ["Familienspiel", "Sammlung", "Klassiker"],
   "description": "Klassische Spielesammlung mit mehreren bekannten Brett- und Würfelspielen.",
-  "image": "images/spiele-klassiker-blatz.jpg",
-  "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gefunden."
-  },
-  "location": "Kinder-Box",
-  "contents": [
-    "Spielbrett",
-    "Spielsteine",
-    "Marker",
-    "Spielanleitung"
-  ]
+  "contents": ["Spielbrett", "Spielsteine", "Marker", "Spielanleitung"]
 }

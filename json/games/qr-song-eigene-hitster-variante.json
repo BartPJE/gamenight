@@ -1,5 +1,14 @@
 {
-  "id": "qr-song-eigene-hitster-variante",
+  "id": "qr-song",
+  "collectionId": "qr-song",
+  "image": "images/qr-song.jpg",
+  "bgg": {
+    "found": false,
+    "url": ""
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "QR Song (Eigene Hitster Variante)",
   "type": "Kartenspiel",
   "icon": "🎵",
@@ -13,21 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Musikquiz",
-    "Partyspiel",
-    "Eigenvariante"
-  ],
+  "tags": ["Musikquiz", "Partyspiel", "Eigenvariante"],
   "description": "Eigene Hitster-Variante mit QR-Code-basierten Songs.",
-  "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Eigenvariante ohne BoardGameGeek-Eintrag."
-  },
-  "location": "Flur",
-  "contents": [
-    "QR-Karten",
-    "Smartphone",
-    "Spielanleitung"
-  ]
+  "contents": ["QR-Karten", "Smartphone", "Spielanleitung"]
 }

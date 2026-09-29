@@ -1,5 +1,14 @@
 {
   "id": "monopoly-back-to-the-future",
+  "collectionId": "monopoly-banking",
+  "image": "images/monopoly-back-to-the-future.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/187127/monopoly-back-to-the-future"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Monopoly: Zurück in die Zukunft",
   "type": "Brettspiel",
   "icon": "🚗",
@@ -13,23 +22,7 @@
   "status": "Besitze ich",
   "rating": 6.0,
   "favorite": false,
-  "tags": [
-    "Monopoly",
-    "Film",
-    "Sonderedition"
-  ],
+  "tags": ["Monopoly", "Film", "Sonderedition"],
   "description": "Monopoly im Back-to-the-Future-Theme mit passenden Orten und Figuren.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/187127/monopoly-back-to-the-future",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Spielbrett",
-    "Spielfiguren",
-    "Karten",
-    "Geld",
-    "Würfel"
-  ]
+  "contents": ["Spielbrett", "Spielfiguren", "Karten", "Geld", "Würfel"]
 }

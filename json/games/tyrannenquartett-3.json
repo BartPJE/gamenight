@@ -1,5 +1,14 @@
 {
   "id": "tyrannenquartett-3",
+  "collectionId": "tyrannenquartett",
+  "image": "images/tyrannenquartett-3.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/7262/top-trumps"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Tyrannenquartett 3",
   "type": "Kartenspiel",
   "icon": "📛",
@@ -13,23 +22,8 @@
   "status": "Besitze ich",
   "rating": 7.2,
   "favorite": false,
-  "tags": [
-    "Quartett",
-    "Satire",
-    "Schnell"
-  ],
+  "tags": ["Quartett", "Satire", "Schnell"],
   "description": "Dritter Teil der Reihe für kurze, bissige Kartenduelle.",
-  "image": "images/tyrannenquartett-3.svg",
-  "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Kartenstapel",
-    "Spielanleitung"
-  ],
-  "collectionId": "tyrannenquartett",
+  "contents": ["Kartenstapel", "Spielanleitung"],
   "hiddenFromOverview": true
 }

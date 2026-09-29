@@ -1,35 +1,43 @@
 {
   "id": "uno-no-mercy",
+  "collectionId": "uno",
+  "hiddenFromOverview": false,
   "title": "UNO Show 'em No Mercy",
-  "type": "Kartenspiel",
-  "icon": "🔥",
-  "playersMin": 2,
-  "playersMax": 10,
-  "age": 7,
-  "duration": 30,
+  "description": "This UNO chose the path of violence.",
+
   "year": 2023,
-  "publisher": "Mattel",
+  "rating": 6.1,
+
+  "playersMin": 2,
+  "playersMax": 6,
+  "duration": 15,
+  "age": 7,
+  "complexity": 1.39,
+
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "publisher": "Mattel, Inc.",
+
+  "tags": ["Card Game"],
+  "mechanisms": [
+    "Hand Management",
+    "Lose a Turn",
+    "Matching",
+    "Player Elimination",
+    "Take That"
+  ],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 7.8,
   "favorite": false,
-  "tags": [
-    "UNO",
-    "Gemein",
-    "Party"
-  ],
-  "description": "Härtere UNO-Variante mit fiesen Karten und viel Schadenfreude.",
-  "image": "images/uno-no-mercy.svg",
+
+  "image": "images/uno-no-mercy.jpg",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/399088/uno-show-em-no-mercy",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/399088/uno-show-em-no-mercy"
   },
-  "location": "Schrank",
-  "contents": [
-    "Kartenstapel",
-    "Spielanleitung"
-  ],
-  "collectionId": "uno-no-mercy",
-  "hiddenFromOverview": false
+
+  "location": "Flur / Kartenbox",
+  "contents": ["168 Karten", "1 Spielanleitung"]
 }

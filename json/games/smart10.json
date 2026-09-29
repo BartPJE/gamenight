@@ -1,31 +1,42 @@
 {
   "id": "smart10",
+  "collectionId": "smart10",
+  "hiddenFromOverview": false,
   "title": "Smart10",
-  "type": "Brettspiel",
-  "icon": "🧠",
+  "description": "1 question, 10 possible answers and players take turns to find the right ones.",
+
+  "year": 2017,
+  "rating": 7.4,
+
   "playersMin": 2,
   "playersMax": 8,
-  "age": 14,
   "duration": 20,
-  "year": 2017,
-  "publisher": "Piatnik",
-  "platform": "Tisch",
-  "status": "Besitze ich",
-  "rating": 0,
-  "favorite": false,
-  "tags": [
-    "Quiz",
-    "Wissen",
-    "Familie"
-  ],
-  "description": "Smart10 in der Sammlung.",
+  "age": 10,
+  "complexity": 1.19,
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/241590/smart10",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/241590/smart10"
   },
+
+  "image": "images/smart10.jpg",
+  "rules": "rules/smart10.pdf",
+
+  "type": "Familienspiel",
+  "icon": "🧠",
+  "tags": ["Party Game", "Trivia"],
+  "mechanisms": ["Push Your Luck"],
+
+  "publisher": "Piatnik",
+  "platform": "Tisch",
+
+  "status": "Besitze ich",
+  "favorite": true,
+
   "location": "Wohnzimmer",
   "contents": [
-    "Spielmaterial"
+    "1 Smartbox",
+    "100 doppelseitige Fragekarten",
+    "1 Spielanleitung"
   ]
 }

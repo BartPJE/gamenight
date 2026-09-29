@@ -1,5 +1,13 @@
 {
   "id": "catan",
+  "image": "images/catan.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/13/catan"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "CATAN",
   "type": "Brettspiel",
   "icon": "🌾",
@@ -13,20 +21,8 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Handel",
-    "Klassiker",
-    "Aufbau"
-  ],
+  "tags": ["Handel", "Klassiker", "Aufbau"],
   "description": "Siedle Inseln, handle Rohstoffe und baue Straßen, Siedlungen sowie Städte.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/13/catan",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Spielmaterial",
-    "Spielanleitung"
-  ]
+
+  "contents": ["Spielmaterial", "Spielanleitung"]
 }

@@ -1,32 +1,43 @@
 {
   "id": "frantic",
+  "collectionId": "frantic",
+  "hiddenFromOverview": false,
   "title": "Frantic",
-  "type": "Kartenspiel",
-  "icon": "🃏",
+  "description": "UNO variant with more special cards and the ability to mess with any player.",
+
+  "year": 2015,
+  "rating": 6.4,
+
   "playersMin": 2,
   "playersMax": 8,
+  "duration": 5,
   "age": 12,
-  "duration": 30,
-  "year": 2015,
+  "complexity": 1.53,
+
+  "type": "Kartenspiel",
+  "icon": "🃏",
   "publisher": "Game Factory",
+
+  "tags": ["Card Game", "Humor", "Party Game"],
+  "mechanisms": ["Events", "Open Drafting", "Take That"],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "tags": [
-    "Take-That",
-    "Partyspiel",
-    "Handmanagement"
-  ],
-  "description": "Fieses Kartenspiel mit vielen gemeinen Aktionskarten.",
+
+  "image": "images/frantic.jpg",
+  "rules": "rules/frantic.pdf",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/184287/frantic",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/184287/frantic"
   },
-  "location": "Flur",
-  "collectionId": "frantic",
+
+  "location": "Flur / Kartenbox",
   "contents": [
-    "Grundspiel"
+    "125 Karten",
+    "20 Ereigniskarten",
+    "4 Übersichtskarten",
+    "1 Spielanleitung"
   ]
 }

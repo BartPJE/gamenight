@@ -1,5 +1,14 @@
 {
   "id": "trial-by-trolley",
+  "collectionId": "trial-by-trolley",
+  "image": "images/trial-by-trolley.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/282171/trial-by-trolley"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Trial by Trolley",
   "type": "Kartenspiel",
   "icon": "🃏",
@@ -13,19 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Partyspiel",
-    "Humor",
-    "Dilemma"
-  ],
+  "tags": ["Partyspiel", "Humor", "Dilemma"],
   "description": "Stellt verrückte Moral-Dilemmata zusammen und überzeugt den Schaffner von eurer Gleis-Entscheidung.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/282171/trial-by-trolley",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

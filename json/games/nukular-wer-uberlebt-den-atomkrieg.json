@@ -1,5 +1,14 @@
 {
   "id": "nukular-wer-uberlebt-den-atomkrieg",
+  "collectionId": "nukular-wer-uberlebt-den-atomkrieg",
+  "image": "images/nukular.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/371691/nukular-wer-uberlebt-den-atomkrieg"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Nukular: Wer überlebt den Atomkrieg?",
   "type": "Kartenspiel",
   "icon": "☢️",
@@ -13,19 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Partyspiel",
-    "Humor",
-    "Take-that"
-  ],
+  "tags": ["Partyspiel", "Humor", "Take-that"],
   "description": "Schwarzhumoriges Kartenspiel rund um Überlebenstaktiken im Atomkrieg-Szenario.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/371691/nukular-wer-uberlebt-den-atomkrieg",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

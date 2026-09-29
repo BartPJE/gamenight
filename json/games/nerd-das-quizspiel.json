@@ -1,5 +1,14 @@
 {
   "id": "nerd-das-quizspiel",
+  "collectionId": "nerd-das-quizspiel",
+  "image": "images/nerd-das-quizspiel.jpg",
+  "bgg": {
+    "found": false,
+    "url": ""
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Nerd - Das Quizspiel",
   "type": "Kartenspiel",
   "icon": "🤓",
@@ -13,21 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Quiz",
-    "Popkultur",
-    "Wissen"
-  ],
+  "tags": ["Quiz", "Popkultur", "Wissen"],
   "description": "Quizspiel mit Fragen rund um Nerd- und Popkultur-Themen.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/227733/nerd-das-quizspiel",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Fragekarten",
-    "Antwortmaterial",
-    "Spielanleitung"
-  ]
+  "contents": ["Fragekarten", "Antwortmaterial", "Spielanleitung"]
 }

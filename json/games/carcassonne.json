@@ -1,5 +1,14 @@
 {
   "id": "carcassonne",
+  "collectionId": "carcassonne",
+  "image": "images/carcassonne.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/822/carcassonne"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer",
+
   "title": "Carcassonne",
   "type": "Brettspiel",
   "icon": "🏰",
@@ -13,20 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Plättchen",
-    "Klassiker",
-    "Taktik"
-  ],
+  "tags": ["Plättchen", "Klassiker", "Taktik"],
   "description": "Lege Landschaftsplättchen aus und setze Gefolgsleute ein, um Städte, Straßen und Klöster zu werten.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/822/carcassonne",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Spielmaterial",
-    "Spielanleitung"
-  ]
+  "contents": ["Spielmaterial", "Spielanleitung"]
 }

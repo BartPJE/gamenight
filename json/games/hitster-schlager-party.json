@@ -1,34 +1,38 @@
 {
-  "id": "hitster-schlager-party",
-  "title": "Hitster Schlager Party",
-  "type": "Kartenspiel",
-  "icon": "🪩",
+  "id": "hitster-schlager",
+  "collectionId": "hitster-original",
+  "hiddenFromOverview": true,
+  "title": "Hitster: Schlager Party",
+  "description": "Listen to a lot of guilty pleasures and guess when the songs were a hit.",
+
+  "year": 2023,
+  "rating": 6.4,
+
   "playersMin": 2,
   "playersMax": 10,
-  "age": 16,
   "duration": 30,
-  "year": 2024,
+  "age": 16,
+  "complexity": 1.0,
+
+  "type": "Partyspiel",
+  "icon": "🎵",
   "publisher": "Jumbo",
+
+  "tags": ["Card Game", "Music", "Party Game", "Print & Play", "Trivia"],
+  "mechanisms": ["Ordering"],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 8.1,
   "favorite": false,
-  "collectionId": "hitster-original",
-  "tags": [
-    "Musikquiz",
-    "Partyspiel",
-    "Schlager"
-  ],
-  "description": "Deutschsprachige Schlagerhits von Kult bis modern.",
+
+  "image": "images/hitster-schlager.jpg",
+  "rules": "rules/hitster.pdf",
+
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gefunden."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/379066/hitster-schlager-party"
   },
+
   "location": "Wohnzimmer",
-  "contents": [
-    "300 Musikkarten",
-    "Spielanleitung"
-  ],
-  "hiddenFromOverview": true
+  "contents": ["300 Musikkarten", "37 Hitster-Token"]
 }

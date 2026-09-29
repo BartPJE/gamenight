@@ -1,5 +1,14 @@
 {
-  "id": "legendary-a-marvel-deck-building-game-world-war-hu",
+  "id": "legendary-a-marvel-deck-building-game-world-war-hulk",
+  "collectionId": "legendary-a-marvel-deck-building-game",
+  "image": "images/legendary-a-marvel-deck-building-game-world-war-hulk.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/248084/legendary-a-marvel-deck-building-game-world-war-hu"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur / Kämmerle",
+
   "title": "Legendary: A Marvel Deck Building Game – World War Hulk",
   "type": "Kartenspiel",
   "icon": "🃏",
@@ -13,21 +22,8 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Erweiterung",
-    "Deckbuilding",
-    "Marvel"
-  ],
+  "tags": ["Erweiterung", "Deckbuilding", "Marvel"],
   "description": "Erweiterung für Legendary: A Marvel Deck Building Game mit dem Schwerpunkt World War Hulk.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgameexpansion/248084/legendary-a-marvel-deck-building-game-world-war-hu",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Erweiterungsmaterial"
-  ],
-  "hiddenFromOverview": true,
-  "collectionId": "legendary-a-marvel-deck-building-game"
+  "contents": ["Erweiterungsmaterial"],
+  "hiddenFromOverview": true
 }

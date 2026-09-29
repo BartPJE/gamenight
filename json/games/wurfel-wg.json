@@ -1,5 +1,14 @@
 {
   "id": "wurfel-wg",
+  "collectionId": "wurfel-wg",
+  "image": "images/wurfel-wg.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/283795/wurfel-wg"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Würfel-WG",
   "type": "Brettspiel",
   "icon": "🎲",
@@ -13,19 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Würfelspiel",
-    "Familie",
-    "Schnell"
-  ],
+  "tags": ["Würfelspiel", "Familie", "Schnell"],
   "description": "Würfelspiel rund um das Zusammenstellen einer chaotischen Wohngemeinschaft.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/283795/wurfel-wg",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

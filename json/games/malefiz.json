@@ -1,6 +1,16 @@
 {
   "id": "malefiz",
-  "title": "Malefiz",
+  "collectionId": "malefiz",
+  "image": "images/malefiz.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/2322/malefiz"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "id": "malefiz",
+  "title": "Super Mario Malefiz",
   "type": "Brettspiel",
   "icon": "🎲",
   "playersMin": 2,
@@ -13,11 +23,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Klassiker",
-    "Familie",
-    "Taktik"
-  ],
+  "tags": ["Klassiker", "Familie", "Taktik"],
   "description": "Laufspiel-Klassiker mit Sperrsteinen: blockiere Gegner und bahne dir den Weg ins Ziel.",
   "bgg": {
     "found": true,
@@ -25,7 +31,5 @@
     "note": "Auf BoardGameGeek gefunden."
   },
   "location": "Schlafzimmer",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

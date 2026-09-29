@@ -1,0 +1,32 @@
+{
+  "id": "heckmeck",
+  "title": "HeckMeck am Bratwurmeck",
+  "type": "Würfelspiel",
+  "icon": "Würfel",
+  "playersMin": 2,
+  "playersMax": 7,
+  "age": 8,
+  "duration": 20,
+  "year": 2005,
+  "publisher": "Zoch",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 6.6,
+  "favorite": true,
+  "tags": ["Dice", "Animals"],
+  "description": "Roll those dice, push your luck and secure your stash of worms!",
+  "collectionId": "heckmeck",
+  "image": "images/heckmeck.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/15818/pick-omino"
+  },
+  "mechanisms": [
+    "Dice Rolling",
+    "Push Your Luck",
+    "Re-Rolling and Locking",
+    "Take That"
+  ],
+  "location": "Wohnzimmer",
+  "contents": ["8 Würfel", "16 Dominosteine"]
+}

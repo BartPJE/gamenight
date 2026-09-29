@@ -1,5 +1,15 @@
 {
   "id": "unstable-unicorns",
+  "collectionId": "unstable-unicorns",
+  "image": "images/unstable-unicorns.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/234190/unstable-unicorns"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "id": "unstable-unicorns",
   "title": "Unstable Unicorns",
   "type": "Kartenspiel",
   "icon": "🃏",
@@ -13,11 +23,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Take-That",
-    "Karten",
-    "Partyspiel"
-  ],
+  "tags": ["Take-That", "Karten", "Partyspiel"],
   "description": "Baut eure Einhorn-Armee auf und sabotiert die Ställe der anderen mit fiesen Effekten.",
   "bgg": {
     "found": true,
@@ -25,7 +31,5 @@
     "note": "Auf BoardGameGeek gefunden."
   },
   "location": "Flur",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

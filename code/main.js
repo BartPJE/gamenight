@@ -46,18 +46,37 @@ function filteredGames() {
       return false;
     }
 
-    const collectionTitle = game.collectionId ? games.find((entry) => entry.id === game.collectionId)?.title ?? "" : "";
-    const haystack = [game.title, game.type, game.publisher, game.platform, game.location, collectionTitle, ...game.tags]
+    const collectionTitle = game.collectionId
+      ? (games.find((entry) => entry.id === game.collectionId)?.title ?? "")
+      : "";
+    const haystack = [
+      game.title,
+      game.type,
+      game.publisher,
+      game.platform,
+      game.location,
+      collectionTitle,
+      ...game.tags,
+    ]
       .join(" ")
       .toLowerCase();
 
     const matchesSearch = !query || haystack.includes(query);
     const matchesType = !type || game.type === type;
     const matchesPlayers =
-      !players || (players === 6 ? game.playersMax >= 6 : game.playersMin <= players && game.playersMax >= players);
+      !players ||
+      (players === 6
+        ? game.playersMax >= 6
+        : game.playersMin <= players && game.playersMax >= players);
     const matchesAge = !age || game.age <= age;
     const matchesLocation = !location || game.location === location;
-    return matchesSearch && matchesType && matchesPlayers && matchesAge && matchesLocation;
+    return (
+      matchesSearch &&
+      matchesType &&
+      matchesPlayers &&
+      matchesAge &&
+      matchesLocation
+    );
   });
 
   list.sort((a, b) => {
@@ -74,11 +93,12 @@ function renderGames() {
   const list = filteredGames();
 
   $("gameCards").innerHTML = list
-    .map(
-      (game) => {
-        const linkedGameId = game.collectionId || game.id;
-        const selectedGameParam = game.collectionId ? `?auswahl=${encodeURIComponent(game.id)}` : "";
-        return `
+    .map((game) => {
+      const linkedGameId = game.collectionId || game.id;
+      const selectedGameParam = game.collectionId
+        ? `?auswahl=${encodeURIComponent(game.id)}`
+        : "";
+      return `
         <a class="game-card" href="#spiel/${linkedGameId}${selectedGameParam}" aria-label="Details zu ${game.title}">
           <div class="cover">
             ${
@@ -113,21 +133,27 @@ function renderGames() {
           </div>
         </a>
       `;
-      },
-    )
+    })
     .join("");
 
   $("emptyState").style.display = list.length ? "none" : "block";
-  $("resultInfo").textContent = `${list.length} von ${games.length} Spielen werden angezeigt.`;
+  $("resultInfo").textContent =
+    `${list.length} von ${games.length} Spielen werden angezeigt.`;
 }
 
 function renderStats() {
   $("statTotal").textContent = games.length;
   $("statTypes").textContent = new Set(games.map((game) => game.type)).size;
   $("statFavs").textContent = games.filter((game) => game.favorite).length;
-  $("lastAdded").textContent = games.toSorted((a, b) => b.year - a.year)[0].title;
-  $("topRated").textContent = games.toSorted((a, b) => b.rating - a.rating)[0].title;
-  $("soloCount").textContent = games.filter((game) => game.playersMin === 1).length;
+  $("lastAdded").textContent = games.toSorted(
+    (a, b) => b.year - a.year,
+  )[0].title;
+  $("topRated").textContent = games.toSorted(
+    (a, b) => b.rating - a.rating,
+  )[0].title;
+  $("soloCount").textContent = games.filter(
+    (game) => game.playersMin === 1,
+  ).length;
 }
 
 function focusSearch() {
@@ -142,7 +168,9 @@ function renderLocationFilter() {
   const currentValue = $("locationFilter").value;
   $("locationFilter").innerHTML = [
     '<option value="">Lagerort</option>',
-    ...locations.map((location) => `<option value="${location}">${location}</option>`),
+    ...locations.map(
+      (location) => `<option value="${location}">${location}</option>`,
+    ),
   ].join("");
   $("locationFilter").value = currentValue;
 }
@@ -282,19 +310,27 @@ function renderGameDetail(game, selectedGame) {
   if (selectedGame && selectedGame.id !== game.id) {
     detailSections.push(
       renderDetailCard(selectedGame, {
-        title: `Ausgewähltes Spiel: ${selectedGame.title}`,
+        title: `${selectedGame.title}`,
         subtitle: `Dieses Spiel gehört zur Sammlung ${game.title}.`,
         collectionLink: `<span class="tag"><a href="#spiel/${game.id}">Zur Sammlung</a></span>`,
       }),
     );
   }
 
-  const activeGame = selectedGame && selectedGame.id !== game.id ? selectedGame : game;
-  const sortedGames = games.toSorted((a, b) => a.title.localeCompare(b.title, "de"));
-  const activeIndex = sortedGames.findIndex((entry) => entry.id === activeGame.id);
+  const activeGame =
+    selectedGame && selectedGame.id !== game.id ? selectedGame : game;
+  const sortedGames = games.toSorted((a, b) =>
+    a.title.localeCompare(b.title, "de"),
+  );
+  const activeIndex = sortedGames.findIndex(
+    (entry) => entry.id === activeGame.id,
+  );
 
   const previousGame = activeIndex > 0 ? sortedGames[activeIndex - 1] : null;
-  const nextGame = activeIndex >= 0 && activeIndex < sortedGames.length - 1 ? sortedGames[activeIndex + 1] : null;
+  const nextGame =
+    activeIndex >= 0 && activeIndex < sortedGames.length - 1
+      ? sortedGames[activeIndex + 1]
+      : null;
 
   const navigation = `
     <nav class="detail-pagination" aria-label="Spielnavigation">
@@ -311,7 +347,8 @@ function renderGameDetail(game, selectedGame) {
     </nav>
   `;
 
-  $("detailContent").innerHTML = `<div class="detail-stack">${detailSections.join("")}${navigation}</div>`;
+  $("detailContent").innerHTML =
+    `<div class="detail-stack">${detailSections.join("")}${navigation}</div>`;
 }
 
 function syncViewWithHash() {
@@ -326,13 +363,22 @@ function syncViewWithHash() {
     const params = new URLSearchParams(match[2] || "");
     const selectedGameId = params.get("auswahl");
     const game = games.find((entry) => entry.id === gameId);
-    const selectedGame = selectedGameId ? games.find((entry) => entry.id === selectedGameId) : null;
+    const selectedGame = selectedGameId
+      ? games.find((entry) => entry.id === selectedGameId)
+      : null;
     renderGameDetail(game, selectedGame);
   }
 }
 
 function bindEvents() {
-  ["searchInput", "typeFilter", "playersFilter", "ageFilter", "locationFilter", "sortFilter"].forEach((id) => {
+  [
+    "searchInput",
+    "typeFilter",
+    "playersFilter",
+    "ageFilter",
+    "locationFilter",
+    "sortFilter",
+  ].forEach((id) => {
     $(id).addEventListener("input", renderGames);
   });
 
@@ -351,7 +397,10 @@ async function initialize() {
     fetch("json/games.catalog.json"),
   ]);
 
-  const [layoutHtml, gameFiles] = await Promise.all([layoutResponse.text(), catalogResponse.json()]);
+  const [layoutHtml, gameFiles] = await Promise.all([
+    layoutResponse.text(),
+    catalogResponse.json(),
+  ]);
   const gameLists = await Promise.all(
     gameFiles.map(async (file) => {
       const response = await fetch(file);
@@ -359,7 +408,9 @@ async function initialize() {
     }),
   );
 
-  games = gameLists.flatMap((entry) => (Array.isArray(entry) ? entry : [entry]));
+  games = gameLists.flatMap((entry) =>
+    Array.isArray(entry) ? entry : [entry],
+  );
   $("app").innerHTML = layoutHtml;
 
   renderLocationFilter();

@@ -1,33 +1,38 @@
 {
   "id": "frantic-supercharge-add-on",
-  "title": "Frantic: Supercharge Add-On",
-  "type": "Kartenspiel",
-  "icon": "⚡",
-  "playersMin": 2,
-  "playersMax": 8,
-  "age": 12,
-  "duration": 30,
-  "year": 2019,
-  "publisher": "Game Factory",
-  "platform": "Tisch",
-  "status": "Besitze ich",
-  "rating": 0,
-  "favorite": false,
   "collectionId": "frantic",
   "hiddenFromOverview": true,
-  "tags": [
-    "Take-That",
-    "Erweiterung",
-    "Handmanagement"
-  ],
-  "description": "Erweiterung mit weiteren Spezialkarten für noch chaotischere Runden.",
+  "title": "Frantic: Supercharge Add-On",
+  "description": "UNO variant with more special cards and the ability to mess with any player.",
+
+  "year": 2019,
+  "rating": 7.0,
+
+  "playersMin": 2,
+  "playersMax": 8,
+  "duration": 5,
+  "age": 7,
+  "complexity": 2.0,
+
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "publisher": "Game Factory",
+
+  "tags": ["Card Game", "Humor", "Party Game"],
+  "mechanisms": ["Events", "Open Drafting", "Take That"],
+
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "favorite": false,
+
+  "image": "images/frantic-supercharge.webp",
+  "rules": "rules/frantic-supercharge.pdf",
+
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gefunden."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/291980/frantic-supercharge-add-on"
   },
-  "location": "Flur",
-  "contents": [
-    "Erweiterungskarten"
-  ]
+
+  "location": "Flur / Kartenbox",
+  "contents": ["48 Karten", "1 Spielanleitung"]
 }

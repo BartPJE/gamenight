@@ -1,31 +1,68 @@
 {
-  "id": "schlag-den-raab-das-spiel",
-  "title": "Schlag den Raab: Das Spiel",
-  "type": "Partyspiel",
-  "icon": "📺",
+  "id": "schlag-den-raab",
+  "collectionId": "schlag-den-raab",
+  "hiddenFromOverview": false,
+  "title": "Schlag den Raab - Das Spiel",
+  "description": "",
+
+  "year": 2010,
+  "rating": 6.0,
+
   "playersMin": 2,
   "playersMax": 6,
-  "age": 12,
   "duration": 60,
-  "year": 2010,
+  "age": 12,
+  "complexity": 1.44,
+
+  "type": "Partyspiel",
+  "icon": "🔥",
   "publisher": "Ravensburger",
+
+  "tags": ["Action / Dexterity", "Movies / TV / Radio theme"],
+  "mechanisms": [],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "tags": [
-    "TV-Show",
-    "Wettkampf",
-    "Partyspiel"
-  ],
-  "description": "Spielumsetzung der TV-Show mit unterschiedlichen Duell-Disziplinen.",
+
+  "image": "images/schlag-den-raab-1.png",
+  "rules": "rules/schlag-den-raab-1.pdf",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/66851/schlag-den-raab-das-spiel",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/66851/schlag-den-raab-das-spiel"
   },
+
   "location": "Flur",
   "contents": [
-    "Spielmaterial"
+    "50 Memory Kärtchen",
+    "2 Spielfiguren",
+    "2 Aufsteller",
+    "3 Anzeiger",
+    "1 Spielauswahlkreisel",
+    "16 Kunststoffchips",
+    "1 Punkteleiste",
+    "16 Schnipp Chips",
+    "3 Fähnchen",
+    "1 Würfelbecher",
+    "2 Würfel",
+    "2 Stimmt-Chips",
+    "2 Flummi Eier",
+    "5 Aufstellfüße",
+    "1 Pusteball",
+    "120 Karten",
+    "1 Torwand",
+    "1 Stück Stoffrasen",
+    "4 Jakkolo Tore",
+    "1 Kanone mit Gummipfeil",
+    "1 Katapult mit Gummiring",
+    "1 Bierdeckel",
+    "1 Schachtelteiler",
+    "2 Hochschusspfosten",
+    "1 Holzlatte",
+    "1 Sanduhr",
+    "1 Schachteleinsatz",
+    "1 doppelseitige Landkarte",
+    "1 Spielanleitung"
   ]
 }

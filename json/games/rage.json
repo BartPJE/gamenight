@@ -1,5 +1,15 @@
 {
   "id": "rage",
+  "collectionId": "rage",
+  "image": "images/rage.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/568/rage"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "id": "rage",
   "title": "Rage",
   "type": "Kartenspiel",
   "icon": "🃏",
@@ -13,11 +23,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Stichspiel",
-    "Klassiker",
-    "Taktik"
-  ],
+  "tags": ["Stichspiel", "Klassiker", "Taktik"],
   "description": "Stichspiel mit variablen Trumpffarben und Gebotsrunden.",
   "bgg": {
     "found": true,
@@ -25,7 +31,5 @@
     "note": "Auf BoardGameGeek gefunden."
   },
   "location": "Flur",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

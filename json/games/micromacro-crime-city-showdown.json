@@ -1,5 +1,14 @@
 {
   "id": "micromacro-crime-city-showdown",
+  "collectionId": "micromacro-crime-city-showdown",
+  "image": "images/micromacro-crime-city-showdown.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/398162/micromacro-crime-city-showdown"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "MicroMacro: Crime City – Showdown",
   "type": "Brettspiel",
   "icon": "🕵️",
@@ -13,22 +22,7 @@
   "status": "Besitze ich",
   "rating": 7.6,
   "favorite": false,
-  "tags": [
-    "Detektiv",
-    "Kooperativ",
-    "Wimmelbild"
-  ],
+  "tags": ["Detektiv", "Kooperativ", "Wimmelbild"],
   "description": "Kriminalfälle gemeinsam auf einer riesigen Stadtkarte lösen.",
-  "image": "",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/398162/micromacro-crime-city-showdown",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Stadtplan",
-    "Fallkarten",
-    "Spielanleitung"
-  ]
+  "contents": ["Stadtplan", "Fallkarten", "Spielanleitung"]
 }

@@ -1,33 +1,43 @@
 {
   "id": "bam-ihr-habt-es-so-gewollt",
+  "collectionId": "bam",
+  "hiddenFromOverview": true,
   "title": "BAM! Ihr habt es so gewollt!",
-  "type": "Kartenspiel",
-  "icon": "😜",
+  "description": "",
+
+  "year": 2017,
+  "rating": 5.9,
+
   "playersMin": 3,
   "playersMax": 6,
+  "duration": 20,
   "age": 16,
-  "duration": 30,
-  "year": 2017,
+  "complexity": 1.0,
+
+  "type": "Partyspiel",
+  "icon": "🔥",
   "publisher": "Pegasus Spiele",
+
+  "tags": ["Card Game", "Party Game"],
+  "mechanisms": ["Voting"],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "tags": [
-    "Wortspiel",
-    "Erweiterung",
-    "Erwachsene"
-  ],
-  "description": "BAM! Ihr habt es so gewollt! in der Sammlung.",
+
+  "image": "images/bam-gewollt.jpg",
+  "rules": "rules/bam-gewollt.pdf",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/235838/bam-ihr-habt-es-so-gewollt",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/235838/bam-ihr-habt-es-so-gewollt"
   },
-  "location": "Wohnzimmer",
+
+  "location": "Flur",
   "contents": [
-    "Spielmaterial"
-  ],
-  "collectionId": "bam-das-unanstandig-gute-wortspiel",
-  "hiddenFromOverview": true
+    "162 graue Begriffkarten",
+    "41 rote BAM-Karten",
+    "17 Blankokarten",
+    "1 Spielanleitung"
+  ]
 }

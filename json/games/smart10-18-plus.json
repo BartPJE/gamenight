@@ -1,33 +1,38 @@
 {
   "id": "smart10-18-plus",
-  "title": "Smart10 18+",
-  "type": "Brettspiel",
-  "icon": "🔞",
+  "collectionId": "smart10",
+  "hiddenFromOverview": true,
+  "title": "Smart10: 18+",
+  "description": "100 questions and 1,000 possible answers - for adults.",
+
+  "year": 2025,
+  "rating": 7.4,
+
   "playersMin": 2,
   "playersMax": 8,
-  "age": 18,
   "duration": 20,
-  "year": 2025,
-  "publisher": "Piatnik",
-  "platform": "Tisch",
-  "status": "Besitze ich",
-  "rating": 0,
-  "favorite": false,
-  "tags": [
-    "Quiz",
-    "Erweiterung",
-    "Erwachsene"
-  ],
-  "description": "Smart10 18+ in der Sammlung.",
+  "age": 18,
+  "complexity": 1.19,
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgameexpansion/451847/smart-10-18-plus",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgameexpansion/451847/smart10-18-plus"
   },
+
+  "image": "images/smart10-18-plus.jpg",
+  "rules": "rules/smart10.pdf",
+
+  "type": "Familienspiel",
+  "icon": "🧠",
+  "tags": ["Expansion for Base-game", "Mature / Adult", "Trivia", "Party Game"],
+  "mechanisms": ["Push Your Luck"],
+
+  "publisher": "Piatnik",
+  "platform": "Tisch",
+
+  "status": "Besitze ich",
+  "favorite": true,
+
   "location": "Wohnzimmer",
-  "contents": [
-    "Spielmaterial"
-  ],
-  "collectionId": "smart10",
-  "hiddenFromOverview": true
+  "contents": ["50 doppelseitige Fragekarten"]
 }

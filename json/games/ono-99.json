@@ -1,32 +1,37 @@
 {
   "id": "ono-99",
+  "collectionId": "ono-99",
+  "hiddenFromOverview": false,
   "title": "ONO 99",
-  "type": "Kartenspiel",
-  "icon": "💯",
+  "description": "Avoid pushing the pile over 99!",
+
+  "year": 1980,
+  "rating": 5.7,
+
   "playersMin": 2,
   "playersMax": 8,
+  "duration": 15,
   "age": 7,
-  "duration": 20,
-  "year": 1980,
-  "publisher": "International Games",
+  "complexity": 1.16,
+
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "publisher": "Mattel, Inc.",
+
+  "tags": ["Card Game", "Math"],
+  "mechanisms": [],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "tags": [
-    "Zahlen",
-    "Klassiker",
-    "Take That"
-  ],
-  "description": "Karten bis zur 99 spielen, ohne sie zu überschreiten – sonst fliegst du raus.",
+
+  "image": "images/ono-99.jpg",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/7803/ono-99",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/7803/ono-99"
   },
-  "location": "Schrank",
-  "contents": [
-    "Kartenstapel",
-    "Spielanleitung"
-  ]
+
+  "location": "Flur / Kartenbox",
+  "contents": ["112 Karten", "1 Regelheft"]
 }

@@ -1,5 +1,14 @@
 {
   "id": "weichei-plus-hartei",
+  "collectionId": "weichei-plus-hartei",
+  "image": "images/weichei-plus-hartei.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/402497/weichei-plus-hartei"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Weichei + Hartei",
   "type": "Partyspiel",
   "icon": "🥚",
@@ -13,20 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Party",
-    "Challenge",
-    "Humor"
-  ],
+  "tags": ["Party", "Challenge", "Humor"],
   "description": "Partyspiel mit frechen Aufgaben und Einschätzungen zwischen Weichei und Hartei.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/402497/weichei-plus-hartei",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Aufgabenkarten",
-    "Spielanleitung"
-  ]
+  "contents": ["Aufgabenkarten", "Spielanleitung"]
 }

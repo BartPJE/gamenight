@@ -1,5 +1,14 @@
 {
   "id": "know",
+  "collectionId": "know",
+  "image": "images/know.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/260815/know"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Know",
   "type": "Quizspiel",
   "icon": "❓",
@@ -13,21 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Wissen",
-    "Familie",
-    "Quiz"
-  ],
+  "tags": ["Wissen", "Familie", "Quiz"],
   "description": "Quizspiel mit Fragen zu unterschiedlichen Wissensgebieten.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/260815/know",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Fragekarten",
-    "Spielmaterial",
-    "Spielanleitung"
-  ]
+  "contents": ["Fragekarten", "Spielmaterial", "Spielanleitung"]
 }

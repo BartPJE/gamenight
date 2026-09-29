@@ -1,31 +1,61 @@
 {
   "id": "back-to-the-future",
-  "title": "Back to the Future",
-  "type": "Brettspiel",
-  "icon": "⏱️",
+  "collectionId": "back-to-the-future",
+  "hiddenFromOverview": false,
+  "title": "Back to the Future - Zurück in die Zukunft",
+  "description": "Reset the 1955 timeline before you disappear and lightning strikes the clock tower.",
+
+  "year": 2020,
+  "rating": 7.2,
+
   "playersMin": 2,
   "playersMax": 4,
+  "duration": 50,
   "age": 10,
-  "duration": 45,
-  "year": 2020,
-  "publisher": "Unbekannt",
+  "complexity": 2.42,
+
+  "type": "Brettspiel",
+  "icon": "Brettspiel ",
+  "publisher": "Funko Games",
+
+  "tags": ["Movies / TV / Radio theme"],
+  "mechanisms": [
+    "Cooperative Game",
+    "Dice Rolling",
+    "Push Your Luck",
+    "Variable Player Powers"
+  ],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "tags": [
-    "Film",
-    "Familie",
-    "Abenteuer"
-  ],
-  "description": "Back to the Future in der Sammlung.",
+
+  "image": "images/back-to-the-future.png",
+
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gefunden."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/302388/back-to-the-future-back-in-time"
   },
+
   "location": "Flur",
   "contents": [
-    "Spielmaterial"
+    "1 Spielbrett",
+    "4 Character Matten",
+    "Rathhaus",
+    "20 Starterkarten",
+    "24 Powerkarten",
+    "8 Würfel",
+    "DeLorean",
+    "7 Spielfiguren",
+    "24 Bewegungskarten",
+    "24 Opportunitykarten",
+    "18 Troublekarten",
+    "13 Itemkarten",
+    "3 DeLorean Karten",
+    "3 Knockdown Token",
+    "1 Rundenanzeiger",
+    "McFly Foto",
+    "Liebesmeter",
+    "1 Spielanleitung"
   ]
 }

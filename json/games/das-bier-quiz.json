@@ -1,5 +1,15 @@
 {
   "id": "das-bier-quiz",
+  "collectionId": "das-bier-quiz",
+  "image": "images/das-bier-quiz.jpg",
+  "bgg": {
+    "found": false,
+    "url": "",
+    "note": "Kein BoardGameGeek-Link angegeben."
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Das Bier Quiz",
   "type": "Quizspiel",
   "icon": "🍺",
@@ -13,19 +23,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Quiz",
-    "Partyspiel",
-    "Wissen"
-  ],
+  "tags": ["Quiz", "Partyspiel", "Wissen"],
   "description": "Quizspiel rund um das Thema Bier; derzeit ohne bestätigten BGG-Eintrag.",
-  "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Kein BoardGameGeek-Link angegeben."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

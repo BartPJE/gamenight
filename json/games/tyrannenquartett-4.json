@@ -1,5 +1,14 @@
 {
   "id": "tyrannenquartett-4",
+  "collectionId": "tyrannenquartett",
+  "image": "images/tyrannenquartett-4.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/7262/top-trumps"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Tyrannenquartett 4",
   "type": "Kartenspiel",
   "icon": "⚖️",
@@ -13,23 +22,8 @@
   "status": "Besitze ich",
   "rating": 7.1,
   "favorite": false,
-  "tags": [
-    "Quartett",
-    "Satire",
-    "Neuauflage"
-  ],
+  "tags": ["Quartett", "Satire", "Neuauflage"],
   "description": "Vierter Teil mit frischen Karten und bekannten Streitfragen.",
-  "image": "images/tyrannenquartett-4.svg",
-  "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Kartenstapel",
-    "Spielanleitung"
-  ],
-  "collectionId": "tyrannenquartett",
+  "contents": ["Kartenstapel", "Spielanleitung"],
   "hiddenFromOverview": true
 }

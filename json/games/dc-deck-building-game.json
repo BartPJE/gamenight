@@ -1,5 +1,14 @@
 {
   "id": "dc-deck-building-game",
+  "collectionId": "dc-deck-building-game",
+  "image": "images/dc-deck-building-game.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/125678/dc-deck-building-game"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "DC Deck-Building Game",
   "type": "Kartenspiel",
   "icon": "🃏",
@@ -13,19 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Deckbuilding",
-    "Superhelden",
-    "Kompetitiv"
-  ],
+  "tags": ["Deckbuilding", "Superhelden", "Kompetitiv"],
   "description": "Baut euer Deck mit DC-Helden und besiegt Superschurken für Siegpunkte.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/125678/dc-deck-building-game",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

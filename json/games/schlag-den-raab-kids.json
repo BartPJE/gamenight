@@ -1,31 +1,65 @@
 {
   "id": "schlag-den-raab-kids",
-  "title": "Schlag den Raab Kids",
-  "type": "Kinderspiel",
-  "icon": "🧒",
+  "collectionId": "schlag-den-raab",
+  "hiddenFromOverview": true,
+  "title": "Schlag den Raab: Kids",
+  "description": "",
+
+  "image": "images/schlag-den-raab-kids.jpg",
+  "rules": "rules/schlag-den-raab-kids.pdf",
+
+  "year": 2014,
+  "rating": 6.4,
+
   "playersMin": 2,
-  "playersMax": 6,
+  "playersMax": 8,
+  "duration": 45,
   "age": 8,
-  "duration": 30,
-  "year": 2021,
+  "complexity": 1.38,
+
+  "type": "Partyspiel",
+  "icon": "🔥",
   "publisher": "Ravensburger",
+
+  "tags": ["Action / Dexterity", "Movies / TV / Radio theme"],
+  "mechanisms": ["Acting"],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "tags": [
-    "Kinder",
-    "TV-Show",
-    "Familienspiel"
-  ],
-  "description": "Kindgerechte Version des TV-Duellspiels mit vereinfachten Aufgaben.",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/342197/schlag-den-raab-kids",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/342197/schlag-den-raab-kids"
   },
+
   "location": "Flur",
   "contents": [
-    "Spielmaterial"
+    "3 Anzeiger",
+    "6 Spielfiguren",
+    "3 Aufsteller",
+    "1 Sanduhr",
+    "12 Kunststoff-Chips",
+    "1 Spielauswahlkreisel",
+    "1 Punkteleiste",
+    "2 Würfelbecher",
+    "1 Ball",
+    "4 Ringe",
+    "2 Stimmt-Chips",
+    "99 Karten",
+    "6 Aufstellfüße",
+    "8 Kunststoff-Kugeln",
+    "2 Tore",
+    "1 Kegelschablone",
+    "1 Zuschlagkarte",
+    "1 Pfannkuchen",
+    "2 Entsdchlüsselungsscheiben",
+    "1 Pfanne",
+    "3 Trennwände",
+    "10 Schnipp-Chips",
+    "1 Stück Stoffrasen",
+    "1 doppelseitige Landkarte",
+    "1 Schachteleinsatz",
+    "1 Spielanleitung"
   ]
 }

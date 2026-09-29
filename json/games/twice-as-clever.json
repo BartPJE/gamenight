@@ -1,5 +1,14 @@
 {
   "id": "twice-as-clever",
+  "collectionId": "thats-pretty-clever",
+  "image": "images/twice-as-clever.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/269210/twice-as-clever"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Doppelt so clever",
   "type": "Würfelspiel",
   "icon": "🎲",
@@ -13,22 +22,8 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Roll & Write",
-    "Zahlen",
-    "Kombi"
-  ],
+  "tags": ["Roll & Write", "Zahlen", "Kombi"],
   "description": "Nachfolger von Ganz schön clever mit neuen Wertungs- und Bonusmechaniken.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/269210/twice-as-clever",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Spielmaterial",
-    "Spielanleitung"
-  ],
-  "collectionId": "thats-pretty-clever",
+  "contents": ["Spielmaterial", "Spielanleitung"],
   "hiddenFromOverview": false
 }

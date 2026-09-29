@@ -1,5 +1,14 @@
 {
   "id": "encore",
+  "collectionId": "encore",
+  "image": "images/encore.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/206931/encore"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Noch Mal",
   "type": "Roll-and-Write",
   "icon": "✏️",
@@ -13,21 +22,15 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "ürfeln",
-    "Familienspiel",
-    "Roll-and-Write"
-  ],
+  "tags": ["ürfeln", "Familienspiel", "Roll-and-Write"],
   "description": "Würfelspiel, bei dem Zahlen farblich auf Blöcken eingetragen werden.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/206931/encore",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
   "contents": [
     "Grundspiel",
-    "Noch mal! Zusatzblockset (326846)",
-    "Noch mal! Zusatzblockset (250282)"
+    "Noch mal! Zusatzblockset (pink)",
+    "Noch mal! Zusatzblockset (blau)",
+    "Noch mal! Zusatzblockset (grün)",
+    "Noch mal! Zusatzblockset (lila)",
+    "Noch mal! Zusatzblockset (orange)",
+    "Noch mal! Zusatzblockset (gelb)"
   ]
 }

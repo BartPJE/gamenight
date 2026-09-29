@@ -1,34 +1,45 @@
 {
   "id": "hitster-bayern-1",
+  "collectionId": "hitster-original",
+  "hiddenFromOverview": true,
   "title": "Hitster Bayern 1",
-  "type": "Kartenspiel",
-  "icon": "📻",
+  "description": "Bayern 1 expansion with 150 new cards for Hitster.",
+
+  "year": 2024,
+  "rating": 7.9,
+
   "playersMin": 2,
   "playersMax": 10,
-  "age": 16,
   "duration": 30,
-  "year": 2025,
+  "age": 16,
+  "complexity": 1.0,
+
+  "type": "Partyspiel",
+  "icon": "🎵",
   "publisher": "Jumbo",
+
+  "tags": [
+    "Expansion for Base-game",
+    "Card Game",
+    "Music",
+    "Party Game",
+    "Print & Play",
+    "Trivia"
+  ],
+  "mechanisms": ["Ordering"],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 8.0,
   "favorite": false,
-  "collectionId": "hitster-original",
-  "tags": [
-    "Musikquiz",
-    "Partyspiel",
-    "Bayern 1"
-  ],
-  "description": "Edition mit Songs im Stil der Bayern-1-Playlist und bekannten Radio-Klassikern.",
+
+  "image": "images/hitster-bayern-1.jpg",
+  "rules": "rules/hitster.pdf",
+
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gefunden."
+    "found": true,
+    "url": "https://boardgamegeek.com/image/8610764/hitster-bayern-1"
   },
+
   "location": "Wohnzimmer",
-  "contents": [
-    "Musikkarten",
-    "Spielanleitung"
-  ],
-  "hiddenFromOverview": true
+  "contents": ["154 Musikkarten"]
 }

@@ -1,31 +1,56 @@
 {
   "id": "bomb-busters",
+  "collectionId": "bomb-busters",
+  "hiddenFromOverview": false,
   "title": "Bomb Busters",
-  "type": "Brettspiel",
-  "icon": "💣",
+  "description": "Players defuse bombs by deducing and cutting unseen wires of different values.",
+
+  "year": 2024,
+  "rating": 8.0,
+
   "playersMin": 2,
   "playersMax": 5,
-  "age": 10,
   "duration": 30,
-  "year": 2024,
+  "age": 10,
+  "complexity": 2.01,
+
+  "type": "Strategiespiel",
+  "icon": "🧨",
+  "tags": ["Deduction"],
+  "mechanisms": [
+    "Communication Limits",
+    "Cooperative Game",
+    "Deduction",
+    "Memory",
+    "Once-Per-Game Abilities",
+    "Real-Time",
+    "Scenario / Mission / Campaign Game",
+    "Sudden Death Ending"
+  ],
+
   "publisher": "Pegasus Spiele",
   "platform": "Tisch",
+
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "tags": [
-    "Kooperativ",
-    "Logik",
-    "Deduktion"
-  ],
-  "description": "Bomb Busters in der Sammlung.",
+
+  "image": "images/bomb-busters.jpg",
+  "rules": "rules/bomb-busters.pdf",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/413246/bomb-busters",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/413246/bomb-busters"
   },
+
   "location": "Wohnzimmer",
   "contents": [
-    "Spielmaterial"
+    "1 Spielplan",
+    "25 Karten",
+    "40 Marker",
+    "70 Kabelplättchen",
+    "5 Kabelhalter",
+    "7 Figuren",
+    "1 Aufsteller",
+    "5 Überraschungsboxen"
   ]
 }

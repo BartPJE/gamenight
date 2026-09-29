@@ -1,5 +1,14 @@
 {
   "id": "marvel-mayhem",
+  "collectionId": "marvel-mayhem",
+  "image": "images/marvel-mayhem.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/354342/marvel-mayhem"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Marvel Mayhem",
   "type": "Kartenspiel",
   "icon": "🦸",
@@ -13,21 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Marvel",
-    "Familienspiel",
-    "Take-That"
-  ],
+  "tags": ["Marvel", "Familienspiel", "Take-That"],
   "description": "Schnelles Marvel-Kartenspiel mit Helden, Schurken und direkten Konfrontationen.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/354342/marvel-mayhem",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Karten",
-    "Marker",
-    "Spielanleitung"
-  ]
+  "contents": ["Karten", "Marker", "Spielanleitung"]
 }

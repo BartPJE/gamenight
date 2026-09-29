@@ -1,5 +1,13 @@
 {
   "id": "kivi",
+  "image": "images/kivi.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/206851/kivi"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Kivi",
   "type": "Kartenspiel",
   "icon": "🪨",
@@ -13,19 +21,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Stichspiel",
-    "Taktik"
-  ],
+  "tags": ["Stichspiel", "Taktik"],
   "description": "Kompaktes Kartenspiel mit einfachen Regeln und taktischen Entscheidungen.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/206851/kivi",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Karten",
-    "Spielanleitung"
-  ]
+  "contents": ["Karten", "Spielanleitung"]
 }

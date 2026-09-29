@@ -1,5 +1,13 @@
 {
   "id": "offenherzig-classic",
+  "image": "images/offenherzig-classic.jpg",
+  "bgg": {
+    "found": false,
+    "url": ""
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Offenherzig Classic",
   "type": "Kartenspiel",
   "icon": "💬",
@@ -13,19 +21,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Partyspiel",
-    "Gespräch",
-    "Erwachsene"
-  ],
+  "tags": ["Partyspiel", "Gespräch", "Erwachsene"],
   "description": "Gesprächs- und Partyspiel; derzeit ohne bestätigten BGG-Eintrag.",
-  "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Kein BoardGameGeek-Link angegeben."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

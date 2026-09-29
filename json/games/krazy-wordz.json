@@ -1,5 +1,14 @@
 {
   "id": "krazy-wordz",
+  "collectionId": "krazy-wordz",
+  "image": "images/krazy-wordz.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/231962/krazy-wordz"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Krazy Wordz",
   "type": "Kartenspiel",
   "icon": "🔤",
@@ -13,19 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Wortspiel",
-    "Partyspiel",
-    "Kreativ"
-  ],
+  "tags": ["Wortspiel", "Partyspiel", "Kreativ"],
   "description": "Kreatives Wortspiel, bei dem erfundene Begriffe zu ungewöhnlichen Definitionen passen müssen.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/231962/krazy-wordz",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

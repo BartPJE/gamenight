@@ -1,0 +1,50 @@
+{
+  "id": "munchkin-legenden-2",
+  "collectionId": "munchkin",
+  "hiddenFromOverview": true,
+  "title": "Munchkin Legends 2: Faun and Games",
+  "description": "Fight monsters, grab loot and backstab your pals in the world of myths and legends!",
+
+  "year": 2014,
+  "rating": 7.1,
+
+  "playersMin": 3,
+  "playersMax": 6,
+  "duration": 90,
+  "age": 10,
+  "complexity": 1.67,
+
+  "type": "Partyspiel",
+  "icon": "🔥",
+  "publisher": "Pegasus Spiele",
+
+  "tags": [
+    "Ancient",
+    "Card Game",
+    "Expansion for Base-game",
+    "Fantasy",
+    "Humor",
+    "Mythology"
+  ],
+  "mechanisms": [
+    "Dice Rolling",
+    "Hand Management",
+    "Open Drafting",
+    "Take That",
+    "Variable Player Powers"
+  ],
+
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "favorite": false,
+
+  "image": "images/muchnkin-legenden-2.jpg",
+
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/172123/munchkin-legends-2-faun-and-games"
+  },
+
+  "location": "Flur / Kartenbox",
+  "contents": ["112 Karten"]
+}

@@ -1,5 +1,15 @@
 {
   "id": "das-spiel-des-lebens-kartenspiel",
+  "collectionId": "das-spiel-des-lebens-kartenspiel",
+  "image": "images/das-spiel-des-lebens-kartenspiel.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/37773/das-spiel-des-lebens-kartenspiel"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "id": "das-spiel-des-lebens-kartenspiel",
   "title": "Das Spiel des Lebens Kartenspiel",
   "type": "Kartenspiel",
   "icon": "💼",
@@ -13,11 +23,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Familie",
-    "Klassiker",
-    "Glück"
-  ],
+  "tags": ["Familie", "Klassiker", "Glück"],
   "description": "Kompakte Kartenspiel-Variante des bekannten Lebenswegs.",
   "bgg": {
     "found": true,
@@ -25,8 +31,5 @@
     "note": "Auf BoardGameGeek gefunden."
   },
   "location": "Flur",
-  "contents": [
-    "Spielmaterial",
-    "Spielanleitung"
-  ]
+  "contents": ["Spielmaterial", "Spielanleitung"]
 }

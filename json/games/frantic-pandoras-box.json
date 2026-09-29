@@ -1,33 +1,43 @@
 {
   "id": "frantic-pandoras-box",
-  "title": "Frantic: Pandora’s Box",
-  "type": "Kartenspiel",
-  "icon": "📦",
-  "playersMin": 2,
-  "playersMax": 8,
-  "age": 12,
-  "duration": 30,
-  "year": 2021,
-  "publisher": "Game Factory",
-  "platform": "Tisch",
-  "status": "Besitze ich",
-  "rating": 0,
-  "favorite": false,
   "collectionId": "frantic",
   "hiddenFromOverview": true,
-  "tags": [
-    "Take-That",
-    "Erweiterung",
-    "Handmanagement"
-  ],
-  "description": "Erweiterung mit neuen Effekten und überraschenden Wendungen für Frantic.",
+  "title": "Frantic: Pandora's Box",
+  "description": "Don't open Pandora's Box! But if you do, you'll find a place to store all of Frantic.",
+
+  "year": 2020,
+  "rating": 8.2,
+
+  "playersMin": 2,
+  "playersMax": 8,
+  "duration": 5,
+  "age": 7,
+  "complexity": 2.0,
+
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "publisher": "Game Factory",
+
+  "tags": ["Card Game", "Humor", "Party Game"],
+  "mechanisms": ["Events", "Open Drafting", "Take That"],
+
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "favorite": false,
+
+  "image": "images/frantic-pandoras-box.jpg",
+
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gefunden."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/329642/frantic-pandoras-box"
   },
-  "location": "Flur",
+
+  "location": "Flur / Kartenbox",
   "contents": [
-    "Erweiterungskarten"
+    "39 Karten",
+    "15 Regelkarten",
+    "4 Übersichtskarten",
+    "1 Ereigniskarte",
+    "1 Spielanleitung"
   ]
 }

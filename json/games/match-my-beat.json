@@ -1,5 +1,14 @@
 {
   "id": "match-my-beat",
+  "collectionId": "match-my-beat",
+  "image": "images/match-my-beat.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/470442/match-my-beat"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Match My Beat",
   "type": "Partyspiel",
   "icon": "🥁",
@@ -13,21 +22,7 @@
   "status": "In Spielesammlung",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Rhythmus",
-    "Party",
-    "Geschicklichkeit"
-  ],
+  "tags": ["Rhythmus", "Party", "Geschicklichkeit"],
   "description": "Rhythmus-Partyspiel, bei dem Beats nachgemacht und Treffer gesammelt werden.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/470442/match-my-beat",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Wohnzimmer",
-  "contents": [
-    "Karten",
-    "Spielmaterial",
-    "Spielanleitung"
-  ]
+  "contents": ["Karten", "Spielmaterial", "Spielanleitung"]
 }

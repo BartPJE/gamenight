@@ -1,5 +1,14 @@
 {
   "id": "minderheiten-quartett",
+  "collectionId": "minderheiten-quartett",
+  "image": "images/minderheiten-quartett.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/135492/minderheiten-quartett"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Minderheiten Quartett",
   "type": "Kartenspiel",
   "icon": "🗂️",
@@ -13,22 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Quartett",
-    "Satire",
-    "Diskussion"
-  ],
+  "tags": ["Quartett", "Satire", "Diskussion"],
   "description": "Satirisches Quartett mit gesellschaftspolitischem Thema.",
-  "image": "",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/135492/minderheiten-quartett",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Kartenstapel",
-    "Spielanleitung"
-  ],
-  "collectionId": "minderheiten-quartett"
+  "contents": ["Kartenstapel", "Spielanleitung"]
 }

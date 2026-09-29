@@ -1,31 +1,44 @@
 {
-  "id": "las-vegas-the-card-game",
+  "id": "las-vegas-card",
+  "collectionId": "las-vegas",
+  "hiddenFromOverview": false,
   "title": "Las Vegas: The Card Game",
-  "type": "Kartenspiel",
-  "icon": "🃏",
+  "description": "",
+
+  "year": 2016,
+  "rating": 6.3,
+
   "playersMin": 2,
   "playersMax": 5,
+  "duration": 15,
   "age": 8,
-  "duration": 20,
-  "year": 2016,
+  "complexity": 1.5,
+
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "tags": ["Card Game"],
+  "mechanisms": ["Area Majority / Influence"],
+
   "publisher": "Ravensburger",
   "platform": "Tisch",
+
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "tags": [
-    "Push Your Luck",
-    "Karten",
-    "Familie"
-  ],
-  "description": "Kartenspiel-Ableger von Las Vegas mit Risiko-Entscheidungen um Casinos und Geldkarten.",
+
+  "image": "images/las-vegas-card.jpg",
+  "rules": "rules/las-vegas-card.pdf",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/209886/las-vegas-the-card-game",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/209886/las-vegas-the-card-game"
   },
+
   "location": "Flur",
   "contents": [
-    "Spielmaterial"
+    "150 Würfelkarten",
+    "10 Karten 'Cocktailglas' und 'Tresor'",
+    "6 Casinos",
+    "48 Geldscheine",
+    "25 Jeton Karten"
   ]
 }

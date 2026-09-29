@@ -1,34 +1,45 @@
 {
   "id": "hitster-christmas",
-  "title": "Hitster Christmas",
-  "type": "Kartenspiel",
-  "icon": "🎄",
+  "collectionId": "hitster-original",
+  "hiddenFromOverview": true,
+  "title": "Hitster: Christmas",
+  "description": "Listen to music hits and take turns guessing when the songs were released.",
+
+  "year": 2025,
+  "rating": 6.8,
+
   "playersMin": 2,
   "playersMax": 10,
-  "age": 16,
   "duration": 30,
-  "year": 2024,
+  "age": 16,
+  "complexity": 1.0,
+
+  "type": "Partyspiel",
+  "icon": "🎵",
   "publisher": "Jumbo",
+
+  "tags": [
+    "Expansion for Base-game",
+    "Card Game",
+    "Music",
+    "Party Game",
+    "Print & Play",
+    "Trivia"
+  ],
+  "mechanisms": ["Ordering"],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 8.2,
-  "favorite": true,
-  "collectionId": "hitster-original",
-  "tags": [
-    "Musikquiz",
-    "Partyspiel",
-    "Weihnachten"
-  ],
-  "description": "Festliche Weihnachts-Edition mit saisonalen Klassikern und modernen Holiday-Hits.",
+  "favorite": false,
+
+  "image": "images/hitster-christmas.jpg",
+  "rules": "rules/hitster.pdf",
+
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gefunden."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/436514/hitster-christmas"
   },
+
   "location": "Wohnzimmer",
-  "contents": [
-    "Musikkarten",
-    "Spielanleitung"
-  ],
-  "hiddenFromOverview": true
+  "contents": ["154 Musikkarten"]
 }

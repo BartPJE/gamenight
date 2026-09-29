@@ -1,5 +1,14 @@
 {
   "id": "risk",
+  "collectionId": "risk",
+  "image": "images/risk.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/181/risk"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Risiko De Luxe - Das große Strategiespiel",
   "type": "Brettspiel",
   "icon": "🗺️",
@@ -13,22 +22,7 @@
   "status": "Besitze ich",
   "rating": 6.2,
   "favorite": false,
-  "tags": [
-    "Strategie",
-    "Eroberung",
-    "Klassiker"
-  ],
+  "tags": ["Strategie", "Eroberung", "Klassiker"],
   "description": "Welteroberungs-Klassiker mit Truppen, Kontinent-Boni und Würfelkämpfen.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/181/risk",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Spielbrett",
-    "Armeen",
-    "Würfel",
-    "Missionskarten"
-  ]
+  "contents": ["Spielbrett", "Armeen", "Würfel", "Missionskarten"]
 }

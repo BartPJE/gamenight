@@ -1,5 +1,13 @@
 {
   "id": "age-of-discovery",
+  "image": "images/age-of-discovery.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/27165/age-of-discovery"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Zeitalter der Entdeckungen",
   "type": "Brettspiel",
   "icon": "🌍",
@@ -13,22 +21,8 @@
   "status": "Besitze ich",
   "rating": 6.7,
   "favorite": false,
-  "tags": [
-    "Strategie",
-    "Eroberung",
-    "Wirtschaft"
-  ],
+  "tags": ["Strategie", "Eroberung", "Wirtschaft"],
   "description": "Strategisches Entdecker- und Kolonisationsspiel mit Mehrheiten und Entwicklung.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/27165/age-of-discovery",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Spielbrett",
-    "Holzmarker",
-    "Karten",
-    "Spielanleitung"
-  ]
+
+  "contents": ["Spielbrett", "Holzmarker", "Karten", "Spielanleitung"]
 }

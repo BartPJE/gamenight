@@ -1,0 +1,49 @@
+{
+  "id": "heckmeck-deluxe",
+  "collectionId": "heckmeck",
+  "hiddenFromOverview": false,
+  "title": "Heckmeck Deluxe",
+  "description": "Roll those bones, push your luck and secure your stash of worms!",
+
+  "year": 2018,
+  "rating": 7.0,
+
+  "playersMin": 2,
+  "playersMax": 7,
+  "duration": 30,
+  "age": 8,
+  "complexity": 1.23,
+
+  "type": "Familienspiel",
+  "icon": "🎲",
+  "tags": ["Dice", "Animals"],
+  "mechanisms": [
+    "Dice Rolling",
+    "Push Your Luck",
+    "Re-Rolling and Locking",
+    "Take That",
+    "Contracts"
+  ],
+
+  "publisher": "Zoch Verlag",
+  "platform": "Tisch",
+
+  "status": "Besitze ich",
+  "favorite": true,
+
+  "image": "images/heckmeck-deluxe.jpg",
+  "rules": "rules/heckmeck-deluxe.pdf",
+
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/245200/heckmeck-deluxe"
+  },
+
+  "location": "Wohnzimmer",
+  "contents": [
+    "8 (Wurm)-Würfel",
+    "7 Rostbratwürmer",
+    "18 Bratwurmportionen",
+    "6 Spezialisten"
+  ]
+}

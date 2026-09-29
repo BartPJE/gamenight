@@ -1,5 +1,15 @@
 {
   "id": "phase-10-pocket",
+  "collectionId": "phase-10",
+  "image": "images/phase-10-pocket.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/204135/skyjo"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "id": "phase-10-pocket",
   "title": "Phase 10 Pocket",
   "type": "Kartenspiel",
   "icon": "🃏",
@@ -13,11 +23,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Rummy",
-    "Klassiker",
-    "Set Collection"
-  ],
+  "tags": ["Rummy", "Klassiker", "Set Collection"],
   "description": "Rummy-Kartenspiel mit zehn aufeinanderfolgenden Phasen, die in Reihenfolge erfüllt werden müssen.",
   "bgg": {
     "found": true,
@@ -25,7 +31,5 @@
     "note": "Auf BoardGameGeek gefunden."
   },
   "location": "Flur",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

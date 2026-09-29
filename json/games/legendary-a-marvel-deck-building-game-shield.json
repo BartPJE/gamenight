@@ -1,5 +1,14 @@
 {
   "id": "legendary-a-marvel-deck-building-game-shield",
+  "collectionId": "legendary-a-marvel-deck-building-game",
+  "image": "images/legendary-a-marvel-deck-building-game-shield.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/284697/legendary-a-marvel-deck-building-game-shield"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur / Kämmerle",
+
   "title": "Legendary: A Marvel Deck Building Game – S.H.I.E.L.D.",
   "type": "Kartenspiel",
   "icon": "🃏",
@@ -13,21 +22,8 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Erweiterung",
-    "Deckbuilding",
-    "Marvel"
-  ],
+  "tags": ["Erweiterung", "Deckbuilding", "Marvel"],
   "description": "Erweiterung für Legendary: A Marvel Deck Building Game mit dem Schwerpunkt S.H.I.E.L.D..",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgameexpansion/284697/legendary-a-marvel-deck-building-game-shield",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Erweiterungsmaterial"
-  ],
-  "hiddenFromOverview": true,
-  "collectionId": "legendary-a-marvel-deck-building-game"
+  "contents": ["Erweiterungsmaterial"],
+  "hiddenFromOverview": true
 }

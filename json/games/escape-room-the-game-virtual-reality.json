@@ -1,5 +1,14 @@
 {
   "id": "escape-room-the-game-virtual-reality",
+  "collectionId": "escape-room-the-game",
+  "image": "images/escape-room-the-game-virtual-reality.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/229315/escape-room-the-game-virtual-reality"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Escape Room: The Game – Virtual Reality",
   "type": "Brettspiel",
   "icon": "🥽",
@@ -13,21 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Escape Room",
-    "Kooperativ",
-    "VR"
-  ],
+  "tags": ["Escape Room", "Kooperativ", "VR"],
   "description": "Standalone-Escape-Room-Variante mit Virtual-Reality-Brille für immersive Rätsel.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/229315/escape-room-the-game-virtual-reality",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "VR-Brille",
-    "Abenteuer-Umschläge",
-    "Hinweiskarten"
-  ]
+  "contents": ["VR-Brille", "Abenteuer-Umschläge", "Hinweiskarten"]
 }

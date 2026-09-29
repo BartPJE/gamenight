@@ -1,5 +1,14 @@
 {
   "id": "the-same-game",
+  "collectionId": "the-same-game",
+  "image": "images/the-same-game.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/396542/the-same-game"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "The Same Game",
   "type": "Brettspiel",
   "icon": "🧠",
@@ -13,23 +22,7 @@
   "status": "Besitze ich",
   "rating": 7.1,
   "favorite": false,
-  "tags": [
-    "Wortspiel",
-    "Kreativ",
-    "Party"
-  ],
+  "tags": ["Wortspiel", "Kreativ", "Party"],
   "description": "Ist eine Mikrowelle für die Menschheit wichtiger als Windeln? Wenn die Beantwortung dieser Frage eventuell zum Stirnrunzeln geführt hat, beim erneuten drüber Nachdenken jedoch auch irgendwie eine Faszination hinterlassen hat, dann könnte The Same Game einen Blick wert sein. Aber mal im Ernst, Mikrowellen und Windeln? Fürwahr, klingt erstmal sehr weit voneinander entfernt, aber der Reihe nach. The same Game ist ein kommunikatives Kooperationsspiel für drei bis maximal sechs Personen.",
-  "image": "images/the-same-game.jpg",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/396542/the-same-game",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Spielbrett",
-    "Spielsteine",
-    "Marker",
-    "Spielanleitung"
-  ]
+  "contents": ["Spielbrett", "Spielsteine", "Marker", "Spielanleitung"]
 }

@@ -1,34 +1,37 @@
 {
   "id": "uno-h2o",
+  "collectionId": "uno",
+  "hiddenFromOverview": false,
   "title": "UNO H2O",
-  "type": "Kartenspiel",
-  "icon": "💧",
+  "description": "",
+
+  "year": 2004,
+  "rating": 6.0,
+
   "playersMin": 2,
   "playersMax": 10,
+  "duration": 30,
   "age": 7,
-  "duration": 20,
-  "year": 2004,
-  "publisher": "Mattel",
+  "complexity": 1.13,
+
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "publisher": "Mattel, Inc.",
+
+  "tags": ["Card Game", "Number"],
+  "mechanisms": ["Hand Management"],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 5.9,
   "favorite": false,
-  "collectionId": "uno",
-  "hiddenFromOverview": true,
-  "tags": [
-    "Erweiterung",
-    "Outdoor",
-    "UNO"
-  ],
-  "description": "Wasserfeste UNO-Variante für Outdoor- und Poolrunden.",
+
+  "image": "images/uno-h2o.jpg",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/16693/uno-h2o",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/16693/uno-h2o"
   },
+
   "location": "Schlafzimmer",
-  "contents": [
-    "Wasserfeste Karten",
-    "Karabiner-Clip"
-  ]
+  "contents": ["108 Karten"]
 }

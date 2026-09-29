@@ -1,5 +1,15 @@
 {
   "id": "nope",
+  "collectionId": "nope",
+  "image": "images/nope.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/274049/nope"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "id": "nope",
   "title": "Nope",
   "type": "Kartenspiel",
   "icon": "🙅",
@@ -13,11 +23,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Party",
-    "Reaktion",
-    "Chaos"
-  ],
+  "tags": ["Party", "Reaktion", "Chaos"],
   "description": "Schnelles Kartenchaos, bei dem du mit einem lauten 'Nope' Spielzüge abwehrst.",
   "bgg": {
     "found": true,
@@ -25,8 +31,5 @@
     "note": "Auf BoardGameGeek gefunden."
   },
   "location": "Schrank",
-  "contents": [
-    "Kartenstapel",
-    "Spielanleitung"
-  ]
+  "contents": ["Kartenstapel", "Spielanleitung"]
 }

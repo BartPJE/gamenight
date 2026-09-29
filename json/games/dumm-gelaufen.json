@@ -1,5 +1,14 @@
 {
   "id": "dumm-gelaufen",
+  "collectionId": "dumm-gelaufen",
+  "image": "images/dumm-gelaufen.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/3294/dumm-gelaufen"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer",
+
   "title": "Dumm gelaufen",
   "type": "Kartenspiel",
   "icon": "😅",
@@ -13,21 +22,7 @@
   "status": "In Spielesammlung",
   "rating": 5.6,
   "favorite": false,
-  "tags": [
-    "Familie",
-    "Glück",
-    "Locker"
-  ],
+  "tags": ["Familie", "Glück", "Locker"],
   "description": "Leicht zugängliches Kartenspiel mit Schadenfreude-Momenten.",
-  "image": "images/dumm-gelaufen.jpg",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/3294/dumm-gelaufen",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Karten",
-    "Spielanleitung"
-  ]
+  "contents": ["Karten", "Spielanleitung"]
 }

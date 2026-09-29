@@ -1,5 +1,14 @@
 {
   "id": "joking-hazard-deck-enhancement-2",
+  "collectionId": "joking-hazard",
+  "image": "images/joking-hazard-deck-enhancement-2.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/240250/joking-hazard-deck-enhancement-2"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Joking Hazard: Deck Enhancement 2",
   "type": "Kartenspiel",
   "icon": "🃏",
@@ -13,21 +22,8 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Erweiterung",
-    "Humor",
-    "Partyspiel"
-  ],
+  "tags": ["Erweiterung", "Humor", "Partyspiel"],
   "description": "Erweiterung für Joking Hazard mit zusätzlichen, bewusst schwarzhumorigen Karten.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgameexpansion/240250/joking-hazard-deck-enhancement-2",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Erweiterungsmaterial"
-  ],
-  "hiddenFromOverview": true,
-  "collectionId": "joking-hazard"
+  "contents": ["Erweiterungsmaterial"],
+  "hiddenFromOverview": true
 }

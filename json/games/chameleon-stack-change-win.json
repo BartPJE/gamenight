@@ -1,33 +1,37 @@
 {
-  "id": "chameleon-stack-change-win",
-  "title": "Chameleon - Stack, Change, Win",
-  "type": "Geschicklichkeitsspiel",
-  "icon": "🦎",
+  "id": "chameleon",
+  "collectionId": "chameleon",
+  "hiddenFromOverview": false,
+  "title": "Chameleon",
+  "description": "Stack, Change, Win",
+
+  "year": 2005,
+  "rating": 5.5,
+
   "playersMin": 2,
   "playersMax": 4,
-  "age": 8,
   "duration": 20,
-  "year": 2025,
-  "publisher": "Unbekannt",
+  "age": 5,
+  "complexity": 1.0,
+
+  "type": "Strategiespiel",
+  "icon": "Strategie ",
+  "tags": ["Children's Game", "Memory", "Racing"],
+  "mechanisms": ["Memory", "Pattern Building", "Pattern Recognition"],
+
+  "publisher": "Recent Toys",
   "platform": "Tisch",
-  "status": "In Spielesammlung",
-  "rating": 0,
+
+  "status": "Besitze ich",
   "favorite": false,
-  "tags": [
-    "Stapeln",
-    "Taktik",
-    "Familienspiel"
-  ],
-  "description": "Farbenfrohes Stapelspiel, bei dem sich die Auslage laufend verändert und clevere Züge zum Sieg führen.",
+
+  "image": "images/chameleon.jpg",
+
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Kein eindeutiger BoardGameGeek-Eintrag hinterlegt."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/17576/chameleon"
   },
-  "location": "Wohnzimmer",
-  "contents": [
-    "Stapelelemente",
-    "Spielmaterial",
-    "Spielanleitung"
-  ]
+
+  "location": "Kinder-Box",
+  "contents": ["9 Blöcke", "3 Blockständer", "Anleitung"]
 }

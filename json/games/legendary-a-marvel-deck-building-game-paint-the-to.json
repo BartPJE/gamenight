@@ -1,5 +1,14 @@
 {
-  "id": "legendary-a-marvel-deck-building-game-paint-the-to",
+  "id": "legendary-a-marvel-deck-building-game-paint-the-town-red",
+  "collectionId": "legendary-a-marvel-deck-building-game",
+  "image": "images/legendary-a-marvel-deck-building-game-paint-the-town-red.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/149922/legendary-a-marvel-deck-building-game-paint-the-to"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur / Kämmerle",
+
   "title": "Legendary: A Marvel Deck Building Game – Paint the Town Red",
   "type": "Kartenspiel",
   "icon": "🃏",
@@ -13,21 +22,8 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Erweiterung",
-    "Deckbuilding",
-    "Marvel"
-  ],
+  "tags": ["Erweiterung", "Deckbuilding", "Marvel"],
   "description": "Erweiterung für Legendary: A Marvel Deck Building Game mit dem Schwerpunkt Paint the Town Red.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgameexpansion/149922/legendary-a-marvel-deck-building-game-paint-the-to",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Erweiterungsmaterial"
-  ],
-  "hiddenFromOverview": true,
-  "collectionId": "legendary-a-marvel-deck-building-game"
+  "contents": ["Erweiterungsmaterial"],
+  "hiddenFromOverview": true
 }

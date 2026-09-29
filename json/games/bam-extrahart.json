@@ -1,33 +1,43 @@
 {
   "id": "bam-extrahart",
+  "collectionId": "bam",
+  "hiddenFromOverview": true,
   "title": "BAM! Extrahart",
-  "type": "Kartenspiel",
-  "icon": "🔥",
+  "description": "",
+
+  "year": 2015,
+  "rating": 6.2,
+
   "playersMin": 3,
-  "playersMax": 8,
+  "playersMax": 6,
+  "duration": 20,
   "age": 18,
-  "duration": 30,
-  "year": 2016,
-  "publisher": "Kylskapspoesi",
+  "complexity": 1.0,
+
+  "type": "Partyspiel",
+  "icon": "🔥",
+  "publisher": "Pegasus Spiele",
+
+  "tags": ["Card Game", "Party Game"],
+  "mechanisms": ["Voting"],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "tags": [
-    "Wortspiel",
-    "Erweiterung",
-    "Erwachsene"
-  ],
-  "description": "BAM! Extrahart in der Sammlung.",
+
+  "image": "images/bam-extrahart.jpg",
+  "rules": "rules/bam-extrahart.pdf",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/181906/bam-extrahart",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/181906/bam-extrahart"
   },
-  "location": "Wohnzimmer",
+
+  "location": "Flur",
   "contents": [
-    "Spielmaterial"
-  ],
-  "collectionId": "bam-das-unanstandig-gute-wortspiel",
-  "hiddenFromOverview": true
+    "169 graue Begriffkarten",
+    "39 rote BAM-Karten",
+    "12 Blankokarten",
+    "1 Spielanleitung"
+  ]
 }

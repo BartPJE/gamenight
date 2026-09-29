@@ -1,35 +1,37 @@
 {
   "id": "play-hit-90s-2000s",
-  "title": "Play Hit 90s & 2000s",
-  "type": "Musikspiel",
-  "icon": "🎵",
+  "collectionId": "play-hit-90s-2000s",
+  "hiddenFromOverview": false,
+  "title": "Play Hit: 90s & 2000s",
+  "description": "Test your knowledge about music hits.",
+
+  "year": 2024,
+  "rating": 5.7,
+
   "playersMin": 2,
   "playersMax": 10,
-  "age": 12,
   "duration": 30,
-  "year": 2021,
-  "publisher": "Jumbo",
-  "platform": "Tisch",
-  "status": "In Spielesammlung",
-  "rating": 6.5,
-  "favorite": false,
-  "tags": [
-    "Musik",
-    "Quiz",
-    "Party"
-  ],
-  "description": "Musik- und Wissensspiel mit Hits aus den 90ern und 2000ern.",
-  "image": "",
+  "age": 16,
+  "complexity": 1.0,
+
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Noch nicht geprüft."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/432681/play-hit"
   },
-  "location": "Wohnzimmer",
-  "contents": [
-    "Karten",
-    "Spielanleitung"
-  ],
-  "collectionId": "play-hit-90s-2000s",
-  "hiddenFromOverview": false
+
+  "image": "images/play-hit-90-2000.jpg",
+
+  "type": "Musikspiel",
+  "icon": "Musik 🎵",
+  "tags": ["Music", "Trivia"],
+  "mechanisms": ["Singing"],
+
+  "publisher": "ATM Gaming",
+  "platform": "Tisch",
+
+  "status": "Besitze ich",
+  "favorite": true,
+
+  "location": "Flur",
+  "contents": ["Fragekarten", "1 Spielanleitung"]
 }

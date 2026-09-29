@@ -1,31 +1,42 @@
 {
   "id": "tic-dice-town",
-  "title": "Tic Dice Town",
-  "type": "Brettspiel",
-  "icon": "🎲",
+  "collectionId": "tic-dice-town",
+  "hiddenFromOverview": false,
+  "title": "Tic Tac Town",
+  "description": "Take control of the city by achieving the objectives with the colored dice.",
+
+  "year": 2022,
+  "rating": 6.5,
+
   "playersMin": 2,
-  "playersMax": 6,
+  "playersMax": 4,
+  "duration": 10,
   "age": 8,
-  "duration": 20,
-  "year": 2023,
-  "publisher": "Siam Board Games",
+  "complexity": 1.29,
+
+  "type": "Würfelspiel",
+  "icon": "🎲",
+  "tags": ["Dice", "Number", "Puzzle"],
+  "mechanisms": ["Dice Rolling", "Different Dice Movement", "Square Grid"],
+
+  "publisher": "moses. Verlag GmbH",
   "platform": "Tisch",
+
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "tags": [
-    "Würfelspiel",
-    "Familie",
-    "Schnell"
-  ],
-  "description": "Tic Dice Town in der Sammlung.",
+
+  "image": "images/tic-tac-town.jpg",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/377645/tic-dice-town",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/377645/tic-dice-town"
   },
+
   "location": "Wohnzimmer",
   "contents": [
-    "Spielmaterial"
+    "1 Spielbrett",
+    "12 Würfel",
+    "72 Aufgabenkarten",
+    "1 Spielanleitung"
   ]
 }

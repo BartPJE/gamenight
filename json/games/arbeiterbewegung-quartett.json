@@ -1,5 +1,13 @@
 {
   "id": "arbeiterbewegung-quartett",
+  "image": "images/arbeiterbewegung-quartett.jpg",
+  "bgg": {
+    "found": false,
+    "url": ""
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Arbeiterbewegung Quartett",
   "type": "Kartenspiel",
   "icon": "✊",
@@ -13,20 +21,7 @@
   "status": "Besitze ich",
   "rating": 6.8,
   "favorite": false,
-  "tags": [
-    "Quartett",
-    "Geschichte",
-    "Wissen"
-  ],
+  "tags": ["Quartett", "Geschichte", "Wissen"],
   "description": "Quartett zur Geschichte der Arbeiterbewegung.",
-  "image": "",
-  "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Kartenstapel"
-  ]
+  "contents": ["Kartenstapel"]
 }

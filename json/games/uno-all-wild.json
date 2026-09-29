@@ -1,34 +1,37 @@
 {
   "id": "uno-all-wild",
+  "collectionId": "uno",
+  "hiddenFromOverview": false,
   "title": "UNO All Wild",
-  "type": "Kartenspiel",
-  "icon": "🎨",
+  "description": "UNO except every card is a Wild card.",
+
+  "year": 2021,
+  "rating": 4.5,
+
   "playersMin": 2,
   "playersMax": 10,
+  "duration": 15,
   "age": 7,
-  "duration": 20,
-  "year": 2021,
-  "publisher": "Mattel",
+  "complexity": 1.0,
+
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "publisher": "Mattel, Inc.",
+
+  "tags": ["Card Game"],
+  "mechanisms": ["Hand Management", "Take That"],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "collectionId": "uno-all-wild",
-  "hiddenFromOverview": true,
-  "tags": [
-    "UNO",
-    "Wild",
-    "Schnell"
-  ],
-  "description": "Alle Karten sind Aktions- oder Wild-Karten – dadurch wird UNO deutlich chaotischer.",
+
+  "image": "images/uno-all-wild.png",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/352997/uno-all-wild",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/352997/uno-all-wild"
   },
-  "location": "Flur",
-  "contents": [
-    "Kartenstapel",
-    "Spielanleitung"
-  ]
+
+  "location": "Flur / Kartenbox",
+  "contents": ["112 Karten", "1 Spielanleitung"]
 }

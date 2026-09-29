@@ -1,5 +1,14 @@
 {
   "id": "joking-hazard",
+  "collectionId": "joking-hazard",
+  "image": "images/joking-hazard.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/193621/joking-hazard"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Joking Hazard",
   "type": "Kartenspiel",
   "icon": "🃏",
@@ -13,19 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Partyspiel",
-    "Humor",
-    "Karten"
-  ],
+  "tags": ["Partyspiel", "Humor", "Karten"],
   "description": "Schwarzhumoriges Party-Kartenspiel, bei dem aus Comic-Panels absurde Situationen gebaut werden.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/193621/joking-hazard",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

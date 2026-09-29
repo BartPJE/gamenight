@@ -1,5 +1,14 @@
 {
-  "id": "orgasme-sex-turned-into-a-card-game",
+  "id": "orgasme",
+  "collectionId": "orgasme",
+  "image": "images/orgasme.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/202742/orgasme-sex-turned-into-a-card-game"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "ORGASME – Sex Turned into a Card Game",
   "type": "Kartenspiel",
   "icon": "🔞",
@@ -13,21 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Erwachsene",
-    "Party",
-    "Humor"
-  ],
+  "tags": ["Erwachsene", "Party", "Humor"],
   "description": "Kartenspiel für Erwachsene mit explizitem Party-Fokus.",
-  "image": "",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/202742/orgasme-sex-turned-into-a-card-game",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Kartenstapel",
-    "Spielanleitung"
-  ]
+  "contents": ["Kartenstapel", "Spielanleitung"]
 }

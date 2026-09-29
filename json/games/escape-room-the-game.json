@@ -1,5 +1,14 @@
 {
   "id": "escape-room-the-game",
+  "collectionId": "escape-room-the-game",
+  "image": "images/escape-room-the-game.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/204836/escape-room-the-game"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Escape Room: The Game",
   "type": "Brettspiel",
   "icon": "🔐",
@@ -13,21 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Escape Room",
-    "Kooperativ",
-    "Rätsel"
-  ],
+  "tags": ["Escape Room", "Kooperativ", "Rätsel"],
   "description": "Kooperatives Rätselspiel mit Chrono-Decoder und mehreren Escape-Abenteuern.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/204836/escape-room-the-game",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Chrono-Decoder",
-    "Abenteuer-Umschläge",
-    "Hinweiskarten"
-  ]
+  "contents": ["Chrono-Decoder", "Abenteuer-Umschläge", "Hinweiskarten"]
 }

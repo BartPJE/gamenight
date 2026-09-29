@@ -1,5 +1,14 @@
 {
   "id": "dominion-intrigue",
+  "collectionId": "dominion-intrigue",
+  "image": "images/dominion-intrigue.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/40834/dominion-intrigue"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer",
+
   "title": "Dominion: Intrige",
   "type": "Kartenspiel",
   "icon": "🃏",
@@ -13,20 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Deckbau",
-    "Strategie",
-    "Karten"
-  ],
+  "tags": ["Deckbau", "Strategie", "Karten"],
   "description": "Eigenständige Dominion-Variante mit Fokus auf Aktionskarten und Interaktion.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/40834/dominion-intrigue",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Spielmaterial",
-    "Spielanleitung"
-  ]
+  "contents": ["Spielmaterial", "Spielanleitung"]
 }

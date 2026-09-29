@@ -1,34 +1,43 @@
 {
-  "id": "wizard-wurfelspiel",
-  "title": "Wizard Würfelspiel",
-  "type": "Würfelspiel",
-  "icon": "🎲",
+  "id": "wizard-wuerfel",
+  "collectionId": "wizard",
+  "hiddenFromOverview": false,
+  "title": "Wizard - Würfelspiel",
+  "description": "An asymmetric, concurrent push your luck game in the world of 'Wizard'.",
+
+  "year": 2019,
+  "rating": 5.5,
+
   "playersMin": 2,
   "playersMax": 5,
+  "duration": 20,
   "age": 10,
-  "duration": 30,
-  "year": 2019,
+  "complexity": 1.0,
+
+  "type": "Würfelspiel",
+  "icon": "🎲",
+  "tags": ["Fantasy"],
+  "mechanisms": ["Betting and Bluffing", "Dice Rolling", "Paper-and-Pencil"],
+
   "publisher": "AMIGO",
   "platform": "Tisch",
+
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "tags": [
-    "Wizard",
-    "Stichspiel",
-    "Würfel"
-  ],
-  "description": "Wizard als Würfelvariante mit Ansage- und Stichmechanik.",
-  "image": "",
+
+  "image": "images/wizard-wuerfel.jpg",
+  "rules": "images/wizard-wuerfel.pdf",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/286547/wizard-wurfelspiel",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/286547/wizard-wurfelspiel"
   },
+
   "location": "Flur",
   "contents": [
-    "Würfel",
-    "Block",
-    "Spielanleitung"
+    "10 Zauberkarten",
+    "1 Seherkarte",
+    "7 Wizardwürfel",
+    "1 Block der Vorhersage"
   ]
 }

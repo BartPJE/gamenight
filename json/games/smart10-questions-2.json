@@ -1,33 +1,38 @@
 {
   "id": "smart10-questions-2",
+  "collectionId": "smart10",
+  "hiddenFromOverview": true,
   "title": "Smart10: Questions 2",
-  "type": "Brettspiel",
-  "icon": "🧩",
+  "description": "100 new double-sided cards with 200 new questions",
+
+  "year": 2020,
+  "rating": 7.8,
+
   "playersMin": 2,
   "playersMax": 8,
-  "age": 14,
-  "duration": 20,
-  "year": 2020,
-  "publisher": "Piatnik",
-  "platform": "Tisch",
-  "status": "Besitze ich",
-  "rating": 0,
-  "favorite": false,
-  "tags": [
-    "Quiz",
-    "Erweiterung",
-    "Wissen"
-  ],
-  "description": "Smart10: Questions 2 in der Sammlung.",
+  "duration": 15,
+  "age": 10,
+  "complexity": 1.0,
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgameexpansion/318479/smart10-questions-2",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgameexpansion/318479/smart10-questions-2"
   },
+
+  "image": "images/smart10-fragen2.jpg",
+  "rules": "rules/smart10.pdf",
+
+  "type": "Familienspiel",
+  "icon": "🧠",
+  "tags": ["Expansion for Base-game", "Trivia", "Party Game"],
+  "mechanisms": ["Push Your Luck"],
+
+  "publisher": "Piatnik",
+  "platform": "Tisch",
+
+  "status": "Besitze ich",
+  "favorite": true,
+
   "location": "Wohnzimmer",
-  "contents": [
-    "Spielmaterial"
-  ],
-  "collectionId": "smart10",
-  "hiddenFromOverview": true
+  "contents": ["100 doppelseitige Fragekarten"]
 }

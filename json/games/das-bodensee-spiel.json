@@ -1,5 +1,14 @@
 {
   "id": "das-bodensee-spiel",
+  "collectionId": "das-bodensee-spiel",
+  "image": "images/das-bodensee-spiel.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/21591/das-bodensee-spiel"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Das Bodensee-Spiel",
   "type": "Brettspiel",
   "icon": "🌊",
@@ -13,22 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Familie",
-    "Regional",
-    "Brettspiel"
-  ],
+  "tags": ["Familie", "Regional", "Brettspiel"],
   "description": "Familienspiel rund um die Bodensee-Region.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/21591/das-bodensee-spiel",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Spielbrett",
-    "Spielsteine",
-    "Karten",
-    "Spielanleitung"
-  ]
+  "contents": ["Spielbrett", "Spielsteine", "Karten", "Spielanleitung"]
 }

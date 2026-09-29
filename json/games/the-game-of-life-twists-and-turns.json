@@ -1,5 +1,14 @@
 {
   "id": "the-game-of-life-twists-and-turns",
+  "collectionId": "the-game-of-life-twists-and-turns",
+  "image": "images/the-game-of-life-twists-and-turns.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/28609/the-game-of-life-twists-and-turns"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer",
+
   "title": "Das Spiel des Lebens: Generation Now",
   "type": "Brettspiel",
   "icon": "🚗",
@@ -13,22 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Familie",
-    "Klassiker",
-    "Glück"
-  ],
+  "tags": ["Familie", "Klassiker", "Glück"],
   "description": "Moderne Variante von Life mit elektronischem Banking und alternativen Wegen.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/28609/the-game-of-life-twists-and-turns",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Spielbrett",
-    "Figuren",
-    "Karten",
-    "Spielanleitung"
-  ]
+  "contents": ["Spielbrett", "Figuren", "Karten", "Spielanleitung"]
 }

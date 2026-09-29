@@ -1,6 +1,14 @@
 {
-  "id": "partyalarm-ab18",
-  "collectionId": "partyalarm",
+  "id": "party-alarm-ab-18",
+  "collectionId": "party-alarm",
+  "image": "images/party-alarm-ab-18.jpg",
+  "bgg": {
+    "found": false,
+    "url": ""
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer",
+
   "title": "PartyAlarm (Ab18)",
   "type": "Partyspiel",
   "icon": "🔞",
@@ -14,23 +22,8 @@
   "status": "In Spielesammlung",
   "rating": 6.2,
   "favorite": false,
-  "tags": [
-    "Party",
-    "Erwachsene",
-    "Humor"
-  ],
+  "tags": ["Party", "Erwachsene", "Humor"],
   "description": "Erwachsenenversion von PartyAlarm mit frecheren Aufgaben.",
-  "image": "",
-  "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Noch nicht geprüft."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Karten",
-    "Aufgabenkarten 18+",
-    "Spielanleitung"
-  ],
+  "contents": ["Karten", "Aufgabenkarten 18+", "Spielanleitung"],
   "hiddenFromOverview": true
 }

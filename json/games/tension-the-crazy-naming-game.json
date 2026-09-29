@@ -1,31 +1,44 @@
 {
-  "id": "tension-the-crazy-naming-game",
-  "title": "Tension: The Crazy Naming Game",
-  "type": "Brettspiel",
-  "icon": "🧠",
-  "playersMin": 4,
-  "playersMax": 12,
-  "age": 12,
-  "duration": 60,
+  "id": "10tension",
+  "collectionId": "10tension",
+  "hiddenFromOverview": false,
+  "title": "Tension - 10sion",
+  "description": "",
+
   "year": 1992,
-  "publisher": "Ideal",
+  "rating": 5.9,
+
+  "playersMin": 2,
+  "playersMax": 10,
+  "duration": 40,
+  "age": 10,
+  "complexity": 1.14,
+
+  "type": "Partyspiel",
+  "icon": "🔥",
+  "publisher": "HCM Kinzel",
+
+  "tags": ["Humor", "Party Game", "Word Game"],
+  "mechanisms": ["Team-Based Game"],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "tags": [
-    "Quiz",
-    "Teamspiel",
-    "Partyspiel"
-  ],
-  "description": "Tension: The Crazy Naming Game in der Sammlung.",
+
+  "image": "images/10tension.jpg",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/12920/tension-the-crazy-naming-game",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/12920/tension-the-crazy-naming-game"
   },
+
   "location": "Flur",
   "contents": [
-    "Spielmaterial"
+    "200 Karten",
+    "1 Spielbrett",
+    "2 Spielfiguren",
+    "1 Punktezähler",
+    "1 Sanduhr",
+    "1 Spielanleitung"
   ]
 }

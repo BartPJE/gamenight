@@ -1,5 +1,13 @@
 {
   "id": "jurassic-world-escape-the-island",
+  "image": "images/jurassic-world-escape-the-island.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/366302/jurassic-world-escape-the-island"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Jurassic World: Escape the Island",
   "type": "Brettspiel",
   "icon": "🦖",
@@ -13,19 +21,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Abenteuer",
-    "Familienspiel",
-    "Filmthema"
-  ],
+  "tags": ["Abenteuer", "Familienspiel", "Filmthema"],
   "description": "Halb-kooperatives Abenteuerspiel mit Flucht von einer Dino-Insel.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/366302/jurassic-world-escape-the-island",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

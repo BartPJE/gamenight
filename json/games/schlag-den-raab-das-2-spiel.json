@@ -1,31 +1,70 @@
 {
   "id": "schlag-den-raab-das-2-spiel",
-  "title": "Schlag den Raab: Das 2. Spiel",
-  "type": "Partyspiel",
-  "icon": "📺",
+  "collectionId": "schlag-den-raab",
+  "hiddenFromOverview": true,
+  "title": "Schlag den Raab - Das 2. Spiel",
+  "description": "",
+
+  "image": "images/schlag-den-raab-2.jpg",
+  "rules": "rules/schlag-den-raab-2.pdf",
+
+  "year": 2011,
+  "rating": 6.4,
+
   "playersMin": 2,
   "playersMax": 6,
-  "age": 12,
-  "duration": 60,
-  "year": 2011,
+  "duration": 45,
+  "age": 14,
+  "complexity": 1.38,
+
+  "type": "Partyspiel",
+  "icon": "🔥",
   "publisher": "Ravensburger",
+
+  "tags": ["Action / Dexterity", "Movies / TV / Radio theme"],
+  "mechanisms": [],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "tags": [
-    "TV-Show",
-    "Wettkampf",
-    "Partyspiel"
-  ],
-  "description": "Fortsetzung mit neuen Disziplinen zur TV-Show Schlag den Raab.",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/94116/schlag-den-raab-das-2-spiel",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/94116/schlag-den-raab-das-2-spiel"
   },
+
   "location": "Flur",
   "contents": [
-    "Spielmaterial"
+    "5 Anzeiger",
+    "8 Spielfiguren",
+    "3 Strohhalme",
+    "4 Styroporkugeln",
+    "2 Aufsteller",
+    "14 Schnipp Chips",
+    "2 Spielauswahlkreisel",
+    "1 Punkteleiste",
+    "30 kleine Holzwürfel",
+    "1 Lorbeerkranz",
+    "1 Würfelbecher",
+    "1 Würfel",
+    "110 Karten",
+    "2 Stimmt-Chips",
+    "2 Wollschnüre",
+    "6 Aufstellfüße",
+    "1 Ball",
+    "1 Trennwand",
+    "1 Metalkugel",
+    "1 doppelseitige Kugelbahn",
+    "1 Schwammball",
+    "14 Kunststoff-Kugeln",
+    "1 Armbrust mit Gummiring",
+    "2 Schläger",
+    "1 Bierdeckel",
+    "2 Lineale",
+    "31 Mikado Stäbchen",
+    "1 Sanduhr",
+    "1 Schachteleinsatz",
+    "1 Spielanleitung",
+    "1 zweiteilige Weltkarte"
   ]
 }

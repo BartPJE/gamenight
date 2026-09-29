@@ -1,5 +1,13 @@
 {
-  "id": "party-and-co-extreme",
+  "id": "party-and-co",
+  "image": "images/party-und-co.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/29020/party-and-co-extreme"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Party & Co Extreme",
   "type": "Partyspiel",
   "icon": "🎉",
@@ -13,21 +21,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Party",
-    "Teamspiel",
-    "Action"
-  ],
+  "tags": ["Party", "Teamspiel", "Action"],
   "description": "Extremere Party-&-Co-Variante mit Teamaufgaben und viel Bewegung.",
-  "image": "",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/29020/party-and-co-extreme",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Karten",
-    "Spielmaterial"
-  ]
+  "contents": ["Karten", "Spielmaterial"]
 }

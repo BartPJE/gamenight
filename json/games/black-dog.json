@@ -1,5 +1,14 @@
 {
   "id": "black-dog",
+  "collectionId": "black-dog",
+  "image": "images/black-dog.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/206925/black-dog"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Black DOG",
   "type": "Kartenspiel",
   "icon": "🐕",
@@ -13,21 +22,7 @@
   "status": "Besitze ich",
   "rating": 6.5,
   "favorite": false,
-  "tags": [
-    "Sammeln",
-    "Taktik",
-    "Familie"
-  ],
+  "tags": ["Sammeln", "Taktik", "Familie"],
   "description": "Karten sammeln und geschickt kombinieren, um zu punkten.",
-  "image": "",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/206925/black-dog",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Kartenstapel",
-    "Spielanleitung"
-  ]
+  "contents": ["Kartenstapel", "Spielanleitung"]
 }

@@ -1,0 +1,27 @@
+{
+  "id": "petzcards",
+  "collectionId": "petz-games",
+  "image": "images/petzcards.jpg",
+  "bgg": {
+    "found": false
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur / Kartenbox",
+
+  "title": "Petz Spielkarten",
+  "type": "Kartenspiel",
+  "icon": "🧠",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 6,
+  "duration": 15,
+  "year": 2025,
+  "publisher": "Eigenbau",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 7.0,
+  "favorite": false,
+  "tags": ["Memory", "Eigenbau", "Familie"],
+  "description": "Eigene Memory-Variante mit individuellen Kartenmotiven.",
+  "contents": ["Kartenstapel"]
+}

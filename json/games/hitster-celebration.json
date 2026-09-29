@@ -1,34 +1,38 @@
 {
   "id": "hitster-celebration",
-  "title": "Hitster Celebration",
-  "type": "Kartenspiel",
-  "icon": "🥳",
+  "collectionId": "hitster-original",
+  "hiddenFromOverview": true,
+  "title": "Hitster: Celebration",
+  "description": "With Hitster Celebration will add more to your Hitster party game.",
+
+  "year": 2025,
+  "rating": 7.5,
+
   "playersMin": 2,
   "playersMax": 10,
-  "age": 16,
   "duration": 30,
-  "year": 2025,
+  "age": 16,
+  "complexity": 1.0,
+
+  "type": "Partyspiel",
+  "icon": "🎵",
   "publisher": "Jumbo",
+
+  "tags": ["Card Game", "Music", "Party Game", "Print & Play", "Trivia"],
+  "mechanisms": ["Ordering"],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 8.0,
   "favorite": false,
-  "collectionId": "hitster-original",
-  "tags": [
-    "Musikquiz",
-    "Partyspiel",
-    "Celebration"
-  ],
-  "description": "Party-Edition mit bekannten Feier-Hits für schnelle Raterunden.",
+
+  "image": "images/hitster-celebration.png",
+  "rules": "rules/hitster.pdf",
+
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gefunden."
+    "found": true,
+    "url": "https://boardgamegeek.com/image/9055700/hitster-celebration"
   },
+
   "location": "Wohnzimmer",
-  "contents": [
-    "Musikkarten",
-    "Spielanleitung"
-  ],
-  "hiddenFromOverview": true
+  "contents": ["300 Musikkarten", "30 Hitster-Token aus Holz"]
 }

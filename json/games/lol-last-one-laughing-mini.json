@@ -1,6 +1,14 @@
 {
   "id": "lol-last-one-laughing-mini",
   "collectionId": "lol-last-one-laughing",
+  "image": "images/lol-last-one-laughing-mini.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/427703/last-one-laughing-das-spiel-mini-edition"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer",
+
   "title": "LOL - Last One Laughing Mini",
   "type": "Partyspiel",
   "icon": "😶",
@@ -14,21 +22,8 @@
   "status": "In Spielesammlung",
   "rating": 6.4,
   "favorite": false,
-  "tags": [
-    "Humor",
-    "Party",
-    "Reisespiel"
-  ],
+  "hiddenFromOverview": true,
+  "tags": ["Humor", "Party", "Reisespiel"],
   "description": "Kompakte Mini-Ausgabe von LOL - Last One Laughing für unterwegs.",
-  "image": "",
-  "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Noch nicht geprüft."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Mini-Karten",
-    "Kurzanleitung"
-  ]
+  "contents": ["Mini-Karten", "Kurzanleitung"]
 }

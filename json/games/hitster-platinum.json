@@ -1,34 +1,38 @@
 {
   "id": "hitster-platinum",
-  "title": "Hitster Platinum",
-  "type": "Kartenspiel",
-  "icon": "💿",
+  "collectionId": "hitster-original",
+  "hiddenFromOverview": true,
+  "title": "Hitster: Platinum Edition",
+  "description": "Listen to music hits and take turns guessing when the songs were released.",
+
+  "year": 2025,
+  "rating": 7.9,
+
   "playersMin": 2,
   "playersMax": 10,
-  "age": 16,
   "duration": 30,
-  "year": 2025,
+  "age": 16,
+  "complexity": 1.05,
+
+  "type": "Partyspiel",
+  "icon": "🎵",
   "publisher": "Jumbo",
+
+  "tags": ["Card Game", "Music", "Party Game", "Print & Play", "Trivia"],
+  "mechanisms": ["Ordering"],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 8.1,
   "favorite": false,
-  "collectionId": "hitster-original",
-  "tags": [
-    "Musikquiz",
-    "Partyspiel",
-    "Platinum"
-  ],
-  "description": "Hitster-Edition mit legendären Songs und chartgeprägten Klassikern.",
+
+  "image": "images/hitster-platinum.jpg",
+  "rules": "rules/hitster.pdf",
+
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gefunden."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/459900/hitster-platinum-edition"
   },
+
   "location": "Wohnzimmer",
-  "contents": [
-    "Musikkarten",
-    "Spielanleitung"
-  ],
-  "hiddenFromOverview": true
+  "contents": ["500 Musikkarten", "30 Hitster-Token", "1 Bluetooh Lautsprecher"]
 }

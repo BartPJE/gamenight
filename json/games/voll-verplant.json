@@ -1,5 +1,14 @@
 {
   "id": "voll-verplant",
+  "collectionId": "voll-verplant",
+  "image": "images/voll-verplant.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/346482/voll-verplant"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Voll verplant",
   "type": "Brettspiel",
   "icon": "🎲",
@@ -13,19 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Roll & Write",
-    "Puzzle",
-    "Planung"
-  ],
+  "tags": ["Roll & Write", "Puzzle", "Planung"],
   "description": "Plant Wege und Aufgaben auf eurem Blatt so effizient wie möglich im Würfel-Puzzle.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/346482/voll-verplant",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

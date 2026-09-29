@@ -1,35 +1,37 @@
 {
   "id": "uno-liar",
-  "title": "UNO Liar",
-  "type": "Kartenspiel",
-  "icon": "🎭",
+  "collectionId": "uno",
+  "hiddenFromOverview": false,
+  "title": "Liar's UNO",
+  "description": "In this version UNO, lying isn't cheating — it's part of the game!",
+
+  "year": 2025,
+  "rating": 6.0,
+
   "playersMin": 2,
-  "playersMax": 10,
+  "playersMax": 6,
+  "duration": 15,
   "age": 7,
-  "duration": 25,
-  "year": 2024,
-  "publisher": "Mattel",
+  "complexity": 1.0,
+
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "publisher": "Mattel, Inc.",
+
+  "tags": ["Card Game"],
+  "mechanisms": ["Betting and Bluffing", "Take That"],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 7.4,
   "favorite": false,
-  "tags": [
-    "UNO",
-    "Bluff",
-    "Party"
-  ],
-  "description": "UNO-Ableger mit Bluff-Elementen und überraschenden Wendungen.",
-  "image": "images/uno-liar.svg",
+
+  "image": "images/uno-liar.jpg",
+
   "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gefunden."
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/455524/liars-uno"
   },
+
   "location": "Flur",
-  "contents": [
-    "Kartenstapel",
-    "Spielanleitung"
-  ],
-  "collectionId": "uno-liar",
-  "hiddenFromOverview": false
+  "contents": ["112 Karten", "1 Spielanleitung"]
 }

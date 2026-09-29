@@ -1,5 +1,13 @@
 {
-  "id": "petzory-eigene-memory-variante",
+  "id": "petzory",
+  "collectionId": "petz-games",
+  "image": "images/petzorty.jpg",
+  "bgg": {
+    "found": false
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur / Kartenbox",
+
   "title": "PetzOry (eigene Memory Variante)",
   "type": "Kartenspiel",
   "icon": "🧠",
@@ -13,20 +21,7 @@
   "status": "Besitze ich",
   "rating": 7.0,
   "favorite": false,
-  "tags": [
-    "Memory",
-    "Eigenbau",
-    "Familie"
-  ],
+  "tags": ["Memory", "Eigenbau", "Familie"],
   "description": "Eigene Memory-Variante mit individuellen Kartenmotiven.",
-  "image": "",
-  "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Kartenstapel"
-  ]
+  "contents": ["Kartenstapel"]
 }

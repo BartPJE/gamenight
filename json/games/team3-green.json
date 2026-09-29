@@ -1,5 +1,15 @@
 {
   "id": "team3-green",
+  "collectionId": "team3-green",
+  "image": "images/team3-green.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/275870/team3-green"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "id": "team3-green",
   "title": "TEAM3 Green",
   "type": "Brettspiel",
   "icon": "🎲",
@@ -13,11 +23,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Kommunikation",
-    "Kooperativ",
-    "Partyspiel"
-  ],
+  "tags": ["Kommunikation", "Kooperativ", "Partyspiel"],
   "description": "Kooperatives Bauspiel mit Rollenverteilung: reden, bauen und Missverständnisse vermeiden.",
   "bgg": {
     "found": true,
@@ -25,7 +31,5 @@
     "note": "Auf BoardGameGeek gefunden."
   },
   "location": "Flur",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

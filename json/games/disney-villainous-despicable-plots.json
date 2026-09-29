@@ -1,5 +1,14 @@
 {
   "id": "disney-villainous-despicable-plots",
+  "collectionId": "disney-villainous-the-worst-takes-it-all",
+  "image": "images/disney-villainous-despicable-plots.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/331050/disney-villainous-despicable-plots"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Disney Villainous: Despicable Plots",
   "type": "Kartenspiel",
   "icon": "🕯️",
@@ -13,24 +22,8 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "collectionId": "disney-villainous-the-worst-takes-it-all",
   "hiddenFromOverview": true,
-  "tags": [
-    "Disney",
-    "Erweiterung",
-    "Villainous"
-  ],
+  "tags": ["Disney", "Erweiterung", "Villainous"],
   "description": "Erweiterung mit Lady Tremaine, Horned King und Gaston für Disney Villainous.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgameexpansion/331050/disney-villainous-despicable-plots",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "3 Schurken-Decks",
-    "Spielertafeln",
-    "Marker",
-    "Spielanleitung"
-  ]
+  "contents": ["3 Schurken-Decks", "Spielertafeln", "Marker", "Spielanleitung"]
 }

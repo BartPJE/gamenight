@@ -1,5 +1,14 @@
 {
   "id": "black-stories-funny-death-edition",
+  "collectionId": "black-stories-funny-death-edition",
+  "image": "images/black-stories-funny-death-edition.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/96345/black-stories-funny-death-edition"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Black Stories: Funny Death Edition",
   "type": "Kartenspiel",
   "icon": "💀",
@@ -13,19 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Rätsel",
-    "Story",
-    "Partyspiel"
-  ],
+  "tags": ["Rätsel", "Story", "Partyspiel"],
   "description": "Makabres Rätselspiel mit skurrilen Todesfällen, die gemeinsam rekonstruiert werden.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/96345/black-stories-funny-death-edition",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

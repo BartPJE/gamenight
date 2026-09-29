@@ -1,5 +1,13 @@
 {
   "id": "beat-that",
+  "image": "images/beat-that.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/290610/beat-that"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Beat That",
   "type": "Partyspiel",
   "icon": "🎯",
@@ -13,22 +21,7 @@
   "status": "In Spielesammlung",
   "rating": 6.5,
   "favorite": false,
-  "tags": [
-    "Geschicklichkeit",
-    "Party",
-    "Challenges"
-  ],
+  "tags": ["Geschicklichkeit", "Party", "Challenges"],
   "description": "Viele kurze Skill-Challenges für Teams und Einzelspieler.",
-  "image": "images/beat-that.webp",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/290610/beat-that",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Challenge-Karten",
-    "Spielmaterial",
-    "Spielanleitung"
-  ]
+  "contents": ["Challenge-Karten", "Spielmaterial", "Spielanleitung"]
 }

@@ -1,32 +1,41 @@
 {
-  "id": "the-great-dalmuti",
+  "id": "der-grosse-dalmuti",
+  "collectionId": "der-grosse-dalmuti",
+  "hiddenFromOverview": false,
   "title": "Der große Dalmuti",
-  "type": "Kartenspiel",
-  "icon": "👑",
+  "description": "Get rid of your cards to rise through society from peon to Dalmuti.",
+
+  "year": 1995,
+  "rating": 6.6,
+
   "playersMin": 4,
   "playersMax": 8,
+  "duration": 60,
   "age": 8,
-  "duration": 30,
-  "year": 1995,
-  "publisher": "Wizards of the Coast",
-  "platform": "Tisch",
-  "status": "Besitze ich",
-  "rating": 6.4,
-  "favorite": false,
-  "tags": [
-    "Klassiker",
-    "Party",
-    "Rollenwechsel"
+  "complexity": 1.28,
+
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "tags": ["Card Game", "Medieval"],
+  "mechanisms": [
+    "Hand Management",
+    "Ladder Climbing",
+    "Variable Player Powers"
   ],
-  "description": "Schnelles Kartenaufstiegsspiel mit wechselnden Rängen vom Dalmuti bis zum Diener.",
+
+  "publisher": "AMIGO",
+  "platform": "Tisch",
+
+  "status": "Besitze ich",
+  "favorite": false,
+
+  "image": "images/der-grosse-dalmuti.jpg",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/929/the-great-dalmuti",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/929/the-great-dalmuti"
   },
+
   "location": "Flur",
-  "contents": [
-    "Kartendeck",
-    "Regelheft"
-  ]
+  "contents": ["1 Regelbuch", "80 Karten"]
 }

@@ -1,0 +1,29 @@
+{
+  "id": "tyranninnenquartett",
+  "collectionId": "tyrannenquartett",
+  "image": "images/tyranninnenquartett.png",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/7262/top-trumps"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "title": "Tyranninnenquartett",
+  "type": "Kartenspiel",
+  "icon": "👑",
+  "playersMin": 2,
+  "playersMax": 8,
+  "age": 14,
+  "duration": 25,
+  "year": 2025,
+  "publisher": "Quartett Verlag",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 7.3,
+  "favorite": false,
+  "tags": ["Quartett", "Satire", "Geschichte"],
+  "description": "Historische Ausgabe des Tyranninnenquartetts.",
+  "contents": ["Kartenstapel", "Spielanleitung"],
+  "hiddenFromOverview": true
+}

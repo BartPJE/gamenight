@@ -1,33 +1,38 @@
 {
   "id": "blind-jack",
+  "collectionId": "blind-jack",
+  "hiddenFromOverview": false,
   "title": "Blind Jack",
-  "type": "Partyspiel",
-  "icon": "🕶️",
+  "description": "Work in teams to collect answers without exceeding 21!",
+
+  "year": 2025,
+  "rating": 6.3,
+
   "playersMin": 2,
   "playersMax": 12,
+  "duration": 10,
   "age": 10,
-  "duration": 20,
-  "year": 2025,
-  "publisher": "ATM Gaming",
+  "complexity": 1.0,
+
+  "type": "Wissensspiel",
+  "icon": "🧠",
+  "tags": ["Number", "Party Game", "Trivia"],
+  "mechanisms": ["Push Your Luck", "Team-Based Game"],
+
+  "publisher": "HUCH!",
   "platform": "Tisch",
-  "status": "In Spielesammlung",
-  "rating": 0,
+
+  "status": "Besitze ich",
   "favorite": false,
-  "tags": [
-    "Trivia",
-    "Blackjack",
-    "Party"
-  ],
-  "description": "Trivia- und Blackjack-Mix: Fragen beantworten, Punkte sammeln und Risiken eingehen.",
+
+  "image": "images/blind-jack.png",
+  "rules": "rules/blind-jack.pdf",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/446181/blind-jack",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/446181/blind-jack"
   },
-  "location": "Wohnzimmer",
-  "contents": [
-    "Karten",
-    "Punkte-/Marker-Material",
-    "Spielanleitung"
-  ]
+
+  "location": "Flur",
+  "contents": ["2 Marker", "1 Kartenhalter", "200 Karten"]
 }

@@ -1,0 +1,28 @@
+{
+  "id": "petz-games",
+  "collectionId": "petz-games",
+  "image": "images/petz-games.jpg",
+  "bgg": {
+    "found": false,
+    "url": ""
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "title": "Petz Spielesammlung",
+  "type": "Brettspiel",
+  "icon": "🦖",
+  "playersMin": 2,
+  "playersMax": 4,
+  "age": 8,
+  "duration": 45,
+  "year": 2022,
+  "publisher": "Funko Games",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "tags": ["Abenteuer", "Familienspiel", "Filmthema"],
+  "description": "Halb-kooperatives Abenteuerspiel mit Flucht von einer Dino-Insel.",
+  "contents": ["Spielmaterial"]
+}

@@ -1,5 +1,14 @@
 {
   "id": "ligretto-dice",
+  "collectionId": "ligretto",
+  "image": "images/ligretto-dice.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/55835/ligretto-dice"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Würfel Ligretto",
   "type": "Brettspiel",
   "icon": "🎲",
@@ -13,19 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Echtzeit",
-    "Würfel",
-    "Familienspiel"
-  ],
+  "tags": ["Echtzeit", "Würfel", "Familienspiel"],
   "description": "Hektisches Echtzeit-Würfelspiel im Ligretto-Stil: schnell reagieren und passend ablegen.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/55835/ligretto-dice",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

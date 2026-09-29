@@ -1,5 +1,14 @@
 {
   "id": "phase-10",
+  "collectionId": "phase-10",
+  "image": "images/phase-10.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/1258/phase-10"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Phase 10",
   "type": "Kartenspiel",
   "icon": "🔢",
@@ -13,19 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Rummy",
-    "Klassiker",
-    "Set Collection"
-  ],
+  "tags": ["Rummy", "Klassiker", "Set Collection"],
   "description": "Rummy-Kartenspiel mit zehn Phasen, die nacheinander erfüllt werden müssen.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/1258/phase-10",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

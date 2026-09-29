@@ -1,33 +1,38 @@
 {
-  "id": "smart10-rock-and-pop",
+  "id": "smart10-rock",
+  "collectionId": "smart10",
+  "hiddenFromOverview": true,
   "title": "Smart10: Rock and Pop",
-  "type": "Brettspiel",
-  "icon": "🎸",
+  "description": "New theme pack to test your \"Rock & Pop\" knowledge",
+
+  "year": 2024,
+  "rating": 7.9,
+
   "playersMin": 2,
   "playersMax": 8,
-  "age": 14,
   "duration": 20,
-  "year": 2024,
-  "publisher": "Piatnik",
-  "platform": "Tisch",
-  "status": "Besitze ich",
-  "rating": 0,
-  "favorite": false,
-  "tags": [
-    "Quiz",
-    "Erweiterung",
-    "Musik"
-  ],
-  "description": "Smart10: Rock and Pop in der Sammlung.",
+  "age": 18,
+  "complexity": 1.19,
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgameexpansion/429606/smart10-rock-and-pop",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgameexpansion/429606/smart10-rock-and-pop"
   },
+
+  "image": "images/smart10-rock.jpg",
+  "rules": "rules/smart10.pdf",
+
+  "type": "Familienspiel",
+  "icon": "🧠",
+  "tags": ["Expansion for Base-game", "Trivia", "Party Game"],
+  "mechanisms": ["Push Your Luck"],
+
+  "publisher": "Piatnik",
+  "platform": "Tisch",
+
+  "status": "Besitze ich",
+  "favorite": true,
+
   "location": "Wohnzimmer",
-  "contents": [
-    "Spielmaterial"
-  ],
-  "collectionId": "smart10",
-  "hiddenFromOverview": true
+  "contents": ["50 doppelseitige Fragekarten"]
 }

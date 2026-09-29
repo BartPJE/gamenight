@@ -1,5 +1,14 @@
 {
   "id": "lol-die-ultimative-nicht-lachen-challenge",
+  "collectionId": "lol-die-ultimative-nicht-lachen-challenge",
+  "image": "images/lol-die-ultimative-nicht-lachen-challenge.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/424963/lol-die-ultimative-nicht-lachen-challenge-das-kart"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "LOL - Die ultimative Nicht Lachen Challange",
   "type": "Partyspiel",
   "icon": "😂",
@@ -13,21 +22,7 @@
   "status": "In Spielesammlung",
   "rating": 6.6,
   "favorite": false,
-  "tags": [
-    "Humor",
-    "Party",
-    "Reaktionsspiel"
-  ],
+  "tags": ["Humor", "Party", "Reaktionsspiel"],
   "description": "Wer lachen muss, verliert – mit Aufgaben und Situationen zum Durchhalten.",
-  "image": "",
-  "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Noch nicht geprüft."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Karten",
-    "Regelheft"
-  ]
+  "contents": ["Karten", "Regelheft"]
 }

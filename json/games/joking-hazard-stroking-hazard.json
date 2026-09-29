@@ -1,5 +1,14 @@
 {
   "id": "joking-hazard-stroking-hazard",
+  "collectionId": "joking-hazard",
+  "image": "images/joking-hazard-stroking-hazard.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/262550/joking-hazard-stroking-hazard"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Joking Hazard: Stroking Hazard",
   "type": "Kartenspiel",
   "icon": "🃏",
@@ -13,21 +22,8 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Erweiterung",
-    "Humor",
-    "Partyspiel"
-  ],
+  "tags": ["Erweiterung", "Humor", "Partyspiel"],
   "description": "Erweiterung für Joking Hazard mit zusätzlichen, bewusst schwarzhumorigen Karten.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgameexpansion/262550/joking-hazard-stroking-hazard",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Erweiterungsmaterial"
-  ],
-  "hiddenFromOverview": true,
-  "collectionId": "joking-hazard"
+  "contents": ["Erweiterungsmaterial"],
+  "hiddenFromOverview": true
 }

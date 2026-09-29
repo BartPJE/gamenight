@@ -1,31 +1,55 @@
 {
   "id": "schlag-den-raab-das-quiz",
+  "collectionId": "schlag-den-raab",
+  "hiddenFromOverview": true,
   "title": "Schlag den Raab: Das Quiz",
-  "type": "Quizspiel",
-  "icon": "❓",
+  "description": "",
+
+  "image": "images/schlag-den-raab-quiz.jpg",
+  "rules": "rules/schlag-den-raab-quiz.pdf",
+
+  "year": 2012,
+  "rating": 6.7,
+
   "playersMin": 2,
   "playersMax": 6,
+  "duration": 60,
   "age": 12,
-  "duration": 45,
-  "year": 2012,
+  "complexity": 1.75,
+
+  "type": "Partyspiel",
+  "icon": "🔥",
   "publisher": "Ravensburger",
+
+  "tags": ["Trivia", "Movies / TV / Radio theme"],
+  "mechanisms": [],
+
   "platform": "Tisch",
   "status": "Besitze ich",
-  "rating": 0,
   "favorite": false,
-  "tags": [
-    "Quiz",
-    "TV-Show",
-    "Partyspiel"
-  ],
-  "description": "Quiz-Ableger zur TV-Show mit Wissens- und Schätzfragen.",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/129969/schlag-den-raab-das-quiz",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/129969/schlag-den-raab-das-quiz"
   },
+
   "location": "Flur",
   "contents": [
-    "Spielmaterial"
+    "1 Sortierhilfe",
+    "2 Aufsteller",
+    "2 Aufstellfüße",
+    "2 Stimmt-Chips",
+    "3 Anzeiger",
+    "2 Spielfiguren",
+    "1 Buzzer",
+    "3 kleine Holzwürfel",
+    "2 Spielauswahlkreisel",
+    "1 Sanduhr",
+    "240 Karten",
+    "1 Punkteleiste",
+    "8 Buchstaben-Chips",
+    "2 Risiko-Scheiben",
+    "1 zweiteilige Weltkarte",
+    "1 Spielanleitung"
   ]
 }

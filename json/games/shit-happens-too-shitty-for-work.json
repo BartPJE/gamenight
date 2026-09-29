@@ -1,34 +1,37 @@
 {
   "id": "shit-happens-too-shitty-for-work",
-  "title": "Shit Happens: Too Shitty for Work",
-  "type": "Kartenspiel",
-  "icon": "💩",
-  "playersMin": 2,
-  "playersMax": 8,
-  "age": 18,
-  "duration": 20,
+  "collectionId": "shit-happens",
+  "hiddenFromOverview": true,
+  "title": "Shit Happens - Echt Beschissen",
+  "description": "Put 10 cards with shitty situations in the correctly ranked order to win!",
+
   "year": 2018,
-  "publisher": "Goliath",
+  "rating": 6.0,
+
+  "playersMin": 2,
+  "playersMax": 99,
+  "duration": 20,
+  "age": 18,
+  "complexity": 1.0,
+
+  "type": "Partyspiel",
+  "icon": "🃏",
+  "tags": ["Card Game", "Adult Game", "Party Game"],
+  "mechanisms": ["Memory", "Pattern Building", "Set Collection"],
+
+  "publisher": "Goliath Games",
   "platform": "Tisch",
+
   "status": "Besitze ich",
-  "rating": 6.5,
   "favorite": false,
-  "tags": [
-    "Humor",
-    "Party",
-    "Erweiterung"
-  ],
-  "description": "Weitere Shit-Happens-Ausgabe mit besonders derben Situationen.",
-  "image": "",
+
+  "image": "images/shit-happens-too-shitty.jpg",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgame/255335/shit-happens-too-shitty-for-work",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgame/255335/shit-happens-too-shitty-for-work"
   },
+
   "location": "Flur",
-  "contents": [
-    "Kartenstapel"
-  ],
-  "collectionId": "shit-happens",
-  "hiddenFromOverview": true
+  "contents": ["200 Karten"]
 }

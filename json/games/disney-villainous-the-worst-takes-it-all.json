@@ -1,5 +1,14 @@
 {
   "id": "disney-villainous-the-worst-takes-it-all",
+  "collectionId": "disney-villainous-the-worst-takes-it-all",
+  "image": "images/disney-villainous-the-worst-takes-it-all.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/256382/disney-villainous-the-worst-takes-it-all"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Disney Villainous: The Worst Takes It All",
   "type": "Kartenspiel",
   "icon": "🦹",
@@ -13,22 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Disney",
-    "Asymmetrisch",
-    "Strategie"
-  ],
+  "tags": ["Disney", "Asymmetrisch", "Strategie"],
   "description": "Jede:r spielt einen Disney-Bösewicht mit eigenem Deck und eigenem Siegziel.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/256382/disney-villainous-the-worst-takes-it-all",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "6 Schurken-Decks",
-    "Spielertafeln",
-    "Marker",
-    "Spielanleitung"
-  ]
+  "contents": ["6 Schurken-Decks", "Spielertafeln", "Marker", "Spielanleitung"]
 }

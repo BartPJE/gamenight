@@ -1,5 +1,14 @@
 {
   "id": "lol-last-one-laughing",
+  "collectionId": "lol-last-one-laughing",
+  "image": "images/lol-last-one-laughing.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/392109/last-one-laughing-das-spiel"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer",
+
   "title": "LOL - Last One Laughing",
   "type": "Partyspiel",
   "icon": "🤣",
@@ -13,22 +22,7 @@
   "status": "In Spielesammlung",
   "rating": 6.7,
   "favorite": false,
-  "tags": [
-    "Humor",
-    "Party",
-    "Show"
-  ],
+  "tags": ["Humor", "Party", "Show"],
   "description": "Die Brettspielversion zur Show: ernst bleiben trotz absurd-komischer Aktionen.",
-  "image": "",
-  "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Noch nicht geprüft."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Karten",
-    "Challenge-Material",
-    "Spielanleitung"
-  ]
+  "contents": ["Karten", "Challenge-Material", "Spielanleitung"]
 }

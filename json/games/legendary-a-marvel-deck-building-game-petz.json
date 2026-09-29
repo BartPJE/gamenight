@@ -1,0 +1,29 @@
+{
+  "id": "legendary-a-marvel-deck-building-game-petz",
+  "collectionId": "legendary-a-marvel-deck-building-game",
+  "image": "images/legendary-a-marvel-deck-building-game-petz.png",
+  "bgg": {
+    "found": false,
+    "url": ""
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur / Kämmerle",
+
+  "title": "Legendary: A Marvel Deck Building Game - Petz Expansion",
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "playersMin": 1,
+  "playersMax": 5,
+  "age": 14,
+  "duration": 45,
+  "year": 2012,
+  "publisher": "Upper Deck Entertainment",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 0,
+  "favorite": false,
+  "hiddenFromOverview": true,
+  "tags": ["Deckbuilding", "Kooperativ", "Superhelden"],
+  "description": "Kooperatives Marvel-Deckbuilding: Rekrutiere Helden, stoppe Schurken und besiege den Mastermind.",
+  "contents": ["Spielmaterial"]
+}

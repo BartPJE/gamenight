@@ -1,5 +1,14 @@
 {
   "id": "clever-cubed",
+  "collectionId": "thats-pretty-clever",
+  "image": "images/clever-cubed.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/316546/clever-cubed"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Clever hoch drei",
   "type": "Würfelspiel",
   "icon": "🎲",
@@ -13,22 +22,8 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Roll & Write",
-    "Zahlen",
-    "Kombi"
-  ],
+  "tags": ["Roll & Write", "Zahlen", "Kombi"],
   "description": "Dritter Teil der Clever-Reihe mit anspruchsvolleren Entscheidungen.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/316546/clever-cubed",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Spielmaterial",
-    "Spielanleitung"
-  ],
-  "collectionId": "thats-pretty-clever",
+  "contents": ["Spielmaterial", "Spielanleitung"],
   "hiddenFromOverview": false
 }

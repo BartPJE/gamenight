@@ -1,5 +1,13 @@
 {
   "id": "illwerke-vkw-quartett",
+  "collectionId": "illwerke-vkw-quartett",
+  "image": "images/illwerke-vkw-quartett.jpg",
+  "bgg": {
+    "found": false
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "illwerke VKW Quartett",
   "type": "Kartenspiel",
   "icon": "⚡",
@@ -13,20 +21,7 @@
   "status": "Besitze ich",
   "rating": 6.2,
   "favorite": false,
-  "tags": [
-    "Quartett",
-    "Wissen",
-    "Familie"
-  ],
+  "tags": ["Quartett", "Wissen", "Familie"],
   "description": "Quartett mit Motiven und Fakten rund um illwerke vkw.",
-  "image": "",
-  "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Nicht auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Kartenstapel"
-  ]
+  "contents": ["Kartenstapel"]
 }

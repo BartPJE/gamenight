@@ -1,5 +1,14 @@
 {
   "id": "shut-the-box",
+  "collectionId": "shut-the-box",
+  "image": "images/shut-the-box.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/9851/shut-the-box"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Shut the Box",
   "type": "Würfelspiel",
   "icon": "🎲",
@@ -13,20 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Würfeln",
-    "Klassiker",
-    "Glück"
-  ],
+  "tags": ["Würfeln", "Klassiker", "Glück"],
   "description": "Klassisches Würfelspiel, bei dem Zahlenfelder durch Würfelwürfe heruntergeklappt werden.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/9851/shut-the-box",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Spielbrett",
-    "Würfel"
-  ]
+  "contents": ["Spielbrett", "Würfel"]
 }

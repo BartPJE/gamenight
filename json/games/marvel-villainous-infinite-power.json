@@ -1,5 +1,14 @@
 {
   "id": "marvel-villainous-infinite-power",
+  "collectionId": "marvel-villainous-infinite-power",
+  "image": "images/marvel-villainous-infinite-power.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/302336/marvel-villainous-infinite-power"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Marvel Villainous: Infinite Power",
   "type": "Kartenspiel",
   "icon": "🦹‍♂️",
@@ -13,22 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Marvel",
-    "Asymmetrisch",
-    "Strategie"
-  ],
+  "tags": ["Marvel", "Asymmetrisch", "Strategie"],
   "description": "Villainous im Marvel-Universum mit gemeinsamen Schicksalsstapel und Schurken-Zielen.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/302336/marvel-villainous-infinite-power",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "5 Schurken-Decks",
-    "Spielertafeln",
-    "Marker",
-    "Spielanleitung"
-  ]
+  "contents": ["5 Schurken-Decks", "Spielertafeln", "Marker", "Spielanleitung"]
 }

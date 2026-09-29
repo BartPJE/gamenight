@@ -1,5 +1,14 @@
 {
   "id": "joko-gegen-klaas-das-duell-um-die-welt",
+  "collectionId": "joko-gegen-klaas-das-duell-um-die-welt",
+  "image": "images/joko-gegen-klaas-das-duell-um-die-welt.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/155872/joko-gegen-klaas"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer",
+
   "title": "Joko gegen Klaas - Das Duell um die Welt",
   "type": "Partyspiel",
   "icon": "🌍",
@@ -13,22 +22,7 @@
   "status": "In Spielesammlung",
   "rating": 6.9,
   "favorite": false,
-  "tags": [
-    "Quiz",
-    "Show",
-    "Party"
-  ],
+  "tags": ["Quiz", "Show", "Party"],
   "description": "Aufgaben und Wissensfragen inspiriert von der TV-Show Das Duell um die Welt.",
-  "image": "",
-  "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Noch nicht geprüft."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Karten",
-    "Aktionskarten",
-    "Spielanleitung"
-  ]
+  "contents": ["Karten", "Aktionskarten", "Spielanleitung"]
 }

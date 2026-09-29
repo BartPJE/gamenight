@@ -1,0 +1,43 @@
+{
+  "id": "bam-laenger-tiefer-haerter",
+  "collectionId": "bam",
+  "hiddenFromOverview": true,
+  "title": "BAM! Länger, tiefer, härter!",
+  "description": "",
+
+  "year": 2019,
+  "rating": 6.9,
+
+  "playersMin": 3,
+  "playersMax": 6,
+  "duration": 20,
+  "age": 18,
+  "complexity": 1.0,
+
+  "type": "Partyspiel",
+  "icon": "🔥",
+  "publisher": "Pegasus Spiele",
+
+  "tags": ["Card Game", "Party Game"],
+  "mechanisms": ["Voting"],
+
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "favorite": false,
+
+  "image": "images/bam-laenger.jpg",
+  "rules": "rules/bam-laenger.pdf",
+
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/286747/bam-langer-tiefer-harter"
+  },
+
+  "location": "Flur",
+  "contents": [
+    "156 graue Begriffkarten",
+    "44 rote BAM-Karten",
+    "40 Blankokarten",
+    "1 Spielanleitung"
+  ]
+}

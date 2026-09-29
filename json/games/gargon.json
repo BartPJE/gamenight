@@ -1,5 +1,14 @@
 {
   "id": "gargon",
+  "collectionId": "gargon",
+  "image": "images/gargon.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/2542/gargon"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Gargon",
   "type": "Kartenspiel",
   "icon": "🐲",
@@ -13,19 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Klassiker",
-    "Stichspiel",
-    "Fantasy"
-  ],
+  "tags": ["Klassiker", "Stichspiel", "Fantasy"],
   "description": "Klassisches Kartenspiel mit Monster-Thema und direkter Interaktion.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/2542/gargon",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

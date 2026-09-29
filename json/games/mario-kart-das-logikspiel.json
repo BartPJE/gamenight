@@ -1,5 +1,14 @@
 {
   "id": "mario-kart-das-logikspiel",
+  "collectionId": "mario-kart-das-logikspiel",
+  "image": "images/mario-kart-das-logikspiel.webp",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/404123/mario-kart-das-logikspiel"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer",
+
   "title": "Mario Kart - Das Logikspiel",
   "type": "Logikspiel",
   "icon": "🧠",
@@ -13,18 +22,8 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Logik",
-    "Mario Kart",
-    "Familienspiel"
-  ],
+  "tags": ["Logik", "Mario Kart", "Familienspiel"],
   "description": "Logikspiel im Mario-Kart-Universum mit Knobelaufgaben.",
-  "bgg": {
-    "found": false,
-    "url": "",
-    "note": "Kein sicherer BoardGameGeek-Eintrag zugeordnet."
-  },
-  "location": "Schlafzimmer",
   "contents": [
     "Aufgabenkarten",
     "Spielfiguren",

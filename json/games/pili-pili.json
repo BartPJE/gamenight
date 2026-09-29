@@ -1,5 +1,15 @@
 {
   "id": "pili-pili",
+  "collectionId": "pili-pili",
+  "image": "images/pili-pili.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/284301/pili-pili"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
+  "id": "pili-pili",
   "title": "Pili Pili",
   "type": "Kartenspiel",
   "icon": "🌶️",
@@ -13,11 +23,7 @@
   "status": "In Spielesammlung",
   "rating": 6.7,
   "favorite": false,
-  "tags": [
-    "Schnell",
-    "Familie",
-    "Taktik"
-  ],
+  "tags": ["Schnell", "Familie", "Taktik"],
   "description": "Würzige Kartenduelle mit einfachen Regeln und schnellen Runden.",
   "image": "",
   "bgg": {
@@ -26,8 +32,5 @@
     "note": "Noch nicht geprüft."
   },
   "location": "Flur",
-  "contents": [
-    "Karten",
-    "Spielanleitung"
-  ]
+  "contents": ["Karten", "Spielanleitung"]
 }

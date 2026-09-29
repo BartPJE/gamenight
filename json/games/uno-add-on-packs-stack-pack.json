@@ -1,33 +1,37 @@
 {
-  "id": "uno-add-on-packs-stack-pack",
-  "title": "UNO Add-On Packs: Stack Pack",
-  "type": "Kartenspiel",
-  "icon": "📚",
-  "playersMin": 2,
-  "playersMax": 10,
-  "age": 7,
-  "duration": 10,
-  "year": 2025,
-  "publisher": "Mattel",
-  "platform": "Tisch",
-  "status": "Besitze ich",
-  "rating": 0,
-  "favorite": false,
+  "id": "uno-stack",
   "collectionId": "uno",
   "hiddenFromOverview": true,
-  "tags": [
-    "UNO",
-    "Erweiterung",
-    "Stack"
-  ],
-  "description": "Mini-Erweiterung mit zusätzlichen Stapel-Effekten für UNO Show 'em No Mercy.",
+  "title": "UNO Stack Pack",
+  "description": "An UNO add-on introducing escalating stackable draw penalties.",
+
+  "year": 2025,
+  "rating": 6.5,
+
+  "playersMin": 2,
+  "playersMax": 10,
+  "duration": 15,
+  "age": 7,
+  "complexity": 1.0,
+
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "publisher": "Mattel, Inc.",
+
+  "tags": ["Expansion for Base-game", "Card Game", "Party Game"],
+  "mechanisms": ["Hand Management", "Matching", "Take That"],
+
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "favorite": false,
+
+  "image": "images/uno-stack.png",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgameexpansion/440974/uno-add-on-packs-stack-pack",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgameexpansion/440974/uno-add-on-packs-stack-pack"
   },
-  "location": "Flur",
-  "contents": [
-    "Erweiterungskarten"
-  ]
+
+  "location": "Flur / Kartenbox",
+  "contents": ["16 Karten", "1 Spielanleitung"]
 }

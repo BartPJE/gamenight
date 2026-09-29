@@ -1,33 +1,37 @@
 {
-  "id": "uno-add-on-packs-reverse-pack",
-  "title": "UNO Add-On Packs: Reverse Pack",
-  "type": "Kartenspiel",
-  "icon": "↩️",
-  "playersMin": 2,
-  "playersMax": 10,
-  "age": 7,
-  "duration": 10,
-  "year": 2025,
-  "publisher": "Mattel",
-  "platform": "Tisch",
-  "status": "Besitze ich",
-  "rating": 0,
-  "favorite": false,
+  "id": "uno-reverse",
   "collectionId": "uno",
   "hiddenFromOverview": true,
-  "tags": [
-    "UNO",
-    "Erweiterung",
-    "Reverse"
-  ],
-  "description": "Mini-Erweiterung mit Richtungs- und Rückspiel-Effekten für UNO Show 'em No Mercy.",
+  "title": "UNO Reverse Pack",
+  "description": "An add-on for UNO introducing powerful and chaotic reverse-action cards.",
+
+  "year": 2025,
+  "rating": 6.4,
+
+  "playersMin": 2,
+  "playersMax": 10,
+  "duration": 15,
+  "age": 7,
+  "complexity": 1.0,
+
+  "type": "Kartenspiel",
+  "icon": "🃏",
+  "publisher": "Mattel, Inc.",
+
+  "tags": ["Expansion for Base-game", "Card Game", "Party Game"],
+  "mechanisms": ["Hand Management", "Matching", "Take That"],
+
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "favorite": false,
+
+  "image": "images/uno-reverse.png",
+
   "bgg": {
     "found": true,
-    "url": "https://boardgamegeek.com/boardgameexpansion/440973/uno-add-on-packs-reverse-pack",
-    "note": "Auf BoardGameGeek gefunden."
+    "url": "https://boardgamegeek.com/boardgameexpansion/440973/uno-add-on-packs-reverse-pack"
   },
-  "location": "Flur",
-  "contents": [
-    "Erweiterungskarten"
-  ]
+
+  "location": "Flur / Kartenbox",
+  "contents": ["16 Karten"]
 }

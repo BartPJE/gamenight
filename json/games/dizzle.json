@@ -1,5 +1,14 @@
 {
   "id": "dizzle",
+  "collectionId": "dizzle",
+  "image": "images/dizzle.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/269199/dizzle"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Dizzle",
   "type": "Brettspiel",
   "icon": "🎲",
@@ -13,19 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Roll & Write",
-    "Puzzle",
-    "Familienspiel"
-  ],
+  "tags": ["Roll & Write", "Puzzle", "Familienspiel"],
   "description": "Würfeln, Zahlen clever in die eigene Tabelle eintragen und mit Boni Kettenzüge auslösen.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/269199/dizzle",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }

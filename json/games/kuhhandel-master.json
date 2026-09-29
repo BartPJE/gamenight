@@ -1,5 +1,14 @@
 {
   "id": "kuhhandel-master",
+  "collectionId": "kuhhandel-master",
+  "image": "images/kuhhandel-master.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/56786/kuhhandel-master"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Kuhhandel Master",
   "type": "Kartenspiel",
   "icon": "🐄",
@@ -13,21 +22,7 @@
   "status": "Besitze ich",
   "rating": 6.7,
   "favorite": false,
-  "tags": [
-    "Auktion",
-    "Verhandeln",
-    "Humor"
-  ],
+  "tags": ["Auktion", "Verhandeln", "Humor"],
   "description": "Kuhhandel in erweiterter Variante mit Versteigerungen und Tauschgeschäften.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/56786/kuhhandel-master",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Schlafzimmer",
-  "contents": [
-    "Tierkarten",
-    "Geldkarten",
-    "Spielanleitung"
-  ]
+  "contents": ["Tierkarten", "Geldkarten", "Spielanleitung"]
 }

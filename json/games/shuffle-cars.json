@@ -1,0 +1,28 @@
+{
+  "id": "shuffle-cars",
+  "collectionId": "shuffle-cars",
+  "image": "images/shuffle-cars.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/286055/shuffle-cars"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
+  "title": "Shuffle Cars",
+  "type": "Kartenspiel",
+  "icon": "📈",
+  "playersMin": 2,
+  "playersMax": 6,
+  "age": 8,
+  "duration": 20,
+  "year": 2018,
+  "publisher": "Ravensburger",
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "rating": 6.8,
+  "favorite": false,
+  "tags": ["Push your luck", "Zahlen", "Schnell"],
+  "description": "Push-your-luck-Kartenspiel: Punkte sichern oder weiterziehen und alles riskieren.",
+  "contents": ["Kartenstapel", "Spielanleitung"]
+}

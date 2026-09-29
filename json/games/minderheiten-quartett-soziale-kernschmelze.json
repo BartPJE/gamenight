@@ -1,5 +1,14 @@
 {
   "id": "minderheiten-quartett-soziale-kernschmelze",
+  "collectionId": "minderheiten-quartett",
+  "image": "images/minderheiten-quartett-soziale-kernschmelze.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgameexpansion/136423/minderheiten-quartett-soziale-kernschmelze"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer / Box",
+
   "title": "Minderheiten Quartett: Soziale Kernschmelze",
   "type": "Kartenspiel",
   "icon": "☢️",
@@ -13,22 +22,9 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "collectionId": "minderheiten-quartett",
   "hiddenFromOverview": true,
-  "tags": [
-    "Quartett",
-    "Erweiterung",
-    "Satire"
-  ],
+  "tags": ["Quartett", "Erweiterung", "Satire"],
   "description": "Erweiterung zum Minderheiten Quartett mit zusätzlichen Karten.",
-  "image": "",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgameexpansion/136423/minderheiten-quartett-soziale-kernschmelze",
-    "note": "Auf BoardGameGeek gefunden."
-  },
   "location": "Schlafzimmer",
-  "contents": [
-    "Erweiterungskarten"
-  ]
+  "contents": ["Erweiterungskarten"]
 }

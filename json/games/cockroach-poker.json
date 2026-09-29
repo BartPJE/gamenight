@@ -1,5 +1,14 @@
 {
   "id": "cockroach-poker",
+  "collectionId": "cockroach-poker",
+  "image": "images/cockroach-poker.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/11971/cockroach-poker"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Kakerlaken Poker",
   "type": "Kartenspiel",
   "icon": "🪳",
@@ -13,21 +22,7 @@
   "status": "Besitze ich",
   "rating": 7.2,
   "favorite": false,
-  "tags": [
-    "Bluff",
-    "Party",
-    "Schnell"
-  ],
+  "tags": ["Bluff", "Party", "Schnell"],
   "description": "Bluffspiel: Tiere weiterreichen, ohne die Wahrheit zu verraten.",
-  "image": "",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/11971/cockroach-poker",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Kartenstapel",
-    "Spielanleitung"
-  ]
+  "contents": ["Kartenstapel", "Spielanleitung"]
 }

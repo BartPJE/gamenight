@@ -1,0 +1,38 @@
+{
+  "id": "hitster-wacken",
+  "collectionId": "hitster-original",
+  "hiddenFromOverview": true,
+  "title": "Hitster: Wacken Open Air",
+  "description": "Listen to metal hit songs and guess their chronological order.",
+
+  "year": 2026,
+  "rating": 7.4,
+
+  "playersMin": 2,
+  "playersMax": 10,
+  "duration": 30,
+  "age": 16,
+  "complexity": 1.0,
+
+  "type": "Partyspiel",
+  "icon": "🎵",
+  "publisher": "Jumbo",
+
+  "tags": ["Card Game", "Music", "Party Game", "Print & Play", "Trivia"],
+  "mechanisms": ["Ordering"],
+
+  "platform": "Tisch",
+  "status": "Besitze ich",
+  "favorite": false,
+
+  "image": "images/hitster-wacken.png",
+  "rules": "rules/hitster.pdf",
+
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/475194/hitster-wacken-open-air"
+  },
+
+  "location": "Wohnzimmer",
+  "contents": ["308 Musikkarten", "37 Hitster-Token"]
+}

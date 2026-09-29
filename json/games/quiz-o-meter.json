@@ -1,31 +1,42 @@
 {
   "id": "quiz-o-meter",
+  "collectionId": "quiz-o-meter",
+  "hiddenFromOverview": false,
   "title": "Quiz O Meter",
-  "type": "Brettspiel",
-  "icon": "❓",
-  "playersMin": 2,
-  "playersMax": 12,
-  "age": 12,
-  "duration": 30,
+  "description": "Players compete to estimate answers with knowledge, intuition and a touch of bluff. ",
+
   "year": 2025,
-  "publisher": "Denkriesen",
-  "platform": "Tisch",
-  "status": "Besitze ich",
-  "rating": 0,
-  "favorite": false,
-  "tags": [
-    "Quiz",
-    "Wissen",
-    "Partyspiel"
-  ],
-  "description": "Quiz O Meter in der Sammlung.",
+  "rating": 6.2,
+
+  "playersMin": 2,
+  "playersMax": 4,
+  "duration": 30,
+  "age": 14,
+  "complexity": 1.0,
+
   "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/453995/quiz-o-meter",
-    "note": "Auf BoardGameGeek gefunden."
+    "found": false,
+    "url": "https://boardgamegeek.com/boardgame/453995/quiz-o-meter"
   },
+
+  "image": "images/quiz-o-meter.jpg",
+
+  "type": "Quizspiel",
+  "icon": "❓",
+  "tags": ["Party Game", "Real-time", "Trivia"],
+  "mechanisms": ["Real-Time"],
+
+  "publisher": "moses. Verlag GmbH",
+  "platform": "Tisch",
+
+  "status": "Besitze ich",
+  "favorite": true,
+
   "location": "Wohnzimmer",
   "contents": [
-    "Spielmaterial"
+    "240 Fragekarten",
+    "4 Antworttafeln",
+    "4 Stifte",
+    "16 Jokerchips"
   ]
 }

@@ -1,5 +1,14 @@
 {
-  "id": "rummikub",
+  "id": "rummy",
+  "collectionId": "rummy",
+  "image": "images/rummy.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/811/rummikub"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "title": "Rummy-Spiel",
   "type": "Legespiel",
   "icon": "🔢",
@@ -13,21 +22,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Zahlen",
-    "Familie",
-    "Klassiker"
-  ],
+  "tags": ["Zahlen", "Familie", "Klassiker"],
   "description": "Zahlenplättchen in Gruppen und Reihen anlegen, um als Erste:r alle Steine abzulegen.",
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/811/rummikub",
-    "note": "Auf BoardGameGeek gefunden."
-  },
-  "location": "Flur",
-  "contents": [
-    "Zahlensteine",
-    "Ablagebretter",
-    "Spielanleitung"
-  ]
+  "contents": ["Zahlensteine", "Ablagebretter", "Spielanleitung"]
 }
