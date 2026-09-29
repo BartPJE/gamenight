@@ -1,5 +1,15 @@
 {
   "id": "divvy-dice",
+  "collectionId": "divvy-dice",
+  "image": "images/divvy-dice.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/297895/divvy-dice"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Schlafzimmer",
+
+  "id": "divvy-dice",
   "title": "Man muss auch gönnen können",
   "type": "Brettspiel",
   "icon": "🎲",
@@ -13,11 +23,7 @@
   "status": "Besitze ich",
   "rating": 0,
   "favorite": false,
-  "tags": [
-    "Würfelspiel",
-    "Roll-and-Write",
-    "Familie"
-  ],
+  "tags": ["Würfelspiel", "Roll-and-Write", "Familie"],
   "description": "Divvy Dice in der Sammlung.",
   "bgg": {
     "found": true,
@@ -25,7 +31,5 @@
     "note": "Auf BoardGameGeek gefunden."
   },
   "location": "Flur",
-  "contents": [
-    "Spielmaterial"
-  ]
+  "contents": ["Spielmaterial"]
 }
