@@ -15,12 +15,63 @@
     </nav>
   </header>
 
-  <section class="hero" id="statistik">
+  <section class="hero">
     <div class="hero-side">
       <div class="stat"><strong id="statTotal">0</strong><span>Spiele im Archiv</span></div>
       <div class="stat"><strong id="statTypes">0</strong><span>Kategorien</span></div>
       <div class="stat"><strong id="statFavs">0</strong><span>Favoriten</span></div>
     </div>
+  </section>
+
+  <section id="statisticsView" class="statistics-view" style="display: none">
+    <div class="statistics-heading">
+      <div>
+        <p class="eyebrow">Sammlungsübersicht</p>
+        <h2>Statistik &amp; Datenqualität</h2>
+        <p>Erkenne auf einen Blick, welche Angaben in der Sammlung noch ergänzt werden müssen.</p>
+      </div>
+      <a class="btn secondary" href="#archiv">← Zum Archiv</a>
+    </div>
+
+    <section class="statistics-cards" aria-label="Sammlungsstatistik">
+      <article class="statistic-card"><span>Spiele insgesamt</span><strong id="qualityTotal">0</strong></article>
+      <article class="statistic-card"><span>Vollständig gepflegt</span><strong id="qualityComplete">0</strong></article>
+      <article class="statistic-card warning"><span>Mit fehlenden Daten</span><strong id="qualityIncomplete">0</strong></article>
+      <article class="statistic-card"><span>Durchschnittliche Bewertung</span><strong id="qualityRating">–</strong></article>
+    </section>
+
+    <section class="quality-layout">
+      <aside class="panel quality-filter-panel">
+        <div class="side-section">
+          <h3>Fehlende Angaben</h3>
+          <p class="panel-copy">Wähle eine oder mehrere Angaben. Es werden Spiele angezeigt, bei denen mindestens eine Auswahl fehlt.</p>
+          <div class="quality-filters" id="qualityFilters"></div>
+        </div>
+        <div class="side-section">
+          <h3>Darstellung</h3>
+          <label class="toggle-label"><input id="onlyIncomplete" type="checkbox" /> Nur unvollständige Spiele</label>
+          <button class="btn secondary quality-reset" id="resetQualityFilters" type="button">Filter zurücksetzen</button>
+        </div>
+      </aside>
+
+      <section class="quality-results">
+        <div class="archive-head">
+          <div>
+            <h3>Daten-Check</h3>
+            <p id="qualityResultInfo">Alle Spiele werden geprüft.</p>
+          </div>
+          <input id="qualitySearch" type="search" placeholder="Spiel suchen ..." aria-label="Spiele im Daten-Check suchen" />
+        </div>
+        <div class="missing-summary" id="missingSummary"></div>
+        <div class="quality-table-wrap">
+          <table class="quality-table">
+            <thead><tr><th>Spiel</th><th>Art</th><th>Fehlende Angaben</th><th>Details</th></tr></thead>
+            <tbody id="qualityRows"></tbody>
+          </table>
+        </div>
+        <div class="empty" id="qualityEmpty">Für diese Auswahl wurden keine Spiele gefunden.</div>
+      </section>
+    </section>
   </section>
 
   <section id="archiveView" class="archive-view">
