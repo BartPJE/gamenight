@@ -1,7 +1,8 @@
 {
   "id": "uno-super-mario",
   "title": "UNO Super Mario",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🃏",
   "playersMin": 2,
   "playersMax": 10,

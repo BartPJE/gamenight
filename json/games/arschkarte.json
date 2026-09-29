@@ -10,7 +10,8 @@
   "location": "Schlafzimmer",
 
   "title": "Arschkarte",
-  "type": "Quizspiel",
+  "genre": "Quizspiel",
+  "type": "Hauptspiel",
   "icon": "🟥",
   "playersMin": 3,
   "playersMax": 9,

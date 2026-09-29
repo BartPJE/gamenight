@@ -22,7 +22,9 @@
   "image": "images/smart10-family.png",
   "rules": "rules/smart10-family.pdf",
 
-  "type": "Familienspiel",
+  "genre": "Familienspiel",
+
+  "type": "Erweiterung",
   "icon": "🧠",
   "tags": ["Party Game", "Trivia"],
   "mechanisms": ["Push Your Luck"],

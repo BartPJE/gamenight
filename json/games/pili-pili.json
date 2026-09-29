@@ -11,7 +11,8 @@
 
   "id": "pili-pili",
   "title": "Pili Pili",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🌶️",
   "playersMin": 2,
   "playersMax": 6,

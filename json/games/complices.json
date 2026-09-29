@@ -10,7 +10,8 @@
   "location": "Schlafzimmer",
 
   "title": "2Gether",
-  "type": "Partyspiel",
+  "genre": "Partyspiel",
+  "type": "Hauptspiel",
   "icon": "🕵️",
   "playersMin": 2,
   "playersMax": 8,

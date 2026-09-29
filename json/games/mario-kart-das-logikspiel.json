@@ -10,7 +10,8 @@
   "location": "Schlafzimmer",
 
   "title": "Mario Kart - Das Logikspiel",
-  "type": "Logikspiel",
+  "genre": "Logikspiel",
+  "type": "Hauptspiel",
   "icon": "🧠",
   "playersMin": 1,
   "playersMax": 4,

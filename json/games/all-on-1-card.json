@@ -9,7 +9,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "Alles auf 1 Karte",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🃏",
   "playersMin": 1,
   "playersMax": 4,

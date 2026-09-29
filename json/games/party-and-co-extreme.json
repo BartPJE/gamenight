@@ -9,7 +9,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "Party & Co Extreme",
-  "type": "Partyspiel",
+  "genre": "Partyspiel",
+  "type": "Hauptspiel",
   "icon": "🎉",
   "playersMin": 4,
   "playersMax": 20,

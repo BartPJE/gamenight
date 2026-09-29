@@ -11,7 +11,8 @@
 
   "id": "nice-try-the-challenge-party-game",
   "title": "Nice Try: The Challenge Party Game",
-  "type": "Partyspiel",
+  "genre": "Partyspiel",
+  "type": "Hauptspiel",
   "icon": "🎉",
   "playersMin": 2,
   "playersMax": 8,

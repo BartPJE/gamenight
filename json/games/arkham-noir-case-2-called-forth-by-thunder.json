@@ -10,7 +10,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "Arkham Noir: Case #2 – Called Forth by Thunder",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Erweiterung",
   "icon": "🕵️",
   "playersMin": 1,
   "playersMax": 1,

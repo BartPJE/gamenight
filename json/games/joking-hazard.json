@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Joking Hazard",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🃏",
   "playersMin": 3,
   "playersMax": 10,

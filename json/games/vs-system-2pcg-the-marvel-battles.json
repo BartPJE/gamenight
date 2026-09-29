@@ -10,7 +10,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "VS System 2PCG: The Marvel Battles",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🦸",
   "playersMin": 2,
   "playersMax": 4,

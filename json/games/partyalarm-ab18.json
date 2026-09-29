@@ -10,7 +10,8 @@
   "location": "Schlafzimmer",
 
   "title": "PartyAlarm (Ab18)",
-  "type": "Partyspiel",
+  "genre": "Partyspiel",
+  "type": "Erweiterung",
   "icon": "🔞",
   "playersMin": 3,
   "playersMax": 12,

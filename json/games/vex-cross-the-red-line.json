@@ -9,7 +9,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "Vex: Cross the Red Line",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🧨",
   "playersMin": 2,
   "playersMax": 6,

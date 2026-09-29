@@ -10,7 +10,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "Funkoverse Strategy Game: Back to the Future 100",
-  "type": "Brettspiel",
+  "genre": "Brettspiel",
+  "type": "Erweiterung",
   "icon": "⏱️",
   "playersMin": 2,
   "playersMax": 4,

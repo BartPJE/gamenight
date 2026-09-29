@@ -10,7 +10,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "Stranger Things Tarot Deck",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🔮",
   "playersMin": 2,
   "playersMax": 6,

@@ -24,15 +24,23 @@ const qualityFields = [
 
 const $ = (id) => document.getElementById(id);
 
-function badgeClass(type) {
-  if (type === "Brettspiel") return "board";
-  if (type === "Kartenspiel") return "card";
-  if (type === "Computerspiel") return "video";
+function gameGenre(game) {
+  return game.genre ?? game.type;
+}
+
+function gameKind(game) {
+  return game.type ?? "Hauptspiel";
+}
+
+function badgeClass(genre) {
+  if (genre === "Brettspiel") return "board";
+  if (genre === "Kartenspiel") return "card";
+  if (genre === "Computerspiel") return "video";
   return "role";
 }
 
 function renderCategories() {
-  const types = ["", ...new Set(games.map((game) => game.type))];
+  const types = ["", ...new Set(games.map((game) => gameGenre(game)))];
   $("categoryChips").innerHTML = types
     .map(
       (type) =>
@@ -69,7 +77,7 @@ function filteredGames() {
       : "";
     const haystack = [
       game.title,
-      game.type,
+      gameGenre(game),
       game.publisher,
       game.platform,
       game.location,
@@ -80,7 +88,7 @@ function filteredGames() {
       .toLowerCase();
 
     const matchesSearch = !query || haystack.includes(query);
-    const matchesType = !type || game.type === type;
+    const matchesType = !type || gameGenre(game) === type;
     const matchesPlayers =
       !players ||
       (players === 6
@@ -127,7 +135,7 @@ function renderGames() {
           </div>
           <div class="game-body">
             <div class="type-row">
-              <span class="badge ${badgeClass(game.type)}">${game.type}</span>
+              <span class="badge ${badgeClass(gameGenre(game))}">${gameGenre(game)}</span>
               <span class="rating">★ ${game.rating.toFixed(1)}</span>
             </div>
             <h4>${game.title}</h4>
@@ -161,7 +169,7 @@ function renderGames() {
 
 function renderStats() {
   $("statTotal").textContent = games.length;
-  $("statTypes").textContent = new Set(games.map((game) => game.type)).size;
+  $("statTypes").textContent = new Set(games.map((game) => gameGenre(game))).size;
   $("statFavs").textContent = games.filter((game) => game.favorite).length;
   $("lastAdded").textContent = games.toSorted(
     (a, b) => b.year - a.year,
@@ -214,7 +222,7 @@ function filteredQualityGames() {
   return games
     .map((game) => ({ game, missing: missingFields(game) }))
     .filter(({ game, missing }) => {
-      const matchesQuery = !query || [game.title, game.type, game.publisher]
+      const matchesQuery = !query || [game.title, gameGenre(game), game.publisher]
         .filter(Boolean)
         .join(" ")
         .toLowerCase()
@@ -251,7 +259,7 @@ function renderQualityResults() {
     .map(({ game, missing }) => `
       <tr>
         <td><div class="quality-game"><span class="quality-cover">${game.image ? `<img src="${game.image}" alt="" loading="lazy" />` : game.icon || "🎲"}</span><span>${game.title}</span></div></td>
-        <td><span class="badge ${badgeClass(game.type)}">${game.type || "–"}</span></td>
+        <td><span class="badge ${badgeClass(gameGenre(game))}">${gameGenre(game) || "–"}</span></td>
         <td>${missing.length ? `<div class="missing-tags">${missing.map(({ label }) => `<span class="missing-tag">${label}</span>`).join("")}</div>` : '<span class="complete">✓ Vollständig</span>'}</td>
         <td><a class="quality-link" href="#spiel/${encodeURIComponent(game.collectionId || game.id)}${game.collectionId ? `?auswahl=${encodeURIComponent(game.id)}` : ""}">Öffnen</a></td>
       </tr>`,
@@ -322,7 +330,7 @@ function renderDetailCard(game, options = {}) {
       </div>
       <div class="detail-body">
         <div class="type-row">
-          <span class="badge ${badgeClass(game.type)}">${game.type}</span>
+          <span class="badge ${badgeClass(gameGenre(game))}">${gameGenre(game)}</span>
           <span class="rating">★ ${game.rating.toFixed(1)}</span>
         </div>
         <h3>${title}</h3>
@@ -354,6 +362,7 @@ function renderDetailCard(game, options = {}) {
         <div class="tags">
           <span class="tag">${game.platform}</span>
           <span class="tag">${game.location}</span>
+          <span class="tag">Typ: ${gameKind(game)}</span>
           ${game.favorite ? '<span class="tag">Favorit</span>' : ""}
           ${
             game.bgg?.found
@@ -379,53 +388,34 @@ function renderGameDetail(game, selectedGame) {
     return;
   }
 
-  const containedGames = games
-    .filter((entry) => entry.collectionId === game.id)
-    .map((entry) => ({
-      id: entry.id,
-      title: entry.title,
-      type: entry.type,
-      rating: entry.rating,
-      image: entry.image,
-      icon: entry.icon,
-      year: entry.year,
-      playersMin: entry.playersMin,
-      playersMax: entry.playersMax,
-    }))
+  const expansionGames = games
+    .filter((entry) => entry.collectionId === game.id && entry.id !== game.id)
     .toSorted((a, b) => a.title.localeCompare(b.title, "de"));
-
+  const isCollection = expansionGames.length > 0;
   const detailSections = [];
 
-  detailSections.push(
-    renderDetailCard(game, {
-      title: game.title,
-    }),
-  );
-
-  if (containedGames.length) {
+  if (isCollection) {
     detailSections.push(`
-      <section class="detail-section">
-        <h4>Erweiterungen (${containedGames.length})</h4>
-        <div class="detail-cards">
-          ${containedGames
+      <header class="collection-main-game">
+        <div class="collection-main-game-cover">
+          ${game.image ? `<img src="${game.image}" alt="Cover von ${game.title}" loading="lazy" />` : game.icon}
+        </div>
+        <h2>${game.title}</h2>
+      </header>
+    `);
+    detailSections.push(`
+      <section class="detail-section collection-expansions">
+        <h4>Spiele (${expansionGames.length + 1})</h4>
+        <div class="collection-game-list">
+          ${[game, ...expansionGames]
             .map(
-              (entry) =>
-                `<a class="game-card detail-game-card" href="#spiel/${game.id}?auswahl=${encodeURIComponent(entry.id)}" aria-label="Details zu ${entry.title}">
-                  <div class="cover">
+              (entry) => `
+                <a class="collection-game" href="#spiel/${game.id}?auswahl=${encodeURIComponent(entry.id)}" aria-label="Details zu ${entry.title}">
+                  <span class="collection-game-cover">
                     ${entry.image ? `<img src="${entry.image}" alt="Cover von ${entry.title}" loading="lazy" />` : entry.icon}
-                  </div>
-                  <div class="game-body">
-                    <div class="type-row">
-                      <span class="badge ${badgeClass(entry.type)}">${entry.type}</span>
-                      <span class="rating">★ ${entry.rating.toFixed(1)}</span>
-                    </div>
-                    <h4>${entry.title}</h4>
-                    <div class="facts">
-                      <div class="fact"><small>Spieler</small><b>${entry.playersMin}-${entry.playersMax}</b></div>
-                      <div class="fact"><small>Jahr</small><b>${entry.year}</b></div>
-                      <div class="fact"><small>Typ</small><b>Erweiterung</b></div>
-                    </div>
-                  </div>
+                  </span>
+                  <span class="collection-game-title">${entry.title}</span>
+                  <small>${gameKind(entry)}</small>
                 </a>`,
             )
             .join("")}
@@ -434,18 +424,21 @@ function renderGameDetail(game, selectedGame) {
     `);
   }
 
-  if (selectedGame && selectedGame.id !== game.id) {
-    detailSections.push(
-      renderDetailCard(selectedGame, {
-        title: `${selectedGame.title}`,
-        subtitle: `Dieses Spiel gehört zur Sammlung ${game.title}.`,
-        collectionLink: `<span class="tag"><a href="#spiel/${game.id}">Zur Sammlung</a></span>`,
-      }),
-    );
-  }
-
   const activeGame =
     selectedGame && selectedGame.id !== game.id ? selectedGame : game;
+  detailSections.push(
+    renderDetailCard(activeGame, {
+      subtitle:
+        activeGame.id !== game.id
+          ? `Dieses Spiel gehört zur Sammlung ${game.title}.`
+          : "",
+      collectionLink:
+        activeGame.id !== game.id
+          ? `<span class="tag"><a href="#spiel/${game.id}">Zur Sammlung</a></span>`
+          : "",
+    }),
+  );
+
   const sortedGames = games.toSorted((a, b) =>
     a.title.localeCompare(b.title, "de"),
   );

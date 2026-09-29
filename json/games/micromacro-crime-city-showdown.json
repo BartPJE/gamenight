@@ -10,7 +10,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "MicroMacro: Crime City – Showdown",
-  "type": "Brettspiel",
+  "genre": "Brettspiel",
+  "type": "Hauptspiel",
   "icon": "🕵️",
   "playersMin": 1,
   "playersMax": 4,

@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "24: Wer zuletzt sticht, sticht am besten!",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🃏",
   "playersMin": 3,
   "playersMax": 5,

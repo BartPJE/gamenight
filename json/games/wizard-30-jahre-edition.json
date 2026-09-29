@@ -11,7 +11,8 @@
 
   "id": "wizard-30-jahre-edition",
   "title": "Wizard - 30 Jahre Edition",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Erweiterung",
   "icon": "🪄",
   "playersMin": 3,
   "playersMax": 6,

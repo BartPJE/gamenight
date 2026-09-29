@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Disney Villainous: The Worst Takes It All",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🦹",
   "playersMin": 2,
   "playersMax": 6,

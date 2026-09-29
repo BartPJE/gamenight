@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Das Duell um die Geld",
-  "type": "Quizspiel",
+  "genre": "Quizspiel",
+  "type": "Hauptspiel",
   "icon": "💶",
   "playersMin": 3,
   "playersMax": 5,

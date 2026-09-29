@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Ligretto - Rot",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "⚡",
   "playersMin": 2,
   "playersMax": 4,

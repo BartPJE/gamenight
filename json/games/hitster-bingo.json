@@ -14,7 +14,9 @@
   "age": 16,
   "complexity": 1.04,
 
-  "type": "Partyspiel",
+  "genre": "Partyspiel",
+
+  "type": "Erweiterung",
   "icon": "🎵",
   "publisher": "Jumbo",
 

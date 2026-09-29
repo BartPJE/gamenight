@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Top Trumps Quiz: Marvel",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🃏",
   "playersMin": 3,
   "playersMax": 5,

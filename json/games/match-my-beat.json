@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Match My Beat",
-  "type": "Partyspiel",
+  "genre": "Partyspiel",
+  "type": "Hauptspiel",
   "icon": "🥁",
   "playersMin": 2,
   "playersMax": 10,

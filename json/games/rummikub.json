@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Rummy-Spiel",
-  "type": "Legespiel",
+  "genre": "Legespiel",
+  "type": "Hauptspiel",
   "icon": "🔢",
   "playersMin": 2,
   "playersMax": 4,

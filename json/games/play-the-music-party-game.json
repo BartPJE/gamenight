@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "Play - The Music Party Game",
-  "type": "Partyspiel",
+  "genre": "Partyspiel",
+  "type": "Hauptspiel",
   "icon": "🎶",
   "playersMin": 2,
   "playersMax": 10,

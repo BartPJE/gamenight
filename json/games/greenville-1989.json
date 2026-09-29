@@ -9,7 +9,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "Greenville 1989",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "👽",
   "playersMin": 3,
   "playersMax": 6,

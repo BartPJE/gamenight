@@ -10,7 +10,8 @@
   "location": "Flur",
 
   "title": "TV Total Pokerkoffer",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "♠️",
   "playersMin": 2,
   "playersMax": 10,

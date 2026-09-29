@@ -10,7 +10,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "ORGASME – Sex Turned into a Card Game",
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+  "type": "Hauptspiel",
   "icon": "🔞",
   "playersMin": 2,
   "playersMax": 8,

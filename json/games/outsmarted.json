@@ -14,7 +14,9 @@
   "age": 8,
   "complexity": 1.0,
 
-  "type": "Wissensspiel",
+  "genre": "Wissensspiel",
+
+  "type": "Hauptspiel",
   "icon": "Wissensspiel",
   "publisher": "Funko Games",
 

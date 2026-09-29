@@ -1,7 +1,8 @@
 {
   "id": "dare-pong",
   "title": "Dare Pong",
-  "type": "Trinkspiel",
+  "genre": "Trinkspiel",
+  "type": "Hauptspiel",
   "icon": "🍻",
   "playersMin": 2,
   "playersMax": 8,

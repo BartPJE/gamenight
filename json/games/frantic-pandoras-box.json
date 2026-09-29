@@ -14,7 +14,9 @@
   "age": 7,
   "complexity": 2.0,
 
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+
+  "type": "Erweiterung",
   "icon": "🃏",
   "publisher": "Game Factory",
 

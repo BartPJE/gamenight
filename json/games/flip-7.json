@@ -14,7 +14,9 @@
   "age": 8,
   "complexity": 1.04,
 
-  "type": "Kartenspiel",
+  "genre": "Kartenspiel",
+
+  "type": "Hauptspiel",
   "icon": "🃏",
   "publisher": "KOSMOS",
 

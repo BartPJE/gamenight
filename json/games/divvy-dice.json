@@ -11,7 +11,8 @@
 
   "id": "divvy-dice",
   "title": "Man muss auch gönnen können",
-  "type": "Brettspiel",
+  "genre": "Brettspiel",
+  "type": "Hauptspiel",
   "icon": "🎲",
   "playersMin": 2,
   "playersMax": 4,

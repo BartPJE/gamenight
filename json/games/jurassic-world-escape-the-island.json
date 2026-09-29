@@ -9,7 +9,8 @@
   "location": "Schlafzimmer / Box",
 
   "title": "Jurassic World: Escape the Island",
-  "type": "Brettspiel",
+  "genre": "Brettspiel",
+  "type": "Hauptspiel",
   "icon": "🦖",
   "playersMin": 2,
   "playersMax": 4,
