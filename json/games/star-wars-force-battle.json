@@ -1,8 +1,16 @@
 {
-  "id": "bam-extrahart",
-  "collectionId": "bam",
+  "id": "star-wars-force-battle",
+  "collectionId": "star-wars-force-battle",
+  "image": "images/star-wars-force-battle.jpg",
+  "bgg": {
+    "found": true,
+    "url": "https://boardgamegeek.com/boardgame/96345/star-wars-force-battle"
+  },
+  "comment": "NOCH NICHT ANALYSIERT - NUR INVENTAR ERFASST",
+  "location": "Flur",
+
   "hiddenFromOverview": true,
-  "title": "BAM! Extrahart",
+  "title": "Star Wars: Force Battle",
   "description": "",
 
   "year": 2015,
@@ -26,15 +34,6 @@
   "status": "Besitze ich",
   "favorite": false,
 
-  "image": "images/bam-extrahart.jpg",
-  "rules": "rules/bam-extrahart.pdf",
-
-  "bgg": {
-    "found": true,
-    "url": "https://boardgamegeek.com/boardgame/181906/bam-extrahart"
-  },
-
-  "location": "Flur",
   "contents": [
     "169 graue Begriffkarten",
     "39 rote BAM-Karten",
