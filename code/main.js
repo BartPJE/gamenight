@@ -134,28 +134,7 @@ function renderGames() {
             }
           </div>
           <div class="game-body">
-            <div class="type-row">
-              <span class="badge ${badgeClass(gameGenre(game))}">${gameGenre(game)}</span>
-              <span class="rating">★ ${game.rating.toFixed(1)}</span>
-            </div>
             <h4>${game.title}</h4>
-            <div class="facts">
-              <div class="fact"><small>Spieler</small><b>${game.playersMin}-${game.playersMax}</b></div>
-              <div class="fact"><small>Alter</small><b>ab ${game.age}</b></div>
-              <div class="fact"><small>Dauer</small><b>${game.duration} Min.</b></div>
-            </div>
-            <div class="tags">
-              <span class="tag">${game.platform}</span>
-              <span class="tag">${game.location}</span>
-              <span class="tag">${game.publisher}</span>
-              ${game.bgg?.found ? '<span class="tag">BGG</span>' : '<span class="tag">BGG: Nicht gefunden</span>'}
-              ${
-                game.collectionId
-                  ? `<span class="tag">Sammlung: ${games.find((entry) => entry.id === game.collectionId)?.title ?? "Unbekannt"}</span>`
-                  : ""
-              }
-              ${game.tags.map((tag) => `<span class="tag">${tag}</span>`).join("")}
-            </div>
           </div>
         </a>
       `;
